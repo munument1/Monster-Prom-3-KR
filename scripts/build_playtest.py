@@ -23,7 +23,15 @@ NUMBER = re.compile(r"(?<!\d)[+-]?\d+(?:\.\d+)?")
 
 
 def verify_line(english: str, korean: str, ident: str) -> None:
-    if not korean or not re.search("[가-힣]", korean):
+    # An ellipsis-only reaction is a *complete*, legitimate dialogue line in
+    # this game. Its Korean localization remains punctuation-only (……), so do
+    # not force invented words into a silent character's reaction. No other
+    # Hangul-free translation is accepted.
+    ellipsis_only = bool(
+        re.fullmatch(r"(?:\.{3,}|…+)", english)
+        and re.fullmatch(r"…+", korean)
+    )
+    if not korean or (not re.search("[가-힣]", korean) and not ellipsis_only):
         raise ValueError(f"translation missing Hangul: {ident}")
     if korean == english or "\t" in korean or "\r" in korean or "\n" in korean or "\ufffd" in korean or "???" in korean:
         raise ValueError(f"invalid Korean translation: {ident}")

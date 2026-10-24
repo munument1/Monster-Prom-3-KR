@@ -780,6 +780,726 @@
       "event": "road_game_over_mind_group_3",
       "english_sha256": "7e6b08d271b5f1b5108aa75f2a7b7af3d12cb63c579a4f4160d12fdc5801d308",
       "ko": "결국 '장난 마스터즈'가 도리어 자기들 정신을 장난감으로 내준 셈이네..."
+    },
+    {
+      "line": 269,
+      "event": "road_game_over_mind_group_3",
+      "english_sha256": "e68c088f75fac395980057f96c5faeabb52274b27c311e7a93120908a07c61dc",
+      "ko": "...진정한 장난질의 대가가 벌인 짓이지..."
+    },
+    {
+      "line": 270,
+      "event": "road_game_over_mind_group_3",
+      "english_sha256": "2b75daefc6841d6a9da1fc96a6ed1491af5bfd52ce96031ae21cfd0f22b8135a",
+      "ko": "...장난(Prankz)은 끝에 Z를 붙여 쓴다고!"
+    },
+    {
+      "line": 276,
+      "event": "road_game_over_mind_solo_4",
+      "english_sha256": "90d67704b4584f96d6c30e39124038836a11f231d5f80853831bb788ef2ddf2e",
+      "ko": "네 정신이 산산조각 나면서 현실은 더는 말이 되지 않는다."
+    },
+    {
+      "line": 277,
+      "event": "road_game_over_mind_solo_4",
+      "english_sha256": "8111946dcf7dbfbb7de66e59f2b737f8dc149b9c8a423763f90e184fca3a12a1",
+      "ko": "모든 것은 꿈이고 환상일 뿐. 아무것도 의미가 없다."
+    },
+    {
+      "line": 278,
+      "event": "road_game_over_mind_solo_4",
+      "english_sha256": "c4814a1dc9c1c73d4504ea97cc8d1225358f6b699d29e995e109b3e1a422a9f7",
+      "ko": "넌 아무도 아니고, 아무것도 아니다. 끝없이 반복되는 자동차 여행에 갇힌 꼭두각시일 뿐이다."
+    },
+    {
+      "line": 279,
+      "event": "road_game_over_mind_solo_4",
+      "english_sha256": "18864b09c6698e5816672b8809410bba38d9402dad9245d1afea3ee1ce159a0e",
+      "ko": "너희는 모두 눈을 감고 운명을 받아들이며 다음 자동차 여행이 오기를 기다린다."
+    },
+    {
+      "line": 285,
+      "event": "road_game_over_mind_group_4",
+      "english_sha256": "90d67704b4584f96d6c30e39124038836a11f231d5f80853831bb788ef2ddf2e",
+      "ko": "너희의 정신이 산산조각 나면서 현실은 더는 말이 되지 않는다."
+    },
+    {
+      "line": 286,
+      "event": "road_game_over_mind_group_4",
+      "english_sha256": "8111946dcf7dbfbb7de66e59f2b737f8dc149b9c8a423763f90e184fca3a12a1",
+      "ko": "모든 것은 꿈이고 환상일 뿐. 아무것도 의미가 없다."
+    },
+    {
+      "line": 287,
+      "event": "road_game_over_mind_group_4",
+      "english_sha256": "c4814a1dc9c1c73d4504ea97cc8d1225358f6b699d29e995e109b3e1a422a9f7",
+      "ko": "너희는 아무도 아니고, 아무것도 아니다. 끝없이 반복되는 자동차 여행에 갇힌 꼭두각시일 뿐이다."
+    },
+    {
+      "line": 288,
+      "event": "road_game_over_mind_group_4",
+      "english_sha256": "18864b09c6698e5816672b8809410bba38d9402dad9245d1afea3ee1ce159a0e",
+      "ko": "너희는 모두 눈을 감고 운명을 받아들이며 다음 자동차 여행이 오기를 기다린다."
+    },
+    {
+      "line": 294,
+      "event": "road_game_over_mind_solo_5",
+      "english_sha256": "31c18af7dbacc7cbc6928e2effd0083951bb5da9294bb20b7e3f4eba37c97fe3",
+      "ko": "혼돈과 광기가 사방을 에워싸자, 너와 친구들은 서로를 꼭 붙잡는다..."
+    },
+    {
+      "line": 295,
+      "event": "road_game_over_mind_solo_5",
+      "english_sha256": "a265c152e07cafb43b22e2c803b3b31d8f830cda5e91f8fdeca58e635c3ce3e0",
+      "ko": "“폴리, 무슨 일이야? 난 이해가 안 돼.”"
+    },
+    {
+      "line": 296,
+      "event": "road_game_over_mind_solo_5",
+      "english_sha256": "1cbbf458a78b5f0b2deb181b569ce3d7ea9c5ea152e03b53a5cd3ecb8b37e66a",
+      "ko": "“아무 일도 아니야, 스콧. 다 괜찮아.”"
+    },
+    {
+      "line": 297,
+      "event": "road_game_over_mind_solo_5",
+      "english_sha256": "0f4166e2bb4668581b55aa012cbf4c2eedca905b78efce93da5968cf46382a01",
+      "ko": "“무서워. 이야기 하나 해 줄래? 행복한 이야기로.”"
+    },
+    {
+      "line": 298,
+      "event": "road_game_over_mind_solo_5",
+      "english_sha256": "b22c92fa9cf31428140839657ba735c671090158d21c85e24c8a9c1c1b40efec",
+      "ko": "“그럼, 친구. 우리 함께 웃기고 신나는 모험으로 가득한 자동차 여행을 떠나는 이야기야...”"
+    },
+    {
+      "line": 299,
+      "event": "road_game_over_mind_solo_5",
+      "english_sha256": "3297ca3af0282c917f4bd1ab6f14654371a0d3277ea8aab7ca5d69c6b093b993",
+      "ko": "그렇게 폴리는 이번 여행보다는 나은 결말을 맞이하길 바라며 또 다른 자동차 여행 이야기를 시작한다..."
+    },
+    {
+      "line": 305,
+      "event": "road_game_over_mind_group_5",
+      "english_sha256": "31c18af7dbacc7cbc6928e2effd0083951bb5da9294bb20b7e3f4eba37c97fe3",
+      "ko": "혼돈과 광기가 사방을 에워싸자, 너희는 서로를 꼭 붙잡는다..."
+    },
+    {
+      "line": 306,
+      "event": "road_game_over_mind_group_5",
+      "english_sha256": "a265c152e07cafb43b22e2c803b3b31d8f830cda5e91f8fdeca58e635c3ce3e0",
+      "ko": "“폴리, 무슨 일이야? 난 이해가 안 돼.”"
+    },
+    {
+      "line": 307,
+      "event": "road_game_over_mind_group_5",
+      "english_sha256": "1cbbf458a78b5f0b2deb181b569ce3d7ea9c5ea152e03b53a5cd3ecb8b37e66a",
+      "ko": "“아무 일도 아니야, 스콧. 다 괜찮아.”"
+    },
+    {
+      "line": 308,
+      "event": "road_game_over_mind_group_5",
+      "english_sha256": "0f4166e2bb4668581b55aa012cbf4c2eedca905b78efce93da5968cf46382a01",
+      "ko": "“무서워. 이야기 하나 해 줄래? 행복한 이야기로.”"
+    },
+    {
+      "line": 309,
+      "event": "road_game_over_mind_group_5",
+      "english_sha256": "b22c92fa9cf31428140839657ba735c671090158d21c85e24c8a9c1c1b40efec",
+      "ko": "“그럼, 친구. 우리 함께 웃기고 신나는 모험으로 가득한 자동차 여행을 떠나는 이야기야...”"
+    },
+    {
+      "line": 310,
+      "event": "road_game_over_mind_group_5",
+      "english_sha256": "a0ca73415796e2490bb54dcd674e6925db82734b2f28ea0bd7d6785c4cca5e4a",
+      "ko": "그렇게 폴리는 훨씬 더 행복한 결말을 맞이하길 바라며 자동차 여행 이야기를 시작한다..."
+    },
+    {
+      "line": 316,
+      "event": "road_game_over_money_solo_1",
+      "english_sha256": "98c59164294f76e2a2f5b0c0c8c978f1c57bfefe9221c06fd8dc7ef2b9bb7739",
+      "ko": "돈이 바닥나 자동차 여행을 일찍 끝내야 한다."
+    },
+    {
+      "line": 317,
+      "event": "road_game_over_money_solo_1",
+      "english_sha256": "6079791b6e430c5a94e2f1f97fd25dbef2be0a21348f4deff634d33a7f84024d",
+      "ko": "어쩌다 이렇게 된 거지?! 예산도 그렇게 꼼꼼히 짰는데!"
+    },
+    {
+      "line": 318,
+      "event": "road_game_over_money_solo_1",
+      "english_sha256": "5dc2a08f52940ad0a031414789ea640499e1f15fc58540461c93ce22c158e2e4",
+      "ko": "기름값: 주당 $30, 식비: 하루 $20, 모텔: 하룻밤 $60..."
+    },
+    {
+      "line": 319,
+      "event": "road_game_over_money_solo_1",
+      "english_sha256": "3f116d1e86c005c12f7a8cdefcacdb09e1fae2a1c8cdcb50583ad75d4b40888a",
+      "ko": "MOOMOOMILFERZ.COM 다이아몬드 등급 구독료: 하루 $2,000, 기념품: 주당 $20."
+    },
+    {
+      "line": 320,
+      "event": "road_game_over_money_solo_1",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "잠시 침묵……"
+    },
+    {
+      "line": 321,
+      "event": "road_game_over_money_solo_1",
+      "english_sha256": "cd047527e8c5017c8fa00b5a1fcf7fda5c38699c1581c501a682ad8dcd974ee0",
+      "ko": "그래, 식비에 돈을 좀 덜 썼어야 했네."
+    },
+    {
+      "line": 327,
+      "event": "road_game_over_money_group_1",
+      "english_sha256": "98c59164294f76e2a2f5b0c0c8c978f1c57bfefe9221c06fd8dc7ef2b9bb7739",
+      "ko": "돈이 바닥나 자동차 여행을 일찍 끝내야 한다."
+    },
+    {
+      "line": 328,
+      "event": "road_game_over_money_group_1",
+      "english_sha256": "6079791b6e430c5a94e2f1f97fd25dbef2be0a21348f4deff634d33a7f84024d",
+      "ko": "어쩌다 이렇게 된 거지?! 예산도 그렇게 꼼꼼히 짰는데!"
+    },
+    {
+      "line": 329,
+      "event": "road_game_over_money_group_1",
+      "english_sha256": "5dc2a08f52940ad0a031414789ea640499e1f15fc58540461c93ce22c158e2e4",
+      "ko": "기름값: 주당 $30, 식비: 하루 $20, 모텔: 하룻밤 $60..."
+    },
+    {
+      "line": 330,
+      "event": "road_game_over_money_group_1",
+      "english_sha256": "3f116d1e86c005c12f7a8cdefcacdb09e1fae2a1c8cdcb50583ad75d4b40888a",
+      "ko": "MOOMOOMILFERZ.COM 다이아몬드 등급 구독료: 하루 $2,000, 기념품: 주당 $20."
+    },
+    {
+      "line": 331,
+      "event": "road_game_over_money_group_1",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "잠시 침묵……"
+    },
+    {
+      "line": 332,
+      "event": "road_game_over_money_group_1",
+      "english_sha256": "cd047527e8c5017c8fa00b5a1fcf7fda5c38699c1581c501a682ad8dcd974ee0",
+      "ko": "그래, 식비에 돈을 좀 덜 썼어야 했네."
+    },
+    {
+      "line": 338,
+      "event": "road_game_over_money_solo_2",
+      "english_sha256": "98c59164294f76e2a2f5b0c0c8c978f1c57bfefe9221c06fd8dc7ef2b9bb7739",
+      "ko": "돈이 바닥나 자동차 여행을 일찍 끝내야 한다."
+    },
+    {
+      "line": 339,
+      "event": "road_game_over_money_solo_2",
+      "english_sha256": "70dfdd8b4fffa09a21f499628297b34e2ace33e29c4b4c136488a495427e4097",
+      "ko": "돈이 한 푼도 없어 집세를 낼 수 없고, 너희 모두 집에서 쫓겨난다."
+    },
+    {
+      "line": 340,
+      "event": "road_game_over_money_solo_2",
+      "english_sha256": "b77f27909b814a66a6e769211c150be069259bfe7f37af403184aa8abba210e6",
+      "ko": "너는 하수구에서 살게 된다. 새 룸메이트는 하수구 쥐들이다."
+    },
+    {
+      "line": 341,
+      "event": "road_game_over_money_solo_2",
+      "english_sha256": "84f3038d95576214247d96fb2a07403b9f0738b865120558506e6c1b4d95560a",
+      "ko": "그 녀석들은 최악이다. 뜨거운 하수구 물을 죄다 써 버리고, 네가 쓰레기통을 뒤져 힘들게 구한 간식까지 먹어 치운다!"
+    },
+    {
+      "line": 342,
+      "event": "road_game_over_money_solo_2",
+      "english_sha256": "fbd2bf2073bb8feb8b66ef66dd594cd18b8bc75e8edc7eb8b14798330cdec496",
+      "ko": "정말이지, 룸메이트란 최악이야."
+    },
+    {
+      "line": 348,
+      "event": "road_game_over_money_group_2",
+      "english_sha256": "98c59164294f76e2a2f5b0c0c8c978f1c57bfefe9221c06fd8dc7ef2b9bb7739",
+      "ko": "돈이 바닥나 자동차 여행을 일찍 끝내야 한다."
+    },
+    {
+      "line": 349,
+      "event": "road_game_over_money_group_2",
+      "english_sha256": "70dfdd8b4fffa09a21f499628297b34e2ace33e29c4b4c136488a495427e4097",
+      "ko": "돈이 한 푼도 없어 집세를 낼 수 없고, 너희 모두 집에서 쫓겨난다."
+    },
+    {
+      "line": 350,
+      "event": "road_game_over_money_group_2",
+      "english_sha256": "b77f27909b814a66a6e769211c150be069259bfe7f37af403184aa8abba210e6",
+      "ko": "너희는 하수구에서 살게 된다. 새 룸메이트는 하수구 쥐들이다."
+    },
+    {
+      "line": 351,
+      "event": "road_game_over_money_group_2",
+      "english_sha256": "84f3038d95576214247d96fb2a07403b9f0738b865120558506e6c1b4d95560a",
+      "ko": "그 녀석들은 최악이다. 뜨거운 하수구 물을 죄다 써 버리고, 너희가 쓰레기통을 뒤져 힘들게 구한 간식까지 먹어 치운다!"
+    },
+    {
+      "line": 352,
+      "event": "road_game_over_money_group_2",
+      "english_sha256": "fbd2bf2073bb8feb8b66ef66dd594cd18b8bc75e8edc7eb8b14798330cdec496",
+      "ko": "정말이지, 룸메이트란 최악이야."
+    },
+    {
+      "line": 358,
+      "event": "road_game_over_money_solo_3",
+      "english_sha256": "98c59164294f76e2a2f5b0c0c8c978f1c57bfefe9221c06fd8dc7ef2b9bb7739",
+      "ko": "돈이 바닥나 자동차 여행을 일찍 끝내야 한다."
+    },
+    {
+      "line": 359,
+      "event": "road_game_over_money_solo_3",
+      "english_sha256": "e97eec9fc96ed30acc44e089941d3c7760fc5784553ac81afdff6d710b6e90aa",
+      "ko": "모험을 끝까지 이어 가려면 너희 모두 일자리를 구해야 할 것 같다."
+    },
+    {
+      "line": 360,
+      "event": "road_game_over_money_solo_3",
+      "english_sha256": "354f15a8690de06cbd34ad712b38387e2014d02ceaf0ef85bd8f9be1877e72e7",
+      "ko": "사무실에 취직해 돈을 벌었다. 만세, 이제 자동차 여행을 계속할 수 있어!"
+    },
+    {
+      "line": 361,
+      "event": "road_game_over_money_solo_3",
+      "english_sha256": "d34c90220fe367eb4a545d7fefeec9169692b9590a69a1107ea270aa2890cb1c",
+      "ko": "하지만 이제 퇴근하면 늘 녹초가 되고, 아플 때 쓰려고 휴가를 아껴 둬야 한다..."
+    },
+    {
+      "line": 362,
+      "event": "road_game_over_money_solo_3",
+      "english_sha256": "f61a1cecd2cf21f8bd1cc5966016b7e1ac6bb95d099a1eb6dfb95342551f8dc5",
+      "ko": "은퇴하면 다시 자동차 여행을 할 수 있겠지... 잠깐, 은퇴까지는 아직 한참이나 남았잖아."
+    },
+    {
+      "line": 363,
+      "event": "road_game_over_money_solo_3",
+      "english_sha256": "3f3085265cf586d7637d336fae62024a2191c92e2e77a843d613e2c26b0e6692",
+      "ko": "아, 정말 엿같네. 직장인들이 늘 기분 나빠 보이는 것도 당연하지."
+    },
+    {
+      "line": 369,
+      "event": "road_game_over_money_group_3",
+      "english_sha256": "98c59164294f76e2a2f5b0c0c8c978f1c57bfefe9221c06fd8dc7ef2b9bb7739",
+      "ko": "돈이 바닥나 자동차 여행을 일찍 끝내야 한다."
+    },
+    {
+      "line": 370,
+      "event": "road_game_over_money_group_3",
+      "english_sha256": "e97eec9fc96ed30acc44e089941d3c7760fc5784553ac81afdff6d710b6e90aa",
+      "ko": "모험을 끝까지 이어 가려면 너희 모두 일자리를 구해야 할 것 같다."
+    },
+    {
+      "line": 371,
+      "event": "road_game_over_money_group_3",
+      "english_sha256": "354f15a8690de06cbd34ad712b38387e2014d02ceaf0ef85bd8f9be1877e72e7",
+      "ko": "사무실에 취직해 돈을 벌었다. 만세, 이제 자동차 여행을 계속할 수 있어!"
+    },
+    {
+      "line": 372,
+      "event": "road_game_over_money_group_3",
+      "english_sha256": "d34c90220fe367eb4a545d7fefeec9169692b9590a69a1107ea270aa2890cb1c",
+      "ko": "하지만 이제 퇴근하면 늘 녹초가 되고, 아플 때 쓰려고 휴가를 아껴 둬야 한다..."
+    },
+    {
+      "line": 373,
+      "event": "road_game_over_money_group_3",
+      "english_sha256": "f61a1cecd2cf21f8bd1cc5966016b7e1ac6bb95d099a1eb6dfb95342551f8dc5",
+      "ko": "은퇴하면 다시 자동차 여행을 할 수 있겠지... 잠깐, 은퇴까지는 아직 한참이나 남았잖아."
+    },
+    {
+      "line": 374,
+      "event": "road_game_over_money_group_3",
+      "english_sha256": "3f3085265cf586d7637d336fae62024a2191c92e2e77a843d613e2c26b0e6692",
+      "ko": "아, 정말 엿같네. 직장인들이 늘 기분 나빠 보이는 것도 당연하지."
+    },
+    {
+      "line": 380,
+      "event": "road_game_over_money_solo_4",
+      "english_sha256": "98c59164294f76e2a2f5b0c0c8c978f1c57bfefe9221c06fd8dc7ef2b9bb7739",
+      "ko": "돈이 바닥나 자동차 여행을 일찍 끝내야 한다."
+    },
+    {
+      "line": 381,
+      "event": "road_game_over_money_solo_4",
+      "english_sha256": "c60da0351e05f8a07eb6bcc58a37b53dec3010be347dd5bf67828738fabf0312",
+      "ko": "결국 돈이 인생의 전부는 아니라며 괜찮은 기분으로 집까지 걸어간다."
+    },
+    {
+      "line": 382,
+      "event": "road_game_over_money_solo_4",
+      "english_sha256": "9270c838f2d482dfcfa7cb044f6c777cf0fd3febc923652c4894eeb31343ff92",
+      "ko": "하지만 이건 게임 오버고 끝맛도 더러워야 하니까, 코요테 무리에게 무참히 습격당한다."
+    },
+    {
+      "line": 383,
+      "event": "road_game_over_money_solo_4",
+      "english_sha256": "0cd783e909abeed828e49b18cb6b8713934c81bf95436f3ed648e72d7506ff5c",
+      "ko": "재수도 없지."
+    },
+    {
+      "line": 389,
+      "event": "road_game_over_money_group_4",
+      "english_sha256": "98c59164294f76e2a2f5b0c0c8c978f1c57bfefe9221c06fd8dc7ef2b9bb7739",
+      "ko": "돈이 바닥나 자동차 여행을 일찍 끝내야 한다."
+    },
+    {
+      "line": 390,
+      "event": "road_game_over_money_group_4",
+      "english_sha256": "c60da0351e05f8a07eb6bcc58a37b53dec3010be347dd5bf67828738fabf0312",
+      "ko": "결국 돈이 인생의 전부는 아니라며 괜찮은 기분으로 집까지 걸어간다."
+    },
+    {
+      "line": 391,
+      "event": "road_game_over_money_group_4",
+      "english_sha256": "9270c838f2d482dfcfa7cb044f6c777cf0fd3febc923652c4894eeb31343ff92",
+      "ko": "하지만 이건 게임 오버고 끝맛도 더러워야 하니까, 코요테 무리에게 무참히 습격당한다."
+    },
+    {
+      "line": 392,
+      "event": "road_game_over_money_group_4",
+      "english_sha256": "0cd783e909abeed828e49b18cb6b8713934c81bf95436f3ed648e72d7506ff5c",
+      "ko": "재수도 없지."
+    },
+    {
+      "line": 398,
+      "event": "road_game_over_soul_solo_1",
+      "english_sha256": "e551239b533f7d44640e95fbdc0ac754e838a6663bcf3ebe668fd84f16639040",
+      "ko": "영혼의 마지막 한 조각마저 잃어 자동차 여행을 끝내지 못한다."
+    },
+    {
+      "line": 399,
+      "event": "road_game_over_soul_solo_1",
+      "english_sha256": "70b8d008ee7ab33d619ccaf5be6d04d01dafabcef8fabf792e1d899a550c1584",
+      "ko": "최후의 발악으로 다른 누군가의 영혼을 훔쳐 네 영혼 대신 채우기로 한다."
+    },
+    {
+      "line": 400,
+      "event": "road_game_over_soul_solo_1",
+      "english_sha256": "a1805f3e791994e2a949f46c8377712a52368207c5d7cdd967c0c52408df9fb8",
+      "ko": "좋은 소식: 거위를 발견해 그 영혼을 훔쳤다!"
+    },
+    {
+      "line": 401,
+      "event": "road_game_over_soul_solo_1",
+      "english_sha256": "2a24ae42e78e576715c8f433f4e6629e08586b6ca0d3e6ac73d71953c1c3cbf6",
+      "ko": "나쁜 소식: 그 거위는 너보다도 더 개자식이라, 넌 결국 지옥행이다."
+    },
+    {
+      "line": 402,
+      "event": "road_game_over_soul_solo_1",
+      "english_sha256": "327d6e8d5c1275cc582e7b06e4960241f28e48414fae82727415462827a02262",
+      "ko": "더 나쁜 소식: 그 거위가 네 지갑까지 훔쳐 갔다."
+    },
+    {
+      "line": 408,
+      "event": "road_game_over_soul_solo_2",
+      "english_sha256": "e551239b533f7d44640e95fbdc0ac754e838a6663bcf3ebe668fd84f16639040",
+      "ko": "영혼의 마지막 한 조각마저 잃어 자동차 여행을 끝내지 못한다."
+    },
+    {
+      "line": 409,
+      "event": "road_game_over_soul_solo_2",
+      "english_sha256": "011e1d61bb6f6307f717bf9173f8abf458f870c28bf5f43e9d8e40e5acc3072d",
+      "ko": "넌 끝까지 “최악의 너 자신이 되어라”라는 신조를 따랐다."
+    },
+    {
+      "line": 410,
+      "event": "road_game_over_soul_solo_2",
+      "english_sha256": "38d132c674070bc2985d077fd176007ab20c454e3a3091d3fe5abed9216bb2ee",
+      "ko": "그 말에 잘 알려지지 않은 뒷부분이 있다는 걸 몰랐던 게 아쉽네:"
+    },
+    {
+      "line": 411,
+      "event": "road_game_over_soul_solo_2",
+      "english_sha256": "f6af60350ceba79f00159e5cdeb9c28b08c9f4c2b7a97da1a35151edaa3d9d80",
+      "ko": "“최악의 너 자신이 되고, 네 행동의 대가를 치러라.”"
+    },
+    {
+      "line": 417,
+      "event": "road_game_over_soul_group_2",
+      "english_sha256": "5c1d4e8703e634417abc5fb2121fcd3a8ecb4e770e2b049ad089e2dfc0c4f394",
+      "ko": "너희는 영혼의 마지막 한 조각마저 잃어 자동차 여행을 끝내지 못한다."
+    },
+    {
+      "line": 418,
+      "event": "road_game_over_soul_group_2",
+      "english_sha256": "011e1d61bb6f6307f717bf9173f8abf458f870c28bf5f43e9d8e40e5acc3072d",
+      "ko": "너희는 끝까지 “최악의 너 자신이 되어라”라는 신조를 따랐다."
+    },
+    {
+      "line": 419,
+      "event": "road_game_over_soul_group_2",
+      "english_sha256": "38d132c674070bc2985d077fd176007ab20c454e3a3091d3fe5abed9216bb2ee",
+      "ko": "그 말에 잘 알려지지 않은 뒷부분이 있다는 걸 몰랐던 게 아쉽네:"
+    },
+    {
+      "line": 420,
+      "event": "road_game_over_soul_group_2",
+      "english_sha256": "f6af60350ceba79f00159e5cdeb9c28b08c9f4c2b7a97da1a35151edaa3d9d80",
+      "ko": "“최악의 너 자신이 되고, 네 행동의 대가를 치러라.”"
+    },
+    {
+      "line": 426,
+      "event": "road_game_over_soul_solo_3",
+      "english_sha256": "e551239b533f7d44640e95fbdc0ac754e838a6663bcf3ebe668fd84f16639040",
+      "ko": "영혼의 마지막 한 조각마저 잃어 자동차 여행을 끝내지 못한다."
+    },
+    {
+      "line": 427,
+      "event": "road_game_over_soul_solo_3",
+      "english_sha256": "f4d8fce53c101ace7ea7787bf35be87e0b48b6271be933e72eb58208c527f31d",
+      "ko": "이렇게 된 게 놀랍지도 않다. 경고는 진작부터 널리고 널렸으니까."
+    },
+    {
+      "line": 428,
+      "event": "road_game_over_soul_solo_3",
+      "english_sha256": "a63aa1fa35e421fc08e49d624547d5e35943f0a367a4e307723dc17b78030cf5",
+      "ko": "과거와 현재, 미래의 자동차 여행에서 온 유령들이 네 생활 방식을 경고하러 왔던 거 기억나?"
+    },
+    {
+      "line": 429,
+      "event": "road_game_over_soul_solo_3",
+      "english_sha256": "ba667ba7bdd3c547f3f145eab5ff6953ff1c97c954f13c2080893e1b69330edd",
+      "ko": "그 울부짖음과 쇠사슬 소리가 그냥 웃기려고 그러는 줄 알았어?"
+    },
+    {
+      "line": 430,
+      "event": "road_game_over_soul_solo_3",
+      "english_sha256": "6a87dcf75fb59c7f8fd816bc4668ae45909acb0b6802f919248ddb20edd6c814",
+      "ko": "뭐, 지나고 나면 다 보이지. 뒤늦게야 시력이 20/20으로 돌아오는 법이니까!"
+    },
+    {
+      "line": 436,
+      "event": "road_game_over_soul_group_3",
+      "english_sha256": "5c1d4e8703e634417abc5fb2121fcd3a8ecb4e770e2b049ad089e2dfc0c4f394",
+      "ko": "너희는 영혼의 마지막 한 조각마저 잃어 자동차 여행을 끝내지 못한다."
+    },
+    {
+      "line": 437,
+      "event": "road_game_over_soul_group_3",
+      "english_sha256": "f4d8fce53c101ace7ea7787bf35be87e0b48b6271be933e72eb58208c527f31d",
+      "ko": "이렇게 된 게 놀랍지도 않다. 경고는 진작부터 널리고 널렸으니까."
+    },
+    {
+      "line": 438,
+      "event": "road_game_over_soul_group_3",
+      "english_sha256": "a63aa1fa35e421fc08e49d624547d5e35943f0a367a4e307723dc17b78030cf5",
+      "ko": "과거와 현재, 미래의 자동차 여행에서 온 유령들이 너희 생활 방식을 경고하러 왔던 거 기억나?"
+    },
+    {
+      "line": 439,
+      "event": "road_game_over_soul_group_3",
+      "english_sha256": "ba667ba7bdd3c547f3f145eab5ff6953ff1c97c954f13c2080893e1b69330edd",
+      "ko": "그 울부짖음과 쇠사슬 소리가 그냥 웃기려고 그러는 줄 알았어?"
+    },
+    {
+      "line": 440,
+      "event": "road_game_over_soul_group_3",
+      "english_sha256": "6a87dcf75fb59c7f8fd816bc4668ae45909acb0b6802f919248ddb20edd6c814",
+      "ko": "뭐, 지나고 나면 다 보이지. 뒤늦게야 시력이 20/20으로 돌아오는 법이니까!"
+    },
+    {
+      "line": 446,
+      "event": "road_game_over_soul_solo_4",
+      "english_sha256": "e551239b533f7d44640e95fbdc0ac754e838a6663bcf3ebe668fd84f16639040",
+      "ko": "영혼의 마지막 한 조각마저 잃어 자동차 여행을 끝내지 못한다."
+    },
+    {
+      "line": 447,
+      "event": "road_game_over_soul_solo_4",
+      "english_sha256": "c2c389f021a2157f1cdf4013ec03e3267cacf5d918db47e9695193df190268b2",
+      "ko": "다행히 이런 사태에 대비해 멋진 로켓 목걸이와 검 속에 영혼 조각을 몇 개 숨겨 뒀다!"
+    },
+    {
+      "line": 448,
+      "event": "road_game_over_soul_solo_4",
+      "english_sha256": "3912c405945a78ff755a407e73aabfd9868e0db1def4fe7a05e93a4380dcca63",
+      "ko": "그런데 ‘선택받은 자’ 콤플렉스에 빠진 혈기왕성한 십 대 무리가 이미 그걸 전부 파괴해 버렸다."
+    },
+    {
+      "line": 449,
+      "event": "road_game_over_soul_solo_4",
+      "english_sha256": "fb85e449defd08b9af0147471cfdb2165fa2906155bd76dcc5cf3fc4856d6b8c",
+      "ko": "망할 애송이들!"
+    },
+    {
+      "line": 455,
+      "event": "road_game_over_soul_group_4",
+      "english_sha256": "5c1d4e8703e634417abc5fb2121fcd3a8ecb4e770e2b049ad089e2dfc0c4f394",
+      "ko": "너희는 영혼의 마지막 한 조각마저 잃어 자동차 여행을 끝내지 못한다."
+    },
+    {
+      "line": 456,
+      "event": "road_game_over_soul_group_4",
+      "english_sha256": "c2c389f021a2157f1cdf4013ec03e3267cacf5d918db47e9695193df190268b2",
+      "ko": "다행히 너희는 혹시 이런 사태가 벌어질까 봐 멋진 로켓 목걸이와 검 속에 영혼 조각을 몇 개 숨겨 뒀다!"
+    },
+    {
+      "line": 457,
+      "event": "road_game_over_soul_group_4",
+      "english_sha256": "150e8348d09248822a18f7542c38f93ea5e90f6606a48515b1f7cc9c86933d94",
+      "ko": "너희가 다 같이 읽은 그 청소년 소설에서 배운 유일한 교훈이었지."
+    },
+    {
+      "line": 458,
+      "event": "road_game_over_soul_group_4",
+      "english_sha256": "47b26c560891c1c90e6ff754440ae2d64a4f7187ed5b9361fd601e20c917c981",
+      "ko": "하지만 그 영혼이 담긴 잡동사니를 대체 어디 숨겼는지 기억이 안 나니, 너희는 어차피 저주받을 운명이네."
+    },
+    {
+      "line": 464,
+      "event": "road_game_over_soul_solo_5",
+      "english_sha256": "e551239b533f7d44640e95fbdc0ac754e838a6663bcf3ebe668fd84f16639040",
+      "ko": "영혼의 마지막 한 조각마저 잃어 자동차 여행을 끝내지 못한다."
+    },
+    {
+      "line": 465,
+      "event": "road_game_over_soul_solo_5",
+      "english_sha256": "c789b3e1d89a455abdac95d46328f85fd06b7d4e8564a1c715e0916b6f421058",
+      "ko": "너는 발버둥 치고 비명을 지르며 지옥으로 끌려간다."
+    },
+    {
+      "line": 466,
+      "event": "road_game_over_soul_solo_5",
+      "english_sha256": "834a1c9d3c1d6b9a1056f48e73758e00ca08a7867981c4716f2b61b812216ca5",
+      "ko": "괜찮아. 네 친한 친구 중 몇 명은 지옥에 살잖아. 그리 나쁘진 않을 거야!"
+    },
+    {
+      "line": 467,
+      "event": "road_game_over_soul_solo_5",
+      "english_sha256": "509bb123e23297df1ae8f0256db0f75f81c887e40a7d2dcbeb5d0425af050346",
+      "ko": "그런데 네 악행이 워낙 심각했던 탓에, 널 ‘SUPER-HELL’이라는 곳으로 보내 버린다."
+    },
+    {
+      "line": 468,
+      "event": "road_game_over_soul_solo_5",
+      "english_sha256": "d2a92fb385491819e39f7b0f803406f13a8cfd13821fbd8d40d9d9577f6d6802",
+      "ko": "거기가 어딘진 몰라도 좋은 곳은 아닌 모양이다. 슬픈 얼굴."
+    },
+    {
+      "line": 474,
+      "event": "road_game_over_soul_group_5",
+      "english_sha256": "5c1d4e8703e634417abc5fb2121fcd3a8ecb4e770e2b049ad089e2dfc0c4f394",
+      "ko": "너희는 영혼의 마지막 한 조각마저 잃어 자동차 여행을 끝내지 못한다."
+    },
+    {
+      "line": 475,
+      "event": "road_game_over_soul_group_5",
+      "english_sha256": "c789b3e1d89a455abdac95d46328f85fd06b7d4e8564a1c715e0916b6f421058",
+      "ko": "너희는 발버둥 치고 비명을 지르며 지옥으로 끌려간다."
+    },
+    {
+      "line": 476,
+      "event": "road_game_over_soul_group_5",
+      "english_sha256": "834a1c9d3c1d6b9a1056f48e73758e00ca08a7867981c4716f2b61b812216ca5",
+      "ko": "괜찮아. 너희의 친한 친구 중 몇 명은 지옥에 살잖아. 그리 나쁘진 않을 거야!"
+    },
+    {
+      "line": 477,
+      "event": "road_game_over_soul_group_5",
+      "english_sha256": "509bb123e23297df1ae8f0256db0f75f81c887e40a7d2dcbeb5d0425af050346",
+      "ko": "그런데 너희의 악행이 워낙 심각했던 탓에, 너희를 ‘SUPER-HELL’이라는 곳으로 보내 버린다."
+    },
+    {
+      "line": 478,
+      "event": "road_game_over_soul_group_5",
+      "english_sha256": "d2a92fb385491819e39f7b0f803406f13a8cfd13821fbd8d40d9d9577f6d6802",
+      "ko": "거기가 어딘진 몰라도 좋은 곳은 아닌 모양이다. 슬픈 얼굴."
+    },
+    {
+      "line": 484,
+      "event": "road_game_over_soul_solo_6",
+      "english_sha256": "e551239b533f7d44640e95fbdc0ac754e838a6663bcf3ebe668fd84f16639040",
+      "ko": "영혼의 마지막 한 조각마저 잃어 자동차 여행을 끝내지 못한다."
+    },
+    {
+      "line": 485,
+      "event": "road_game_over_soul_solo_6",
+      "english_sha256": "5575beac42a8addfec665a3d3170edcbcd67185b165f8c621552daa183953782",
+      "ko": "영원한 고통을 선고받기 전에 네 인격을 변호할 우주 재판에 회부된다."
+    },
+    {
+      "line": 486,
+      "event": "road_game_over_soul_solo_6",
+      "english_sha256": "8165d6b8a28d56abb52d4dc0b29cfb1693cad3f29f4388ce67afd625c0fe5b1a",
+      "ko": "변호를 위해 증인 한 명을 부를 수 있어, 엄마를 부르기로 한다."
+    },
+    {
+      "line": 487,
+      "event": "road_game_over_soul_solo_6",
+      "english_sha256": "7350b04eec853768d4fbe16abd69120e0d65f3d996a0f8547232f8bd63600e8b",
+      "ko": "그러다 휴대폰에 엄마 번호를 저장해 두지 않았다는 사실을 깨닫는다."
+    },
+    {
+      "line": 488,
+      "event": "road_game_over_soul_solo_6",
+      "english_sha256": "e983c1efe61f99398b2e15a0bb2fac1f093a2de8a05aa7231b80c9f1418f8aef",
+      "ko": "재판에서 졌다. 그런데 말이야, 그럴 만했네. 이 나쁜 자식아."
+    },
+    {
+      "line": 494,
+      "event": "road_game_over_soul_group_6",
+      "english_sha256": "5c1d4e8703e634417abc5fb2121fcd3a8ecb4e770e2b049ad089e2dfc0c4f394",
+      "ko": "너희는 영혼의 마지막 한 조각마저 잃어 자동차 여행을 끝내지 못한다."
+    },
+    {
+      "line": 495,
+      "event": "road_game_over_soul_group_6",
+      "english_sha256": "e804ff80d7a3c1dab10e2fd37643acf6d21518b987090ab6159ac823314749d9",
+      "ko": "너희 모두 영원한 고통을 선고받기 전에 각자의 인격을 변호할 우주 재판에 회부된다."
+    },
+    {
+      "line": 496,
+      "event": "road_game_over_soul_group_6",
+      "english_sha256": "d7f1c1f052f175e0935460fa16b93f8dbe9e52a028e589e805d0a6321cb8cdbd",
+      "ko": "너희는 재판 내내 “이의 있습니다!”라고 외치고, 웃음만 주는 황당한 깜짝 증인들을 줄줄이 부른다."
+    },
+    {
+      "line": 497,
+      "event": "road_game_over_soul_group_6",
+      "english_sha256": "57071cb23abf0e58277ba9def425dac139919b4062824ec6f919659009620e8f",
+      "ko": "재미는 있었겠지만 아무 소용도 없었지. 너희는 영원히 저주받았다."
+    },
+    {
+      "line": 503,
+      "event": "road_game_over_weirdtrinket",
+      "english_sha256": "519c4efb39a565aa0e5de99b7fb8582c9a00b63aa1f3611fbaa3bc436525f115",
+      "ko": "우와, 저거 봐! 그거시기잖아!"
+    },
+    {
+      "line": 504,
+      "event": "road_game_over_weirdtrinket",
+      "english_sha256": "905e132af19e7ee7b21f3727024a1508f1c7e0ffff00bffaa03fc7dc51424faf",
+      "ko": "그거시기 기억나?"
+    },
+    {
+      "line": 505,
+      "event": "road_game_over_weirdtrinket",
+      "english_sha256": "3f3dd599920201e0388bb4a7a9dba4a7d7a1ea1cbdc84b89cf949e921bfcccca",
+      "ko": "입을 댈 수 있는 구멍이 하나 있고... 엄청 기괴하게 생겼고... 이상한 걸 뿜어내는 구멍도 하나 더 있어..."
+    },
+    {
+      "line": 506,
+      "event": "road_game_over_weirdtrinket",
+      "english_sha256": "7d1ca527e31a6a99dc99e3315f558c8b420cc489de729970555cc408836b7b46",
+      "ko": "너는 인적도 없는 한복판에서 몇 시간이고 그거시기에 홀려 이리저리 만지작거린다."
+    },
+    {
+      "line": 507,
+      "event": "road_game_over_weirdtrinket",
+      "english_sha256": "30b67897ad05d692a61834e2bdcdfbba53c33c06a898460d480c462521d63dac",
+      "ko": "자동차 여행은 아득한 기억이 되고... 이제 네 인생은 그거시기에 바쳐진다."
+    },
+    {
+      "line": 508,
+      "event": "road_game_over_weirdtrinket",
+      "english_sha256": "c96cac192100585b5bb15a49c686acb5775a22792a4906b587949a234019f9dd",
+      "ko": "만세...?"
     }
   ]
 }

@@ -426,6 +426,1056 @@
       "event": "notp",
       "english_sha256": "d985480289c5fcaaa21506eb85071fa86c80ec854aed1b14dbe2bc26db7c4e77",
       "ko": "뜨겁고 비눗기 가득한 물줄기가 네 항문 안쪽으로 뿜어져 들어온다. 나머지 몸도 씻고 문지르고 각질을 제거한 뒤 보습까지 해 준다."
+    },
+    {
+      "line": 94,
+      "event": "notp",
+      "english_sha256": "bc599a8c862fa4d0d9a95fd6452a47c6291bf4276df11665dc21ece071c3bf60",
+      "ko": "변기가 네 몸을 깨끗이 씻어 준다. 입맛까지 말끔히 정리해 주고, 네 행실도 바로잡는다. 경찰 기록이 이보다 깨끗할 수가 없다."
+    },
+    {
+      "line": 95,
+      "event": "notp",
+      "english_sha256": "dd2112c62bd327ea2a1772a3182f7b38707185208e41879ddf7dcb31c1b383f0",
+      "ko": "변기는 세례 의식으로 네 영혼까지 정화한다. 로봇 사제가 갑자기 칸 안으로 들어와 네 몸에 비누를 발라 축복한다."
+    },
+    {
+      "line": 96,
+      "event": "notp",
+      "english_sha256": "b9634cfab2d9eaaa80dcfedc6c38922bd987653d53c2d4c363c0319730af89d0",
+      "ko": "변기는 네 입에 얇은 성체 과자를 넣어 주는데, 그게 “변기의 살”을 상징한다나 뭐라나. 대체 무슨 소린지."
+    },
+    {
+      "line": 97,
+      "event": "notp",
+      "english_sha256": "b27d338ffe44067872f5bbfb848e8caec9d214b4081b0dc12473bf66b64a17c7",
+      "ko": "“스마트 변기를 선택해 주셔서 감사합니다, 수석 신도님.” 변기가 말하더니 네 코에 방향제를 매단 채 밖으로 내보낸다."
+    },
+    {
+      "line": 98,
+      "event": "notp",
+      "english_sha256": "add4e5bb796a6d365a3a40a7b108670bca805c83e3d948bed4dced38b8f9af08",
+      "ko": "네가 방금 첨단 변기 종교에 입교한 건지 확신이 서지 않는다. 고압 세척에 -N2 STAMINA를 빼앗겼지만, +N2 SOUL은 확실히 충만해진 기분이다!"
+    },
+    {
+      "line": 100,
+      "event": "notp",
+      "english_sha256": "7abe0a7ef12fe70194dd2a716c9c306a62c0c82b2dd036cdf29f51453d1ef26a",
+      "ko": "호기심을 못 이긴 넌 버튼을 누른다. 그러자 변기가 곧장 바닥 아래로 내려가기 시작한다!"
+    },
+    {
+      "line": 102,
+      "event": "notp",
+      "english_sha256": "9577aa888958bc3bfc8896279bd6913a154c8d35c8ca07e51f940078004e166e",
+      "ko": "네 변기는 온갖 색의 연단이 늘어선 퀴즈쇼 무대로 내려간다! 변기에 앉은 채 어리둥절해하는 사람들 사이에 네 변기도 자리 잡는다."
+    },
+    {
+      "line": 105,
+      "event": "notp",
+      "english_sha256": "7ea6eb1c41579b3313c743bdbf840ec2feb2525d69b1448a225a879d63cbd001",
+      "ko": "여러분, 안녕하십니까! 똥을 싸며 수수께끼를 푸는 퀴즈쇼 “쉬들즈”에 오신 걸 환영합니다! 저는 차원 너머의 왕자, 오늘의 진행자입니다!"
+    },
+    {
+      "line": 106,
+      "event": "notp",
+      "english_sha256": "bd0165a47d9ef8018e75237fa05f9520bae466c8d4846315bdd2ac314af9640d",
+      "ko": "첫 번째 참가자는 유타주의 이동식 화장실에서 온 건설 노동자, 태너 슈미트입니다! 태너, 네 똥께끼는 이거야:"
+    },
+    {
+      "line": 107,
+      "event": "notp",
+      "english_sha256": "24004f5699f9873650bab0c58fe025374d57bd9fd0ad3aa9e2a220ff28c5b03e",
+      "ko": "오늘이 수요일에서 이틀 뒤인 날보다 나흘 전이라면, 어제에서 사흘 뒤인 날보다 이틀 전은 무슨 요일일까요?"
+    },
+    {
+      "line": 108,
+      "event": "notp",
+      "english_sha256": "7ea727902d9ae20c0520ce5d76bc7016a8ef46beff6f5e4fb3c9c35ecac013c3",
+      "ko": "“어... 뭐라고요? 저기요, 전 그냥 똥 좀 싸러 온 건데요. 이제 일하러 돌아가야 해서—”"
+    },
+    {
+      "line": 109,
+      "event": "notp",
+      "english_sha256": "303fb2ed1b2ca8278a148d2d8f63f600c9acbf40493b858ae64f8290859b6726",
+      "ko": "오답입니다!"
+    },
+    {
+      "line": 110,
+      "event": "notp",
+      "english_sha256": "28cf87a91b970bdbd4518190bd00db16e0f5f42b776e44afbeb12498725db215",
+      "ko": "방청객들이 “대포! 대포!”라고 외친다."
+    },
+    {
+      "line": 111,
+      "event": "notp",
+      "english_sha256": "4d6e9230bf5ffe49b98994ab256796f943033d3a4580c886febbfe917517db73",
+      "ko": "...대포라고?"
+    },
+    {
+      "line": 112,
+      "event": "notp",
+      "english_sha256": "e0ce75f0f04e813908952cef7411c2f9b7098c5d1e9397a92a53acf8cf5d76df",
+      "ko": "태너는 “대포”를 맞는다. 그제야 넌 지면 대포를 맞게 된다는 사실을 깨닫는다."
+    },
+    {
+      "line": 113,
+      "event": "notp",
+      "english_sha256": "730069c5e30a6aac9e150fdf5e8e80be9196162d09e838f72c74e34737b54ca9",
+      "ko": "두 번째 참가자는 %CURRENTPLAYERNAME%, 제 오랜 친구로군요! 똥께끼를 맞히지 못하면 대포의 분노를 맛보게 될 겁니다..."
+    },
+    {
+      "line": 114,
+      "event": "notp",
+      "english_sha256": "41a11d671be8a14871455dc9436fe2617e0527558f76620759124fa9697bf87b",
+      "ko": "제 진짜 이름은 무엇일까요?"
+    },
+    {
+      "line": 115,
+      "event": "notp",
+      "english_sha256": "0322ad62710af9b752fe8e118c1130cf07cf8154a84bd9635546d3bdea313767",
+      "ko": "“차원 너머의 왕자”잖아? 씨발! 넌 감으로 찍어 “아치볼드 반 하우턴 삼세”라고 답한다."
+    },
+    {
+      "line": 116,
+      "event": "notp",
+      "english_sha256": "1fd263323324976db3587664babc7da7f0e31075007e881a849ebe6013e92cb5",
+      "ko": "네가 아치볼드라는 이름을 감당할 수 있다고 생각해? 마음에 드는걸! 그걸로 하지."
+    },
+    {
+      "line": 117,
+      "event": "notp",
+      "english_sha256": "5105a24d6427387fb0ddb478856c04bc5cc507ed07873e8d1e93dc7e75bb9203",
+      "ko": "내 본명이나 “너의 유일한 진정한 사랑”이라고 답해도 정답이었을 텐데."
+    },
+    {
+      "line": 118,
+      "event": "notp",
+      "english_sha256": "705515a0de6033e936836c7915f55e1787258242e537700661ec44e01d96a139",
+      "ko": "상품으로 무료 화장지 한 롤을 받을 수도 있고, 두 번째 문 뒤에 뭐가 있는지 확인할 수도 있습니다!"
+    },
+    {
+      "line": 119,
+      "event": "notp",
+      "english_sha256": "491654edd81f3138dc63648fbe95fbe0ac374a363091a9dbc2cf9a90768ed67f",
+      "ko": "궁금하긴 하지만, 네 엉덩이도 닦고 어서 가야 한다. 넌 화장지를 챙긴다."
+    },
+    {
+      "line": 120,
+      "event": "notp",
+      "english_sha256": "8ec12c8dadd4af24515ea311ffe4c4360e0cff9e0205be4a9fe979f64a07ee4a",
+      "ko": "그럼 “큰일” 상품은 마지막 참가자에게 돌아갑니다:"
+    },
+    {
+      "line": 121,
+      "event": "notp",
+      "english_sha256": "84c9bf0cb791e3aeb22a0ea59535e4e528a43dfa0cccd2225338088a94d518c0",
+      "ko": "시댁의 해변 별장에서 똥을 누고 있던 보험 중개인, 로라 호로위츠입니다!"
+    },
+    {
+      "line": 122,
+      "event": "notp",
+      "english_sha256": "de493678e54c525098e589351daab49dbebcdddc9bff976586451bfc6eb8d4d1",
+      "ko": "축하합니다, 로라. 특별 상품은 바로... 광견병 걸린 족제비를 평생 공급해 드리는 겁니다! 마음껏 즐기세요!"
+    },
+    {
+      "line": 125,
+      "event": "notp",
+      "english_sha256": "34d0a2aed7aeb6456b61335fb4f84ee0a90d1e524167031593fba076b4c96972",
+      "ko": "J팝 테마곡이 울려 퍼지고 로라가 족제비들에게 자비를 구하는 비명 속에서, 넌 자기 칸으로 다시 올라간다."
+    },
+    {
+      "line": 126,
+      "event": "notp",
+      "english_sha256": "58ad9b0117d4df3dbe1d335ec73da614e1bd3808ad6815aadfe3b5b71358f4b3",
+      "ko": "고급 변기를 골라 -N2 MONEY를 잃었지만, 쉬들즈에서 15분간 스타가 된 덕분에 +N2 HYPE를 얻었다!"
+    },
+    {
+      "line": 134,
+      "event": "techgasstationshop",
+      "english_sha256": "958ba5db67ef889b3aee128952fd582da1e52aa8c3034103fcd9726c48f7cbb0",
+      "ko": "상점으로 가기"
+    },
+    {
+      "line": 138,
+      "event": "techgasstationshop",
+      "english_sha256": "abc3d9ab2cfd005eff589cf5de8a78bcb68ef5b6b9bcd65ca9bf27fb993ce8f9",
+      "ko": "뭔가 좀 사려고 주유소 안의 상점으로 향한다."
+    },
+    {
+      "line": 139,
+      "event": "techgasstationshop",
+      "english_sha256": "dea076151999e4bd4ca502091cc9f020422edaebdbe31a033a6917d1cbcddae5",
+      "ko": "하지만 흔히 파는 약국 과자나 음료는 보이지 않는다. 진열대 사이를 걷다 보니 먼 미래의 기괴한 전자 슈퍼마켓에 떨어진 기분이다."
+    },
+    {
+      "line": 141,
+      "event": "techgasstationshop",
+      "english_sha256": "fe280341746b65eb4143b486fd5e842071aeca80cded23c9414475c69f9aa491",
+      "ko": "형제들아, 이것 좀 봐! 손님마다 “HTTP 쿠키”를 공짜로 준대!"
+    },
+    {
+      "line": 142,
+      "event": "techgasstationshop",
+      "english_sha256": "4d4511d5f4a4520e94cbdda88f28d5546f29e4eae021f8db3868f966896aeabd",
+      "ko": "맛도 엄청 다양해! “제삼자”랑 “보안!” 맛도 있네! 땅콩버터 맛은 없지만..."
+    },
+    {
+      "line": 143,
+      "event": "techgasstationshop",
+      "english_sha256": "2795133034d3bd311dbc2ebc5eb46ff79e4a8756589c0e1617da6da5606e6970",
+      "ko": "동의서에 서명해야 먹을 수 있는 거라면, 꽤 재밌겠는데."
+    },
+    {
+      "line": 144,
+      "event": "techgasstationshop",
+      "english_sha256": "c07dbd8b1a064135e2dff4eb286085d5a2a32215a01cd8ea6b328479ec25543f",
+      "ko": "“추적 쿠키에 관심 있으신가요?” 로봇 계산원이 묻는다. “더 좋은 상품이 있답니다! 프리미엄 스마트워치를 보세요.”"
+    },
+    {
+      "line": 145,
+      "event": "techgasstationshop",
+      "english_sha256": "c6a524b4a5f67934b1624ee12e0b3a5175bfbbeb0b39998889e13a819d11bb0a",
+      "ko": "와! 이 시계가 똑똑하다고? 기술이 정말 많이 발전했구나!"
+    },
+    {
+      "line": 146,
+      "event": "techgasstationshop",
+      "english_sha256": "bde0d9d003340a616498ee51647e4d1fcc282676f3c7e5aad71e163de70b5df9",
+      "ko": "“그렇습니다. 문자도 보내고, 전화도 하고, 인터넷도 둘러보고, 로봇 지배자들의 노예로 만들고, 심박수까지 측정하죠!”"
+    },
+    {
+      "line": 147,
+      "event": "techgasstationshop",
+      "english_sha256": "ed621c978dc70a0303e1e5574e1afe51d7ee30bf151ac5b819d605a47bd262a2",
+      "ko": "잠깐, 방금 뭐라고 했어?"
+    },
+    {
+      "line": 148,
+      "event": "techgasstationshop",
+      "english_sha256": "06adaa44b109c0210ebc8bced2de69ce8c8887a45bfce319112ae2b4b1eea833",
+      "ko": "“아, 제대로 들으셨습니다. 최첨단 기술로 빛을 이용해 맥박을 측정하고 심박수를 추적할 수 있답니다.”"
+    },
+    {
+      "line": 149,
+      "event": "techgasstationshop",
+      "english_sha256": "cce4c2120d9755fb0a5228b162d054f7d32e763c167f15eb1effc794470ce0dd",
+      "ko": "멋지다! 저 조그만 친구가 내 몸속에서 챔피언처럼 24/7 피를 펌프질하고 있지. 거기서 잘 지내는지 늘 물어보고 싶었어. 가자, 심장아, 가자!"
+    },
+    {
+      "line": 150,
+      "event": "techgasstationshop",
+      "english_sha256": "ce5e23ca2a322ce317b0fbf6f9fbe94dfef2ef74e62d758f36295889b74b8e46",
+      "ko": "그래도 스마트워치는 네 형편에 너무 비싸다. 대신 이걸 사자고 제안한다:"
+    },
+    {
+      "line": 153,
+      "event": "techgasstationshop",
+      "english_sha256": "75ab738bd56ae6eb71be0bb545c74d4938b1b483846cc7f49459f8a5be2ae162",
+      "ko": "“래리 맛” 감자칩"
+    },
+    {
+      "line": 154,
+      "event": "techgasstationshop",
+      "english_sha256": "11547a2ceb5f07fa9c6f44b7727bacf1aeee996cf61de734f7cd4bc085740da4",
+      "ko": "고래 짝짓기용 섹시 스무스 재즈 비트"
+    },
+    {
+      "line": 155,
+      "event": "techgasstationshop",
+      "english_sha256": "906849b9a371f7a36403d7edb2ba0556c130ac97569bf1e68015648aaa2d3bf8",
+      "ko": "슈퍼 퓨처 스케이터 로보 공룡 맥스 매거진"
+    },
+    {
+      "line": 159,
+      "event": "techgasstationshop",
+      "english_sha256": "b0c879abe018f5ce14617021b5cf0452b6ddeba1b8f0da2382bed52c872bbca0",
+      "ko": "잠깐."
+    },
+    {
+      "line": 160,
+      "event": "techgasstationshop",
+      "english_sha256": "651e3b269ee9492e406953f264bba73509c8de4b45d632bb4c94996746ff039c",
+      "ko": "“래리 맛”이 대체 무슨 뜻이야? 래리는 무슨 맛인데?"
+    },
+    {
+      "line": 161,
+      "event": "techgasstationshop",
+      "english_sha256": "9cb6f84d48850fa8629b5e25be0f49fe6bcdcfb5b6658f9e41aa84c4cf08c407",
+      "ko": "“그건 알 수 없네요.” 미뢰도 없는 로봇 계산원이 무표정하게 답한다. “사서 직접 알아보세요.”"
+    },
+    {
+      "line": 162,
+      "event": "techgasstationshop",
+      "english_sha256": "2f5c1abbbd17d3b62076a2c9f1391076e5d38bc52ec5fffc76a2619533f0783a",
+      "ko": "음... 그래, 하나 먹어 볼게. 음식은 보통 내 취향이 아니지만, 가끔은 직접 해 보고 좆돼 봐야 알잖아?"
+    },
+    {
+      "line": 163,
+      "event": "techgasstationshop",
+      "english_sha256": "7ca13fb9f742de2cb0994d54cf23bdcd92980646f5de14cb3eda24f37f691a92",
+      "ko": "난 먹는 게 제일 좋아! 나도 하나 먹어도 돼, %CURRENTPLAYERNAME%?"
+    },
+    {
+      "line": 164,
+      "event": "techgasstationshop",
+      "english_sha256": "d9dc90469e24c1bd744dfed460a8add5aa0e44a098ea15aeea179a9179c8d6fa",
+      "ko": "당연하지! 넌 음식값으로 -N2 MONEY를 내고, 다 같이 래리 칩을 한 입씩 핥아 본다."
+    },
+    {
+      "line": 165,
+      "event": "techgasstationshop",
+      "english_sha256": "d7404221c87ba1d8bee917c08919fc5c4f084303189140f85d3f810e86af09e5",
+      "ko": "젠장, 진짜 래리 맛이야. 어떻게 설명해야 할지 모르겠지만, 내가 먹어 본 것 중 가장 래리다운 칩이야."
+    },
+    {
+      "line": 166,
+      "event": "techgasstationshop",
+      "english_sha256": "38e7551d92a2f67bffd1ce4d547f8a05c0d50d97b8359ae7735e99d4e696d90c",
+      "ko": "맞아, 틀림없는 래리 맛이야! 그런데 이름에서 어떻게 맛이 나는 거지?"
+    },
+    {
+      "line": 167,
+      "event": "techgasstationshop",
+      "english_sha256": "4a0c29033784b62c0454c95c7b57f2a86de98cd259b2ceeca6d24e6b0d8ccb6f",
+      "ko": "특정한 래리 한 명의 맛일까? 지구에 있는 모든 래리의 맛을 섞은 걸까? 아니면 래리라는 추상적인 개념의 맛일까?"
+    },
+    {
+      "line": 168,
+      "event": "techgasstationshop",
+      "english_sha256": "9ae75ccfa0cb1de99bfc2c23cc39305d85fe9f9c59060796552f25238b1fe5ab",
+      "ko": "모르겠지만 맛있어. 왠지 부럽기도 하네! 내 이름이 래리였다면 나도 이렇게 맛있었을까?"
+    },
+    {
+      "line": 169,
+      "event": "techgasstationshop",
+      "english_sha256": "75131ef8c64589ad6ef2ac3236a1a299704f7599c553647f66921037d4b70f9c",
+      "ko": "스콧, 우리 둘 중 누구라도 감자칩이었다면 평범한 래리보다 두 배는 더 맛있었을 거야."
+    },
+    {
+      "line": 170,
+      "event": "techgasstationshop",
+      "english_sha256": "690b385f073d408976978437e6e4493b175606b91e8cf257ec597b9f4adb41b5",
+      "ko": "우와! 오늘 들은 말 중에 제일 다정해!"
+    },
+    {
+      "line": 171,
+      "event": "techgasstationshop",
+      "english_sha256": "184a55fcb07c03ce490f8c4ac666575459c0c64a3a9d129200fa1007ea1a3e61",
+      "ko": "넌 남은 래리 칩을 우적우적 먹는다. 맛을 설명할 수는 없지만, 확실히 +N2 STAMINA를 얻었다!"
+    },
+    {
+      "line": 176,
+      "event": "techgasstationshop",
+      "english_sha256": "ccbff6757cd96f579c9128097f488521a8ebb6046cc2a91b98d108e621a0feec",
+      "ko": "넌 카세트테이프 값을 -N2 MONEY 지불하고 운전하며 재생한다."
+    },
+    {
+      "line": 178,
+      "event": "techgasstationshop",
+      "english_sha256": "86cac854fdf405762bbff8681fc1e0ebaac16c92b3c6c99d8f3ad1694f3a90e8",
+      "ko": "테이프에서 부드러운 목소리가 흘러나온다. “스무스 길버트의 릴랙소폰 메들리를 듣고 계십니다.”"
+    },
+    {
+      "line": 179,
+      "event": "techgasstationshop",
+      "english_sha256": "f37179178de4f47ad046567b6a588f34804e9872c7006d8a3d1f25255aade160",
+      "ko": "“태평양 깊은 곳에서 당신의 귓가까지, 바다가 선사하는 가장 부드러운 재즈를 즐겨 보세요.”"
+    },
+    {
+      "line": 180,
+      "event": "techgasstationshop",
+      "english_sha256": "e1aa93ab9eed407b8997da875c030414f21d204e41b622aeec28a6523981cdf0",
+      "ko": "와! 얼마나 달콤하고 관능적인 색소폰 연주인가. 너무 아름다워서 고래가 악기를 어떻게 들고 연주하는지 궁금해할 틈도 없다."
+    },
+    {
+      "line": 181,
+      "event": "techgasstationshop",
+      "english_sha256": "4a3f2286df83214514e712c9f56621f413a6b7fcf7985590e4b0eda690efdd1b",
+      "ko": "뒤이어 나오는 트랙에서는 아름다운 금관악기 위로 고래 노래 스캣이 얹힌다."
+    },
+    {
+      "line": 182,
+      "event": "techgasstationshop",
+      "english_sha256": "5d9c78466a039cdf719e621bfab6ebef17d701dffd5b01072c34d9e417c3027d",
+      "ko": "야, 이 노래 좋아! 가사가 기억나는 것 같아. 형제들아, 같이 부르자!"
+    },
+    {
+      "line": 183,
+      "event": "techgasstationshop",
+      "english_sha256": "f06f28e6b926ac0f88c1dc40a0dc75cfa6d0eccb6311c4a92e99a2421539b5a6",
+      "ko": "아우우우우우우우우우!"
+    },
+    {
+      "line": 184,
+      "event": "techgasstationshop",
+      "english_sha256": "238eb2d3b3365eb8e83f179e27cb8c75a8967cdfc8f59a3cd979d0b68e9058b6",
+      "ko": "오오오오오오오오아아아아아아아아!!!"
+    },
+    {
+      "line": 185,
+      "event": "techgasstationshop",
+      "english_sha256": "a0de906af57870bde91825a198712dadca982d9666100570a989149a65d65ef5",
+      "ko": "와아아아아아아아아오오오오가!"
+    },
+    {
+      "line": 186,
+      "event": "techgasstationshop",
+      "english_sha256": "87ecb3b4109bb218b2e88b0652dd26cc2c8cc1272b6c8ac66a027813d54badf8",
+      "ko": "음... 평화는 오래가지 못했지만, 적어도 스콧은 즐거워하네. 넌 +N2 MIND를 얻었다!"
+    },
+    {
+      "line": 190,
+      "event": "techgasstationshop",
+      "english_sha256": "fb17c71c52f291cf4850f0440c3557473b66b24b714362922c6e5060bd44b2b3",
+      "ko": "음... 이거 정말 사려는 거야? 네가 열다섯쯤 됐을 때는 이미 “슈퍼 퓨처 스케이터 로보 공룡 맥스 매거진”을 졸업했을 것 같은데."
+    },
+    {
+      "line": 191,
+      "event": "techgasstationshop",
+      "english_sha256": "958453c9ad9aa54b7036ac38a57c6b843a0e2696ddb7a5ab62b77a6e033cba21",
+      "ko": "형제여어어! 이번 달 SFSRDMM잖아? 다 읽으면 나 빌려줄래?"
+    },
+    {
+      "line": 192,
+      "event": "techgasstationshop",
+      "english_sha256": "83759766518543863eee823f29dc1faf05c4dd6682a4cd801eebc6f9cc35baae",
+      "ko": "이번 호 진짜 끝내줘. 인터뷰 좀 봐! 스케이트사우루스 렉스트론이랑 “토니 호크인 것 같은 남자”를 질의응답으로 실었어!"
+    },
+    {
+      "line": 193,
+      "event": "techgasstationshop",
+      "english_sha256": "f24692fa7acc0d8b82c4294b6cce8db26d7fddceef5c187e6f7aed6eff826528",
+      "ko": "좋아, 이 잡지가 이성의 마음을 사로잡는 모양이니 넌 -N2 MONEY를 내고 산다. 읽을거리가 잔뜩 있다:"
+    },
+    {
+      "line": 194,
+      "event": "techgasstationshop",
+      "english_sha256": "6f55d3d44372a92165f390a1f07bc05179c4f0434a4f51c3852a0142ed5dc9e1",
+      "ko": "“존나게 멋진 로봇 공룡 10종”"
+    },
+    {
+      "line": 195,
+      "event": "techgasstationshop",
+      "english_sha256": "28d7ff406e4a8a15d2f22dcc62a19777b0a9104ac28592da84c87da692011d5a",
+      "ko": "“침대에서 할 수 있는 끝내주는 스케이트보드 기술!” (스포일러: “멜론 그랩”이다.)"
+    },
+    {
+      "line": 196,
+      "event": "techgasstationshop",
+      "english_sha256": "97023dfd53dbd9214b0b0686720a6a7d361cbf94df20169a37471b9357d86b19",
+      "ko": "“계모가 널 존나 싫어하게 만들 쩌는 머리색”"
+    },
+    {
+      "line": 197,
+      "event": "techgasstationshop",
+      "english_sha256": "a7b199440854d22c09b7250bb470aed27922242daea5a5b76ed5b16fe2a38a8a",
+      "ko": "“다른 목록에 나온 놈들보다 훨씬 더 멋진 로봇 공룡 12종”"
+    },
+    {
+      "line": 198,
+      "event": "techgasstationshop",
+      "english_sha256": "18e4a0f97977941d55c1a085c2387ca20068e85937be802fddc593b07e741791",
+      "ko": "젠장. 이게 바로 현대 저널리즘의 정점이다."
+    },
+    {
+      "line": 199,
+      "event": "techgasstationshop",
+      "english_sha256": "6ca3952a89ada66f7b20b085c315a549162cef1725108a6ace12c6e452c67336",
+      "ko": "넌 친구들에게 기사를 소리 내어 읽어 준다. 네 극적이고 몰입감 넘치는 낭독 덕분에 여행의 다음 한 시간이 순식간에 지나간다."
+    },
+    {
+      "line": 200,
+      "event": "techgasstationshop",
+      "english_sha256": "2f9cd7d6e3a0772abc8c9534f7bcb59092eaf313d02de4afd757e301214e496f",
+      "ko": "진심으로, 같은 내레이터 입장에서 말하는데, 정말 잘했어. 정식으로 낭독 훈련이라도 받았어? +N2 HYPE를 받아!"
+    },
+    {
+      "line": 208,
+      "event": "forbiddenjukebox",
+      "english_sha256": "6369ac51a5dd465c9442fd16186ac83761c159bad7136c53c3aab6359df84827",
+      "ko": "주크박스 사용하기"
+    },
+    {
+      "line": 212,
+      "event": "forbiddenjukebox",
+      "english_sha256": "baefa47d1a2452a27a284ba902fb79905fa96ccaad18df20ba4d96b6dc01599f",
+      "ko": "너희는 식당에 들어가 음악을 틀려고 주크박스로 다가간다."
+    },
+    {
+      "line": 213,
+      "event": "forbiddenjukebox",
+      "english_sha256": "46a23e3b54847f94ca00e509141fd6d0913651be54fb7babff56f1ae3366b25f",
+      "ko": "하지만 곡을 고르기도 전에 음산한 웨이터가 나타나 기분을 망친다."
+    },
+    {
+      "line": 216,
+      "event": "forbiddenjukebox",
+      "english_sha256": "adc6ba48408b772a5064a3105a858f6d55cf61a9f632d5140676c37bb15525d0",
+      "ko": "내가 너라면 그건 건드리지 않겠어."
+    },
+    {
+      "line": 217,
+      "event": "forbiddenjukebox",
+      "english_sha256": "89975ecc63bb5abaf09ff5a150e210501fb31c277998672aa887a783e370170b",
+      "ko": "너... 우리였어...? 언제 우리가 된 거야? 난 전혀 몰랐는데..."
+    },
+    {
+      "line": 218,
+      "event": "forbiddenjukebox",
+      "english_sha256": "34a7f8ba643b62a152e6a726a31f75b5c3be07d2c2625222a604d37b9083ef71",
+      "ko": "쉿, 스콧. 괜찮아."
+    },
+    {
+      "line": 219,
+      "event": "forbiddenjukebox",
+      "english_sha256": "e59d2f16a91622525e25a61ff6a1badbba2985e610d83acdc28435a60277a9fc",
+      "ko": "제라드, 과거 가정법으로 스콧을 헷갈리게 하지 말고 여기서 일이나 해."
+    },
+    {
+      "line": 220,
+      "event": "forbiddenjukebox",
+      "english_sha256": "64d581a4ff17fb4c933e62da42373374ac9fb77a4e2ea91baabca8733b99b781",
+      "ko": "우리가 네가 아닌 건 당연하지. 너와 달리 우린 쿨하고 재밌고 섹시하거든. 그러니 음악을 틀 거야."
+    },
+    {
+      "line": 221,
+      "event": "forbiddenjukebox",
+      "english_sha256": "05b4e0f1f5b8718e025c1a2cb61d7ae01168a468f9096ee95ce00fd40859912b",
+      "ko": "네가 나보다 낫다고 생각해? 하! 쿨하고 재밌고 섹시한 게 “스트레스에 찌들고, 우울하고, 병약한 빅토리아 시대 어린이 같은 퇴폐미”를 이길 순 없지."
+    },
+    {
+      "line": 222,
+      "event": "forbiddenjukebox",
+      "english_sha256": "99037529194462547db77bb5c53bdc78b5c4ad826a6b20c09132d1b6c918e140",
+      "ko": "게다가 난 너희를 도와주려는 거야. 주크박스를 쓰면 안 되는 진짜 이유는 저주받았기 때문이지."
+    },
+    {
+      "line": 223,
+      "event": "forbiddenjukebox",
+      "english_sha256": "d2555e21210bb6a326fde5f6a4a380bcc99516356ff32f8cc4d8af2da7da9b7e",
+      "ko": "하! 여기서 저주받은 건 내가 찾은 이 사진 속 다람쥐뿐이야. 수박을 통째로 먹었다더라."
+    },
+    {
+      "line": 224,
+      "event": "forbiddenjukebox",
+      "english_sha256": "c8997a65c6a31c90d186f0bba076b08e611433e1758bdb62020ccfd7ded0e338",
+      "ko": "다람쥐가 수박을 통째로 몸 안에 넣었다니, 대체 어떻게 한 거야, 제라드? 해부학적으로 불가능하잖아. 제라드, 저 다람쥐 좀 봐!"
+    },
+    {
+      "line": 225,
+      "event": "forbiddenjukebox",
+      "english_sha256": "5a585d36db9fcca81ee44365ef9d06834bb097370fe0d22054aa75d64562bc07",
+      "ko": "으, 그만해. 네가 종알종알 쏟아내는 헛소리만으로도 이미 충분히 저주야."
+    },
+    {
+      "line": 226,
+      "event": "forbiddenjukebox",
+      "english_sha256": "007a5ade3d2ca36585075f2a80e1759cb717c7de5b3a852d305965b06a4bfe88",
+      "ko": "마음대로 주크박스를 써. 죽는 건 너희니까."
+    },
+    {
+      "line": 227,
+      "event": "forbiddenjukebox",
+      "english_sha256": "e3a07619c85df6de367310fef841725056e776b4c6e06dfea7637e3802f9fed6",
+      "ko": "아니거든! 내 장례식은 훨씬 더 멋진 식당에서 했거든!"
+    },
+    {
+      "line": 228,
+      "event": "forbiddenjukebox",
+      "english_sha256": "41682b55e1f37653802bfd6fc7a1521e5baa5e88cf25b9086388c6a73b11dedf",
+      "ko": "%CURRENTPLAYERNAME%, 쩌는 저주받은 곡을 하나 골라!"
+    },
+    {
+      "line": 229,
+      "event": "forbiddenjukebox",
+      "english_sha256": "145a0f81fa0c72e96d3aa69cfe671a06385aae8db43af4ddaf583d5cd7eae23a",
+      "ko": "DDR 끝판왕 모드로 “발키리 디멘션”과 “베토벤 바이러스”를 연달아 춘다."
+    },
+    {
+      "line": 230,
+      "event": "forbiddenjukebox",
+      "english_sha256": "259790196d3cf5f447f5f9e3ee51703e66a83dbd3b3e802988da4aca2a034620",
+      "ko": "생일 축하 노래를 10시간 동안 끊김 없이 듣는다."
+    },
+    {
+      "line": 232,
+      "event": "forbiddenjukebox",
+      "english_sha256": "0332dd4737519373744a45ba7f77f1b96f7b260bf1a868f9fa3d030248b2678a",
+      "ko": "네가 “재생”을 누르자마자 식당의 불이 모두 꺼진다. 네 발밑에 악마의 화살 모양 문양이 나타난다."
+    },
+    {
+      "line": 233,
+      "event": "forbiddenjukebox",
+      "english_sha256": "82364888d3c803354b517b3e8eb816e3aa2468be32c58fd96d5c734c9676b8cb",
+      "ko": "악마의 키메라 곡이 시작되고, 넌 그 어느 때보다 빠르게 춤춘다. 네 발은 광란의 잔상만 남길 정도로 움직인다."
+    },
+    {
+      "line": 234,
+      "event": "forbiddenjukebox",
+      "english_sha256": "ea7d616aadae4a6b1009575514684eccbc0c3a5ffa9975021a9a1f7d195c075b",
+      "ko": "참으로 비극적인 광경이군. 이 곡은 사악한 네크로댄서가 마법으로 이어 붙인 DDR 역사상 가장 어려운 곡 두 개야."
+    },
+    {
+      "line": 235,
+      "event": "forbiddenjukebox",
+      "english_sha256": "d213c83bad29165b8156fa5f2799678d071a7dfbd644ac449463841fb47d51b0",
+      "ko": "나조차 이렇게 비열한 저주는 만들지 않겠어. 애초에 내가 허용하는 춤 동작은 헤드뱅잉과 근엄하게 라이터를 흔드는 것뿐이지만."
+    },
+    {
+      "line": 236,
+      "event": "forbiddenjukebox",
+      "english_sha256": "5f7d57071c40902150a1d9f21592fd87b6ec3d95e08307299307dd64b3210b4e",
+      "ko": "우와, 엄청난데. %CURRENTPLAYERNAME%는 대체 얼마나 오래 춤을 추게 될까?"
+    },
+    {
+      "line": 239,
+      "event": "forbiddenjukebox",
+      "english_sha256": "837daf3125bd2fbee51e6a1c9b00ec427cf8db90b25bf596907ec7fd5f979219",
+      "ko": "누가 알겠어? 춤을 멈출 수가 없다. 식당을 춤추며 빠져나와 하루도 빠짐없이, 끝없이 춤춘다."
+    },
+    {
+      "line": 240,
+      "event": "forbiddenjukebox",
+      "english_sha256": "140d33a3cb2ee41d96dbe3b6bb7eb88da7f5b86e7175d1b64461a8e45b72fade",
+      "ko": "꿈에 그리던 직장에 들어가서도 춤춘다. 결혼 서약을 하는 순간에도 춤춘다. 아이를 낳고, 아름다운 가족과 함께 춤춘다."
+    },
+    {
+      "line": 241,
+      "event": "forbiddenjukebox",
+      "english_sha256": "9f09af2a536898b043bec404dbd1877a4a99980181ba31ceb3150fbf561e7977",
+      "ko": "나이가 들어 말기 춤 증후군 진단을 받는다... 그런데 의사도 춤추고 있잖아?"
+    },
+    {
+      "line": 242,
+      "event": "forbiddenjukebox",
+      "english_sha256": "752f358e8d4b2875d452989017b7dcc25fa5b8aaa0d2d08a1cb166cd05408b89",
+      "ko": "살날이 여섯 달밖에 남지 않았다... 여섯 달... 춤출 시간 말이다."
+    },
+    {
+      "line": 243,
+      "event": "forbiddenjukebox",
+      "english_sha256": "1a45c21c125548109599fbd2708a6234dc53114af95c76980e62ac671baf992c",
+      "ko": "마지막 순간까지 남은 시간을 알차게 보낸다. 그러다 저 멀리 빛이 보이고, 마침내 쉴 준비를 마친 채 그 빛을 향해 춤춘다..."
+    },
+    {
+      "line": 246,
+      "event": "forbiddenjukebox",
+      "english_sha256": "a88e8fecc0a59336cc3cd3a23bf13931b78b3ccab97c658ac2aed681819b248d",
+      "ko": "빛이 걷히고 보니 넌 식당 바닥에 누워 있다. 모두가 널 쳐다보더니... 이내 우레 같은 박수를 보낸다!"
+    },
+    {
+      "line": 247,
+      "event": "forbiddenjukebox",
+      "english_sha256": "36cc28bc65f4939d102854d3e06a6cce4183f5b9257920e4174ae3ec150d1af9",
+      "ko": "세상에, %CURRENTPLAYERNAMECAPS%! 저주를 깼어! 네 미친 듯 쩌는 춤사위로 저주를 박살 냈다고오오오!"
+    },
+    {
+      "line": 248,
+      "event": "forbiddenjukebox",
+      "english_sha256": "490c800e882a44f0c43f85965c34efeec2217f5474a58dd65c6fdd999f7b9ace",
+      "ko": "죽도록 빡센 쌍두 곡을 버텨 낸 덕분에 +N2 HYPE를 얻지만, 하루치 춤으로는 지나치게 과했던 탓에 -N2 STAMINA를 잃는다. 어쩌면 평생을 통틀어도 말이지."
+    },
+    {
+      "line": 250,
+      "event": "forbiddenjukebox",
+      "english_sha256": "15694840e0afcfc814228c6e7b3041d8f128eb108bc38563d48a5e8e1e664e3e",
+      "ko": "야, 진심으로 그 곡은 고르지 마. 다른 곡이면 뭐든 상관없어. 제발 그 곡만은 안 돼."
+    },
+    {
+      "line": 251,
+      "event": "forbiddenjukebox",
+      "english_sha256": "8ddfb3c8f342a94e1ae728ea1dea9b83e971a422fb392e7fae8b9266deac3ed0",
+      "ko": "흠, 망설이는 것 같은데? 한번 틀어 보자!"
+    },
+    {
+      "line": 252,
+      "event": "forbiddenjukebox",
+      "english_sha256": "297257d5b1ab4a63dcc29b03083ffb814213378f320570df98f729c5825a2e54",
+      "ko": "폴리가 \"재생\"을 누르자, 식당 안에 귀에 익숙한 그 생일 축하 노래가 울려 퍼진다."
+    },
+    {
+      "line": 253,
+      "event": "forbiddenjukebox",
+      "english_sha256": "92ea7235f8653f3a8837e35a0ff1500a93288823ad5d1ba8a0c03701b69bb2ee",
+      "ko": "처음엔 손님들도 오늘 누군가 생일인가 보다 하고 노래를 따라 부른다. 참 즐거운 광경이네! 넌 +N2 HYPE를 얻는다."
+    },
+    {
+      "line": 254,
+      "event": "forbiddenjukebox",
+      "english_sha256": "9fde2a8b0745380f8231ffc0f6ec7df92829b4b6482242efcc3294cc6373e5d8",
+      "ko": "그런데 노래가 다시 처음부터 나온다. 대부분은 여전히 따라 부른다. 오늘 생일인 사람이 둘인가?"
+    },
+    {
+      "line": 255,
+      "event": "forbiddenjukebox",
+      "english_sha256": "46b5488a6200ecd232c0073e4ec0e78061b120cbffd59015ec1482bc4dd27fc8",
+      "ko": "노래는 계속 반복되고, 처음의 즐거움은 스트레스와 실존적 공포로 바뀌어 간다."
+    },
+    {
+      "line": 258,
+      "event": "forbiddenjukebox",
+      "english_sha256": "8df7744f52bbf968bd2530d559c500f8e9b1b28b36c60179ccf8117bb0bb917c",
+      "ko": "계속 듣다 보니 “생일 축하합니다”라는 말이 어쩐지 섬뜩하게 들리기 시작한다."
+    },
+    {
+      "line": 259,
+      "event": "forbiddenjukebox",
+      "english_sha256": "e6a9dddfe7371725be18542b4730ca784f44e6f8c85568faa79de65bfbc885de",
+      "ko": "식당에서 이런 괴상한 노래를 부르는 게 얼마나 이상한 일인가? 완전히 모르는 사람에게, 그저 한 해 더 살아남았다는 이유로 직원들이 노래를 불러 준다니?"
+    },
+    {
+      "line": 260,
+      "event": "forbiddenjukebox",
+      "english_sha256": "a7b41906260d32f2afcc14230f64d9b6ac0b5cf795814951b78f614c0a5b9c55",
+      "ko": "“사랑하는 식당 손님, 당신의 생일이 끝없는 기쁨으로 가득 차기를.”"
+    },
+    {
+      "line": 261,
+      "event": "forbiddenjukebox",
+      "english_sha256": "1f7f51064348ece6cc861661e2ac757e8c2436291106169b0a3443d02c6434f1",
+      "ko": "“우리 행성이 태양 주위를 한 바퀴 더 도는 동안 당신이 무사히 살아남았다니 정말 기쁩니다. 기쁨을 만끽하세요!”"
+    },
+    {
+      "line": 262,
+      "event": "forbiddenjukebox",
+      "english_sha256": "d802b549d197ac3aacc6a8ce792f8094742f74fbe0747bd711a4aa00e6d40c8a",
+      "ko": "“행성이 정확히 같은 지점에 도달하는 날, 저희와 다시 축하하러 와 주세요. 가장 사랑하는 낯선 손님, 여기서 기다리겠습니다.”"
+    },
+    {
+      "line": 263,
+      "event": "forbiddenjukebox",
+      "english_sha256": "fa999db6a9e0c5e3f926f6fdd7777063b096d37c0de4c15bb11cff135ae893cd",
+      "ko": "이 흔한 상황을 세상에서 가장 섬뜩한 방식으로 상상하는 순간(웨이터들의 눈구멍에서 피가 흐른다고 하면 설명이 될까?), 주변은 아수라장이 된다."
+    },
+    {
+      "line": 264,
+      "event": "forbiddenjukebox",
+      "english_sha256": "2f6922c777e4d4d4292587299e14118822ee0cc0e0c189456e4657da60fe5eac",
+      "ko": "손님들은 비명을 지르며 벽을 긁어 댄다. 몇몇은 자기 귀를 찌르고, 많은 이들이 울부짖는다."
+    },
+    {
+      "line": 265,
+      "event": "forbiddenjukebox",
+      "english_sha256": "9723194aa1f7533fff45e6a55a8e659e07e07359a10ab320c7db26a18c5add6b",
+      "ko": "손님 한 명은 오늘이 정말 자기 생일이라며, 이 모든 일이 자기 탓이라고 생각하고 용서를 빈다."
+    },
+    {
+      "line": 266,
+      "event": "forbiddenjukebox",
+      "english_sha256": "ba9f445dd0bfab7d39654ee3e700244d99203a2b0f7b1bb08d83ad3aed07c898",
+      "ko": "모두가 완전히 미쳐 버렸다... 단 두 사람만 빼고."
+    },
+    {
+      "line": 269,
+      "event": "forbiddenjukebox",
+      "english_sha256": "f6dfb47d7a5c61855d2596ba2b74395eac276ad0d21060425de032e3722ea5ca",
+      "ko": "폴리, 너 생일 파티 좋아하지? 다들 케이크 먹을 생각에 엄청 신나잖아!"
+    },
+    {
+      "line": 270,
+      "event": "forbiddenjukebox",
+      "english_sha256": "79b32ea6157361b82e8fc2ad8caab39e3e55e50deeb1323e1290cfe0ca3bf1ef",
+      "ko": "다들 뭐가 문제인지 모르겠네. 생일 축하 노래 베이스라인이 끝내주게 끈적하잖아. 이 트랙 완전 죽인다."
+    },
+    {
+      "line": 271,
+      "event": "forbiddenjukebox",
+      "english_sha256": "3107ce29c6a5b767a4ff9f370878fc64282899050af4bf040ea9312e2a3094d0",
+      "ko": "물론 이 둘은 이런 광기에 끄떡없다. 하지만 넌 다르지. 끝없이 반복되는 생일 축하 노래가 네 -N2 MIND를 갉아먹는다."
+    },
+    {
+      "line": 279,
+      "event": "evilmenu",
+      "english_sha256": "ec29c90e0f6162331c862df3cafc92c1e3460a8e612d9d0ba117b5e8fc4ee5bf",
+      "ko": "뭔가 주문하기"
+    },
+    {
+      "line": 283,
+      "event": "evilmenu",
+      "english_sha256": "0c4949bb3c5080dd6524d7a838cc5039000362fd30ba4dd1370f2bd8045250e1",
+      "ko": "너희는 식당에 들어가 자리에 앉아 주문하려 한다."
+    },
+    {
+      "line": 284,
+      "event": "evilmenu",
+      "english_sha256": "33d16895618bd391287788d43f7d1b35e503c54c62b91bdb43122491fd5dca54",
+      "ko": "불길한 기운과 감자튀김 냄새가 피어오르는 가운데 웨이터가 나타난다."
+    },
+    {
+      "line": 287,
+      "event": "evilmenu",
+      "english_sha256": "a2868e15119e452a46adaa642c5df7cf39335fba3fff890ed253709fa9b6ba57",
+      "ko": "둠의 식당에 온 것을 환영한다. 이곳은 그림자와 부패가 들끓는 소굴, 대대로 전해 내려온 저주의 무게가 짓누르는 곳이지..."
+    },
+    {
+      "line": 288,
+      "event": "evilmenu",
+      "english_sha256": "a40e3f76d82f86ddf9e219915d476652cc1385be8d75d4fc66218552ad582939",
+      "ko": "그래, 그래. 안내 직원한테 이미 들었어. 주차장에서 좆을 내놓고 식당이 전부 멸망할 거라고 고래고래 소리 지르던데."
+    },
+    {
+      "line": 289,
+      "event": "evilmenu",
+      "english_sha256": "0895357a808fa372946e56b93a61099da9c8964e182a54d0b8ca9dee7feb8bc0",
+      "ko": "아, 나체 데이브 말이냐? 여기 직원은 아닌데."
+    },
+    {
+      "line": 290,
+      "event": "evilmenu",
+      "english_sha256": "43618884639fb61fba6538b8164b8faaa099ebc6112e437cf81d7bb4b0d10674",
+      "ko": "아. 저 사람은 저주받아서 저러는 거야?"
+    },
+    {
+      "line": 291,
+      "event": "evilmenu",
+      "english_sha256": "5b3862a1d12d47aa69ac5fb54b898a4a6d12377a1291d592776456d920dbeb0f",
+      "ko": "아니. 환각 버섯을 잘못 먹었거든."
+    },
+    {
+      "line": 292,
+      "event": "evilmenu",
+      "english_sha256": "ae1a389b4fb9c320e6ff2001d9906d334425be162e139acb04de3169b7ae40b4",
+      "ko": "하지만 이곳은 널 반드시 저주할 수 있고, 실제로 그렇게 할 거다. 메뉴의 음식조차 어둡고 금지된 마법을 품고 있어. 먹는 순간 네 인생은 영원히 망가진다."
+    },
+    {
+      "line": 293,
+      "event": "evilmenu",
+      "english_sha256": "34b0edb06275b625f1668235622df68c7f6e1c8288c7b911049704d993226505",
+      "ko": "메뉴 얘기가 나와서 말인데, 둠버거 세트를 주문할 때 사이드 대신 맥주로 바꿀 수 있어? 메인 메뉴도 맥주로 바꾸고. 아니, 그냥 맥주 세 잔만 줘."
+    },
+    {
+      "line": 294,
+      "event": "evilmenu",
+      "english_sha256": "df015ae45c308855e6e02c40ce0c4fdde8b58bc0865c24c654b09ddd1a3ee270",
+      "ko": "난 핫윙으로 할게요! 소스는 “미에도 이 타바스코 엔 라스베이거스”랑 “말 그대로 피일지도” 중에 뭐가 좋아요?"
+    },
+    {
+      "line": 295,
+      "event": "evilmenu",
+      "english_sha256": "0372404cd6dc4f0e91c58b6342956ae2ea51dcc3b474ea846756b2a455151346",
+      "ko": "빌어먹을 경고를 듣는 법은 한 번도 못 배웠나?! 이 음식은. 저주받았다고."
+    },
+    {
+      "line": 296,
+      "event": "evilmenu",
+      "english_sha256": "60625c441d033e40489d351ed1f8c7760902385022a3b475fbfc972b798fe72e",
+      "ko": "먹으면 잠든 짐승처럼 네 몸을 부식시킬 거다. 정신을 비틀고 네 영혼을 최고가를 부르는 자에게 팔아넘기겠지. 그게..."
+    },
+    {
+      "line": 297,
+      "event": "evilmenu",
+      "english_sha256": "312bd4601bad881040a2fd7468df97e2b6dde144a960a2dbf35eaaee7aac36fe",
+      "ko": "있잖아, 웨이터면 손님한테 이 식당에서 먹으라고 권해야 하는 거 아냐? 자기야, 너 일 진짜 못한다."
+    },
+    {
+      "line": 298,
+      "event": "evilmenu",
+      "english_sha256": "8d199397fabdbf49b489426623c6221b83862337e4799856f6e4b17cdbdc39be",
+      "ko": "쳇..."
+    },
+    {
+      "line": 299,
+      "event": "evilmenu",
+      "english_sha256": "c53fbc58165e25c9b7150c1826d0c70943d39e33f88cc090003b9d03dc32700e",
+      "ko": "그래서, %CURRENTPLAYERNAME%, 넌 뭘 주문할 거야?"
+    },
+    {
+      "line": 302,
+      "event": "evilmenu",
+      "english_sha256": "efd4b65c7a51da99234ef82390e99a4d389ed79629971160965b86e947e1fb08",
+      "ko": "사악한 밀크셰이크와 데블드 에그, 악마 맛 추가 ;)"
+    },
+    {
+      "line": 303,
+      "event": "evilmenu",
+      "english_sha256": "18f759ff254e2403ed79b0d521af967182331436a9582bad060f757638ab3e00",
+      "ko": "세상 모든 걸 때려 넣은 버거"
+    },
+    {
+      "line": 304,
+      "event": "evilmenu",
+      "english_sha256": "ee127f46da9c6053957ed11dc56da7083ca52d0d479df67a3dda2fffc7bd4bd5",
+      "ko": "수프"
+    },
+    {
+      "line": 309,
+      "event": "evilmenu",
+      "english_sha256": "65e9856fcfe5d2362b9ca5deb75e22fd21db7ccb8719c1f463f13eaca1ae773c",
+      "ko": "사악한 밀크셰이크를 주문한다고? 죽고 싶은 거야?!"
+    },
+    {
+      "line": 310,
+      "event": "evilmenu",
+      "english_sha256": "6653f9d2d7f04fabfbe3422528742abde537c99f54cb068c9a06036feedae15f",
+      "ko": "이건 좀 아닌 것 같은데, %CURRENTPLAYERNAME%... 저 사악한 밀크셰이크 좀 봐. 영혼 없는 눈알이 출렁거리는 게 너무 무서워!"
+    },
+    {
+      "line": 311,
+      "event": "evilmenu",
+      "english_sha256": "34070530433e0fc6947d08aca75b08686b01fe2aca3443579f5b2d3f0b1a13b9",
+      "ko": "음, 이 정도면 괜찮겠지. 친구들이 “악마 맛 추가” 부분에 더 감탄하지 않는 게 오히려 놀랍다."
+    },
+    {
+      "line": 312,
+      "event": "evilmenu",
+      "english_sha256": "e2d8aac8dca5de67c5a7b7934ebba8ce96f06c1d368720dbe5998b2fb097e4b1",
+      "ko": "아, 뭐, 멋지네. 난 악마의 알을 먹진 않겠지만, 남의 성적 취향을 함부로 판단하진 않아."
+    },
+    {
+      "line": 314,
+      "event": "evilmenu",
+      "english_sha256": "17911ebe0cdf427eaa74bba66c5101f2f12414f032c3ba78f391712b40c68705",
+      "ko": "몇 분 뒤, 기다리고 기다리던 사악한 밀크셰이크가 나온다. 한 모금 마셔 보니... 꽤 맛있다!"
+    },
+    {
+      "line": 317,
+      "event": "evilmenu",
+      "english_sha256": "888077bfc68c198f78b981528b066e5ac95f090fed2115e5216dbbc0bcaf9b96",
+      "ko": "폴리, 저 밀크셰이크 좀 봐! 착한 녀석이 아니라는 게 딱 보여. 좀 으스스하단 말이야."
+    },
+    {
+      "line": 319,
+      "event": "evilmenu",
+      "english_sha256": "148cee5f428ffc96c545b99cf2cdadf9a1a95b0b9e033b1e029b0395b4ffc9f0",
+      "ko": "그래, 좀 사악하긴 하네... 뭐, 그냥 컵에 담긴 액체일 뿐이지만, 기회만 있으면 널 칼로 찌를 것 같은 건 너무 뻔하지."
+    },
+    {
+      "line": 321,
+      "event": "evilmenu",
+      "english_sha256": "30b7a7681bded48ea250cb6137d643f4dc02c870f7a59cf9534ce003ffc4fdfd",
+      "ko": "폴리, 저 밀크셰이크가 지금 나를 찌를 생각을 하고 있을까?"
+    },
+    {
+      "line": 323,
+      "event": "evilmenu",
+      "english_sha256": "5d5b6a9f4d0555e668fc3418083dfb06e583773d9de4c26588773f736842b719",
+      "ko": "잘 들어, 스콧. 넌 내 친구고 내가 아끼는 사람이지만, 솔직히 말할게. 저 밀크셰이크는 100% 널 찌를 생각뿐이야. 저 눈빛을 보라고!"
+    },
+    {
+      "line": 324,
+      "event": "evilmenu",
+      "english_sha256": "3bd8e134eda3b139bbc8573659d2c63ed5f89c6c399f310d375e165adc195a50",
+      "ko": "좋아, 이건 도가 지나쳤다. 넌 빌어먹을 밀크셰이크를 단숨에 들이켜고 +N2 STAMINA를 얻는다."
+    },
+    {
+      "line": 327,
+      "event": "evilmenu",
+      "english_sha256": "d2cca6811e182316c8900dbc8bca2b501565972c4ab5171f3b22d0f109c03ccb",
+      "ko": "휴! 구해 줘서 고마워, %CURRENTPLAYERNAME%. 혹시 밀크셰이크의 사악하고 썩은 속내까지 맛볼 수 있었어?"
+    },
+    {
+      "line": 328,
+      "event": "evilmenu",
+      "english_sha256": "5630426c0fc4949a6b314a2a44face04d65874fceecd2ead2f3724b5cb5d7168",
+      "ko": "어... 그래. 넌 고개를 끄덕인다."
+    },
+    {
+      "line": 329,
+      "event": "evilmenu",
+      "english_sha256": "e843ceb992b30da212c8f7cf79b63d1b6c20074459eea2915d325965ea4c7024",
+      "ko": "세상 모든 악의 근원일지도 모르는 것과 맞서다니, 넌 정말 좋은 친구야. 네 영혼도 부식되고 있을 거야."
+    },
+    {
+      "line": 330,
+      "event": "evilmenu",
+      "english_sha256": "87219e39858c82de00f257a7db5d07c69f3b5ddc191e930aec93b769746c30d5",
+      "ko": "아니, 그냥 평범한 밀크셰이크였어."
+    },
+    {
+      "line": 331,
+      "event": "evilmenu",
+      "english_sha256": "88312784ce34fde3f604ff34dd52e7e1025a8c64719a7c2506c3274ae768d1f3",
+      "ko": "...정말 그랬을까?"
+    },
+    {
+      "line": 332,
+      "event": "evilmenu",
+      "english_sha256": "97e15120f213467f5362912a5902b6baea044301df2b572987247e1caf6c3673",
+      "ko": "넌 -N2 SOUL을 잃는다."
+    },
+    {
+      "line": 337,
+      "event": "evilmenu",
+      "english_sha256": "7bb17d3e69998414f4ae2c190a5931d068f3f46404f4e2ed997910a6be6a6af8",
+      "ko": "네가 얼마나 위험한 짓을 하는지 알기나 해? 그 버거에는 세상 모든 게 들어간다고."
+    },
+    {
+      "line": 338,
+      "event": "evilmenu",
+      "english_sha256": "873212b0e09daaf3dbd3ea933be876840c5893aa302e8b4e95eb0ae4c4b214ca",
+      "ko": "그거 도전으로 받아들여도 되겠네! 파인애플도 들어가 있어?"
+    },
+    {
+      "line": 339,
+      "event": "evilmenu",
+      "english_sha256": "5f9a2b795615ba6a3d5455fd5624d773fbca5bcd16249c421fd37411dc9837da",
+      "ko": "그래."
+    },
+    {
+      "line": 340,
+      "event": "evilmenu",
+      "english_sha256": "263ea499e428a2329a02c2ebab84cc34ca5a0a6befa6ca3f0229e185e5144786",
+      "ko": "“바포메트의 똥꼬 습격” 핫소스도 들어가 있어?"
+    },
+    {
+      "line": 341,
+      "event": "evilmenu",
+      "english_sha256": "f95e86059d88165775fff21b0707b0b263829fade1b58d5f430dcf00b11c2ed7",
+      "ko": "그래, 들어 있지. 세상에 존재하는 다른 모든 소스도 말이야. 말 그대로 모든 게 다 들어 있어."
+    },
+    {
+      "line": 342,
+      "event": "evilmenu",
+      "english_sha256": "1615e8070ddfd6e3b8879ca536356dc1ba54d3bea9810c4949d931de5b1f30d6",
+      "ko": "강아지 간식도 있어? 시내에 있는 좋은 반려동물 가게에서 파는 고급 제품도?"
+    },
+    {
+      "line": 343,
+      "event": "evilmenu",
+      "english_sha256": "91597806bc1ef14eb102e73879fe05e2c2bceb5705bec3f6ee4a5d98c7b3dea9",
+      "ko": "그럼 스콧 엉덩이도 들어 있어? 버거 위에 스콧 엉덩이가 올라가 있냐고?!"
+    },
+    {
+      "line": 344,
+      "event": "evilmenu",
+      "english_sha256": "ae8b59f90ec8a0029def2388dc351462e4e78e7099657922cda6d4aa4bb3dfb1",
+      "ko": "초등학교 4학년 때 할머니가 만들어 주셨던, 너무 맛있어서 핵심 기억으로 남은 그 브라우니도 들어 있어?!"
+    },
+    {
+      "line": 345,
+      "event": "evilmenu",
+      "english_sha256": "26eccb0d9c65f3ee378995d04769f171fb8becad963a990fedbd49d755574c24",
+      "ko": "그래! 씨발, 네가 말한 거 전부 다 들어 있다고! 이 버거에 모든 게 들어 있다는 걸 대체 어떻게 더 분명하게 말해야 해!!!"
+    },
+    {
+      "line": 346,
+      "event": "evilmenu",
+      "english_sha256": "a872e3da05e653ce29072d001708e9217779325f2839ea165f77d2944d12ab25",
+      "ko": "그 빌어먹을 버거를 가져다주면 멍청한 질문 좀 그만할 거야?!"
+    },
+    {
+      "line": 347,
+      "event": "evilmenu",
+      "english_sha256": "d5f5c8290a2f410d38e93f1e3e2a678baf15f21802ac22c65d2dbb479b08acc0",
+      "ko": "어... 으음... 아마 아닐걸."
+    },
+    {
+      "line": 348,
+      "event": "evilmenu",
+      "english_sha256": "982dbf1a297ef79fe24019076521ba357d57a4963cfcd36cfafc2ac9664b67bf",
+      "ko": "그래도 시도는 해 볼 수 있잖아!"
+    },
+    {
+      "line": 350,
+      "event": "evilmenu",
+      "english_sha256": "8e21207abec44b5331345c6558c71a743de16516913ffecc319cb0629e435cf3",
+      "ko": "제라드가 세상 모든 게 든 버거를 가져온다. 한입 베어 무는데... 세상에, 씨발."
+    },
+    {
+      "line": 351,
+      "event": "evilmenu",
+      "english_sha256": "bd2081d704dd8acc2953993ffae415fd936abf01fa1bf1bf8b798213fde56cb9",
+      "ko": "폴리와 스콧이 말한 재료가 전부 들어 있다... 그보다 더 많은 것도. 넌 분명 +N2 STAMINA를 얻는다."
     }
   ]
 }

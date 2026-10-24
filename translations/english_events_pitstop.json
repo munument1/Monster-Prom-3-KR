@@ -900,6 +900,1056 @@
       "event": "pitstop_noodles_outro_2",
       "english_sha256": "c731e31143cb495b1392ac7738cbdfe3329ab17d708224dc5c8083af9259b039",
       "ko": "...그래서 애들은 하나도 살아남지 못했지! 하하, 좋았던 시절이야. 아무튼 구매한 물건 잘 쓰라고!"
+    },
+    {
+      "line": 349,
+      "event": "pitstop_noodles_outro_3",
+      "english_sha256": "974b28169879cc05b5f1d7b91c1493bc2ce11dd41f97048fa3827f709ecbb3d7",
+      "ko": "이런, 진짜 그걸 사 갔어? 다른 상품들이 상대적으로 좋아 보이게 하려고 진열해 둔 건데."
+    },
+    {
+      "line": 350,
+      "event": "pitstop_noodles_outro_3",
+      "english_sha256": "f0ebffbd54fc90d7e8978bd49a11b7c9f27cbc583861d8dafad3ebb9e1566a64",
+      "ko": "뭐, 네가 호구인 건 내 탓 아니지. 환불은 절대 없어!"
+    },
+    {
+      "line": 356,
+      "event": "pitstop_noodles_outro_4",
+      "english_sha256": "9d2666b2618e6deb66a9362d65dd909bbac3deb3ca5ff7265ac0e82e2ae684df",
+      "ko": "구매 잘했어! 그리고 물물교환 클럽의 첫 번째 규칙을 기억해..."
+    },
+    {
+      "line": 357,
+      "event": "pitstop_noodles_outro_4",
+      "english_sha256": "2ca9724972faad05bee9985dd5f8887066f924ad71dd08571301f42f4e81da1a",
+      "ko": "환불 안 된다고?"
+    },
+    {
+      "line": 358,
+      "event": "pitstop_noodles_outro_4",
+      "english_sha256": "e56138decfa741208c8c6b204b5d5ee1d67b008e5c63f6bfaff187176628d6fc",
+      "ko": "아, 사실은 \"수요일엔 속옷을 입지 마라\"야. 그래도 환불 금지도 좋은 규칙이지!"
+    },
+    {
+      "line": 364,
+      "event": "pitstop_noodles_outro_5",
+      "english_sha256": "8d52a32f08d3c76c0adade38b8292e4ba152b45712827148338b63c448414eb5",
+      "ko": "들러 줘서 고마워! 가위눌릴 때 나오는 악마들한테 내 안부 전해 줘!"
+    },
+    {
+      "line": 370,
+      "event": "pitstop_noodles_outro_6",
+      "english_sha256": "8b31bf20b1eef3dab020e5bf9787c3254a44da1351d039432ee6d8c2a25a72a2",
+      "ko": "탁월한 선택이야! 들러 줘서 고마워!"
+    },
+    {
+      "line": 371,
+      "event": "pitstop_noodles_outro_6",
+      "english_sha256": "5dd67398f4df661936a4d803d4f985c24deaf5b6b4ac49a2db022f8faa5d8043",
+      "ko": "그리고 내 물건을 온라인에서 되팔았다간, 나 다시 감옥 갈 각오도 되어 있다는 걸 명심해!"
+    },
+    {
+      "line": 377,
+      "event": "pitstop_noodles_outro_7",
+      "english_sha256": "d51941c5023398a457d1499bda72efda40911f6daabc34bb0cbe30d88319982f",
+      "ko": "훌륭한 선택이야! 안전하게 여행하고, 누들스 물물교환 가게의 좌우명도 기억해:"
+    },
+    {
+      "line": 378,
+      "event": "pitstop_noodles_outro_7",
+      "english_sha256": "cc72278b1067e9552f5202cb1fd45eb9ec82a6e927863b849a0ae143c3d308e0",
+      "ko": "\"어떤 감옥도 날 가둘 수 없고, 어떤 규칙도 날 지배할 수 없다. 나는 혼돈 그 자체이며, 네가 어디 사는지도 알고 있다.\""
+    },
+    {
+      "line": 379,
+      "event": "pitstop_noodles_outro_7",
+      "english_sha256": "d6444afa3dbca23d7193ebd540d0592ace757ea3abcc3957253801d6c458047b",
+      "ko": "구매한 물건 잘 써!"
+    },
+    {
+      "line": 385,
+      "event": "pitstop_noodles_outro_8",
+      "english_sha256": "b6c464d89587a2b73463e7a94c8598dccd7da43c1d4b461ac5c82560dec02dfb",
+      "ko": "좋은 선택이야! 그거 네 열두 번째 생일 파티에서 내가 가져온 거거든!"
+    },
+    {
+      "line": 386,
+      "event": "pitstop_noodles_outro_8",
+      "english_sha256": "936619ced437e5d7ebd90cf33b9163415663ddd34fdcc12700d2871c744210af",
+      "ko": "너... 뭐라고?!"
+    },
+    {
+      "line": 387,
+      "event": "pitstop_noodles_outro_8",
+      "english_sha256": "986bf2c159defcf6c27eb1eff8a893435084bbd70ac57ad4be36b67fda634503",
+      "ko": "히히! 잘 자!"
+    },
+    {
+      "line": 393,
+      "event": "pitstop_noodles_outro_9",
+      "english_sha256": "946a8a274fc824f64cc108c471b87ed4c692aec61dc59fd67c236b0b9ff780d7",
+      "ko": "들러 줘서 고마워! 다음 휴게소에서 보자!"
+    },
+    {
+      "line": 394,
+      "event": "pitstop_noodles_outro_9",
+      "english_sha256": "71729ffa86a2a3b1ffddfe69edb6ddcef8b892528da50c24a70dd6cf1ea62440",
+      "ko": "내가 다음 휴게소에 갈 줄 어떻게 알아?"
+    },
+    {
+      "line": 395,
+      "event": "pitstop_noodles_outro_9",
+      "english_sha256": "31e04bfd6bf2a2bf21739a2f3e0268ed7869fa1f2f2eaa8f3222445d947c6f87",
+      "ko": "우린 끝없는 시간 루프에 갇혀 있잖아, 바보야. 네 번 더 턴이 지나면 보자고!"
+    },
+    {
+      "line": 401,
+      "event": "pitstop_noodles_outro_10",
+      "english_sha256": "1ee90fe239c02d0cb3eacbda25d75cb1862d2dc8152d13534ad9651a6439980e",
+      "ko": "으악, 정말 그걸로 할 거야?"
+    },
+    {
+      "line": 402,
+      "event": "pitstop_noodles_outro_10",
+      "english_sha256": "37ab43fb1a528ad4ad5ef58a3e9be4be66f25d3d71e61075ff3d7cea874224ae",
+      "ko": "어... 안 고르면 다른 물건으로 바꿔도 돼?"
+    },
+    {
+      "line": 403,
+      "event": "pitstop_noodles_outro_10",
+      "english_sha256": "450fcf9a32a00c249027084ff240d21667ca4f0d5ca0c42532d0a2477d3b5918",
+      "ko": "안 돼! 잘 가!"
+    },
+    {
+      "line": 409,
+      "event": "pitstop_noodles_gameover_1",
+      "english_sha256": "eac227c386de14ddad533b80f9b80cfa73d82c031e59ebc72673554bbc13f026",
+      "ko": "이런!"
+    },
+    {
+      "line": 415,
+      "event": "pitstop_noodles_gameover_weirdtrinket",
+      "english_sha256": "4801460296d196f8d8957877f76e263a88691972acbb9b3b475dacb911f78668",
+      "ko": "...왜?"
+    },
+    {
+      "line": 422,
+      "event": "pitstop_passenger_intro_aaravi_1",
+      "english_sha256": "891d1b09624572c4eb3990e809d215e53444ec26fba370e4a192e3eb01da22c4",
+      "ko": "아라비에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 423,
+      "event": "pitstop_passenger_intro_aaravi_1",
+      "english_sha256": "b49c4f4636ad2f146684732ccd0bffe5bb79dc3a2fff1eb972aa6b1820add104",
+      "ko": "진심으로 내가 너랑 여행하고 싶을 거라 생각해? 쯧!"
+    },
+    {
+      "line": 424,
+      "event": "pitstop_passenger_intro_aaravi_1",
+      "english_sha256": "456000147993b1817e31eb5df2249e51dda0a25efa49b46672710a87bcb12f2f",
+      "ko": "그러니까... 뭐, 가 주긴 할게... 그렇다고 네가 좋아서 가는 건 아니야!"
+    },
+    {
+      "line": 431,
+      "event": "pitstop_passenger_intro_aaravi_2",
+      "english_sha256": "891d1b09624572c4eb3990e809d215e53444ec26fba370e4a192e3eb01da22c4",
+      "ko": "아라비에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 432,
+      "event": "pitstop_passenger_intro_aaravi_2",
+      "english_sha256": "2d7d4490bd7d46ee935bfd62924c6e9caa067c17e4cc27fbbaf670b30b15ca53",
+      "ko": "아라비가 일행에 합류했다!"
+    },
+    {
+      "line": 439,
+      "event": "pitstop_passenger_intro_aaravi_3",
+      "english_sha256": "891d1b09624572c4eb3990e809d215e53444ec26fba370e4a192e3eb01da22c4",
+      "ko": "아라비에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 440,
+      "event": "pitstop_passenger_intro_aaravi_3",
+      "english_sha256": "6b8d9e536381fc0108ef982609882838a21d4b39657104683b04f5c439f9b31a",
+      "ko": "잘 생각했어. 네 일행엔 나처럼 품격 있는 사람이 필요했거든."
+    },
+    {
+      "line": 441,
+      "event": "pitstop_passenger_intro_aaravi_3",
+      "english_sha256": "57064f0c6e13ae7417bef45be4de6b7a8a24ea0c1783f8d469b848166f412390",
+      "ko": "이제 습격하러 갈 준비 끝!"
+    },
+    {
+      "line": 446,
+      "event": "pitstop_passenger_intro_calculester_1",
+      "english_sha256": "54acafd52ed01a2e07a091f31ee153291542c6bd3d77c5c5ecedd723212a92a2",
+      "ko": "계산레스터에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 447,
+      "event": "pitstop_passenger_intro_calculester_1",
+      "english_sha256": "d91dfad771eb7fb5826401f973d78c221f92094c8f8db5fc298c8d3550035fb3",
+      "ko": "고마워요, 친구 %CURRENTPLAYERNAME%! 이 자동차 여행의 재미가 78.6%나 늘어났어요!"
+    },
+    {
+      "line": 452,
+      "event": "pitstop_passenger_intro_calculester_2",
+      "english_sha256": "54acafd52ed01a2e07a091f31ee153291542c6bd3d77c5c5ecedd723212a92a2",
+      "ko": "계산레스터에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 453,
+      "event": "pitstop_passenger_intro_calculester_2",
+      "english_sha256": "09bbd9656f7713ba46ef6950ffb272b5e5c25c7046e7b9185424f0b85f0844fe",
+      "ko": "오, 성스러운 회로여! 히치하이킹은 처음인데... 절차가 어떻게 되죠? 제가 제대로 최적화하고 있는 건가요?"
+    },
+    {
+      "line": 454,
+      "event": "pitstop_passenger_intro_calculester_2",
+      "english_sha256": "534ede9457bb0680e70b1fef78c1056ab294bab86ff4ad239ea79d0c2281ef48",
+      "ko": "아무래도 말 그대로 \"가면서 배우기\"를 해야겠네요!"
+    },
+    {
+      "line": 459,
+      "event": "pitstop_passenger_intro_damien_1",
+      "english_sha256": "e090767254dfcd21ae982e5e3c982d3b3828b3ce0f648e881fa5dc58502123c1",
+      "ko": "데이미언에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 460,
+      "event": "pitstop_passenger_intro_damien_1",
+      "english_sha256": "40f9b9a2c4cdef3320f558f5237d2d67386e89636a13d0fb5369da78aef43d44",
+      "ko": "오, 태워 주는 거야? 솔직히 난 공짜 휘발유나 얻을까 했는데."
+    },
+    {
+      "line": 461,
+      "event": "pitstop_passenger_intro_damien_1",
+      "english_sha256": "2cf71ca6d9f3ad289e296d14061853e6e9fc5de24d577bf63b4c5681c78662a6",
+      "ko": "뭐, 씨발, 너희 초보들이랑 잠깐 어울려 주지."
+    },
+    {
+      "line": 466,
+      "event": "pitstop_passenger_intro_damien_2",
+      "english_sha256": "e090767254dfcd21ae982e5e3c982d3b3828b3ce0f648e881fa5dc58502123c1",
+      "ko": "데이미언에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 467,
+      "event": "pitstop_passenger_intro_damien_2",
+      "english_sha256": "8353c0fd0c72edc4b9f633a571f04f2570c5bac720a2bf72da5d8653f389ba0a",
+      "ko": "존나 메탈이다! 달리자!"
+    },
+    {
+      "line": 472,
+      "event": "pitstop_passenger_intro_joy_1",
+      "english_sha256": "30805e72a1b8599040e521302114c3921baa9999543fdb2ed3f69b34c2895767",
+      "ko": "조이에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 473,
+      "event": "pitstop_passenger_intro_joy_1",
+      "english_sha256": "17c55c56f1edd0c7ed95dd07b1165c44f92a0c8381cfebb011e86905845990a9",
+      "ko": "좋아, 같이 갈게... 하지만 제발 안전 운전하고... 바보 같은 짓은 하지 말고..."
+    },
+    {
+      "line": 474,
+      "event": "pitstop_passenger_intro_joy_1",
+      "english_sha256": "b91effd9e49e90b05b3e47ccf192047eec0fa8d878bc36878b02c8f03b345ce2",
+      "ko": "아니, 그건 너무 큰 기대겠지. 그냥 우리 모두를 죽일 만큼 멍청한 짓만 하지 마, 알겠지?"
+    },
+    {
+      "line": 475,
+      "event": "pitstop_passenger_intro_joy_1",
+      "english_sha256": "9bbcb2cf4f62427b0fed9586019da48662f3b28497d6d133452aabfd76ebcbff",
+      "ko": "장담은 못 하지!"
+    },
+    {
+      "line": 480,
+      "event": "pitstop_passenger_intro_joy_2",
+      "english_sha256": "30805e72a1b8599040e521302114c3921baa9999543fdb2ed3f69b34c2895767",
+      "ko": "조이에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 481,
+      "event": "pitstop_passenger_intro_joy_2",
+      "english_sha256": "c789b58d7532890045b22b40277a09430fb287a44cb36657aded0583f6f54805",
+      "ko": "폴리랑 스콧이랑 자동차 여행이라... 음... 그래, 잠깐 같이 가 줄게."
+    },
+    {
+      "line": 482,
+      "event": "pitstop_passenger_intro_joy_2",
+      "english_sha256": "a84b82da30fb98492eeb8a459273307de053e5fb16c4fc61f8ed6c2ecf460f0b",
+      "ko": "적어도 너희가 전부 살아 있는지 확인할 사람은 한 명 있어야 하잖아."
+    },
+    {
+      "line": 487,
+      "event": "pitstop_passenger_intro_liam_1",
+      "english_sha256": "85b2cef7b5e422947c9addae9d0b2cc3bf5393f74202a489cf39950b0a026ceb",
+      "ko": "리엄에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 488,
+      "event": "pitstop_passenger_intro_liam_1",
+      "english_sha256": "da0c74052f36f09a69d867e47104e7959b90edc8dc95864b37a198cc4c9322a2",
+      "ko": "20XX년에 히치하이킹이라니? 완전 빈티지하잖아!"
+    },
+    {
+      "line": 493,
+      "event": "pitstop_passenger_intro_liam_2",
+      "english_sha256": "85b2cef7b5e422947c9addae9d0b2cc3bf5393f74202a489cf39950b0a026ceb",
+      "ko": "리엄에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 494,
+      "event": "pitstop_passenger_intro_liam_2",
+      "english_sha256": "db2e0abadd22c6d886cc74033da3ab8d2c6c8329f365c5bb729b0a4479c2500b",
+      "ko": "리엄 드 리옹쿠르가 정신 나간 자동차 여행을? 이 얼마나 파격적인 일이람!"
+    },
+    {
+      "line": 499,
+      "event": "pitstop_passenger_intro_milo_1",
+      "english_sha256": "872375e08211c8701ea260dd2dc094edf2c6844099b882e260771f6b0b56b8aa",
+      "ko": "마일로에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 500,
+      "event": "pitstop_passenger_intro_milo_1",
+      "english_sha256": "792aabca83333b374885cb5f0ff313f38d9b84dd64e73d50a1f1a39224472f93",
+      "ko": "내 새 전속 운전기사가 되어 주겠다고? 아주 좋네! 출발해, 자기야!"
+    },
+    {
+      "line": 505,
+      "event": "pitstop_passenger_intro_milo_2",
+      "english_sha256": "872375e08211c8701ea260dd2dc094edf2c6844099b882e260771f6b0b56b8aa",
+      "ko": "마일로에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 506,
+      "event": "pitstop_passenger_intro_milo_2",
+      "english_sha256": "5cc0fe150ce34ea562915a4b55e0a128c9b4553a864dc90bfe419b316236867f",
+      "ko": "자동차 여행이라고? 귀여운 차 안 셀카를 찍기 딱 좋은 기회잖아! 기꺼이 따라갈게, 자기야."
+    },
+    {
+      "line": 511,
+      "event": "pitstop_passenger_intro_miranda_1",
+      "english_sha256": "8cbf6e8fa73f3cb005296082fd45e7c0abddfd4e04df1157d690c0c4383a620e",
+      "ko": "미란다에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 512,
+      "event": "pitstop_passenger_intro_miranda_1",
+      "english_sha256": "b7be8e4b272598c52132366f07908f508caf300a3c5c9422e25515e259c2ca1a",
+      "ko": "자동차 여행이라고? 정말 이국적이구나! 꼭 가고 싶어!"
+    },
+    {
+      "line": 513,
+      "event": "pitstop_passenger_intro_miranda_1",
+      "english_sha256": "560e6a47a5690a3a89a44f44bdccc6d32f13bebcd4642383de0de9f12120f517",
+      "ko": "은식기 여행 가방은 저쪽에 있어. 차에 싣고 나면 옷 상자도 옮기자꾸나!"
+    },
+    {
+      "line": 514,
+      "event": "pitstop_passenger_intro_miranda_1",
+      "english_sha256": "39a8bc2215c28e4d3b1a8fe31b2633fa5083b00e498a8649b24d097629bacd77",
+      "ko": "하아..."
+    },
+    {
+      "line": 519,
+      "event": "pitstop_passenger_intro_miranda_2",
+      "english_sha256": "8cbf6e8fa73f3cb005296082fd45e7c0abddfd4e04df1157d690c0c4383a620e",
+      "ko": "미란다에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 520,
+      "event": "pitstop_passenger_intro_miranda_2",
+      "english_sha256": "ce5cec80f7fd129d546c7f1f48bbf5918dc297a6d7e8706010fd7a663d20e608",
+      "ko": "자... 자동차... 여행? 좋아, 가도록 하지. 나를 태울 가마는 준비해 뒀니?"
+    },
+    {
+      "line": 521,
+      "event": "pitstop_passenger_intro_miranda_2",
+      "english_sha256": "95365b2c46220e129854c8b67dbb3695cc8adeeebc688c85b76d4813d3a146b8",
+      "ko": "어... 아니. 우리처럼 그냥 차에 타면 되는 줄 알았는데."
+    },
+    {
+      "line": 522,
+      "event": "pitstop_passenger_intro_miranda_2",
+      "english_sha256": "5211c444ea84918358ac6fd549dc0fbf5c77358d71c70c00f9fccaff075dffad",
+      "ko": "정말? 어머나, 이번 여행은 정말 고생길이겠구나!"
+    },
+    {
+      "line": 527,
+      "event": "pitstop_passenger_intro_mothman_1",
+      "english_sha256": "8646875e81de94517e12830db0c9d4fda45c3077b4495d639898c92a705acc8a",
+      "ko": "모스 맨에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 528,
+      "event": "pitstop_passenger_intro_mothman_1",
+      "english_sha256": "2d761750347d8c284253b960cca0464117233cdafacbe1a5c19dd6a4196741f5",
+      "ko": "기꺼이 같이 갈게! 고마워, %CURRENTPLAYERNAME%!"
+    },
+    {
+      "line": 529,
+      "event": "pitstop_passenger_intro_mothman_1",
+      "english_sha256": "1f718f64cf9f7dde88724c412e46888958dd8f2f512d6b4e72ac43f091635f39",
+      "ko": "그동안 못 들려준 소문이 산더미야! 마사 맨티코어가 이번 주엔 누구랑 사귀는지 들으면 깜짝 놀랄걸..."
+    },
+    {
+      "line": 534,
+      "event": "pitstop_passenger_intro_mothman_2",
+      "english_sha256": "8646875e81de94517e12830db0c9d4fda45c3077b4495d639898c92a705acc8a",
+      "ko": "모스 맨에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 535,
+      "event": "pitstop_passenger_intro_mothman_2",
+      "english_sha256": "48acda62cc2b2b0ba70756b2a85ec3dbe83f812515a2a4cacdd25a92a3f28f5c",
+      "ko": "내가 길 위를 달린다고? 좋아! 매혹적인 헤드라이트를 잔뜩 보겠네!"
+    },
+    {
+      "line": 540,
+      "event": "pitstop_passenger_intro_stu_1",
+      "english_sha256": "f34648f8327833b3a5901a358f1f92468a8ea015d3e7ece29cb9be74902c569d",
+      "ko": "스투에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 541,
+      "event": "pitstop_passenger_intro_stu_1",
+      "english_sha256": "b35620b0f556a1da6ee4ccf015c2396a15ff6781e90a77a9217d733f3929d486",
+      "ko": "쩐다, 가자. 차 안에서 연기 꽉 채워 볼래?"
+    },
+    {
+      "line": 546,
+      "event": "pitstop_passenger_intro_stu_2",
+      "english_sha256": "f34648f8327833b3a5901a358f1f92468a8ea015d3e7ece29cb9be74902c569d",
+      "ko": "스투에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 547,
+      "event": "pitstop_passenger_intro_stu_2",
+      "english_sha256": "8d9a6fed28af97b086b06a82bb36c7344679ea946a199207c0c1959b0f40f76b",
+      "ko": "아, 야... 나도 같이 가고 싶지만 이 호수에서 인명 구조를 맡고 있어서... 아무도 익사하지 않게 지켜봐야 해..."
+    },
+    {
+      "line": 548,
+      "event": "pitstop_passenger_intro_stu_2",
+      "english_sha256": "1a1c1ffe375c7bf8fe9a41708f509d5062feb8ff996656c94b867bedca364742",
+      "ko": "뭐...? 근데 우린 사막 한가운데 있고 호수는 하나도 안 보이는데."
+    },
+    {
+      "line": 549,
+      "event": "pitstop_passenger_intro_stu_2",
+      "english_sha256": "e18198d36b0cb944051532b80ddcb4c98158e70b4471eaf615a2a7c91cc4663e",
+      "ko": "와, 진짜? 그럼 이제 내 책임도 없네! 가자!"
+    },
+    {
+      "line": 554,
+      "event": "pitstop_passenger_intro_valerie_1",
+      "english_sha256": "48485c9ababdd1280c06ca25d986b1a1c736fdc8cc1bd4d60938cc31489c5b20",
+      "ko": "발레리에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 555,
+      "event": "pitstop_passenger_intro_valerie_1",
+      "english_sha256": "42f0f002ff67b4b2d5a534d0e9959a4ebe64410168a8077de049e9d8b4351c49",
+      "ko": "좋아, 같이 갈게. 내 가게를 들고 여행을 떠나 보고 싶었거든."
+    },
+    {
+      "line": 560,
+      "event": "pitstop_passenger_intro_valerie_2",
+      "english_sha256": "48485c9ababdd1280c06ca25d986b1a1c736fdc8cc1bd4d60938cc31489c5b20",
+      "ko": "발레리에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 561,
+      "event": "pitstop_passenger_intro_valerie_2",
+      "english_sha256": "9a9945414d1e2cce0684994b062ab5bcb2642259f2aaba52acea8f0ceed563c8",
+      "ko": "어이, 오랜만이네. 네가 나랑 내 물건들을 그리워한 줄 알았어. 가자."
+    },
+    {
+      "line": 566,
+      "event": "pitstop_passenger_intro_vera_1",
+      "english_sha256": "3dcc7dd49250b5cdd35930367a9b7f25811964abe97dfe9787cc1f02e6d91b62",
+      "ko": "베라에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 567,
+      "event": "pitstop_passenger_intro_vera_1",
+      "english_sha256": "4670f49e1706941fff9863e5a124c580a783e0ae6cd2abeaadcaf9ecf1e2e942",
+      "ko": "좋아, 갈게... 어차피 내 멍청한 운전기사가 늦고 있거든."
+    },
+    {
+      "line": 568,
+      "event": "pitstop_passenger_intro_vera_1",
+      "english_sha256": "42e048fe1d68edeefc2d79c733dd82e7b3594104d555697514e5809effa99fc4",
+      "ko": "당장 출발해. 벌써 예정 시각보다 이 분 삼십 초나 늦었어."
+    },
+    {
+      "line": 573,
+      "event": "pitstop_passenger_intro_vera_2",
+      "english_sha256": "3dcc7dd49250b5cdd35930367a9b7f25811964abe97dfe9787cc1f02e6d91b62",
+      "ko": "베라에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 574,
+      "event": "pitstop_passenger_intro_vera_2",
+      "english_sha256": "0b8f671e0dffb93964bf366db30415d84a3bdffa179775f01cd3f092c6b07395",
+      "ko": "좋아, 같이 가 줄게... 내 소중한 시간을 쓸 만한 여행이어야 할 거야."
+    },
+    {
+      "line": 579,
+      "event": "pitstop_passenger_intro_zoe_1",
+      "english_sha256": "a5fb05a9162dbbbc17c57ed6251630c46db3ee5e04a51c216ce2adf6d0450a1b",
+      "ko": "조이에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 580,
+      "event": "pitstop_passenger_intro_zoe_1",
+      "english_sha256": "49797ee4aaba5f9fdf0a026b8ef45e4747fc37e6d1595d525396fcc376571921",
+      "ko": "좋아, 같이 갈게. 스포일러 경고: 이 자동차 여행, 이제 엄청 재밌어질 거야!"
+    },
+    {
+      "line": 585,
+      "event": "pitstop_passenger_intro_zoe_2",
+      "english_sha256": "a5fb05a9162dbbbc17c57ed6251630c46db3ee5e04a51c216ce2adf6d0450a1b",
+      "ko": "조이에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 586,
+      "event": "pitstop_passenger_intro_zoe_2",
+      "english_sha256": "f8dbb57cc1f2796212169ef1fa20eb1b1f0aaaaa9a2d0020751e2d2046b68c84",
+      "ko": "꺄아아아! 자동차 여행 AU, 간다!"
+    },
+    {
+      "line": 591,
+      "event": "pitstop_passenger_intro_yellow_1",
+      "english_sha256": "17f9635fe7b7389f68679020477f3295adf282f6ff79bbfc89ddac94410dbc5c",
+      "ko": "오즈에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 592,
+      "event": "pitstop_passenger_intro_yellow_1",
+      "english_sha256": "af6fa56bd43c26deead41d5ebc6d73428b312f16336068388dc56216795c70b9",
+      "ko": "아, 물론이지! 같이 가고 싶어!"
+    },
+    {
+      "line": 593,
+      "event": "pitstop_passenger_intro_yellow_1",
+      "english_sha256": "c915b805e793bec2d2c1df0857ea90a562e4e6db458afd8c4851bfa3bc24dfd4",
+      "ko": "(내가 모든 걸 망치지만 않았으면 좋겠다...)"
+    },
+    {
+      "line": 598,
+      "event": "pitstop_passenger_intro_yellow_2",
+      "english_sha256": "17f9635fe7b7389f68679020477f3295adf282f6ff79bbfc89ddac94410dbc5c",
+      "ko": "오즈에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 599,
+      "event": "pitstop_passenger_intro_yellow_2",
+      "english_sha256": "8beca3ab18c0805b9bcabcf50e2a53edd380eadd1c213c7353b6b3869dd22947",
+      "ko": "나... 나한테 같이 가자고? 정말?"
+    },
+    {
+      "line": 600,
+      "event": "pitstop_passenger_intro_yellow_2",
+      "english_sha256": "b9df0b1ec65245eba132510b43e7d2d42a38962dc7e2c06463e607e80b81c65a",
+      "ko": "좋아, 네가 정말 괜찮다면... 나도 같이 가고 싶어!"
+    },
+    {
+      "line": 605,
+      "event": "pitstop_passenger_intro_yellow_3",
+      "english_sha256": "17f9635fe7b7389f68679020477f3295adf282f6ff79bbfc89ddac94410dbc5c",
+      "ko": "오즈에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 606,
+      "event": "pitstop_passenger_intro_yellow_3",
+      "english_sha256": "c02d8e4f2d5b0176f888acd3f67be893fa3e6997be66553957e0a3fe9ffeab08",
+      "ko": "...어, 나도 같이 가자는 거야? 정말?"
+    },
+    {
+      "line": 607,
+      "event": "pitstop_passenger_intro_yellow_3",
+      "english_sha256": "5fbad1d074a1b75a67816a6a94cd92ce69543e44b952e3c977f2cd792f1b32cc",
+      "ko": "어... 좋아! 물론이지! 가자!"
+    },
+    {
+      "line": 612,
+      "event": "pitstop_passenger_intro_red_1",
+      "english_sha256": "6156edca227a508ec8d58947a0c59d49ef64eb60782cfe301e54d1f2a528f89d",
+      "ko": "아미라에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 613,
+      "event": "pitstop_passenger_intro_red_1",
+      "english_sha256": "eb7e7e9d5e7a88d89d3546d55412f2862ee0c503624ebc8e24470724087b29cd",
+      "ko": "아니, 권하려던 참이었는데, 네가 세 마디도 하기 전에 아미라는 벌써 운전석에 앉아 경적을 울리고 있다."
+    },
+    {
+      "line": 614,
+      "event": "pitstop_passenger_intro_red_1",
+      "english_sha256": "03cd2ae275de13906d2b45baf61c6acaa509b0a4458bc3d2f5536aa860248ebc",
+      "ko": "뭐 하고 서 있어, %CURRENTPLAYERNAME%?! 타이어 태우러 가야지!"
+    },
+    {
+      "line": 615,
+      "event": "pitstop_passenger_intro_red_1",
+      "english_sha256": "40ec26859a38c7fe9b86a0e99c125d41a728e82afda1342a98c1688ba2f69d38",
+      "ko": "이건 승낙으로 받아들이면 되겠네!"
+    },
+    {
+      "line": 620,
+      "event": "pitstop_passenger_intro_red_2",
+      "english_sha256": "6156edca227a508ec8d58947a0c59d49ef64eb60782cfe301e54d1f2a528f89d",
+      "ko": "아미라에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 621,
+      "event": "pitstop_passenger_intro_red_2",
+      "english_sha256": "284c87a77dd4932630ca2bf078039fc7f5be31e09488f1d2dfae8a700f31636f",
+      "ko": "가자! '자동차 여행'에서 '아미라'를 빼놓을 순 없지!"
+    },
+    {
+      "line": 622,
+      "event": "pitstop_passenger_intro_red_2",
+      "english_sha256": "2f931306822aafcee3291f250caf17321768648b866750cb9c3523487125916e",
+      "ko": "아니, 적어도 난 그래... 난 맞춤법에 꽤 약하거든."
+    },
+    {
+      "line": 627,
+      "event": "pitstop_passenger_intro_red_3",
+      "english_sha256": "6156edca227a508ec8d58947a0c59d49ef64eb60782cfe301e54d1f2a528f89d",
+      "ko": "아미라에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 628,
+      "event": "pitstop_passenger_intro_red_3",
+      "english_sha256": "f953109c730cee62d2399cf18f796aa2d239860583f7f8bf05c0e397b4441491",
+      "ko": "좋아, 자기야! 내가 최고의 히치하이커야!"
+    },
+    {
+      "line": 633,
+      "event": "pitstop_passenger_intro_blue_1",
+      "english_sha256": "49455141ee5d95bcedf7d030c569b1e3b8fdc031dc8fadb93e674e4a100c0566",
+      "ko": "비키에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 634,
+      "event": "pitstop_passenger_intro_blue_1",
+      "english_sha256": "c685e292210018eafbadb53d4f5e04eef38566ecdcd546971b490178845d4c94",
+      "ko": "차 멋진데, %CURRENTPLAYERNAME%! 엔진을 분해해서 어떻게 작동하는지 봐도 돼?"
+    },
+    {
+      "line": 635,
+      "event": "pitstop_passenger_intro_blue_1",
+      "english_sha256": "97d5e2ef7f32f66a63b1c95f611d7740ccc652015d53fb2f9a6f933b5fcb0db8",
+      "ko": "어... 그러진 않았으면 해. 그래도 우리랑 같이 타고 가도 돼!"
+    },
+    {
+      "line": 636,
+      "event": "pitstop_passenger_intro_blue_1",
+      "english_sha256": "916ab1308a01070ea16b9aca8d03b52811db1f9bce3ed6f69a3b9177e29caf4e",
+      "ko": "아, 알겠어!"
+    },
+    {
+      "line": 641,
+      "event": "pitstop_passenger_intro_blue_2",
+      "english_sha256": "49455141ee5d95bcedf7d030c569b1e3b8fdc031dc8fadb93e674e4a100c0566",
+      "ko": "비키에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 642,
+      "event": "pitstop_passenger_intro_blue_2",
+      "english_sha256": "07cc15570d961d0f0bddee7f30e82ae8827ffd94313a4f67ed563529cba8be35",
+      "ko": "가자! 이번 여행은 짜릿할 거야!"
+    },
+    {
+      "line": 647,
+      "event": "pitstop_passenger_intro_blue_3",
+      "english_sha256": "49455141ee5d95bcedf7d030c569b1e3b8fdc031dc8fadb93e674e4a100c0566",
+      "ko": "비키에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 648,
+      "event": "pitstop_passenger_intro_blue_3",
+      "english_sha256": "696c7e66c79dcad22d44322bb6d1845cf0babff58f3a881fffb5efb31374cf3b",
+      "ko": "좋아! 길 안내는 내가 맡을게!"
+    },
+    {
+      "line": 653,
+      "event": "pitstop_passenger_intro_green_1",
+      "english_sha256": "fe462d5ea1db50bb300cf7ea3e4334a55217e15210602fc42a6bacb438a4763a",
+      "ko": "브라이언에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 654,
+      "event": "pitstop_passenger_intro_green_1",
+      "english_sha256": "b41e2a96fffa1370254a295dabb2b053a575219f9237d37e4f11a9b7218404d0",
+      "ko": "어..."
+    },
+    {
+      "line": 655,
+      "event": "pitstop_passenger_intro_green_1",
+      "english_sha256": "45271c519aec866110fa9c85510d33174bd0822b5fbd7fc9c22c1ffada5bd4b1",
+      "ko": "*생각하는 소리*"
+    },
+    {
+      "line": 656,
+      "event": "pitstop_passenger_intro_green_1",
+      "english_sha256": "7b9605a89819c9ef5f66e9e39f321fffa30cf46f5d55304f4d934376a38dc851",
+      "ko": "...그래."
+    },
+    {
+      "line": 661,
+      "event": "pitstop_passenger_intro_green_2",
+      "english_sha256": "fe462d5ea1db50bb300cf7ea3e4334a55217e15210602fc42a6bacb438a4763a",
+      "ko": "브라이언에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 662,
+      "event": "pitstop_passenger_intro_green_2",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 663,
+      "event": "pitstop_passenger_intro_green_2",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 664,
+      "event": "pitstop_passenger_intro_green_2",
+      "english_sha256": "03b25bed61dad2fc92bb7ca539a0f5abb89e97a767e3ca68789d47009f9fa5c3",
+      "ko": "좋아."
+    },
+    {
+      "line": 669,
+      "event": "pitstop_passenger_intro_green_3",
+      "english_sha256": "fe462d5ea1db50bb300cf7ea3e4334a55217e15210602fc42a6bacb438a4763a",
+      "ko": "브라이언에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 670,
+      "event": "pitstop_passenger_intro_green_3",
+      "english_sha256": "2e40bf365772bef96e69c9a432b9d3f9d19c9f7650824f7c6928bc4bd379b33f",
+      "ko": "차에서 낮잠 자도 돼?"
+    },
+    {
+      "line": 671,
+      "event": "pitstop_passenger_intro_green_3",
+      "english_sha256": "f6144f37be38049f616106d8182f87a5f36f7e8895a6a604d83967628d1af59b",
+      "ko": "안 될 이유가 없지."
+    },
+    {
+      "line": 672,
+      "event": "pitstop_passenger_intro_green_3",
+      "english_sha256": "b129df1b5a0d59d346e8954834182e6dde5badba35a2033fb39740457621dc98",
+      "ko": "완벽해."
+    },
+    {
+      "line": 677,
+      "event": "pitstop_passenger_intro_adrien_1",
+      "english_sha256": "38b07fbec571fc732f50080f469769383e72f459ac8bda76875375f214ec3439",
+      "ko": "아드리앵에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 678,
+      "event": "pitstop_passenger_intro_adrien_1",
+      "english_sha256": "f2b196e25f7c9c2728e65ff8d598e081c4ea780887f0692c4ffcc13e671fda8a",
+      "ko": "이 무거운 갑옷을 입고 걷는 것도 꽤 지치는군..."
+    },
+    {
+      "line": 679,
+      "event": "pitstop_passenger_intro_adrien_1",
+      "english_sha256": "af2632b07a425ff13832531ea57d826a53b79545ac05352ec7cde43c78119088",
+      "ko": "나도 함께하지."
+    },
+    {
+      "line": 684,
+      "event": "pitstop_passenger_intro_adrien_2",
+      "english_sha256": "38b07fbec571fc732f50080f469769383e72f459ac8bda76875375f214ec3439",
+      "ko": "아드리앵에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 685,
+      "event": "pitstop_passenger_intro_adrien_2",
+      "english_sha256": "09ccc8b731df755c03718c099c51809f63b1c6790f70423c5056592a5201ba41",
+      "ko": "그대의 모험에 내가 함께하기를 바라는가?"
+    },
+    {
+      "line": 686,
+      "event": "pitstop_passenger_intro_adrien_2",
+      "english_sha256": "002e40f77f39a9b984e232a219f8afde82c910760938f5abb1edcfcf10a7fe20",
+      "ko": "내 검을 맡기겠소."
+    },
+    {
+      "line": 691,
+      "event": "pitstop_passenger_intro_adrien_3",
+      "english_sha256": "38b07fbec571fc732f50080f469769383e72f459ac8bda76875375f214ec3439",
+      "ko": "아드리앵에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 692,
+      "event": "pitstop_passenger_intro_adrien_3",
+      "english_sha256": "7f4a9f0b240c165fe0987ebed7ad8e0c8cda3b38f5ff5e76ef94d530130e0b9a",
+      "ko": "내가 그대와 함께하기를 원하는가?"
+    },
+    {
+      "line": 693,
+      "event": "pitstop_passenger_intro_adrien_3",
+      "english_sha256": "5670f6082c4f297540f724201628126ce930ad040fb919542425e230955b9899",
+      "ko": "물론이지. 도움이 필요한 이들을 외면하지 않는 것이 내 신념이오."
+    },
+    {
+      "line": 698,
+      "event": "pitstop_passenger_intro_hope_1",
+      "english_sha256": "5e63ee48ff7e8a3610b51ea64a70ddd6010ed1118eeef22f444e9f47306efc6c",
+      "ko": "호프에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 699,
+      "event": "pitstop_passenger_intro_hope_1",
+      "english_sha256": "13d46ff15d73fa08beae2d818d589fc5bc99eecfa17821619b866f046f932d97",
+      "ko": "흠... 앞으로 더 나은 제안이 들어올 것 같진 않네..."
+    },
+    {
+      "line": 700,
+      "event": "pitstop_passenger_intro_hope_1",
+      "english_sha256": "2c51a3325f9c32e0522f9f578fdf6dcb79f255a7b90ffcdf66bf135e3ab8a5b8",
+      "ko": "그래, 너희랑 타고 갈게."
+    },
+    {
+      "line": 705,
+      "event": "pitstop_passenger_intro_hope_2",
+      "english_sha256": "5e63ee48ff7e8a3610b51ea64a70ddd6010ed1118eeef22f444e9f47306efc6c",
+      "ko": "호프에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 706,
+      "event": "pitstop_passenger_intro_hope_2",
+      "english_sha256": "55b5c92dd6f619bcceb256554b694d5d20f2530c173536c57bc5d5eca07e7905",
+      "ko": "좋아, 같이 갈게. 이번 여행엔 희망이 조금 필요할 테니까."
+    },
+    {
+      "line": 707,
+      "event": "pitstop_passenger_intro_hope_2",
+      "english_sha256": "71ff7dcee8e316d464e361babc76583eb9e65b76c2ae0a8dd631e4e9b395b52e",
+      "ko": "그리고 넌 정말 '작은 호프'네, 하하!"
+    },
+    {
+      "line": 708,
+      "event": "pitstop_passenger_intro_hope_2",
+      "english_sha256": "3b8fd87ce4e97ecf85a5a226efe666cbcdbba56bfa2945fa46a582632bce17ee",
+      "ko": "...너무 나대지 마."
+    },
+    {
+      "line": 713,
+      "event": "pitstop_passenger_intro_hope_3",
+      "english_sha256": "5e63ee48ff7e8a3610b51ea64a70ddd6010ed1118eeef22f444e9f47306efc6c",
+      "ko": "호프에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 714,
+      "event": "pitstop_passenger_intro_hope_3",
+      "english_sha256": "7ff78d1f86150ef89b1d39230752f50b16541fc9c3181de0e62e3eeab9dee585",
+      "ko": "호프 할코, 네 곁에!"
+    },
+    {
+      "line": 719,
+      "event": "pitstop_passenger_intro_finn_1",
+      "english_sha256": "fa6f7f7396d408f1c548c4e3eb11b2af78fe458894f1be4b5250bc1ea9e6f9b9",
+      "ko": "핀에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 720,
+      "event": "pitstop_passenger_intro_finn_1",
+      "english_sha256": "6637c2806cba03c25c337bdcaaf022139387baecd36cc7988597f854b8d7bd87",
+      "ko": "좋아... 일에서 벗어나 잠깐 쉬는 것도 괜찮겠네."
+    },
+    {
+      "line": 725,
+      "event": "pitstop_passenger_intro_finn_2",
+      "english_sha256": "fa6f7f7396d408f1c548c4e3eb11b2af78fe458894f1be4b5250bc1ea9e6f9b9",
+      "ko": "핀에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 726,
+      "event": "pitstop_passenger_intro_finn_2",
+      "english_sha256": "52ed0d5c51306a09e474bd129ef32a6446ddba74d03be69c95b4be62b2941127",
+      "ko": "음, 좋아."
+    },
+    {
+      "line": 727,
+      "event": "pitstop_passenger_intro_finn_2",
+      "english_sha256": "c61dd04af594214cd4d68a4b9fdb65030e57d7380f024c8310d46b5657e6c2d9",
+      "ko": "나중에 사무실 앞에 내려 줘."
+    },
+    {
+      "line": 732,
+      "event": "pitstop_passenger_intro_finn_3",
+      "english_sha256": "fa6f7f7396d408f1c548c4e3eb11b2af78fe458894f1be4b5250bc1ea9e6f9b9",
+      "ko": "핀에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 733,
+      "event": "pitstop_passenger_intro_finn_3",
+      "english_sha256": "620cbeaefe5b4658a4f89b902de0a3b71d8fb87ba1d4f68c3ef50083fbf077ac",
+      "ko": "내가 너까지 어깨에 태우고 다녀야 하는 건 아니겠지?"
+    },
+    {
+      "line": 734,
+      "event": "pitstop_passenger_intro_finn_3",
+      "english_sha256": "1fa49e86cd87efa6e0e53cf4bafd1fa7ae24eda418f6d0fc26d3ad27e6e83527",
+      "ko": "...뭐? 아니. 당연히 아니지."
+    },
+    {
+      "line": 735,
+      "event": "pitstop_passenger_intro_finn_3",
+      "english_sha256": "73daef212aaf7c8ccf50e0f076230663c56eae0e2f2964f8a77b5de64d7665b0",
+      "ko": "다행이다."
+    },
+    {
+      "line": 740,
+      "event": "pitstop_passenger_intro_dahliaappliance_1",
+      "english_sha256": "7e5433accd966392b593c6064155704aab8d6dae831252a597b1e5c995ecb113",
+      "ko": "세탁기 달리아에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 741,
+      "event": "pitstop_passenger_intro_dahliaappliance_1",
+      "english_sha256": "72864fa6c1248c55200f2e327f44a2fdc8336cb0336093d1a7ed2a73c408aef7",
+      "ko": "나도 갈래! 잠깐만, 이것만 빨리 마무리하고..."
+    },
+    {
+      "line": 742,
+      "event": "pitstop_passenger_intro_dahliaappliance_1",
+      "english_sha256": "84fc53381203712e72af9c830bb797a853e2bd938f4f782195dc00c4c9a2a832",
+      "ko": "*띵!*"
+    },
+    {
+      "line": 743,
+      "event": "pitstop_passenger_intro_dahliaappliance_1",
+      "english_sha256": "5f2bbd8cb667431fad26f1d7379da0fc47b064a7035893c4f2f73f13a628e52d",
+      "ko": "좋아, 헹굼 코스 끝났다! 출발하자!"
+    },
+    {
+      "line": 748,
+      "event": "pitstop_passenger_intro_dahliaappliance_2",
+      "english_sha256": "7e5433accd966392b593c6064155704aab8d6dae831252a597b1e5c995ecb113",
+      "ko": "세탁기 달리아에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 749,
+      "event": "pitstop_passenger_intro_dahliaappliance_2",
+      "english_sha256": "1ffbbb4be9aa06f4aa4f5558b2616190a71e2bad78acf11da440812ad239059e",
+      "ko": "봐! 난 세탁기야!"
+    },
+    {
+      "line": 750,
+      "event": "pitstop_passenger_intro_dahliaappliance_2",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 751,
+      "event": "pitstop_passenger_intro_dahliaappliance_2",
+      "english_sha256": "3e4e9c4777ee399ddc1fa444d8099b9c34b6d39b3a549a84252ab3777a6ab508",
+      "ko": "...그건 알아."
+    },
+    {
+      "line": 752,
+      "event": "pitstop_passenger_intro_dahliaappliance_2",
+      "english_sha256": "1c4c42afb3fcddfd7683c43012cfd5b254a16841146f3cfe3a65f9636982af4e",
+      "ko": "씨발, 좋았어!"
+    },
+    {
+      "line": 757,
+      "event": "pitstop_passenger_intro_dahliaappliance_3",
+      "english_sha256": "679528ffda505a815106fecede6b748570e120923dc7a6dc2dcfe28a7979c243",
+      "ko": "세탁기 달리아에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 758,
+      "event": "pitstop_passenger_intro_dahliaappliance_3",
+      "english_sha256": "1c4c42afb3fcddfd7683c43012cfd5b254a16841146f3cfe3a65f9636982af4e",
+      "ko": "씨발, 좋았어!"
+    },
+    {
+      "line": 759,
+      "event": "pitstop_passenger_intro_dahliaappliance_3",
+      "english_sha256": "804bd48d30666a8f09614666f800ff5e4c5314424519544c1072cadcbc0a53a6",
+      "ko": "내가 먼저 운전할래!"
+    },
+    {
+      "line": 765,
+      "event": "pitstop_passenger_intro_lamb_1",
+      "english_sha256": "2408225837f31195668a0d7c74a24be91a20197c8ccf8cff6e090431166d9e8c",
+      "ko": "어린 양에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 766,
+      "event": "pitstop_passenger_intro_lamb_1",
+      "english_sha256": "2e833b810260614569b1440f49401a04f8d44700dc480e4117ce13b0ab45923f",
+      "ko": "좋아, 같이 갈게! 잠깐은 내 광신도들끼리 알아서 하겠지."
+    },
+    {
+      "line": 767,
+      "event": "pitstop_passenger_intro_lamb_1",
+      "english_sha256": "2b5ee5770bf1638f722695bbef0cc9208105602d6833a5286c7e408889a24372",
+      "ko": "배고파지면 서로 잡아먹으면 되잖아!"
+    },
+    {
+      "line": 773,
+      "event": "pitstop_passenger_intro_lamb_2",
+      "english_sha256": "2408225837f31195668a0d7c74a24be91a20197c8ccf8cff6e090431166d9e8c",
+      "ko": "어린 양에게 자동차 여행에 함께하자고 권한다."
+    },
+    {
+      "line": 774,
+      "event": "pitstop_passenger_intro_lamb_2",
+      "english_sha256": "b236eb0bd77b9e2ec6c92ad16895a8cd8bac17a555b95d4a612546944b46d1c0",
+      "ko": "좋아! 와, 이번엔 내가 누군가를 따라가는 쪽이네!"
+    },
+    {
+      "line": 781,
+      "event": "pitstop_passenger_lovesuccess_aaravi_1",
+      "english_sha256": "19444b77d6c6a88f5cc77535ce8873de15fad3606f7f2fe2b4a021e0d164f5b1",
+      "ko": "아, 안녕 %CURRENTPLAYERNAME%. 얘기하러 왔어?"
+    },
+    {
+      "line": 782,
+      "event": "pitstop_passenger_lovesuccess_aaravi_1",
+      "english_sha256": "c17ea38c89e72ab8224b9d2b8f5bedd809e0c9f2b0a4f1db5bd9eb7751659044",
+      "ko": "다시 만나서 반가워. 지난번에 진지하게 얘기한 뒤로, 감정이 북받칠 때 치료사가 하라고 한 걸 계속 실천하고 있어..."
+    },
+    {
+      "line": 783,
+      "event": "pitstop_passenger_lovesuccess_aaravi_1",
+      "english_sha256": "4820ab3a7aa09de74d9632db2f51e64020cca06eda61a0f2b62f1f880d0c07c0",
+      "ko": "뭐라고 부르더라... \"감정을 느끼기\"? 응, 맞는 것 같아."
+    },
+    {
+      "line": 784,
+      "event": "pitstop_passenger_lovesuccess_aaravi_1",
+      "english_sha256": "40cc938514d7aae04559feffe1ed7aeaf3cfb99408a2613cf7cd766c1c7d09d5",
+      "ko": "그러니까 오늘 밤은 그냥 편하게 쉬어도 될까?"
+    },
+    {
+      "line": 785,
+      "event": "pitstop_passenger_lovesuccess_aaravi_1",
+      "english_sha256": "f38decbe5b8c231032537a48047e8a93f64e77ddd076362d0d362730cb8b8ccb",
+      "ko": "물론이지! 아라비가 자기 감정을 느끼는 동안, 너희는 편안한 침묵 속에 나란히 앉아 있는다. 참 좋은 시간이다."
+    },
+    {
+      "line": 792,
+      "event": "pitstop_passenger_lovesuccess_aaravi_2",
+      "english_sha256": "19444b77d6c6a88f5cc77535ce8873de15fad3606f7f2fe2b4a021e0d164f5b1",
+      "ko": "아, 안녕 %CURRENTPLAYERNAME%. 얘기하러 왔어?"
     }
   ]
 }
