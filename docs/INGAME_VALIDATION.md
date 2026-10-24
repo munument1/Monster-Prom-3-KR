@@ -19,6 +19,10 @@ Monster Prom 3: Monster Roadtrip Steam 설치본 2026-10-24, build 25955894:
   실제 한국어가 보인다고 주장할 수 없습니다.**
 - 현재 OS에는 맑은 고딕 및 Noto Sans KR 글꼴이 설치되어 있음(파일은
   저장소·배포 패키지에 포함하지 않음). 실행 시 시스템 글꼴을 불러오는 방식 검토.
+- 2편 설치본에 실제 포함된 `fontset_korean` 프로필에는 제목용 **Jua**, 본문용
+  **Gamja Flower**가 지정돼 있음. 현재 번역 한글 음절 943종은 모두 지원하지만,
+  두 글꼴 중 Jua는 전체 한글 완성형의 일부만 지원함.
+  [로컬 추출·문자 지원 감사](FONT_REUSE.md)를 참조.
 - `english_metatexts`에 남아 있는 `Fan Translation Modtool` 메뉴 문자열은
   단지 잔재일 수 있습니다. DLL에서 2편의 `ModTool`/`WorkshopLoader` 구현 클래스는
   확인되지 않았으므로 **공식 번역 모드 사용 가능**이라고 해석하면 안 됩니다.
@@ -29,7 +33,10 @@ Monster Prom 3: Monster Roadtrip Steam 설치본 2026-10-24, build 25955894:
 2. Harmony가 `BeautifulGlitch.CoreAssetManager.GetTextAsset`의
    `english_metatexts` 결과를 번역된 `TextAsset`으로 치환하여 메뉴와 UI를 번역하도록 설계합니다.
 3. `UILabel`(NGUI)과 `UnityEngine.UI.Text`가 한글 문자열을 출력하는 시점에
-   `Font.CreateDynamicFontFromOSFont("Malgun Gothic", 24)`로 생성한 한글 폰트를 주입합니다.
+   가능하면 2편의 **Jua / Gamja Flower**를 각각 제목/본문용으로 주입합니다.
+   구형 Unity AssetBundle 직접 읽기가 실패한다면
+   `Font.CreateDynamicFontFromOSFont("Malgun Gothic", 24)`로 생성한
+   한글 폰트를 대체 사용합니다.
    전역 폰트 설정 변경은 UI 레이아웃·줄바꿈 회귀를 유발할 수 있으므로
    동작 보장 전까지 배포하지 않습니다.
 4. 이벤트 텍스트는 원본 `ReadLocalizedTextFile`의 loose-file 경로를 사용하고,

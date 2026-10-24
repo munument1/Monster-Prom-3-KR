@@ -35,13 +35,15 @@
 
 ## 작업 환경 및 빌드
 
-의존성: Python 3, [`UnityPy`](https://github.com/K0lb3/UnityPy).
+의존성: Python 3, [`UnityPy`](https://github.com/K0lb3/UnityPy),
+선택적인 폰트 검사 도구 [`fonttools`](https://github.com/fonttools/fonttools).
 
 ```powershell
 cd D:\Codex_Trans\Monster-Prom-3-KR
 python -X utf8 scripts\extract_assets.py
 python -X utf8 scripts\build_playtest.py
 python -X utf8 scripts\build_ui_preview.py
+python -X utf8 scripts\prepare_camp_fonts.py
 python -X utf8 scripts\audit_progress.py
 python -X utf8 -m unittest discover -s tests -v
 ```
@@ -80,3 +82,5 @@ python -X utf8 -m unittest discover -s tests -v
 
 실게임 구동 확인·한글 글꼴/메뉴 주입과 회귀 테스트는
 [`docs/INGAME_VALIDATION.md`](docs/INGAME_VALIDATION.md)에 별도로 추적합니다.
+2편 한국어용 **Jua / Gamja Flower**를 3편에 재사용하는 로컬 감사/추출 절차는
+[`docs/FONT_REUSE.md`](docs/FONT_REUSE.md)에 기록했습니다.
