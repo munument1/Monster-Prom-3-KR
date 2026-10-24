@@ -7,9 +7,9 @@
 
 | 범주 | 번역 완료 | 원문 후보 | 진행률 |
 | --- | ---: | ---: | ---: |
-| 이벤트 대사·선택지·행동 | 2,826 | 27,384 | 10.32% |
-| UI·메타텍스트 | 695 | 2,871 | 24.21% |
-| **합계** | **3,521** | **30,255** | **11.64%** |
+| 이벤트 대사·선택지·행동 | 3,371 | 27,384 | 12.31% |
+| UI·메타텍스트 | 795 | 2,871 | 27.69% |
+| **합계** | **4,166** | **30,255** | **13.77%** |
 
 이전 GitHub `main` 커밋 `9d5d449`의 1,081개에서 **이번 작업으로 1,300개**를
 추가했습니다. `english_events_standard` 259개, `english_events_tutorial`
@@ -21,14 +21,19 @@
 번역했습니다. 본편 250개, 휴게소 250개, 엔딩 150개, 버블 240개,
 UI 250개를 추가했으며, 원문 행/변수/토큰/숫자 검증을 이어가고 있습니다.
 
+이번 후속 작업에서는 `47188ec`의 **3,521개에서 645개를 추가**했습니다.
+본편 120개(선택지·행동 포함), 휴게소 120개, 엔딩 110개, 버블 대화 195개,
+UI 100개를 원문 후보 순서대로 한국어화했습니다. 기존 JSON의 번역 값과
+원문 연결 정보는 보존하고 별도 빌드/원문 구조 검증을 수행했습니다.
+
 ### 현재 에셋별 번역 건수
 
 | asset | 번역 수 |
 | --- | ---: |
-| `english_events_maingame` | 496 |
-| `english_events_pitstop` | 575 |
-| `english_events_endings` | 465 |
-| `english_events_bubbles` | 510 |
+| `english_events_maingame` | 616 |
+| `english_events_pitstop` | 695 |
+| `english_events_endings` | 575 |
+| `english_events_bubbles` | 705 |
 | `english_events_standard` | 259 |
 | `english_events_gameover` | 250 |
 | `english_events_tutorial` | 206 |
@@ -36,7 +41,7 @@ UI 250개를 추가했으며, 원문 행/변수/토큰/숫자 검증을 이어�
 | `english_events_gachashop` | 30 |
 | `english_events_epilogue` | 8 |
 | `english_events_default` | 1 |
-| `english_metatexts` | 695 |
+| `english_metatexts` | 795 |
 
 ### 검증 방법 및 실게임 적용과의 차이
 
@@ -57,7 +62,7 @@ python -X utf8 scripts\prepare_camp_fonts.py --audit-only
 - 3편에 설치된 기존 한국어 테스트 패치는 이전 시점의 이벤트 TXT를 사용합니다.
   이번 번역 JSON·로컬 빌드 결과를 **실게임에 다시 설치하지 않았고**,
   대사·선택지 표시·저장/불러오기 회귀 검증은 아직 진행해야 합니다.
-- 2편의 Jua/감자꽃 글꼴은 현재 번역 한글 완성형 **1,119종 모두**를 포함하지만,
+- 2편의 Jua/감자꽃 글꼴은 현재 번역 한글 완성형 **1,140종 모두**를 포함하지만,
   모든 특수문자가 지원되는 것은 아닙니다. 신규 UI·대사 실게임 화면 검증 필요.
 - `work/`, `build/` 아래 원본/폰트/게임 리소스는 Git에서 제외하며,
   **비공개 GitHub 저장소에도 이 바이너리들을 업로드하지 않습니다.**

@@ -2976,6 +2976,726 @@
       "event": "punchsomeone",
       "english_sha256": "b43b394fe6a456383f799101aaab2ae195e46855531d81035126171bf82f537e",
       "ko": "너는 -N2 MAGIC을 소모해 주문을 외우고, 주머니에서 손수건을 꺼낸다. 손수건에는 또 다른 손수건이 묶여 있고, 그 손수건에는 또 다른 손수건이, 또 그다음 손수건이..."
+    },
+    {
+      "line": 721,
+      "event": "punchsomeone",
+      "english_sha256": "7d640c87cd7b9ff0c0254fc28f400a1982e9b087bcd0bc65499239b611a3b2ad",
+      "ko": "배리를 묶어 둘 만큼 긴 손수건 줄을 만들 때까지!"
+    },
+    {
+      "line": 722,
+      "event": "punchsomeone",
+      "english_sha256": "55199e36c11366ea285168e29808d1894f765e3b20bd89a7f80616df737734ea",
+      "ko": "자, 이제 사랑스러운 조수들의 도움을 받아 당신을 사라지게 해 드리겠습니다!"
+    },
+    {
+      "line": 723,
+      "event": "punchsomeone",
+      "english_sha256": "163fc01b446c4c283cf36f37c732e269acefc7080a9e60480f4683da0041e697",
+      "ko": "잠깐, 이 싸움은 팀전도 되는 거야? 난 일대일 대결인 줄 알았는데."
+    },
+    {
+      "line": 724,
+      "event": "punchsomeone",
+      "english_sha256": "7053097379df70bbbd4a998286cb744e765c8840203ba46dcdade6c056302963",
+      "ko": "그딴 건 집어치워! 여긴 매직 파이트의 영역이라고, 친구! 규칙 따윈 없어!"
+    },
+    {
+      "line": 725,
+      "event": "punchsomeone",
+      "english_sha256": "6ae60b44162109f69ca7f49e726832858be823b33c3f7336445a98caec147caa",
+      "ko": "친구들이 배리-밥을 문밖으로 굴려 내보내는 걸 도와준다. 그는 길을 따라 통통 튀어 가면서 네 미래의 모든 자식에게 저주를 건다."
+    },
+    {
+      "line": 726,
+      "event": "punchsomeone",
+      "english_sha256": "283b12b5423cd2e7fd44169c358b19ef2132782e7c0cb137332a5662bd5cc86d",
+      "ko": "손재주 마술을 배운다고 모두가 널 비웃었지만, 그걸 폭력에 써먹을 수 있음을 증명하자 입을 다물었다! +N2 HYPE를 얻는다!"
+    },
+    {
+      "line": 730,
+      "event": "punchsomeone",
+      "english_sha256": "f8be277a6812e81c54420400cac93b57af776e722c6047bb032582ad2ff0a333",
+      "ko": "네가 싸움을 걸 상대가 저 사람이라고? 유언장부터 교정해 달라고 할 생각도 없는 거야?"
+    },
+    {
+      "line": 731,
+      "event": "punchsomeone",
+      "english_sha256": "d4aefcc99cda175adafa85bb970f01facfe8d9f52389a85319936184ae87090c",
+      "ko": "이미 늦었어! 네가 먼저 주먹을 날리지만, 주먹은 닉-나그자즈의 얼굴을 그대로 통과하고 널 뒤틀린 악몽 차원으로 빨아들인다."
+    },
+    {
+      "line": 732,
+      "event": "punchsomeone",
+      "english_sha256": "e3e71de3f69bc83e32d9df68e6da7be19f8d24003fc338336c0ba50c3f8f87c8",
+      "ko": "너는 가장 두려워하는 것들을 모두 마주해야 한다. 상어, 바나나(유전자 변형 단일재배 작물이라니, 이상하잖아!), 심지어 감정적으로 친밀해지는 것까지!"
+    },
+    {
+      "line": 733,
+      "event": "punchsomeone",
+      "english_sha256": "52e019a2c72d8cfde746c7d968ed6e0c537be4546ed544993a47de0dee6ea236",
+      "ko": "어... 닉-나그자즈가 왜 %CURRENTPLAYERNAME%를 껴안고 있는 거야? 이것도 싸움의 일부야?"
+    },
+    {
+      "line": 734,
+      "event": "punchsomeone",
+      "english_sha256": "7dddd2ef062174c6ed54f54b8018d35cb509bada720730be27a8eed5ef8c1cc8",
+      "ko": "너는 공포에 질려 웅크리고, -N2 MIND가 곤두박질치는 와중에 갑자기 머릿속에서 따뜻한 목소리가 들려온다:"
+    },
+    {
+      "line": 735,
+      "event": "punchsomeone",
+      "english_sha256": "01892fd230841c7d3cf80aa9a90c24e0325907c1b0600ec73d81159289a5cbab",
+      "ko": "“%CURRENTPLAYERNAME%, 얘야, 엄마야. 늘 네 마음속에 있단다. 뭐, 그런 셈이지. 네가 어릴 때 무서워하면 엄마가 뭐라고 했는지 기억하니?”"
+    },
+    {
+      "line": 736,
+      "event": "punchsomeone",
+      "english_sha256": "6bab572197576f27f02b59eb31e90662b5fadd249de76ca21f17b298d2298ec7",
+      "ko": "“무서워해도 괜찮다고 했지. 두려움이 우리를 인간답게 만들어 주니까... 문자 그대로는 아니지만, 우린 괴물이잖니. 무슨 말인지 알지.”"
+    },
+    {
+      "line": 737,
+      "event": "punchsomeone",
+      "english_sha256": "e7275b08f0a789fc96b13c851a175b28d610ea4fe1dacbc66c88ea6fd240e4cf",
+      "ko": "“두려움이 널 정복하게 두지 마, 내 %SONDAUGHTER%! 다른 방법이 다 안 통하면 두려움의 사타구니를 걷어차 버려! 언제나 효과가 있단다! 당장 해!”"
+    },
+    {
+      "line": 738,
+      "event": "punchsomeone",
+      "english_sha256": "1cf5da568022162f6fa46f6ea19065d899158732da8a4ec54819412ec50080ec",
+      "ko": "우와, 멋진데! %CURRENTPLAYERNAME%가 %HISHER% 악몽의 불알을 걷어찼어!"
+    },
+    {
+      "line": 739,
+      "event": "punchsomeone",
+      "english_sha256": "b85cbcacf9d3ed6bd05900809658b22bd41d54b534a0536634e80051490dfc2d",
+      "ko": "그래... 봤어... 아직도... 같이 움찔하는 중이야..."
+    },
+    {
+      "line": 740,
+      "event": "punchsomeone",
+      "english_sha256": "9633b5c78f6d6c6d5860757d5c3d5c231da1f2672a49b3c0df1dc3857085e890",
+      "ko": "그게 통할 줄이야. 닉-나그자즈한테 대체 왜 사타구니가 있는 거지? 악몽으로 만들어진 존재 아니야?"
+    },
+    {
+      "line": 741,
+      "event": "punchsomeone",
+      "english_sha256": "e1f25ece91a2cfc9ee1548dc09134458ec454297068a398616b4fd6a352b8d20",
+      "ko": "닉의 몸은 악몽으로 이루어졌지만, 닉이 가장 두려워하는 건 사타구니를 걷어차이는 거니까! 아이러니하지?"
+    },
+    {
+      "line": 742,
+      "event": "punchsomeone",
+      "english_sha256": "7da5c2722098523df5fbc149ea7cb82639eb99a372762d9bbfd2e52d13701e1b",
+      "ko": "악몽에서 살아남았고, 플랜테인을 봐도 더는 몸서리치지 않게 됐으며, 싸움에서 이겨 +N2 HYPE를 얻었다!"
+    },
+    {
+      "line": 750,
+      "event": "drinkingcred",
+      "english_sha256": "5cd9ff02ff8143c9151dfa216c7230f09373a0e85815c8649cef5791ee7fd4a7",
+      "ko": "술 좀 마시기"
+    },
+    {
+      "line": 754,
+      "event": "drinkingcred",
+      "english_sha256": "ca7b10335bb5802bb1a34d5faf56f5308d1349bcfbcebca1cb60fbb48890b54c",
+      "ko": "너와 친구들은 바에 자리를 잡는다. 옆에는 험상궂은 유니콘과 왁자지껄한 폭풍 정령이 앉아 있다."
+    },
+    {
+      "line": 756,
+      "event": "drinkingcred",
+      "english_sha256": "3dd5b519a043a43bb140015a66ff4ee1148d6aecb8bbe4c34704a3bd80c138b8",
+      "ko": "어, 얘들아! 여기서 술 마시는 줄은 몰랐네!"
+    },
+    {
+      "line": 757,
+      "event": "drinkingcred",
+      "english_sha256": "4ce78cb1f15f04f9c9afe93ffebb5211aa30d6d674ae8c7394d604b0f032f0ca",
+      "ko": "안녕, 수잔! 우린 로드트립 중에 잠깐 들렀어. 너랑 네 친구는 여기 자주 와?"
+    },
+    {
+      "line": 758,
+      "event": "drinkingcred",
+      "english_sha256": "882a9c738b8ec8f42e5973f02424e2860be9c536ff6490e5f363a9a3e7a82a81",
+      "ko": "그럼, 늘 오지. 위스키랑 내가 이곳을 꽉 잡고 있거든."
+    },
+    {
+      "line": 759,
+      "event": "drinkingcred",
+      "english_sha256": "e99769dbc2e572654cfed126c82a4d0a3fecb3fea708b62dae326899082460e8",
+      "ko": "물론 진짜 주인은 따로 있지. 그건 다른 사람이 하는 일이고. 그래도 이곳에서 인정받는 건 우리 몫이라고."
+    },
+    {
+      "line": 760,
+      "event": "drinkingcred",
+      "english_sha256": "0722675438a3bcd20185b7ae7c4591c8ff239b8b1b5ef70c769ac9d9167a1067",
+      "ko": "단골들과는 다 친해. 저기 조니처럼! 어이, 친구! 조카는 잘 지내?"
+    },
+    {
+      "line": 761,
+      "event": "drinkingcred",
+      "english_sha256": "f110137f9f0a8a57fa8f98015df73364a505b1c2c30ada255b2b7a0feb304b4b",
+      "ko": "위스키가 소리쳐 부른 바이커가 고개를 들더니 말한다. “내 이름은 브로더릭이야. 넌 대체 누구야?”"
+    },
+    {
+      "line": 762,
+      "event": "drinkingcred",
+      "english_sha256": "219d3c9c6eeb6749c18fdb2e17962ba8f2968d970aeaea8fd6bd0e8574adc918",
+      "ko": "하하! 역시 조니야. 농담도 참 잘한다니까."
+    },
+    {
+      "line": 763,
+      "event": "drinkingcred",
+      "english_sha256": "f567b42541679c42266e25f566e15177038a2d0a5584ef9809881d5598bc80c4",
+      "ko": "어... 그래. 그럼 여기서 뭐가 맛있어?"
+    },
+    {
+      "line": 764,
+      "event": "drinkingcred",
+      "english_sha256": "0d35b67365cccc993b4125711d2aa79c96d22f5e7981e37e86193bd8cb206370",
+      "ko": "발효 휘발유를 마셔 봐! 가슴에 털이 나게 해 줄 거야!"
+    },
+    {
+      "line": 765,
+      "event": "drinkingcred",
+      "english_sha256": "b326ba5caf68af3c7bd050218e352e4fac41cb41b60ff466b5501a2db0a06108",
+      "ko": "그래, 휘발유도 꽤 괜찮지. 과일 맛을 좋아한다면 말이야. 난 개인적으로 스크루드라이버가 좋아."
+    },
+    {
+      "line": 766,
+      "event": "drinkingcred",
+      "english_sha256": "5e873fd45a3626db2ca10799d8580f69f13b386bbd99a8ea9589754fec7e02a3",
+      "ko": "바텐더가 위스키 앞에 파인트 잔을 밀어 놓는다. 그 안에는 말 그대로 금속 드라이버가 들어 있다. 위스키는 그것을 신나게 씹기 시작한다."
+    },
+    {
+      "line": 767,
+      "event": "drinkingcred",
+      "english_sha256": "aafac9161d81d6d65998317356e9604e832fa0ab704924b82283e88d4c33e12c",
+      "ko": "이 진짜 소박한 맛, 사랑할 수밖에 없지!"
+    },
+    {
+      "line": 768,
+      "event": "drinkingcred",
+      "english_sha256": "f20276546804f4080099b7ee75fc7583efb0579f938826bb93d0650328a6ac0b",
+      "ko": "뭘 주문할 거야, %CURRENTPLAYERNAME%? 부담 갖진 마. 네 선택을 보고 널 제대로 평가할 거거든!"
+    },
+    {
+      "line": 771,
+      "event": "drinkingcred",
+      "english_sha256": "70a2290ea46a48adcef18366bc31633d57aa3aef646427eb71847ce3695d6ef8",
+      "ko": "죽빵 한 잔"
+    },
+    {
+      "line": 772,
+      "event": "drinkingcred",
+      "english_sha256": "98140774f637ce5fdd443b5488b5cd015d068932e4e7c0c4f0508190b1d60509",
+      "ko": "최강의 술: 진짜 강한 사람의 영혼"
+    },
+    {
+      "line": 773,
+      "event": "drinkingcred",
+      "english_sha256": "8f33f3549cf8fd82aaed709e9c72dadf43bd093c108d721b8ef01f3a62bbadce",
+      "ko": "물 한 잔"
+    },
+    {
+      "line": 777,
+      "event": "drinkingcred",
+      "english_sha256": "eda35a855ddf403299fbf6cb28c9b5543101ea6435caa840dfe8e89b6a14008c",
+      "ko": "너는 바텐더에게 -N2 MONEY를 내고 독한 술 한 잔을 받는다. 한 모금 마셔 보는데..."
+    },
+    {
+      "line": 778,
+      "event": "drinkingcred",
+      "english_sha256": "9fc013777c480a805d5efab7712df9c72604123a5d21af9fb7b2d20865342166",
+      "ko": "나쁘지 않네! 뭔가 빠진 것 같지만, '죽빵 한 잔'이 진짜로 얻어맞는 게 아니라 음료였다는 사실만으로도 다행이다."
+    },
+    {
+      "line": 779,
+      "event": "drinkingcred",
+      "english_sha256": "da1db0c67c269b22504997fb9ddc6bc87cac337ff266d7f89d95a529846ba48a",
+      "ko": "아, 그게 말이지..."
+    },
+    {
+      "line": 780,
+      "event": "drinkingcred",
+      "english_sha256": "c15797d24fd7e59cf829d260921bb7f901b294fc4a27091c8d03f710d43bed6a",
+      "ko": "다들 주목! %CURRENTPLAYERNAMECAPS%가 죽빵 한 잔을 주문했다!"
+    },
+    {
+      "line": 781,
+      "event": "drinkingcred",
+      "english_sha256": "0ab1dacc6a9827137070a0a20bfe1c6a434d361c9a14020bd223624bee59c40e",
+      "ko": "바 전체가 한꺼번에 네 턱을 후려친다. 죽도록 아프다. 수잔의 오른손 훅은 매섭고, 위스키의 발굽은... 뭐, 발굽이다."
+    },
+    {
+      "line": 782,
+      "event": "drinkingcred",
+      "english_sha256": "266b30d5a7abab83e48291c24e3f67624d8c2d135c0dcac0c99f292b8f9a2429",
+      "ko": "너는 입안의 피를 전부 삼킨다. 그런데... 왠지 맛있잖아?!"
+    },
+    {
+      "line": 783,
+      "event": "drinkingcred",
+      "english_sha256": "b1a64f86ce90b95f2b42576280769da020bf850ae77440dfc1f871ea3f39b06c",
+      "ko": "맛있지? 죽빵 한 잔의 비결은 바로 피야!"
+    },
+    {
+      "line": 784,
+      "event": "drinkingcred",
+      "english_sha256": "975cd9b3948bd38ee1cb8b0d591c26fa832cde9732df2d35336e044cfca4bc81",
+      "ko": "아, 젠장! 나도 아직 피가 흐르는 몸이면 좋을 텐데! 이 장인의 손길이 담긴 구타의 진짜 맛은 영영 모르겠네..."
+    },
+    {
+      "line": 785,
+      "event": "drinkingcred",
+      "english_sha256": "8f1d009e17022ab301fdbffdce0a5f15f29a3a00fe6148a140a514ff9f03c53c",
+      "ko": "걱정 마, 폴리. 네가 내 몸에 빙의하면 우리 같이 죽빵 한 잔을 맛볼 수 있어."
+    },
+    {
+      "line": 786,
+      "event": "drinkingcred",
+      "english_sha256": "92b39571a8b6ef19ef8c5c6d0541dc89308b84e75a1e2cbf50b9c31b2b88a5fe",
+      "ko": "정말? 동의도 없이 남에게 빙의하는 일은 절대 안 하지만... 네가 괜찮다면야, 좋아!"
+    },
+    {
+      "line": 787,
+      "event": "drinkingcred",
+      "english_sha256": "a1cb15dcad480687bf6e6e9b35b16db1b5de95585e6c0057b5024a10bf908d9e",
+      "ko": "당연하지, 형제! 이게 바로 팀워크의 힘이지!"
+    },
+    {
+      "line": 789,
+      "event": "drinkingcred",
+      "english_sha256": "d32cb6380b3fe87fbcfa873fef71ae5e3717fdf00b548c2225a1f546e3e8ff37",
+      "ko": "너는 폴리/스콧과 한 잔을 더 들이킨다. 친구 사이에 영구적인 뇌 손상쯤이야 대수겠어? +N2 HYPE를 얻는다!"
+    },
+    {
+      "line": 793,
+      "event": "drinkingcred",
+      "english_sha256": "88d05a0890e15718fc52f32766a57ef8e87abf5c4ff77989b140cf66029b9366",
+      "ko": "너는 -N2 MONEY를 내고, 웨이터가 유령 같은 술을 가져온다. 잔에서 근육질 남자의 영혼이 솟아오른다!"
+    },
+    {
+      "line": 794,
+      "event": "drinkingcred",
+      "english_sha256": "5d7a9e43c34045b57a0d93b275de61cf3e6a9200d70e1bf3b8609bd9e581eedf",
+      "ko": "“%CURRENTPLAYERNAMECAPS%, 나는 세상에서 가장 강한 남자의 영혼이다.”라고 그가 말한다."
+    },
+    {
+      "line": 795,
+      "event": "drinkingcred",
+      "english_sha256": "c51d301853d410fc841837fc5eaa832fe5f9ffcbb4dae1c2564fd0b9f2623263",
+      "ko": "“내 이름은 수없이 많지만, 미스터 월드와이드라고 불러도 좋다.”"
+    },
+    {
+      "line": 796,
+      "event": "drinkingcred",
+      "english_sha256": "7869f31c81bb51ff4bb32baf2431959aecfc7c4de6180129e2dae2c3eeb6666f",
+      "ko": "“말해 보아라. 네가 나를 마실 자격이 있느냐? 네가 해낸 엄청난 힘의 위업은 무엇이냐?”"
+    },
+    {
+      "line": 797,
+      "event": "drinkingcred",
+      "english_sha256": "0e59667cbc5975105f5c1a6f659d3df88f4553a662f85ec342bb65912001fdcf",
+      "ko": "턱걸이는 영 자신 없지만, 지난겨울에 기르던 물고기가 죽었고 그 상실의 무게를 매일 묵묵히 견뎌 냈어."
+    },
+    {
+      "line": 798,
+      "event": "drinkingcred",
+      "english_sha256": "f65d3b6c04d36da4de0f44d48e151d326adebbe1be0882279dda25b74d869b50",
+      "ko": "“훌륭하군. 네 힘과 영웅심으로 남을 도운 적은 있느냐?”"
+    },
+    {
+      "line": 799,
+      "event": "drinkingcred",
+      "english_sha256": "e97fcc6a7ef6d72d6841aef7f22d6be0ec9e1d89ba91b3389fd02bc6f8c96dc0",
+      "ko": "어... 엄마는 장 본 물건을 집으로 옮겨 드리면 날 “힘세고 도움 되는 꼬마 %BOYGIRL%”이라고 부르셔!"
+    },
+    {
+      "line": 800,
+      "event": "drinkingcred",
+      "english_sha256": "e98bb1d67a8fcd5d0068746c5baa021eb1246caaf55fea418540abecbaa27f31",
+      "ko": "“그 정도면 충분하다. 너는 분명 강하구나. 하지만 이제 진정한 시험을 치를 때다.”"
+    },
+    {
+      "line": 801,
+      "event": "drinkingcred",
+      "english_sha256": "dc439a8bdaf52b41bf3d5f3665b33d26c1ac2179080279610e012f0446483327",
+      "ko": "“이 파인트 잔을... 들어 올릴 만큼 강한가?!”"
+    },
+    {
+      "line": 802,
+      "event": "drinkingcred",
+      "english_sha256": "e7f80d2b42017a6c3590748348b95ec90292c91aa14944bacc42cbb2b90c1975",
+      "ko": "너는 받은 잔을 들어 보려 한다. 와, 이거 엄청 무겁잖아. 이걸 가져다준 바텐더는 대체 얼마나 거구였던 거야?!"
+    },
+    {
+      "line": 803,
+      "event": "drinkingcred",
+      "english_sha256": "ae37a31a83a2ea5576813931c898728cb262515d111606d936cf2a940eb60aae",
+      "ko": "같이 들어 줄까, %CURRENTPLAYERNAME%? 힘을 합치면 들 수 있을지도 몰라!"
+    },
+    {
+      "line": 804,
+      "event": "drinkingcred",
+      "english_sha256": "7f10d8acccae5b4799bfc1b6f3012a0fac69eead2107842ca4eb663fcfcc38c9",
+      "ko": "맞아! 진정한 힘은 우정과 팀워크에서 나오는 법이지!"
+    },
+    {
+      "line": 805,
+      "event": "drinkingcred",
+      "english_sha256": "52b97e7ce6b1d572b5012ceda95b63141b1e18456e879f6f258a09283a2700ea",
+      "ko": "좀 오글거리긴 하네... 그래, 젠장, %CURRENTPLAYERNAME%의 혈관에 술을 최대한 빨리 흘려 넣을 수만 있다면 뭐든 어때!"
+    },
+    {
+      "line": 806,
+      "event": "drinkingcred",
+      "english_sha256": "31a71a353b24cb06b0a7eb251ca1a354e46cc7e7601e432fc33d4503bc0d6f75",
+      "ko": "친구들이 힘을 합쳐 최강의 스피릿을 네가 벌린 입에 들이붓는다. 오래된 체육관 양말 맛이 난다. 그래도 미스터 월드와이드의 진짜 영혼 덕분에 +N2 SOUL을 얻는다! 상쾌해!"
+    },
+    {
+      "line": 810,
+      "event": "drinkingcred",
+      "english_sha256": "9427814d47ce33d8af22a12c0bf2a13a5c369ae2da2d667265c8c2b7a461db7c",
+      "ko": "무엇을 고를지 불안해진다. 친구들은 네가 강하고 독한 술을 주문하도록 대놓고 부추기고 있다..."
+    },
+    {
+      "line": 811,
+      "event": "drinkingcred",
+      "english_sha256": "1e19a0be2f405b5bf08765128de208fc9bb3376c9cef49634ec52b2b5a7643ec",
+      "ko": "하지만 목이 마르고 물이 좋다! 너는 물을 주문한다. -N2 MONEY가 든다."
+    },
+    {
+      "line": 812,
+      "event": "drinkingcred",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 813,
+      "event": "drinkingcred",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 814,
+      "event": "drinkingcred",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 815,
+      "event": "drinkingcred",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 816,
+      "event": "drinkingcred",
+      "english_sha256": "d650e276072b1f38ee863c51f1e7ef65c8fb24a053b6aac7af14996f09f7a0a8",
+      "ko": "여기서 대체 언제부터 빌어먹을 물에도 돈을 받기 시작한 거야? 이곳도 완전히 망해 가는군."
+    },
+    {
+      "line": 817,
+      "event": "drinkingcred",
+      "english_sha256": "1513505e7f0642e64d44d21ead2c54c38c601df24aa1921ec573859540c03d88",
+      "ko": "그러게. 그래도 물을 고른 건 잘했어, 자기야. 수분을 충분히 보충한 몸만큼 멋진 건 없지!"
+    },
+    {
+      "line": 818,
+      "event": "drinkingcred",
+      "english_sha256": "16dd3dd71d46f4de7ba04e98c09b02d1c40216e88533883f7fbde5f835a21b39",
+      "ko": "이제 우리 중에 지정 운전자가 생겼네! 우리를 챙겨 줘서 고마워, 친구."
+    },
+    {
+      "line": 819,
+      "event": "drinkingcred",
+      "english_sha256": "afe153ab3edd8af71fdccf43a6ca4a704c8571addfe944b08d7759c0fa06fa1b",
+      "ko": "왜 그런 눈으로 우리를 봐? 설마 술을 안 시켰다고 우리가 널 평가할 거라 생각한 거야? 농담이었어!"
+    },
+    {
+      "line": 820,
+      "event": "drinkingcred",
+      "english_sha256": "ae7aba44cf365a42c1d2b38177b052202319dbcfdd3cd23f3a89f274867cb8ca",
+      "ko": "그건 네가 또래의 압박을 견뎌 낼 수 있는지 보는 시험이었어. 그리고 넌 통과했지!"
+    },
+    {
+      "line": 821,
+      "event": "drinkingcred",
+      "english_sha256": "f99945b24beccb9f2333d4ab48f5f620564d51277f6b914bcf18736ab75bf691",
+      "ko": "이제 또래에게 인정받는 기쁨을 만끽할 차례야!"
+    },
+    {
+      "line": 822,
+      "event": "drinkingcred",
+      "english_sha256": "a95b2289ad22eca5d596e6c40918cd8b860bfa0900361800f9adf84de6547d1f",
+      "ko": "잘했어! 친구들의 존중을 얻었고, 수분도 보충해서 +N2 STAMINA를 얻었어!"
+    },
+    {
+      "line": 830,
+      "event": "deathballs",
+      "english_sha256": "773a8ab92b03149249077384ae24d864871f677804f9fd5d30d93671f24720f7",
+      "ko": "당구 한 판 치기"
+    },
+    {
+      "line": 835,
+      "event": "deathballs",
+      "english_sha256": "39fd3f6713fee595a5cf6769d81e678640c399bb5384c300bb42627917202ef0",
+      "ko": "당구대로 가서 게임을 시작하려는데, 도착해 보니 전설적인 바보 둘이 이미 한창 게임 중이다."
+    },
+    {
+      "line": 837,
+      "event": "deathballs",
+      "english_sha256": "1cdaebc1498cfe198fe61fd4f142b685f0535d6087b34e6ce5b4ad250e540dc5",
+      "ko": "좋아. 왼쪽 위 모서리 포켓에 6번 공을 넣고, 7번 공을 8번 공에 부딪치게 해서 둘 다 서로 반대편 포켓에 튕겨 넣겠어!"
+    },
+    {
+      "line": 838,
+      "event": "deathballs",
+      "english_sha256": "963e825d29112230ec99f8170245e6593a70960ea36f975642ff823480832add",
+      "ko": "내가 네 엄청난 묘기 샷을 더 엄청난 반격으로 막아 주지! 공 날아간다!!!"
+    },
+    {
+      "line": 839,
+      "event": "deathballs",
+      "english_sha256": "3fc13fc71fedf560ac7840d5e3368566adba71870f726fc1ba35b8e08ab2190e",
+      "ko": "수잔이 수구를 친다. 위스키는 큐대를 야구 방망이처럼 휘둘러 수구를 친다. 공은 천장에 튕겨 올라가 8번 공을 산산조각 낸다."
+    },
+    {
+      "line": 840,
+      "event": "deathballs",
+      "english_sha256": "719e86c9e063455b1e0d6a6fdb0a705c16b629d33c82557b403c0b945f238316",
+      "ko": "젠장! 이번 판도 네가 데스 볼스에서 이겼군, 친구. 여기 스무 달러. 부서진 시설 수리비도 내가 내러 갈게..."
+    },
+    {
+      "line": 842,
+      "event": "deathballs",
+      "english_sha256": "79ea0047ad414b962725b08d8e5312c635daff8b95afb784941319587911bcc5",
+      "ko": "데스 볼스라... 언젠가 이걸 내가 어떻게 죽었는지에 관한 이야기로 풀 날이 기대되는군."
+    },
+    {
+      "line": 843,
+      "event": "deathballs",
+      "english_sha256": "2570d9ec82fd61a07d825b764fbfb06fcb2809a6f9695776c81a59db3da1dd3e",
+      "ko": "뭐라고? 네가 데스 볼스의 위대한 힘을 견뎌 낼 수 있다고 생각해? 하하하하하!"
+    },
+    {
+      "line": 844,
+      "event": "deathballs",
+      "english_sha256": "604f03707ec99a9cbe62922fbf65221a11d8f6f07ebaafc0e7a961af445ee9cf",
+      "ko": "잘 들어. 난 이 술집에서 데스 볼스를 가장 잘하는 사람이야. 지금껏 날 이긴 사람은 없고, 앞으로도 절대 없을 거다."
+    },
+    {
+      "line": 845,
+      "event": "deathballs",
+      "english_sha256": "6f762bdc854b910dc8e9cc25606df66ec028539fff87ac5a6ab1cadaaeeb8644",
+      "ko": "그가 하도 떠들어 대니 호기심이 생긴다. 너는 위스키에게 데스 볼스의 규칙을 정중히 묻는다."
+    },
+    {
+      "line": 846,
+      "event": "deathballs",
+      "english_sha256": "57d7fbd86e49e142cf5d29b24a5209c312835402c0eaa7ef83d4970981b25222",
+      "ko": "감히 내 당구대에서 나한테 데스 볼스를 도전해?!"
+    },
+    {
+      "line": 847,
+      "event": "deathballs",
+      "english_sha256": "2b5f13fb5e90d353ccd714f2dcf8c1d52039e897aa44c750a41069ac54d738bd",
+      "ko": "아니?"
+    },
+    {
+      "line": 849,
+      "event": "deathballs",
+      "english_sha256": "117979e0d79da113897c3df1330060fdf2d476e24d0e608dbefdb7c18e234287",
+      "ko": "뭐라고?! 새로운 데스 볼스 도전자가 생겼다고 누가 말했어?!"
+    },
+    {
+      "line": 850,
+      "event": "deathballs",
+      "english_sha256": "cd31ffb6911407eb9d73303c0de12d10dea56ed4771cb785f0b08c5491e29db9",
+      "ko": "맞아. 여기 %CURRENTPLAYERNAME%는 %HESHE%%VERB_'S_'VE% %HISHER% 다리 사이에 큼지막한 황동제 8번 공 두 개가 달렸다고 생각하나 봐!"
+    },
+    {
+      "line": 851,
+      "event": "deathballs",
+      "english_sha256": "75b9ea096432c0e81a26c25ca5707fcbaa43ecf06088a6512edfea422a6db577",
+      "ko": "네 도전을 받아들이겠다, 약골!"
+    },
+    {
+      "line": 852,
+      "event": "deathballs",
+      "english_sha256": "073ab5813b1ee9c459217581ab5e8ec08f47acd909e33c611b579008806157e2",
+      "ko": "넌 아무도 도전한 적도 없고 이 게임 규칙도 모르지만... 어쩌겠어, 이제 네 운명이 된 모양이다. 역대 최강의 데스 볼스 챔피언을 어떻게 이길까?"
+    },
+    {
+      "line": 853,
+      "event": "deathballs",
+      "english_sha256": "144ca94cf0d9e6e706d3516fe6ac2bde54c1d8460030614140648c60be407808",
+      "ko": "시공간을 거스르는 커브 샷으로 물리 법칙을 뒤틀어라!"
+    },
+    {
+      "line": 854,
+      "event": "deathballs",
+      "english_sha256": "375757fb1b519490fe4fac2142ed7347d4e82f3046baa32400dbb2f32aa5b1d6",
+      "ko": "안타깝게도 넌 위스키를 절대 이길 수 없다... 그러니 가장 오래된 데우스 엑스 마키나에 의지할 수밖에 없다. 바로 사랑의 힘이다."
+    },
+    {
+      "line": 856,
+      "event": "deathballs",
+      "english_sha256": "ebb75835e57a44787d6446db3cb065ad49b3d84e14811f1e5f8954343aec5b57",
+      "ko": "이런 위업을 이루려면 정신을 바짝 집중해야 한다. 눈을 감고 호흡에 집중한다. 들이쉬고, 내쉬고, 들이쉬고, 내쉬고..."
+    },
+    {
+      "line": 859,
+      "event": "deathballs",
+      "english_sha256": "cfc602ce08ba026194a4a6f9b21a342678fbb8e46fbb5b4d4d7a0956313f98ea",
+      "ko": "눈을 뜨자 술집은 사라지고 없다. 너는 물리 법칙의 신성한 재판소에 와 있다."
+    },
+    {
+      "line": 860,
+      "event": "deathballs",
+      "english_sha256": "3dc9d0766dc671d6021910fba766b18c8db3498d588bcb6e95c7ff4764ed1773",
+      "ko": "이곳에서는 시공간의 군주들이 늘 재판을 열고, 평범한 사람들이 물리 법칙을 깨게 해 달라고 간청한다."
+    },
+    {
+      "line": 861,
+      "event": "deathballs",
+      "english_sha256": "4d1b3dc79d01fb9be93cdda44cb87a0747ad30e5f9cbc5101b66ff4498acc2d3",
+      "ko": "“라즈카스 제국이 수 세기 동안 우리 민족을 짓밟았습니다.” 현재 피고가 애원한다. “투즈쿠르 해만 갈라 주신다면 그들에게서 도망칠 수 있습니다!”"
+    },
+    {
+      "line": 862,
+      "event": "deathballs",
+      "english_sha256": "323f49ee2cf0c169bddba05fa009e12df8c45631f9f765797c42e206736bb14a",
+      "ko": "군주들은 판결한다. “고귀한 네르말이여, 네 뜻은 순수하나 처지가 물리 법칙을 깰 만큼 절박하지는 않다. 다음!”"
+    },
+    {
+      "line": 863,
+      "event": "deathballs",
+      "english_sha256": "e5eef2de85314196a937381c3aaf63464f9cf67d780d29c17baebd4e0065783d",
+      "ko": "집행관이 네르말을 끌고 나간다. 너는 친구들 앞에서 멋져 보이려고 당구에서 이기게 물리 법칙을 깨고 싶다고 말하며 앞으로 나선다."
+    },
+    {
+      "line": 864,
+      "event": "deathballs",
+      "english_sha256": "5896d5e61b6db444a92b1c26c3369a7c3a46a98445ff44cca91d626a6cd53020",
+      "ko": "“멋져 보이려는 추구는 참으로 고귀한 과업이지.” 군주 하나가 말한다."
+    },
+    {
+      "line": 865,
+      "event": "deathballs",
+      "english_sha256": "4977e943ecf10cbc8dbbb291aca580534b189498bb0f3d4233d9d78472ea67dd",
+      "ko": "“맞아. 당구는 지금까지 만들어진 게임 중 가장 멋진 게임으로 알려져 있지.” 다른 군주가 말한다. “난 찬성이야!”"
+    },
+    {
+      "line": 866,
+      "event": "deathballs",
+      "english_sha256": "24f634d6b5bce212813d007bb2dde708468a630f59332b2c3a9c8646e6c7a93d",
+      "ko": "“너희 지금 진심이야?” 세 번째 군주가 쏘아붙인다. “네르말은 자기 민족을 구하지도 못하는데, 당구 묘기 한 번 하겠다고 물리 법칙을 깨게 해 주겠다고?”"
+    },
+    {
+      "line": 867,
+      "event": "deathballs",
+      "english_sha256": "13de13343224da4d436047e4187c76ce7daa0490473898022c4bda9f1fb4c4a0",
+      "ko": "“글쎄, 네르말이 자기 주장을 뒷받침할 멋진 당구 묘기라도 보여 줬다면 무죄에 표를 던졌을지도 모르지.”"
+    },
+    {
+      "line": 868,
+      "event": "deathballs",
+      "english_sha256": "bab3d04a9049989a29eed6e028a27e43b4ce021d43e1ec74705e9a29daa0c7e7",
+      "ko": "4-to-3 표결 끝에 군주들은 친구들 앞에서 멋져 보일 수 있도록 네가 물리 법칙을 깨는 걸 허락한다! 제도를 악용하는 솜씨가 대단하구나, 챔피언!"
+    },
+    {
+      "line": 870,
+      "event": "deathballs",
+      "english_sha256": "ec14ed83bcb66b1ae028fb992ab401989d765b86c43c2275ee449039a5d87593",
+      "ko": "현실로 돌아온 너는 새로운 힘을 얻었다. 수구를 치자 공은 불가능할 정도로 정해진 경로를 따라 움직인다."
+    },
+    {
+      "line": 871,
+      "event": "deathballs",
+      "english_sha256": "1bd987f6b54c9e56e7edc122353fc0fac3877bfad6a25ccf47be940be8a60dc6",
+      "ko": "위스키의 공을 포함해 모든 공을 맞힌다. 아야!"
+    },
+    {
+      "line": 872,
+      "event": "deathballs",
+      "english_sha256": "ecf5a5b44d006eda42b15fe329f3a6adf3e781640ea8f95d0ecdd6d34a02ecd1",
+      "ko": "안 돼애애애! 내 공들아! 거기가 내 비밀 약점이란 말이야!"
+    },
+    {
+      "line": 873,
+      "event": "deathballs",
+      "english_sha256": "206534babb9fbc471bd65d67ff2e16724037eadf081d3a3eb954d1d95293c01f",
+      "ko": "방금 %CURRENTPLAYERNAMECAPS%가 위스키를 이겼다고?!"
+    },
+    {
+      "line": 874,
+      "event": "deathballs",
+      "english_sha256": "3f1ad2b31861e162d93b3283022c1d8b7fc69f560115d4eb731df1b2e1434d1d",
+      "ko": "그래! 위스키는 아픈 불알을 움켜쥐고 있지 않은 손으로 네게 +N2 MONEY를 건넨다. 시공간을 비튼 탓에 -N2 MIND를 잃긴 했지만."
+    },
+    {
+      "line": 877,
+      "event": "deathballs",
+      "english_sha256": "1418c041c050fbd3c805d3afe9c12c512dcdf6ad4935bea02a29d1b236f54282",
+      "ko": "최선을 다해 플레이하고 사랑의 힘을 믿는다."
+    },
+    {
+      "line": 878,
+      "event": "deathballs",
+      "english_sha256": "86ce5467fdcdba1e6a9ee8e09e4ae506e33e6fad9f57982535919dc4a81bc1a7",
+      "ko": "예상대로 위스키가 널 완전히 박살 낸다. 슬픈 트럼펫 소리."
+    },
+    {
+      "line": 879,
+      "event": "deathballs",
+      "english_sha256": "f158533021ae2ce38eb7d4cd94b1d2ec461eb38f99ac922f79e207d6ba79f532",
+      "ko": "눈물을 글썽이며 포켓 속 8번 공을 내려다본다. 그런데... 설마...?"
+    },
+    {
+      "line": 880,
+      "event": "deathballs",
+      "english_sha256": "efdb96adc856074e79426767ed4869f253519c41f102d72d33b9a79928168230",
+      "ko": "8번 공이 사랑에 빠진 미소년처럼 반짝이는 눈으로 너를 올려다본다!"
+    },
+    {
+      "line": 882,
+      "event": "deathballs",
+      "english_sha256": "4b284b0ed336f3dd4123aa1194ed0232908fed283408d703d6b2a0e3d11b75b3",
+      "ko": "미안해, %CURRENTPLAYERNAME%-선배. 정말 열심히 싸웠어. 네가 이기길 바랐는데. 그래도 난 널 실망시키고 말았어..."
+    },
+    {
+      "line": 883,
+      "event": "deathballs",
+      "english_sha256": "2ae085806d8a92be6c77d6d7f7d9b735e0fd9b58b0b221adbb41ad5de3a51b72",
+      "ko": "아니야, 네 잘못이 아니야! 난 상대를 쓰러뜨릴 생각밖에 하지 않았어. 네가 그렇게 고생한 건 내 탓이야, 8번 공 군!"
+    },
+    {
+      "line": 884,
+      "event": "deathballs",
+      "english_sha256": "bd94915a2b744375db349bb7d5057d5d78df8744f20ba4563113d5e579f3d224",
+      "ko": "선배, 내가 어떤 모습이었는지 기억해 줘. 그리고 이것만은 알아 줘... 난... 사랑..."
+    },
+    {
+      "line": 886,
+      "event": "deathballs",
+      "english_sha256": "256db62df36feba11300e2960b58a46fb55062b24646ec6af9e8cb8d6818f1a7",
+      "ko": "8번 공 군은 말을 끝맺기도 전에 죽어 버린다. 너도 그 애를 사랑한다고 말할 기회조차 얻지 못했다! 눈물이 얼굴을 타고 쏟아진다."
+    },
+    {
+      "line": 888,
+      "event": "deathballs",
+      "english_sha256": "11b71991a97ab3732edd734e7b69beae96e3c8335c4c215dfcc2a51c20d105d7",
+      "ko": "누가 %CURRENTPLAYERNAME%가 8번 공을 보며 왜 저렇게 정신없이 오열하는지 설명해 줄 사람 없어?"
+    },
+    {
+      "line": 889,
+      "event": "deathballs",
+      "english_sha256": "8f2ef2cefa10f52749edd720e1384649bde8c4cb8b53e621f9e3d417c392e4bd",
+      "ko": "쉿! 감동적인 절정 장면을 방해하지 마!"
     }
   ]
 }

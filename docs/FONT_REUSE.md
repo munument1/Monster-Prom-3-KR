@@ -20,7 +20,7 @@ UnityPy로 읽었습니다. `fontset_korean` 프로필의 레퍼런스는 다음
 - `fontset_korean.unityUiBodyFont` → `GamjaFlower`
 - 두 폰트의 `name` 메타데이터에 **SIL Open Font License 1.1** 표기가 확인됨.
 - 3편 한글화 최초 인게임 검증의 고유 음절 **943종**, 이후 추가 번역을 포함한
-  **2026-10-24 현재 1,119종 모두** 두 폰트에서 지원함을 재검사했습니다.
+  **2026-10-24 현재 1,140종 모두** 두 폰트에서 지원함을 재검사했습니다.
   그러나 향후 추가 번역에서 주아가 지원하지 않는 글자가 생길 수 있으므로
   빌드 시 글리프 검사를 반복하고 해당 문자열은 감자꽃 등 대체 폰트로 처리해야 합니다.
 - 현재 번역에서 **주아는 `®`(2회), `《`, `》`(각 1회)**,
@@ -76,7 +76,7 @@ python -X utf8 scripts\expose_camp_fonts.py
 출력은 Git 제외 `build/fontbundles/roadtrip_korean_fonts.bundle`입니다. 실제
 3편 Unity 2021.3.15f1 게임에서 `LoadAllAssets<Font>()`가 **2개를 반환**했고,
 최초 실게임 로딩 당시 두 글꼴 모두 한글 **943종** 검사에 합격했습니다.
-이후 추가 번역본의 **1,119종**도 `prepare_camp_fonts.py --audit-only`와
+이후 추가 번역본의 **1,140종**도 `prepare_camp_fonts.py --audit-only`와
 자동 테스트에서 두 폰트 모두 누락 0개로 확인했습니다(후속 게임 실행 미검증).
 
 기본 메뉴 스크린샷에서는 주아 스타일의 한글 글꼴이 보였고, 로그에서

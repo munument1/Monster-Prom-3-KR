@@ -3450,6 +3450,726 @@
       "event": "pitstop_passenger_lovesuccess_red_3",
       "english_sha256": "b81ea1c589c1c05698a08062a279e014eda3665601abbcb79ef9c22b6f35992c",
       "ko": "……얘기하고 싶어? 오늘 밤은 좀 아니야, 미안. 피곤하거든."
+    },
+    {
+      "line": 1240,
+      "event": "pitstop_passenger_lovesuccess_red_3",
+      "english_sha256": "43e0394cfe78d57305a7b2f7c8d54b39246be3994b2bebe1b76746b7f56f8ae3",
+      "ko": "가장 거센 산불도 가끔은 땔감이 바닥나는 법이야."
+    },
+    {
+      "line": 1241,
+      "event": "pitstop_passenger_lovesuccess_red_3",
+      "english_sha256": "76769a28f2c24b4bf39fa8efcad1494dd99993ccd77afe54d0152bb00f9ceebc",
+      "ko": "난 그냥 폰으로 애니나 보면서 느긋하게 쉬려던 참이야. 원하면 같이 봐도 되고."
+    },
+    {
+      "line": 1242,
+      "event": "pitstop_passenger_lovesuccess_red_3",
+      "english_sha256": "b99c360832f0ecc04989e12d14cf3e45efdca5d58fbdef8b32c4499e121f7da6",
+      "ko": "좋아! 너와 아미라는 별빛 아래서 저녁 내내 애니를 본다."
+    },
+    {
+      "line": 1247,
+      "event": "pitstop_passenger_lovesuccess_blue_1",
+      "english_sha256": "3469251bf683a45609c9aef762c53d66196a0dbf392fb9b934604eeca650f44e",
+      "ko": "어, 안녕 %CURRENTPLAYERNAME%!"
+    },
+    {
+      "line": 1248,
+      "event": "pitstop_passenger_lovesuccess_blue_1",
+      "english_sha256": "74d8512bf351934630e9fb889d3d49127eb1471b5d2a7b44c4787dcedb4bb951",
+      "ko": "미안, 지금은 단둘이 얘기할 수 없어. 새 이름을 전부 외우는 중이거든."
+    },
+    {
+      "line": 1249,
+      "event": "pitstop_passenger_lovesuccess_blue_1",
+      "english_sha256": "c4c712ffac4ac964e6a3848b500d7e924d479430f74b6ab97f59341ff5602aa7",
+      "ko": "모든... 새 이름을?"
+    },
+    {
+      "line": 1250,
+      "event": "pitstop_passenger_lovesuccess_blue_1",
+      "english_sha256": "67f9f733fd7fadcc1d599365bb0784710bfe275ad9e94f6e919b166adf6b208e",
+      "ko": "응!"
+    },
+    {
+      "line": 1251,
+      "event": "pitstop_passenger_lovesuccess_blue_1",
+      "english_sha256": "5f1986c36ceac9cc63759b52c14a01d861feadd44ddf63d36c835cc8d65770d6",
+      "ko": "내가 도와줘도 될까?"
+    },
+    {
+      "line": 1252,
+      "event": "pitstop_passenger_lovesuccess_blue_1",
+      "english_sha256": "59d383956538f6933aff40ec576ec7190ccce664c18cd224f60142b5c9625736",
+      "ko": "와! 완전 끝내주겠다! 알파벳순으로 외울까, 색깔별로 외울까?"
+    },
+    {
+      "line": 1253,
+      "event": "pitstop_passenger_lovesuccess_blue_1",
+      "english_sha256": "04626d7e433035fa95010c0573ed09aa87da7f2ef6d0484cf7c847d79ccb9e99",
+      "ko": "너는 밤새 비키가 새의 종을 하나도 빠짐없이 외우도록 도와준다. 엉뚱하지만 즐겁다. 비키답게!"
+    },
+    {
+      "line": 1258,
+      "event": "pitstop_passenger_lovesuccess_blue_2",
+      "english_sha256": "2b344c515e55e01ef453283c928b5467590821f6ef4eeee68f7eadd2cfa657d7",
+      "ko": "안녕, %CURRENTPLAYERNAME%! 좋은 밤 보내고 있어?"
+    },
+    {
+      "line": 1259,
+      "event": "pitstop_passenger_lovesuccess_blue_2",
+      "english_sha256": "c44da4185fe8689866393bd7629d21de169ad35fa3ef3b1076384673c12e8904",
+      "ko": "난 그렇지! 글러브 박스에서 이 멋진 책을 찾아서 읽으려던 참이야."
+    },
+    {
+      "line": 1260,
+      "event": "pitstop_passenger_lovesuccess_blue_2",
+      "english_sha256": "8ed217ea7b71727ad3be7b1275b39b3c7ec06f4259e40f72c2b4d163f19f20a4",
+      "ko": "그거... 자동차 설명서 아니야?"
+    },
+    {
+      "line": 1261,
+      "event": "pitstop_passenger_lovesuccess_blue_2",
+      "english_sha256": "3b125c4465b6f9ac343551250b351dfaf98e1a1039fe4c3ff8eb0d2a695edabf",
+      "ko": "맞아! 벌써 세 번째 장까지 읽었어. '엔진 사양 및 기술 정보' 말이야. 이제부터가 진짜 재밌는 부분이라고!"
+    },
+    {
+      "line": 1262,
+      "event": "pitstop_passenger_lovesuccess_blue_2",
+      "english_sha256": "8f478ef54404ab15f81ce5ad67b5d402c554ca274baeb9eb0e51a12c59eb3127",
+      "ko": "완전 괴짜네. 너는 대화는 접어 두고 비키가 책을 읽는 동안 곁에 앉아 밤의 정취와 비키와 함께하는 시간을 즐긴다."
+    },
+    {
+      "line": 1267,
+      "event": "pitstop_passenger_lovesuccess_blue_3",
+      "english_sha256": "f7edcd030fde54a188dc4b5ae98131eaa5a6f9d68ad9989507a8f5aa14c9e211",
+      "ko": "어, 안녕 %CURRENTPLAYERNAME%! 나랑 얘기하려는 거지?"
+    },
+    {
+      "line": 1268,
+      "event": "pitstop_passenger_lovesuccess_blue_3",
+      "english_sha256": "4b3b70befee968cd7bbaf0eb89d82861cc4ebe90206d58a8b70764245a3de866",
+      "ko": "평소라면 기꺼이 수다 떨 텐데, 솔직히 며칠 전 우리가 길게 얘기한 뒤로 아직 생각할 게 많아..."
+    },
+    {
+      "line": 1269,
+      "event": "pitstop_passenger_lovesuccess_blue_3",
+      "english_sha256": "ca7ec1bdb301b1f08f06c7a3d1eace0fa209dc1206fa98bead2501a1e9113532",
+      "ko": "내가 생각을 정리하는 동안 오늘 밤은 그냥 같이 느긋하게 있어도 괜찮을까?"
+    },
+    {
+      "line": 1270,
+      "event": "pitstop_passenger_lovesuccess_blue_3",
+      "english_sha256": "96edd9d38adfe3b46847d363c253fd4536c8f2b801b29b55950595a5713ba9b3",
+      "ko": "물론이지. 너와 비키는 기분 좋게 생각에 잠긴 채 조용히 함께 앉아 있는다."
+    },
+    {
+      "line": 1275,
+      "event": "pitstop_passenger_lovesuccess_green_1",
+      "english_sha256": "fd5646860dcc74d47ed8a678f8aa5abd9569b910fc142a49549b3e6969840b18",
+      "ko": "어, 안녕 %CURRENTPLAYERNAME%."
+    },
+    {
+      "line": 1276,
+      "event": "pitstop_passenger_lovesuccess_green_1",
+      "english_sha256": "5ffe09f7255b0132b4c1ad3ee05416594ad19be29a1308f4da262454659ba2f5",
+      "ko": "얘기하고 싶어?"
+    },
+    {
+      "line": 1277,
+      "event": "pitstop_passenger_lovesuccess_green_1",
+      "english_sha256": "4fd295aa8e0ba3830e13c38ec0d315d625a5473df2fa282b7fde9a2b02a6c40b",
+      "ko": "미안... 오늘 밤은 그럴 기분이 아니야. 너 때문은 아니고, 그냥 그런 날 있잖아."
+    },
+    {
+      "line": 1278,
+      "event": "pitstop_passenger_lovesuccess_green_1",
+      "english_sha256": "4d0bbc5d80b39dcd22d658ad3e2e1bd0d609236416aeb21b632c70bf37b7d3da",
+      "ko": "대신 그냥 같이 쉬는 건 어때?"
+    },
+    {
+      "line": 1279,
+      "event": "pitstop_passenger_lovesuccess_green_1",
+      "english_sha256": "8d8d347df236e1ceaab3b32194448e76e7b0e2c2e78e2b8785b70fab52ef4a00",
+      "ko": "좋아! 너와 브라이언은 벤치에 조용히 앉아 편안한 침묵을 즐긴다."
+    },
+    {
+      "line": 1284,
+      "event": "pitstop_passenger_lovesuccess_green_2",
+      "english_sha256": "1aabcc168132b77da5eda668324512fe1ee7a03ce22b129f935daba512a4ad51",
+      "ko": "드르렁..."
+    },
+    {
+      "line": 1285,
+      "event": "pitstop_passenger_lovesuccess_green_2",
+      "english_sha256": "2b4a7d537c900312e9963b56293a0fd2abfc4458273791cdb64823f6ed5b54da",
+      "ko": "브라이언이 벤치에서 잠든 모양이다. 네가 어깨를 톡톡 두드린다."
+    },
+    {
+      "line": 1286,
+      "event": "pitstop_passenger_lovesuccess_green_2",
+      "english_sha256": "b99e53ef1269f22cce986a059971f4f2e09d3fcddd81d3e348a9ba5065bed4d4",
+      "ko": "으앗?!"
+    },
+    {
+      "line": 1287,
+      "event": "pitstop_passenger_lovesuccess_green_2",
+      "english_sha256": "9f1f5c64ecfc606d2172cba75003a57bb2f55e479428a6fdbb37daa22953d55c",
+      "ko": "아, 너구나... 미안, 일부러 그런 건 아니고... 졸다가... 잠들었나 봐..."
+    },
+    {
+      "line": 1288,
+      "event": "pitstop_passenger_lovesuccess_green_2",
+      "english_sha256": "1d44318b2cdd85a6cb98cf4826a80605b10cf347f8d67ed269ca2e8369e9bdd6",
+      "ko": "...쿨쿨..."
+    },
+    {
+      "line": 1289,
+      "event": "pitstop_passenger_lovesuccess_green_2",
+      "english_sha256": "68df54623fff562041b052bd476bb288a86080e446783ed12cc9e28d98cabcc0",
+      "ko": "못 이길 거면 같이 자는 거지. 너는 브라이언 옆에 누워 낮잠을 잔다. 아주 개운하다!"
+    },
+    {
+      "line": 1294,
+      "event": "pitstop_passenger_lovesuccess_green_3",
+      "english_sha256": "e7bced1f7ec7857e48b5b3a7c0a5f1773800cc90e4dcd0b0038235a22378180f",
+      "ko": "안녕, %CURRENTPLAYERNAME%."
+    },
+    {
+      "line": 1295,
+      "event": "pitstop_passenger_lovesuccess_green_3",
+      "english_sha256": "9194c30a5c1a18f2f0797e6b93e217d2b247add5d5c98553e41142762a0a6535",
+      "ko": "안녕, 브라이언! 얘기할래?"
+    },
+    {
+      "line": 1296,
+      "event": "pitstop_passenger_lovesuccess_green_3",
+      "english_sha256": "f7602724e94b2439e63330003a435270700956e26927341853bba4a31083a214",
+      "ko": "음... 별로... 네가 싫은 건 아니지만, 요즘 너무 많이 얘기했잖아..."
+    },
+    {
+      "line": 1297,
+      "event": "pitstop_passenger_lovesuccess_green_3",
+      "english_sha256": "936a96ac0e747c6056090dc31fa5f343ff8360e0e47f9427f8f061ba2bc7a11a",
+      "ko": "오늘 밤은 그냥 쉬고 싶어. 괜찮다면 말이야. 난 대화보다 느긋하게 쉬는 게 훨씬 잘 맞거든."
+    },
+    {
+      "line": 1298,
+      "event": "pitstop_passenger_lovesuccess_green_3",
+      "english_sha256": "23584df1187c4693d512c1bae26d35d0755592f587a4aaa8e34464bfcc951a05",
+      "ko": "그럴 수도 있지. 너는 브라이언과 조용히 쉬며 별을 바라본다."
+    },
+    {
+      "line": 1303,
+      "event": "pitstop_passenger_lovesuccess_adrien_1",
+      "english_sha256": "2170e3c4a44bbabac1b12de0692631a7faf6b221b8798b3a14cdddbedd52c2fe",
+      "ko": "좋은 저녁입니다, %CURRENTPLAYERNAME%."
+    },
+    {
+      "line": 1304,
+      "event": "pitstop_passenger_lovesuccess_adrien_1",
+      "english_sha256": "6aa1779e2831a45f47126020e611d075a93bbb7973fe489b0d5aa940a17cd9b1",
+      "ko": "...대화하러 오셨습니까? 죄송하지만 오늘 밤은 사교 활동을 할 시간이 없습니다."
+    },
+    {
+      "line": 1305,
+      "event": "pitstop_passenger_lovesuccess_adrien_1",
+      "english_sha256": "30852c65b473bd46c39b4fcb1ef1c3f0ba56eac8ec94601aa1135b8bcfaa9881",
+      "ko": "오해하지 마십시오. 저도 그러고 싶습니다. 하지만 머킹덤을 바꾸려면 빈틈없는 계획이 필요하고, 그런 계획을 세우려면 시간이 걸립니다..."
+    },
+    {
+      "line": 1306,
+      "event": "pitstop_passenger_lovesuccess_adrien_1",
+      "english_sha256": "86a20d7296c5bd8d5e18ac36d6dfebc7da8fa7130c1b64ce525cf9b759bd9208",
+      "ko": "이해해. 그럼 네가 원한다면 일하는 동안 곁에 있어 줄게."
+    },
+    {
+      "line": 1307,
+      "event": "pitstop_passenger_lovesuccess_adrien_1",
+      "english_sha256": "45bd1a3bf4fa8d72cfafcfd30dec6b7ef89a0309a77aee722a9cec7ab7c39a25",
+      "ko": "아... 물론입니다. 그러면 좋겠네요."
+    },
+    {
+      "line": 1308,
+      "event": "pitstop_passenger_lovesuccess_adrien_1",
+      "english_sha256": "ca42519f4d2a38b1a02726f09bde99842070223079341b2c0a1a550d04db3532",
+      "ko": "너는 저녁 내내 애드리언과 머킹덤 개혁 전략을 검토한다. 집중한 모습이 정말 귀엽다."
+    },
+    {
+      "line": 1313,
+      "event": "pitstop_passenger_lovesuccess_adrien_2",
+      "english_sha256": "2b994adc7c8d5ba57cdb806bede728504c833dbdecff9db6464bca96771c5f70",
+      "ko": "좋은 저녁입니다, %CURRENTPLAYERNAME%. 대화를 나누고 싶으신 모양이군요."
+    },
+    {
+      "line": 1314,
+      "event": "pitstop_passenger_lovesuccess_adrien_2",
+      "english_sha256": "c92236bfb83107244f5fdb813c1382b8ce2186961047a45b993dbbfe206e919d",
+      "ko": "평소라면 기꺼이 응하겠지만, 오늘 밤은 기사 훈련에 집중해야 합니다."
+    },
+    {
+      "line": 1315,
+      "event": "pitstop_passenger_lovesuccess_adrien_2",
+      "english_sha256": "42f08f7c923af6e7d82f830d1027e7b67b98c6e8dc391b59c368962e287e5720",
+      "ko": "아, 그래. 그런데 '기사 훈련'은 정확히 뭘 하는 거야?"
+    },
+    {
+      "line": 1316,
+      "event": "pitstop_passenger_lovesuccess_adrien_2",
+      "english_sha256": "bfdfafb4e222e358bcd7e0815758576eca2a5ec724979e8a621c6d8ce7a20a5d",
+      "ko": "우선 에어로빅을 하고, 검술을 연습한 다음, 내 사명의 무게를 깊이 숙고하는 데 반 시간을 씁니다..."
+    },
+    {
+      "line": 1317,
+      "event": "pitstop_passenger_lovesuccess_adrien_2",
+      "english_sha256": "e8f921cd52946d5ad0df3225b79744adc8f54849018f6b98dbf40aa920e6cc11",
+      "ko": "...마지막으로 머리부터 발끝까지 갑옷을 닦습니다."
+    },
+    {
+      "line": 1318,
+      "event": "pitstop_passenger_lovesuccess_adrien_2",
+      "english_sha256": "f0a0977d7d95f9881d63864f8fce44736dbb740171dada61b05827d079c56b80",
+      "ko": "마지막 단계는 네가 도와줄 수도 있겠군?"
+    },
+    {
+      "line": 1319,
+      "event": "pitstop_passenger_lovesuccess_adrien_2",
+      "english_sha256": "c55c3de1dbf8ee761ccd0042647114083c9f50068c7d77e3e43ee55fbeefa842",
+      "ko": "당연히 도와주지! 너는 저녁 내내 애드리언의 훈련을 지켜보다가 갑옷 전체를 구석구석 빡빡 닦아 준다. 정말 즐겁고, 아주 친밀한 시간이다!"
+    },
+    {
+      "line": 1324,
+      "event": "pitstop_passenger_lovesuccess_adrien_3",
+      "english_sha256": "ec59d38d97ce6b22088ed91d76c4050eee9bd359a6baae432a9f8883f8aa0e4d",
+      "ko": "좋은 저녁입니다, %CURRENTPLAYERNAME%. 만나서 반갑군요."
+    },
+    {
+      "line": 1325,
+      "event": "pitstop_passenger_lovesuccess_adrien_3",
+      "english_sha256": "76231ac32751f182ba5ab526f6c6de324b4a07320b35927677e4b50058a1aa36",
+      "ko": "죄송합니다만 오늘 밤은 대화할 수 없습니다. 방금 수중 세계에 있는 동료들에게서 편지를 받았습니다."
+    },
+    {
+      "line": 1326,
+      "event": "pitstop_passenger_lovesuccess_adrien_3",
+      "english_sha256": "2a9a6c0a789854095c18c42f34fc733897a51acc599e1493cac8efa84fc6c5fe",
+      "ko": "왕관 충성파들이 서신을 가로챌 수 있으니 암호로 소통해야 합니다. 편지를 해독하는 데 시간이 꽤 걸립니다."
+    },
+    {
+      "line": 1327,
+      "event": "pitstop_passenger_lovesuccess_adrien_3",
+      "english_sha256": "58d9c46c3ca09fefdb7899f38ba7c22958cfa5715a478f718f5eae2a85f65961",
+      "ko": "중요한 일이네! 원한다면 네가 읽는 동안 옆에 있어 줄게."
+    },
+    {
+      "line": 1328,
+      "event": "pitstop_passenger_lovesuccess_adrien_3",
+      "english_sha256": "004c8816082b9019d5d7d249418691062ef1eba7701f05038362f671cb1caf0f",
+      "ko": "그건... 정말 좋겠네요. 고맙습니다."
+    },
+    {
+      "line": 1329,
+      "event": "pitstop_passenger_lovesuccess_adrien_3",
+      "english_sha256": "3e23142edcfcb890b21220aa9502477853ba2814771c8a0057ef335e810cd515",
+      "ko": "너는 애드리언이 편지를 해독하는 동안 함께 느긋하게 시간을 보낸다. 첩보 놀이 같아!"
+    },
+    {
+      "line": 1334,
+      "event": "pitstop_passenger_lovesuccess_hope_1",
+      "english_sha256": "5ada605c790a6c722da57de6f12d7d894e5dbcf10f7f4c4b1739758b57273b06",
+      "ko": "호프가 타로 카드 여러 장을 앞에 펼쳐 놓고 앉아 있는 게 보인다."
+    },
+    {
+      "line": 1335,
+      "event": "pitstop_passenger_lovesuccess_hope_1",
+      "english_sha256": "073ed21a44f8a949822dcb5f9207eb5c75d98d669a6af764ffa9364eacb19ca9",
+      "ko": "안녕, %CURRENTPLAYERNAME%. 같이 시간 보내러 왔어?"
+    },
+    {
+      "line": 1336,
+      "event": "pitstop_passenger_lovesuccess_hope_1",
+      "english_sha256": "a0af32174b266fff8003255f4030cbf6926a5ab54fbdb76715d3e7a2daa7f165",
+      "ko": "지금은 좀 바빠. 막 내 운세를 직접 보고 있었거든..."
+    },
+    {
+      "line": 1337,
+      "event": "pitstop_passenger_lovesuccess_hope_1",
+      "english_sha256": "abae01c5b28dbc97725e5fbfc232b9b08c4f16b6b5f4ec4507be27a224be967b",
+      "ko": "그래도 기다려 줄 수 있다면, 원할 경우 다음엔 네 카드도 봐 줄게."
+    },
+    {
+      "line": 1338,
+      "event": "pitstop_passenger_lovesuccess_hope_1",
+      "english_sha256": "368970def142fcaefb09d7c0acc13c2e491b93a0c2e143dc4562afd52e7559dd",
+      "ko": "좋아! 너는 호프와 함께 앉아 호프의 카드와 네 카드를 차례로 본다. 두 사람 모두 남은 밤 내내 생각할 거리가 생긴다."
+    },
+    {
+      "line": 1343,
+      "event": "pitstop_passenger_lovesuccess_hope_2",
+      "english_sha256": "cc41f0bc98c1327d56aec468395f1329f4be8375cc99deb4de46ff1e91661ac2",
+      "ko": "어, 안녕 %CURRENTPLAYERNAME%. 미안하지만 오늘 밤은 같이 못 놀겠어."
+    },
+    {
+      "line": 1344,
+      "event": "pitstop_passenger_lovesuccess_hope_2",
+      "english_sha256": "57ae8ef23c8c9701dfc43e0ab5c6f400be47099f1709995adaeef1d93f6d5730",
+      "ko": "조이가 나와 페이스에게 주문 연습 문제를 이메일로 보냈어. '실력을 녹슬지 않게' 해서 '악이 추악한 머리를 들이밀' 때를 대비하라나..."
+    },
+    {
+      "line": 1345,
+      "event": "pitstop_passenger_lovesuccess_hope_2",
+      "english_sha256": "b65b77650b837f67d947f0569dda8b1335967e4ca802abde9b394b953dfbc4d5",
+      "ko": "그 애는 쉬는 날이라는 걸 들어 본 적이 없다니까."
+    },
+    {
+      "line": 1346,
+      "event": "pitstop_passenger_lovesuccess_hope_2",
+      "english_sha256": "d41c5c0e620b6499cebfbc7927914ec34d987a0740a58e916702910bf3470368",
+      "ko": "괜찮아. 그럼 네가 주문을 외우는 동안 옆에 있어도 될까?"
+    },
+    {
+      "line": 1347,
+      "event": "pitstop_passenger_lovesuccess_hope_2",
+      "english_sha256": "f3266ffc7b3809b5a3a63ffb3b11c688edb0f31eddb491250bf4dd21c2321caf",
+      "ko": "응, 물론이지!"
+    },
+    {
+      "line": 1348,
+      "event": "pitstop_passenger_lovesuccess_hope_2",
+      "english_sha256": "8ccfe2b700586c7104c3520580769729ac194234610e42d6917dae0f5be99d49",
+      "ko": "그래서 너는 호프가 마법 연습을 하는 동안 근처에 앉아 있는다. 마녀회에 들어가면 정말 할 일이 많다니까!"
+    },
+    {
+      "line": 1353,
+      "event": "pitstop_passenger_lovesuccess_hope_3",
+      "english_sha256": "cc41f0bc98c1327d56aec468395f1329f4be8375cc99deb4de46ff1e91661ac2",
+      "ko": "어, 안녕 %CURRENTPLAYERNAME%. 미안하지만 오늘 밤은 같이 못 놀겠어."
+    },
+    {
+      "line": 1354,
+      "event": "pitstop_passenger_lovesuccess_hope_3",
+      "english_sha256": "7d1ac640b72f41b5af507d3770bc52309dcdacc941ad9831069c9a0a400bf6f2",
+      "ko": "조이가 나와 페이스에게 전략, 팀 전술, 다음에 맞서 싸울지도 모를 악의 목록을 담은 30페이지짜리 문서를 이메일로 보냈어."
+    },
+    {
+      "line": 1355,
+      "event": "pitstop_passenger_lovesuccess_hope_3",
+      "english_sha256": "06cbadeb632b37a10f3b27a7bfaf08ceb81f806785f1f3afaeecbf0e3502dd42",
+      "ko": "있잖아... 조이다운 일이잖아."
+    },
+    {
+      "line": 1356,
+      "event": "pitstop_passenger_lovesuccess_hope_3",
+      "english_sha256": "536bed66e3b6bf9e431bfadfe2bb96a0c99f2a4e4027e4c7a92c02a337b23e66",
+      "ko": "오늘 밤은 열심히 읽어야겠네."
+    },
+    {
+      "line": 1357,
+      "event": "pitstop_passenger_lovesuccess_hope_3",
+      "english_sha256": "41dc484912816978c8ee22ec867bd3dfced1ce40a2c6ca335d395032484649d1",
+      "ko": "나도 같이 읽어도 돼? 마녀회 일에 대해 더 알고 싶어."
+    },
+    {
+      "line": 1358,
+      "event": "pitstop_passenger_lovesuccess_hope_3",
+      "english_sha256": "7f84dcc63df5eb9ae476bfc20b0376bf90f81f785e6e3faf9d11793edc5bc92a",
+      "ko": "그거 좋겠다. 나도 누군가 곁에 있으면 좋겠어."
+    },
+    {
+      "line": 1359,
+      "event": "pitstop_passenger_lovesuccess_hope_3",
+      "english_sha256": "b92f573d6245b5db95f3e363902eb75566636019284c083561672b4323229715",
+      "ko": "너와 호프는 저녁 내내 마녀회 자료를 읽는다. 흥미진진한 마녀 지식이 가득하다!"
+    },
+    {
+      "line": 1364,
+      "event": "pitstop_passenger_lovesuccess_finn_1",
+      "english_sha256": "097e755b1aae11964db171c692358a03ac893213f39beabfe230222dde72468d",
+      "ko": "어, 안녕 %CURRENTPLAYERNAME%... 같이 놀고 싶어?"
+    },
+    {
+      "line": 1365,
+      "event": "pitstop_passenger_lovesuccess_finn_1",
+      "english_sha256": "347d305e147f8798cdf47462c78438df102299bd9b9617b6d19c89c7b48329ab",
+      "ko": "정말 미안하지만 오늘 밤은 쉴 수가 없어."
+    },
+    {
+      "line": 1366,
+      "event": "pitstop_passenger_lovesuccess_finn_1",
+      "english_sha256": "5b0df869b8364e70c2c7e287cc0568d5dd9b89fb83ef569e259a2d33054943a7",
+      "ko": "내일 아침까지 작성해야 할 스프레드시트가 산더미처럼 쌓였거든. 밤새 일해야 해..."
+    },
+    {
+      "line": 1367,
+      "event": "pitstop_passenger_lovesuccess_finn_1",
+      "english_sha256": "43a17e0111bf227c2b16063d03b44a790562da96aa5154fb276991ed6749a53b",
+      "ko": "짜증 나지만, 무슨 말인지 알잖아."
+    },
+    {
+      "line": 1368,
+      "event": "pitstop_passenger_lovesuccess_finn_1",
+      "english_sha256": "6552887de6d635dd266a019bbbbcb28a315885b45bab5f6a92e6487c26fcc82d",
+      "ko": "전혀 모르겠는데. 이 도피성 시나리오에서 넌 아무 책임도 없이 끝없는 자동차 여행을 즐기는 혈기 왕성한 청년 몬스터잖아! 야호!"
+    },
+    {
+      "line": 1369,
+      "event": "pitstop_passenger_lovesuccess_finn_1",
+      "english_sha256": "37d1bf43823a5f0582b6e5fba8c38759ca8dbb0210e1ba959e5578cfd39935a5",
+      "ko": "그래도 너는 핀이 일하는 동안 곁에 있어 주기로 한다. 쉬는 시간에는 가벼운 얘기도 나누고 의미심장한 눈빛도 주고받는다!"
+    },
+    {
+      "line": 1374,
+      "event": "pitstop_passenger_lovesuccess_finn_2",
+      "english_sha256": "097e755b1aae11964db171c692358a03ac893213f39beabfe230222dde72468d",
+      "ko": "어, 안녕 %CURRENTPLAYERNAME%... 같이 놀고 싶어?"
+    },
+    {
+      "line": 1375,
+      "event": "pitstop_passenger_lovesuccess_finn_2",
+      "english_sha256": "006907ccd1de3913d0cdf82f63b60bdc49c085af55dcf77dcf6c1b61345bdf23",
+      "ko": "그래, 뭐 괜찮아. 하지만 오늘 밤은 '나만의 밤'을 보낼 생각이었거든."
+    },
+    {
+      "line": 1376,
+      "event": "pitstop_passenger_lovesuccess_finn_2",
+      "english_sha256": "410ef0715e5a03e7216d7093100ce37a3069cc099490cbd9d4911fc4f230a8e7",
+      "ko": "가끔은 나를 돌보는 날도 필요해. 안 그러면 직장 스트레스와 고지서, 좌절된 꿈 때문에 완전히 미쳐 버릴 테니까... 무슨 말인지 알지?"
+    },
+    {
+      "line": 1377,
+      "event": "pitstop_passenger_lovesuccess_finn_2",
+      "english_sha256": "b595a8aaf84cdc564df0b184b4269291b9c4e970fbe79dedd4d6f691c36e00cd",
+      "ko": "하하, 그러니까... 네가 괜찮다면 나랑 핀볼도 치고 취해서 노래방에서 노래도 부를 수 있어!"
+    },
+    {
+      "line": 1378,
+      "event": "pitstop_passenger_lovesuccess_finn_2",
+      "english_sha256": "32d8f6de6757e6b0cd52a1b6d56d904a0974ae0ff882b0c8969d9b5edf2f1676",
+      "ko": "좋아 보이는데! 너와 핀은 새벽까지 촌스러운 팝송을 부르며 밤을 신나게 즐긴다."
+    },
+    {
+      "line": 1383,
+      "event": "pitstop_passenger_lovesuccess_finn_3",
+      "english_sha256": "097e755b1aae11964db171c692358a03ac893213f39beabfe230222dde72468d",
+      "ko": "어, 안녕 %CURRENTPLAYERNAME%... 같이 놀고 싶어?"
+    },
+    {
+      "line": 1384,
+      "event": "pitstop_passenger_lovesuccess_finn_3",
+      "english_sha256": "0d6e4d5df36f6c9f5c53c2a78a4b4c336eb27988872562899fac7172b5ecb510",
+      "ko": "오늘은 안 돼, 미안. 처리해야 할 이메일이 엄청 많아. 받은 편지함이 꽉 찼거든."
+    },
+    {
+      "line": 1385,
+      "event": "pitstop_passenger_lovesuccess_finn_3",
+      "english_sha256": "bc9ea55d6ad34d94dc43997123e2c310873a53b35affcc081613f6ac103ce174",
+      "ko": "으아! 이건 파파스 씨가 보낸 메일이잖아. 엄청 중요한 회의 일정을 다시 잡아 달라고 하셨네!"
+    },
+    {
+      "line": 1386,
+      "event": "pitstop_passenger_lovesuccess_finn_3",
+      "english_sha256": "1fe52628d558109a6ea7bd08b5b9ad9da0e881b5ef46e15b87d7326c2639501a",
+      "ko": "...못 본 척해야겠다..."
+    },
+    {
+      "line": 1387,
+      "event": "pitstop_passenger_lovesuccess_finn_3",
+      "english_sha256": "c1c4b70da7dd524e455d5225c2e1ef8eed187a6f18a240cce1739d58d2902e5d",
+      "ko": "너는 핀이 받은 편지함을 정리하는 동안 함께 있기로 한다... 그리고 그가 중요한 메모들을 놓쳤다고 해고되지는 않을 거라고 가끔 안심시켜 준다."
+    },
+    {
+      "line": 1388,
+      "event": "pitstop_passenger_lovesuccess_finn_3",
+      "english_sha256": "328af69fe1ebf7bfe48e0ba8e7cb98c73167e2ba53a02ad8074d69deeedca444",
+      "ko": "정서적으로 곁에서 지지해 줄 사람이 꼭 필요한 모양이다."
+    },
+    {
+      "line": 1389,
+      "event": "pitstop_passenger_lovesuccess_finn_3",
+      "english_sha256": "711b96a9884d359e377696817fc07f35e7e6d1f43dc9d732769dba27203da0a2",
+      "ko": "(그리고 새 직장도.)"
+    },
+    {
+      "line": 1394,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_1",
+      "english_sha256": "37e72741de3442016b31f232e10a217fb4a3d15fb5c5e78d321347fc9d84dadd",
+      "ko": "안녕, 달리아! 오늘 밤 같이 놀래?"
+    },
+    {
+      "line": 1395,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_1",
+      "english_sha256": "b820f55f17feed92eaaa3a0a23c17cd6db146e9ced9f88a05e5c1cf4176fd8b4",
+      "ko": "아, 젠장! 그러고 싶지만 오늘 밤 스콧의 더러운 양말을 빨아 주기로 약속했어."
+    },
+    {
+      "line": 1396,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_1",
+      "english_sha256": "66ab66593eaa8ce1b2b42daa9dd0c0e4272497b2a70798894b4638011b8668e4",
+      "ko": "이런 일일 줄은 몰랐어... 한 사람이 더러운 양말을 대체 얼마나 많이 갖고 있는 거야? 수집이라도 하나?!"
+    },
+    {
+      "line": 1397,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_1",
+      "english_sha256": "0bd9325eef61040724ce67a71799d379fe89b57f2f671236b52ede7723c6cc4c",
+      "ko": "나도 모르겠네. 그럼 네가 일하는 동안 옆에서 같이 쉬어도 될까?"
+    },
+    {
+      "line": 1398,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_1",
+      "english_sha256": "9937782bf503abb29d2724e0057ae5c4ab869985264f6d71596baf493fc671c1",
+      "ko": "좋아! 완전 좋지!"
+    },
+    {
+      "line": 1399,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_1",
+      "english_sha256": "f1cbacb4ecb807db0e22a53c23593848d43de8904c52a928f11d5848d6ce844d",
+      "ko": "너는 달리아와 함께 저녁 내내 느긋하게 시간을 보내며 사막의 소리와 세탁기가 돌아가는 부드러운 진동을 즐긴다."
+    },
+    {
+      "line": 1404,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_2",
+      "english_sha256": "fee79263271650eb20bca3859dc76aebc9bba7442e12ba96746d76e104cf9e96",
+      "ko": "안녕, 달리아! 얘기할래?"
+    },
+    {
+      "line": 1405,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_2",
+      "english_sha256": "9ebbd42edcc3ad5fe7849a85082406270ce30f212e3727ebccbc65267373a7ae",
+      "ko": "미안해, %CURRENTPLAYERNAME%. 지금은 얘기할 수 없어. 오늘 밤 운동해야 하거든!"
+    },
+    {
+      "line": 1406,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_2",
+      "english_sha256": "8de0b1fb25351a03e279d926c2c94147cfad7ef52bca574d3958942c7c655294",
+      "ko": "어... 세탁기는 대체 어떻게 운동하는 거야?"
+    },
+    {
+      "line": 1407,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_2",
+      "english_sha256": "63bf6c3cde463cc746e8d039ec210b98f3fff5f4677fb6762b072a686357b453",
+      "ko": "이렇게!"
+    },
+    {
+      "line": 1408,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_2",
+      "english_sha256": "98d933d24af8ab8fa2a32ae9460b3ea87a4dc6f843763b4d84cf8dffc4d5bb09",
+      "ko": "흐르르르르그르르르크르르르!"
+    },
+    {
+      "line": 1409,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_2",
+      "english_sha256": "697c8dcd9faec6425add1a701ddd6f526980c927d97f3656eb52a6e9454f3ca4",
+      "ko": "됐다! 한 번 완료, 이제 아흔아홉 번 남았어!"
+    },
+    {
+      "line": 1410,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_2",
+      "english_sha256": "95792a153784f09ea2233df16f5e540685561b48c9f729c1cf98bc8e2ff0769a",
+      "ko": "그래, 본인이 좋다는데 어쩌겠어. 너는 달리아가 우스꽝스럽게 '반복 운동'을 하는 동안 그냥 곁에서 함께 시간을 보내기로 한다."
+    },
+    {
+      "line": 1415,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_3",
+      "english_sha256": "fee79263271650eb20bca3859dc76aebc9bba7442e12ba96746d76e104cf9e96",
+      "ko": "안녕, 달리아! 얘기할래?"
+    },
+    {
+      "line": 1416,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_3",
+      "english_sha256": "e192b22c79ea41520625d6344270862244ac33fe85cb557c48fec53a9dbd4d3f",
+      "ko": "얘기할 수도 있고... 네 옷을 빨아 줄 수도 있지!"
+    },
+    {
+      "line": 1417,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_3",
+      "english_sha256": "c1fb26d451ee523101749636d1151b32e8f53903156e4ef96b934beef1bc25e5",
+      "ko": "...뭐라고?"
+    },
+    {
+      "line": 1418,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_3",
+      "english_sha256": "66fc4269ed1d0078224c83558a563d5b2a4babb3706e32858592150120a2fc0a",
+      "ko": "오늘 밤은 빨래가 하고 싶어. 내 취향이잖아, 알지?"
+    },
+    {
+      "line": 1419,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_3",
+      "english_sha256": "eace46d1a921a6afb9add9443d5769cf7bef70e485833399e85ae4c2c7647e4f",
+      "ko": "그럼 네 옷 빨아도 돼?"
+    },
+    {
+      "line": 1420,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_3",
+      "english_sha256": "f2e6c2fe7c8f785b63f0cba383cbc6eeed66137ef820cbf8439b3cd8e22cf35f",
+      "ko": "그래?"
+    },
+    {
+      "line": 1421,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_3",
+      "english_sha256": "2cb6318b9f4550a828e3567463a256327bc37dc992c988810cf4a4a8ed8ce5d9",
+      "ko": "좋아!!!"
+    },
+    {
+      "line": 1422,
+      "event": "pitstop_passenger_lovesuccess_dahliaappliance_3",
+      "english_sha256": "787e30ed8fed9fa20994d0a70d88053ae60351f8e4a16112363793eee94c03ce",
+      "ko": "너는 달리아가 네 옷을 빨아 주는 동안 조용히 함께 쉰다. 이상하게도 유대감이 생기는 경험이다... 세탁기 소리가 약간 ASMR처럼 들리기도 한다."
+    },
+    {
+      "line": 1428,
+      "event": "pitstop_passenger_lovesuccess_lamb_1",
+      "english_sha256": "c158c3dd335af141ad0fff35b0bd74142a0fda94a95d666981fa739031c6d095",
+      "ko": "안녕, %CURRENTPLAYERNAME%!"
+    },
+    {
+      "line": 1429,
+      "event": "pitstop_passenger_lovesuccess_lamb_1",
+      "english_sha256": "4c566f2930a9d3caa557afad6f269b4350b816973263631ceae771d28d915b30",
+      "ko": "만나서 반가워! 오늘 밤은 얘기할 수 없어. 교단에 필요한 물자를 구하러 가야 하거든."
+    },
+    {
+      "line": 1430,
+      "event": "pitstop_passenger_lovesuccess_lamb_1",
+      "english_sha256": "f278d53e27cef1f2c091ddefea09105b5bd4d03b57d183344b22757691dbdf32",
+      "ko": "통나무와 돌, 감히 내게 맞서는 자들의 뼈는 저절로 모이지 않는다고!"
+    },
+    {
+      "line": 1431,
+      "event": "pitstop_passenger_lovesuccess_lamb_1",
+      "english_sha256": "f478ff23137cc609bb37cef8a49c1fb8341bcf90546ccd9363a301924da98681",
+      "ko": "그래도 네가 감당할 수 있다면 같이 와도 돼..."
+    },
+    {
+      "line": 1432,
+      "event": "pitstop_passenger_lovesuccess_lamb_1",
+      "english_sha256": "3e6ee2eeaa11f8cb666a1562936158e462e29f6a9ed02f86aeba97b7e4c91d18",
+      "ko": "도전, 받아들였어!"
+    },
+    {
+      "line": 1434,
+      "event": "pitstop_passenger_lovesuccess_lamb_1",
+      "english_sha256": "9637eda3041eefdfa7e26a7c97169f2116204bf4ed20b4249dd52d21fe70bfc6",
+      "ko": "너는 어린양과 함께 신나는 모험을 떠나 물자를 모으고 앞을 가로막는 자들을 모조리 처치한다."
+    },
+    {
+      "line": 1435,
+      "event": "pitstop_passenger_lovesuccess_lamb_1",
+      "english_sha256": "8bc13c56a51baff554b362c1a82289136149f3044af0bdc151dca2f667b37531",
+      "ko": "여기선 우리 장르랑 좀 안 맞아서 보여 줄 수 없지만... 다른 게임이라면 가능할지도!"
+    },
+    {
+      "line": 1441,
+      "event": "pitstop_passenger_lovesuccess_lamb_2",
+      "english_sha256": "3469251bf683a45609c9aef762c53d66196a0dbf392fb9b934604eeca650f44e",
+      "ko": "어, 안녕 %CURRENTPLAYERNAME%!"
+    },
+    {
+      "line": 1442,
+      "event": "pitstop_passenger_lovesuccess_lamb_2",
+      "english_sha256": "b82d6610ec3ec423bb373aaa34db82a998cbc167c13e72d9681c9df41352ed4d",
+      "ko": "미안하지만 오늘 밤은 얘기할 시간이 없어."
     }
   ]
 }
