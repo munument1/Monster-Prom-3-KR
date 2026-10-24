@@ -59,7 +59,12 @@ def main() -> None:
                 event = line.split("\t", 2)[1]
                 events += 1
                 continue
-            if not line.startswith("\t"):
+            # The game's event parser also displays the *fourth* field of
+            # >choice and >action directives as player-facing choice/action
+            # text. The preceding three columns remain structural metadata.
+            # Skipping these lines silently leaves whole dialogue branches in
+            # English, so include all three human-facing row categories.
+            if not (line.startswith("\t") or line.startswith(">choice\t") or line.startswith(">action\t")):
                 continue
             fields = line.split("\t")
             if len(fields) < 4 or not fields[3].strip():
@@ -74,6 +79,7 @@ def main() -> None:
                 "english": original,
                 "english_sha256": hashlib.sha256(original.encode("utf-8")).hexdigest(),
                 "kind": "event",
+                "row_type": "choice" if line.startswith(">choice\t") else ("action" if line.startswith(">action\t") else "dialogue"),
             })
             rows += 1
     assert len(manifest) == 12, manifest

@@ -1,0 +1,785 @@
+{
+  "source_sha256": "27b703e4fb48981006647d88316ec1cae5408d443950fc2522f1159f31acbf81",
+  "entries": [
+    {
+      "line": 4,
+      "event": "road_game_over_hype_solo_1",
+      "english_sha256": "c1cbe49c7d66d281c01841c9c2f659ada9f7039af2312a64c45a8d4d8f077d60",
+      "ko": "자동차 여행이 너무 따분하고 지루해져서 더는 계속할 수 없게 된다."
+    },
+    {
+      "line": 5,
+      "event": "road_game_over_hype_solo_1",
+      "english_sha256": "cfea510a40ba57f46616dae0ade8cfee0e1415fa40a05a12921f586f1185a49a",
+      "ko": "대체 어쩌다 이렇게 된 걸까? 재밌고 정신 나간 모험을 위한 재료는 전부 갖췄는데!"
+    },
+    {
+      "line": 6,
+      "event": "road_game_over_hype_solo_1",
+      "english_sha256": "bbad7e02e39c015c92b7dc1e344735a081584a62103f24c1960d3648f50b3829",
+      "ko": "폴리는 웃음과 혼돈을, 스콧은 우정과 유쾌한 기운을 가져왔지. 그리고 너는..."
+    },
+    {
+      "line": 7,
+      "event": "road_game_over_hype_solo_1",
+      "english_sha256": "ae1a3005fced2747311f6310ba0a66c0abe90e6932b4b858d34669e948917710",
+      "ko": "아아... 범인은 너였구나. 이 조합을 망친 썩은 재료가 바로 너였어."
+    },
+    {
+      "line": 8,
+      "event": "road_game_over_hype_solo_1",
+      "english_sha256": "d84ecce8ee736e86c957c10d5ea883595e547b05f2ab505e1e7d8aaa657e54dd",
+      "ko": "으윽."
+    },
+    {
+      "line": 14,
+      "event": "road_game_over_hype_solo_2",
+      "english_sha256": "c1cbe49c7d66d281c01841c9c2f659ada9f7039af2312a64c45a8d4d8f077d60",
+      "ko": "자동차 여행이 너무 따분하고 지루해져서 더는 계속할 수 없게 된다."
+    },
+    {
+      "line": 15,
+      "event": "road_game_over_hype_solo_2",
+      "english_sha256": "8758d636e22215cea18191de47e51590444ce0b201c69642e74eeac907d7fae1",
+      "ko": "너는 길가에 주저앉아 지루해 죽어 가고 있는데, 파티 버스 한 대가 네 옆에서 속도를 줄인다!"
+    },
+    {
+      "line": 16,
+      "event": "road_game_over_hype_solo_2",
+      "english_sha256": "c0466b33efdef8a155ad3012680ea8543b6d2733be0d8a4a07ae3e2670f7a39b",
+      "ko": "그 사람들이 널 구해 주겠대! 좋아! 이제 막 올라타려는데..."
+    },
+    {
+      "line": 17,
+      "event": "road_game_over_hype_solo_2",
+      "english_sha256": "81b239e750cc950b813e53ce7efa2ea9fae6790f3f4c9223947fe083678e1632",
+      "ko": "그런데 버스에 타기 전에 '탑승하려면 이 정도는 재밌어야 함'이라고 적힌 눈금자로 너를 재는 거야."
+    },
+    {
+      "line": 18,
+      "event": "road_game_over_hype_solo_2",
+      "english_sha256": "486341ea247b2287bb8f9af9a7a941bd68c8bffcc2969db9960bd67c857f2b72",
+      "ko": "안타깝게도... 넌 기준에 못 미친다. 젠장."
+    },
+    {
+      "line": 24,
+      "event": "road_game_over_hype_group_2",
+      "english_sha256": "c1cbe49c7d66d281c01841c9c2f659ada9f7039af2312a64c45a8d4d8f077d60",
+      "ko": "자동차 여행이 너무 따분하고 지루해져서 더는 계속할 수 없게 된다."
+    },
+    {
+      "line": 25,
+      "event": "road_game_over_hype_group_2",
+      "english_sha256": "8758d636e22215cea18191de47e51590444ce0b201c69642e74eeac907d7fae1",
+      "ko": "너희가 길가에 주저앉아 지루해 죽어 가고 있는데, 파티 버스 한 대가 옆에서 속도를 줄인다!"
+    },
+    {
+      "line": 26,
+      "event": "road_game_over_hype_group_2",
+      "english_sha256": "c0466b33efdef8a155ad3012680ea8543b6d2733be0d8a4a07ae3e2670f7a39b",
+      "ko": "그 사람들이 너희를 구해 주겠대! 좋아! 이제 막 올라타려는데..."
+    },
+    {
+      "line": 27,
+      "event": "road_game_over_hype_group_2",
+      "english_sha256": "81b239e750cc950b813e53ce7efa2ea9fae6790f3f4c9223947fe083678e1632",
+      "ko": "그런데 버스에 타기 전에 '탑승하려면 이 정도는 재밌어야 함'이라고 적힌 눈금자로 너희를 재는 거야."
+    },
+    {
+      "line": 28,
+      "event": "road_game_over_hype_group_2",
+      "english_sha256": "486341ea247b2287bb8f9af9a7a941bd68c8bffcc2969db9960bd67c857f2b72",
+      "ko": "안타깝게도... 너희는 기준에 못 미친다. 젠장."
+    },
+    {
+      "line": 34,
+      "event": "road_game_over_hype_solo_3",
+      "english_sha256": "c1cbe49c7d66d281c01841c9c2f659ada9f7039af2312a64c45a8d4d8f077d60",
+      "ko": "자동차 여행이 너무 따분하고 지루해져서 더는 계속할 수 없게 된다."
+    },
+    {
+      "line": 35,
+      "event": "road_game_over_hype_solo_3",
+      "english_sha256": "41e2510976b4e991149d7c32c6ded8407a622e316280d0ec705817b0ee8a845f",
+      "ko": "이쯤 되니까 나도 이 이야기를 계속 들려주기엔 공식적으로 너무 지루해졌어."
+    },
+    {
+      "line": 36,
+      "event": "road_game_over_hype_solo_3",
+      "english_sha256": "7812ce7ed054a18195459a5539e298128aa6dd156118c62af8e6af68b422718e",
+      "ko": "패배자로 사는 재미나 실컷 누려. 난 더 흥미로운 주인공을 찾으러 갈 테니까."
+    },
+    {
+      "line": 42,
+      "event": "road_game_over_hype_group_3",
+      "english_sha256": "c1cbe49c7d66d281c01841c9c2f659ada9f7039af2312a64c45a8d4d8f077d60",
+      "ko": "자동차 여행이 너무 따분하고 지루해져서 더는 계속할 수 없게 된다."
+    },
+    {
+      "line": 43,
+      "event": "road_game_over_hype_group_3",
+      "english_sha256": "41e2510976b4e991149d7c32c6ded8407a622e316280d0ec705817b0ee8a845f",
+      "ko": "이쯤 되니까 나도 이 이야기를 계속 들려주기엔 공식적으로 너무 지루해졌어."
+    },
+    {
+      "line": 44,
+      "event": "road_game_over_hype_group_3",
+      "english_sha256": "aa5679ae35c2e1ad0e817bd81de077a09bb52d0b6b250dc0a225ef7d61aa9a9e",
+      "ko": "난 야생동물 다큐멘터리나 해설하러 갈래. 거기선 적어도 떡도 치고 신나게 놀기라도 하거든."
+    },
+    {
+      "line": 50,
+      "event": "road_game_over_hype_solo_4",
+      "english_sha256": "c1cbe49c7d66d281c01841c9c2f659ada9f7039af2312a64c45a8d4d8f077d60",
+      "ko": "자동차 여행이 너무 따분하고 지루해져서 더는 계속할 수 없게 된다."
+    },
+    {
+      "line": 51,
+      "event": "road_game_over_hype_solo_4",
+      "english_sha256": "8643a51c7c345a046d1111363ab52439523971f0ee4e9909afc2f9d12c5a5860",
+      "ko": "어찌나 지루한지 자동차 여행이라는 유행 자체가 영원히 끝나 버린다."
+    },
+    {
+      "line": 52,
+      "event": "road_game_over_hype_solo_4",
+      "english_sha256": "74cbc72907e913f6f69aa3d965d4639c02659dd0725964d319fae7e75ddf34f6",
+      "ko": "괴물 사회에서는 자동차 여행 대신 VR 여행과 훌라후프 대결이 대세가 된다."
+    },
+    {
+      "line": 53,
+      "event": "road_game_over_hype_solo_4",
+      "english_sha256": "12951ae4a676725f420c34041d54d749cbbac1de30473448776cf797fe0af277",
+      "ko": "아무래도 이건 잘못된 방향 같지만, 네가 뭘 알겠어?"
+    },
+    {
+      "line": 54,
+      "event": "road_game_over_hype_solo_4",
+      "english_sha256": "d542764f780b5a6dd8f927f15fcb63b760b86a60aea8e73308fca8c5ea9f1e36",
+      "ko": "자동차 여행 문화를 죽여 버린 개자식이 바로 너잖아."
+    },
+    {
+      "line": 60,
+      "event": "road_game_over_hype_group_4",
+      "english_sha256": "c1cbe49c7d66d281c01841c9c2f659ada9f7039af2312a64c45a8d4d8f077d60",
+      "ko": "자동차 여행이 너무 따분하고 지루해져서 더는 계속할 수 없게 된다."
+    },
+    {
+      "line": 61,
+      "event": "road_game_over_hype_group_4",
+      "english_sha256": "8643a51c7c345a046d1111363ab52439523971f0ee4e9909afc2f9d12c5a5860",
+      "ko": "어찌나 지루한지 자동차 여행이라는 유행 자체가 영원히 끝나 버린다."
+    },
+    {
+      "line": 62,
+      "event": "road_game_over_hype_group_4",
+      "english_sha256": "02ae5748782bf7502f6c0e525884db3707907973e0bc44bcc561012fb7bee178",
+      "ko": "괴물 사회에서는 자동차 여행 대신 VR 여행과 훌라후프 대결이 대세가 된다."
+    },
+    {
+      "line": 63,
+      "event": "road_game_over_hype_group_4",
+      "english_sha256": "c4760d8cdcc088a2dcae474d3eeb3fdf45dbc20b348f8bd35a6eeb790d842b38",
+      "ko": "그럼 뭐... '몬스터 프롬 4: 훌라후프 대혼란'에서 또 만나자!"
+    },
+    {
+      "line": 69,
+      "event": "road_game_over_stamina_solo_1",
+      "english_sha256": "386e2c4798462a624f0598cc8203711511b957ae7f0d9ef09448b60105687b74",
+      "ko": "먹을 게 바닥나 결국 굶어 죽는다."
+    },
+    {
+      "line": 70,
+      "event": "road_game_over_stamina_solo_1",
+      "english_sha256": "fa8957f935255b2af1533edd24b8832323bd58cd8bc90e4f9e1b9af6ccde8b4f",
+      "ko": "독수리 떼가 네 시체에 달려들어 엉덩이부터 게걸스럽게 뜯어 먹는다."
+    },
+    {
+      "line": 71,
+      "event": "road_game_over_stamina_solo_1",
+      "english_sha256": "8c9bff5d40ce3aa522a2a4d35b5ce172acbbaf151efb6cbd77e9e81c5937211d",
+      "ko": "적어도 드디어 누군가 네 엉덩이를 먹어 줬네!"
+    },
+    {
+      "line": 72,
+      "event": "road_game_over_stamina_solo_1",
+      "english_sha256": "22a1e45e7f9b4651dcf3fb8045a87180f125b0c36f6cf3356451731c70f5bf90",
+      "ko": "살아 있을 때 그랬다면 더 좋았겠지만. 아쉽게 됐어."
+    },
+    {
+      "line": 78,
+      "event": "road_game_over_stamina_group_1",
+      "english_sha256": "386e2c4798462a624f0598cc8203711511b957ae7f0d9ef09448b60105687b74",
+      "ko": "먹을 게 바닥나 결국 너희 모두 굶어 죽는다."
+    },
+    {
+      "line": 79,
+      "event": "road_game_over_stamina_group_1",
+      "english_sha256": "dd5c29bffff1e4b1a2c6f12f519fca683ecb84326929e02ed21d3ee564d84bb9",
+      "ko": "독수리 떼가 너희 시체에 달려들어 엉덩이부터 게걸스럽게 뜯어 먹는다."
+    },
+    {
+      "line": 80,
+      "event": "road_game_over_stamina_group_1",
+      "english_sha256": "e06d1abb666cb3441623227cc2f8c98bda8bf6467773c08bdd8ca0ea5cfe6189",
+      "ko": "적어도 드디어 너희 엉덩이도 누군가 먹어 줬네!"
+    },
+    {
+      "line": 81,
+      "event": "road_game_over_stamina_group_1",
+      "english_sha256": "807c7cfe4dcf694ba669fe9e07183c9e5cbe8a8c87d11f7af695855f0d513b25",
+      "ko": "너희가 살아 있을 때 그랬다면 더 좋았겠지만. 아쉽게 됐어."
+    },
+    {
+      "line": 87,
+      "event": "road_game_over_stamina_solo_2",
+      "english_sha256": "386e2c4798462a624f0598cc8203711511b957ae7f0d9ef09448b60105687b74",
+      "ko": "먹을 게 바닥나 결국 굶어 죽는다."
+    },
+    {
+      "line": 88,
+      "event": "road_game_over_stamina_solo_2",
+      "english_sha256": "09d5c3f7f944e109c464e4c058ff4c332337785c11a66682ccf8f5174ffbd620",
+      "ko": "그나마 다행인 건 수백 년 뒤 고고학자들이 네 해골을 찾아 박물관에 전시한다는 거야!"
+    },
+    {
+      "line": 89,
+      "event": "road_game_over_stamina_solo_2",
+      "english_sha256": "4b51f0e3ef2f667cdebf377037cf9ca5d5e070a8c0ac71b3895f3207504e7757",
+      "ko": "그런데 네 종의 학명을 '몬스트로 언퍽커빌루스', 그러니까 '아무도 따먹고 싶지 않은 괴물'로 붙여 버린다."
+    },
+    {
+      "line": 90,
+      "event": "road_game_over_stamina_solo_2",
+      "english_sha256": "8225a28c1d9a0df150912577b2ad5b78744b798ad2b3352dbd2f9f7b3ad22234",
+      "ko": "뭐, 후세에 어떻게 기억될지는 네 마음대로 정할 수 없는 법이지!"
+    },
+    {
+      "line": 96,
+      "event": "road_game_over_stamina_group_2",
+      "english_sha256": "386e2c4798462a624f0598cc8203711511b957ae7f0d9ef09448b60105687b74",
+      "ko": "먹을 게 바닥나 결국 너희 모두 굶어 죽는다."
+    },
+    {
+      "line": 97,
+      "event": "road_game_over_stamina_group_2",
+      "english_sha256": "0e94ea9507ca1e55f7b321ef3187e62c6cc483c1ae08029d4f432d61d68d8210",
+      "ko": "그나마 다행인 건 수백 년 뒤 고고학자들이 너희 해골을 찾아 박물관에 전시한다는 거야!"
+    },
+    {
+      "line": 98,
+      "event": "road_game_over_stamina_group_2",
+      "english_sha256": "4b51f0e3ef2f667cdebf377037cf9ca5d5e070a8c0ac71b3895f3207504e7757",
+      "ko": "그런데 너희 종의 학명을 '몬스트로 언퍽커빌루스', 그러니까 '아무도 따먹고 싶지 않은 괴물'로 붙여 버린다."
+    },
+    {
+      "line": 99,
+      "event": "road_game_over_stamina_group_2",
+      "english_sha256": "8225a28c1d9a0df150912577b2ad5b78744b798ad2b3352dbd2f9f7b3ad22234",
+      "ko": "뭐, 후세에 어떻게 기억될지는 너희 마음대로 정할 수 없는 법이지!"
+    },
+    {
+      "line": 105,
+      "event": "road_game_over_stamina_solo_3",
+      "english_sha256": "386e2c4798462a624f0598cc8203711511b957ae7f0d9ef09448b60105687b74",
+      "ko": "먹을 게 바닥나 결국 굶어 죽는다."
+    },
+    {
+      "line": 106,
+      "event": "road_game_over_stamina_solo_3",
+      "english_sha256": "9ce004bc306b464f1efb1f4d0bd50f371b385d80ae0ed251f0a423414cc6c1aa",
+      "ko": "그런데 여행 내내 간식은 차고 넘친다고 우기던 게 바로 너였잖아!"
+    },
+    {
+      "line": 107,
+      "event": "road_game_over_stamina_solo_3",
+      "english_sha256": "90337053c5ed2c31f9a22dd3286cdb0ec828fa0ee79030fc8129ea3be1aeb2c7",
+      "ko": "이제 네가 한 말을 직접 씹어 먹어야겠네..."
+    },
+    {
+      "line": 108,
+      "event": "road_game_over_stamina_solo_3",
+      "english_sha256": "4495e808a30393aa6c5dfc6dfcfe21ceef368126ea3f60bf65335d442e7bdbc6",
+      "ko": "웃기게도, 그걸 아무리 씹어 먹어 봤자 굶어 죽는 건 못 막는다는 거지."
+    },
+    {
+      "line": 109,
+      "event": "road_game_over_stamina_solo_3",
+      "english_sha256": "7aa6252f2b37717db685632a388de1ecca283cace49e8d5f28aef3654576ae8c",
+      "ko": "슬프네."
+    },
+    {
+      "line": 115,
+      "event": "road_game_over_stamina_group_3",
+      "english_sha256": "386e2c4798462a624f0598cc8203711511b957ae7f0d9ef09448b60105687b74",
+      "ko": "먹을 게 바닥나 결국 너희 모두 굶어 죽는다."
+    },
+    {
+      "line": 116,
+      "event": "road_game_over_stamina_group_3",
+      "english_sha256": "421722b559444096b6dc4a906dbee772b41c83323733fbd667a6431da9e0fbe6",
+      "ko": "그러니까 너희 모두 이번 여행에는 간식이 넉넉하다고 입을 모아 장담했잖아!"
+    },
+    {
+      "line": 117,
+      "event": "road_game_over_stamina_group_3",
+      "english_sha256": "90337053c5ed2c31f9a22dd3286cdb0ec828fa0ee79030fc8129ea3be1aeb2c7",
+      "ko": "이제 너희가 한 말을 직접 씹어 먹어야겠네..."
+    },
+    {
+      "line": 118,
+      "event": "road_game_over_stamina_group_3",
+      "english_sha256": "4495e808a30393aa6c5dfc6dfcfe21ceef368126ea3f60bf65335d442e7bdbc6",
+      "ko": "웃기게도, 그걸 아무리 씹어 먹어 봤자 굶어 죽는 건 못 막는다는 거지."
+    },
+    {
+      "line": 119,
+      "event": "road_game_over_stamina_group_3",
+      "english_sha256": "7aa6252f2b37717db685632a388de1ecca283cace49e8d5f28aef3654576ae8c",
+      "ko": "슬프네."
+    },
+    {
+      "line": 125,
+      "event": "road_game_over_stamina_solo_4",
+      "english_sha256": "386e2c4798462a624f0598cc8203711511b957ae7f0d9ef09448b60105687b74",
+      "ko": "먹을 게 바닥나 결국 굶어 죽는다."
+    },
+    {
+      "line": 126,
+      "event": "road_game_over_stamina_solo_4",
+      "english_sha256": "65f58adddfea71ee7502973e0f5b787fa08c664eafe37c80fd8da075f78869c3",
+      "ko": "자동차 여행 계약서에 따르면, 이런 일이 생기면 친구들이 살아남을 수 있도록 네 몸을 먹어도 된다고 동의했거든."
+    },
+    {
+      "line": 127,
+      "event": "road_game_over_stamina_solo_4",
+      "english_sha256": "54a1100cf315b08dd86b69779ef939d06f5f5d46c690e1dbc3704d81dbf4766f",
+      "ko": "썩 마음에 드는 조항은 아니었지만, 뭐, 그보다 더한 계약에도 서명해 봤잖아."
+    },
+    {
+      "line": 128,
+      "event": "road_game_over_stamina_solo_4",
+      "english_sha256": "d14f8e1e50bf4cbaec71f399e91f833b00d732583d17fcac1587613795b780aa",
+      "ko": "뭐 어쩌겠어, 약속은 지키는 법이지!"
+    },
+    {
+      "line": 134,
+      "event": "road_game_over_stamina_group_4",
+      "english_sha256": "386e2c4798462a624f0598cc8203711511b957ae7f0d9ef09448b60105687b74",
+      "ko": "먹을 게 바닥나 결국 너희 모두 굶어 죽는다."
+    },
+    {
+      "line": 135,
+      "event": "road_game_over_stamina_group_4",
+      "english_sha256": "21dfc25ebe4a3ed3991751837f3d855320300e08c1f9d11a64e82a8d66400cfc",
+      "ko": "자동차 여행 계약서에 따르면, 이런 일이 생기면 살아남기 위해 너희 중 한 명을 먹기로 모두 동의했거든."
+    },
+    {
+      "line": 136,
+      "event": "road_game_over_stamina_group_4",
+      "english_sha256": "a5cc0f9b77d7133ba5a202bfe6756a247fc51a69667e57590b255dcbaf19e7a0",
+      "ko": "우린 이 마지막 부분을 구현하려고 우스꽝스러운 미니게임까지 만들었지만, 완성하고 보니 좀 지나치게 암울하더라고."
+    },
+    {
+      "line": 137,
+      "event": "road_game_over_stamina_group_4",
+      "english_sha256": "0ef6ecc92b40674d72e04f0482a4816ce112cad392bfbdf5a26f3a9a5c302ae3",
+      "ko": "그래도 누구를 잡아먹을지 너희끼리 의논한 다음, 그게 이번 여행의 공식 결말이었다고 합의하면 돼!"
+    },
+    {
+      "line": 138,
+      "event": "road_game_over_stamina_group_4",
+      "english_sha256": "60a5ce196eeba24d3c6d8a601c1c4e5e8ac3e50611b0d2a912b6f88ce03abed8",
+      "ko": "신나지!"
+    },
+    {
+      "line": 144,
+      "event": "road_game_over_magic_solo_1",
+      "english_sha256": "c01f8395ae9323954dae78367e86f64572d9ffb2ca49d8effa3496ddd092c9c9",
+      "ko": "차에 마력이 바닥나 자동차 여행을 끝까지 이어 갈 수 없게 된다."
+    },
+    {
+      "line": 145,
+      "event": "road_game_over_magic_solo_1",
+      "english_sha256": "536ee75e7fd963e75c09fa063722bf85b7c5f37d3403d36bb2392982e24c27c9",
+      "ko": "너는 다 같이 힘을 합쳐 우정의 마법을 차에 불어넣자고 제안한다."
+    },
+    {
+      "line": 146,
+      "event": "road_game_over_magic_solo_1",
+      "english_sha256": "f05950065cf8a72cb9d2c56c9ffbce067a2c27386e39e795432ee91687d51eeb",
+      "ko": "하지만 지금 다들 너한테 잔뜩 짜증이 난 상태라, 우정의 마법 같은 건 눈 씻고 찾아봐도 없어."
+    },
+    {
+      "line": 147,
+      "event": "road_game_over_magic_solo_1",
+      "english_sha256": "d9fab4ef975b0b403696047926dacaad9fddaf39c5f37c8c64cc841823d2ef39",
+      "ko": "아야!"
+    },
+    {
+      "line": 153,
+      "event": "road_game_over_magic_group_1",
+      "english_sha256": "c01f8395ae9323954dae78367e86f64572d9ffb2ca49d8effa3496ddd092c9c9",
+      "ko": "차에 마력이 바닥나 자동차 여행을 끝까지 이어 갈 수 없게 된다."
+    },
+    {
+      "line": 154,
+      "event": "road_game_over_magic_group_1",
+      "english_sha256": "c807e7374f135f41e6be3eb49f82803598d364d63ca9f9215b7062c78f4e127c",
+      "ko": "너희는 다 같이 힘을 합쳐 우정의 마법을 차에 불어넣으려 한다."
+    },
+    {
+      "line": 155,
+      "event": "road_game_over_magic_group_1",
+      "english_sha256": "397b005ccc78f4d9a4cbdc96a7477ba36cfa3559a4b7b651156bff07bed6518e",
+      "ko": "물론 실패한다. 그리고 너희 우정에는 정말로... 마법 같은 게 없다는 사실만 드러난다."
+    },
+    {
+      "line": 156,
+      "event": "road_game_over_magic_group_1",
+      "english_sha256": "9e32cb3a5b84de0ee2dbaf5282fea8f7d12443a4b9c43459a624424d1f1489de",
+      "ko": "슬픈 표정."
+    },
+    {
+      "line": 162,
+      "event": "road_game_over_magic_solo_2",
+      "english_sha256": "c01f8395ae9323954dae78367e86f64572d9ffb2ca49d8effa3496ddd092c9c9",
+      "ko": "차에 마력이 바닥나 자동차 여행을 끝까지 이어 갈 수 없게 된다."
+    },
+    {
+      "line": 163,
+      "event": "road_game_over_magic_solo_2",
+      "english_sha256": "cd870dd425842a7fb774e202a58b2ed5feb7f3b8b1cc71a4302ad5275ef1bdda",
+      "ko": "결국 히치하이킹으로 집에 돌아가야 한다."
+    },
+    {
+      "line": 164,
+      "event": "road_game_over_magic_solo_2",
+      "english_sha256": "0548dc21b32df9aa78909deda8acbd230f8e016740b995521974d8c362a880d3",
+      "ko": "너는 '신장 도둑 케니'라는 남자의 차를 얻어 탄다."
+    },
+    {
+      "line": 165,
+      "event": "road_game_over_magic_solo_2",
+      "english_sha256": "b00188f6a04c1d94e6fe0a8503085d54576f4160461a2a5477108a5445fef85c",
+      "ko": "\"걱정 마.\" 그가 말한다. \"그 별명은 오해야. 새끼손가락 걸고 약속할게. 네 신장은 안 훔쳐.\""
+    },
+    {
+      "line": 166,
+      "event": "road_game_over_magic_solo_2",
+      "english_sha256": "bacd2fef0d91217f3cb8b7ea69bd4e56ecaa1444917b9757bb5015758fa80a80",
+      "ko": "그리고 정말 안 훔친다!"
+    },
+    {
+      "line": 167,
+      "event": "road_game_over_magic_solo_2",
+      "english_sha256": "5743e4374ad083363fffcd3f4c46e2db7ff2e815b4834f0369c65a35a706e87b",
+      "ko": "대신 네 지갑을 훔친다."
+    },
+    {
+      "line": 173,
+      "event": "road_game_over_magic_group_2",
+      "english_sha256": "c01f8395ae9323954dae78367e86f64572d9ffb2ca49d8effa3496ddd092c9c9",
+      "ko": "차에 마력이 바닥나 자동차 여행을 끝까지 이어 갈 수 없게 된다."
+    },
+    {
+      "line": 174,
+      "event": "road_game_over_magic_group_2",
+      "english_sha256": "cd870dd425842a7fb774e202a58b2ed5feb7f3b8b1cc71a4302ad5275ef1bdda",
+      "ko": "결국 너희는 히치하이킹으로 집에 돌아가야 한다."
+    },
+    {
+      "line": 175,
+      "event": "road_game_over_magic_group_2",
+      "english_sha256": "0548dc21b32df9aa78909deda8acbd230f8e016740b995521974d8c362a880d3",
+      "ko": "너희는 '신장 도둑 케니'라는 남자의 차를 얻어 탄다."
+    },
+    {
+      "line": 176,
+      "event": "road_game_over_magic_group_2",
+      "english_sha256": "b00188f6a04c1d94e6fe0a8503085d54576f4160461a2a5477108a5445fef85c",
+      "ko": "\"걱정 마.\" 그가 말한다. \"그 별명은 오해야. 새끼손가락 걸고 약속할게. 너희 신장은 안 훔쳐.\""
+    },
+    {
+      "line": 177,
+      "event": "road_game_over_magic_group_2",
+      "english_sha256": "bacd2fef0d91217f3cb8b7ea69bd4e56ecaa1444917b9757bb5015758fa80a80",
+      "ko": "그리고 정말 안 훔친다!"
+    },
+    {
+      "line": 178,
+      "event": "road_game_over_magic_group_2",
+      "english_sha256": "5736f1016854c61e4f0adadace7b2c1df3b17c5d6deeb087dd4a2f58ec6acf9e",
+      "ko": "대신 너희 지갑을 전부 훔친다."
+    },
+    {
+      "line": 184,
+      "event": "road_game_over_magic_solo_3",
+      "english_sha256": "c01f8395ae9323954dae78367e86f64572d9ffb2ca49d8effa3496ddd092c9c9",
+      "ko": "차에 마력이 바닥나 자동차 여행을 끝까지 이어 갈 수 없게 된다."
+    },
+    {
+      "line": 185,
+      "event": "road_game_over_magic_solo_3",
+      "english_sha256": "19d52253cd49a3936119885cb3011eff3de88468e78c68f869d47b5a45170b04",
+      "ko": "좋은 추억에는 마법 같은 힘이 있다기에, 너는 가장 행복했던 기억을 떠올려 차에 동력을 공급하려 한다."
+    },
+    {
+      "line": 186,
+      "event": "road_game_over_magic_solo_3",
+      "english_sha256": "03ed0c7c95ff2390d5ecc759623548ac47b1804bb948ce5264e73ca3ee9c962c",
+      "ko": "어디 보자, 네가 예전에... 아니, 그해 여름에는... 아, 그때 여행 갔던 곳이..."
+    },
+    {
+      "line": 187,
+      "event": "road_game_over_magic_solo_3",
+      "english_sha256": "8270bcbdd8901bbc0f410f22f82b186de52353e401888084e98d01f6c1150f64",
+      "ko": "없네. 아무것도 없어. 마법을 일으킬 만큼 행복한 추억이 하나도 없는 모양이야."
+    },
+    {
+      "line": 188,
+      "event": "road_game_over_magic_solo_3",
+      "english_sha256": "ffcb2c9330f51b5890c58c2885fca0f608668ee36ea8230aa72b136febf4a231",
+      "ko": "젠장, 이젠 내가 다 안쓰럽다."
+    },
+    {
+      "line": 194,
+      "event": "road_game_over_magic_group_3",
+      "english_sha256": "c01f8395ae9323954dae78367e86f64572d9ffb2ca49d8effa3496ddd092c9c9",
+      "ko": "차에 마력이 바닥나 자동차 여행을 끝까지 이어 갈 수 없게 된다."
+    },
+    {
+      "line": 195,
+      "event": "road_game_over_magic_group_3",
+      "english_sha256": "4c02d67dcc3840dd48da5868c8c32cbf39468f91561919a2c1a1e029c750249a",
+      "ko": "좋은 추억에는 마법 같은 힘이 있다기에, 너희는 가장 행복했던 기억을 떠올려 차에 동력을 공급하려 한다."
+    },
+    {
+      "line": 196,
+      "event": "road_game_over_magic_group_3",
+      "english_sha256": "03ed0c7c95ff2390d5ecc759623548ac47b1804bb948ce5264e73ca3ee9c962c",
+      "ko": "어디 보자, 너희가 예전에... 아니, 그해 여름에는... 아, 그때 여행 갔던 곳이..."
+    },
+    {
+      "line": 197,
+      "event": "road_game_over_magic_group_3",
+      "english_sha256": "8270bcbdd8901bbc0f410f22f82b186de52353e401888084e98d01f6c1150f64",
+      "ko": "없네. 아무것도 없어. 마법을 일으킬 만큼 행복한 추억이 하나도 없는 모양이야."
+    },
+    {
+      "line": 198,
+      "event": "road_game_over_magic_group_3",
+      "english_sha256": "85800330f2057ce1a312dccd3eac37a2b6d51a0fcec139e6aef091ac376d6059",
+      "ko": "젠장, 이젠 너희 불쌍한 떨거지들이 다 안쓰럽다."
+    },
+    {
+      "line": 204,
+      "event": "road_game_over_magic_solo_4",
+      "english_sha256": "c01f8395ae9323954dae78367e86f64572d9ffb2ca49d8effa3496ddd092c9c9",
+      "ko": "차에 마력이 바닥나 자동차 여행을 끝까지 이어 갈 수 없게 된다."
+    },
+    {
+      "line": 205,
+      "event": "road_game_over_magic_solo_4",
+      "english_sha256": "86cc761b3d8eca7e5a72cc22c9a40da492a8239d6ed2e419d31b09dd8d6106bc",
+      "ko": "너는 여행을 마치게 해 줄 신비로운 마법을 부탁하려고 강력한 마법사를 찾아간다."
+    },
+    {
+      "line": 206,
+      "event": "road_game_over_magic_solo_4",
+      "english_sha256": "945d6cd7291320e7364b6ed555d052c700f82c3ebd88c9b058750d4b51ee9cb7",
+      "ko": "\"이 여정은 세상을 구하기 위해 떠난 마법의 모험인가?\" 마법사가 묻는다."
+    },
+    {
+      "line": 207,
+      "event": "road_game_over_magic_solo_4",
+      "english_sha256": "5c36f6cf6e585c849d0e4d5ce8ca49d27970c034a1584549eaf4c2a68715736b",
+      "ko": "\"어... 아닌데요?\" 네가 답한다."
+    },
+    {
+      "line": 208,
+      "event": "road_game_over_magic_solo_4",
+      "english_sha256": "579b7c40223c30da68139203e754e306fc9432a46a6ec71566ded1a1e6b3554b",
+      "ko": "\"그럼 안 돼.\""
+    },
+    {
+      "line": 209,
+      "event": "road_game_over_magic_solo_4",
+      "english_sha256": "9da5a27171629669464812829f0b7c6c11a663cbe19c76c939c66e9848499975",
+      "ko": "\"아브라카-엿 먹어.\""
+    },
+    {
+      "line": 215,
+      "event": "road_game_over_magic_group_4",
+      "english_sha256": "c01f8395ae9323954dae78367e86f64572d9ffb2ca49d8effa3496ddd092c9c9",
+      "ko": "차에 마력이 바닥나 자동차 여행을 끝까지 이어 갈 수 없게 된다."
+    },
+    {
+      "line": 216,
+      "event": "road_game_over_magic_group_4",
+      "english_sha256": "86cc761b3d8eca7e5a72cc22c9a40da492a8239d6ed2e419d31b09dd8d6106bc",
+      "ko": "너희는 여행을 마치게 해 줄 신비로운 마법을 부탁하려고 강력한 마법사를 찾아간다."
+    },
+    {
+      "line": 217,
+      "event": "road_game_over_magic_group_4",
+      "english_sha256": "679aa18eb088d782318e0499b79e81ec3c825249d212be1f6aea44a4a4794e58",
+      "ko": "\"이 여정은 세상을 구하기 위해 떠난 마법의 모험인가?\" 마법사가 묻는다."
+    },
+    {
+      "line": 218,
+      "event": "road_game_over_magic_group_4",
+      "english_sha256": "5c36f6cf6e585c849d0e4d5ce8ca49d27970c034a1584549eaf4c2a68715736b",
+      "ko": "\"어... 아닌데요?\" 너희가 답한다."
+    },
+    {
+      "line": 219,
+      "event": "road_game_over_magic_group_4",
+      "english_sha256": "579b7c40223c30da68139203e754e306fc9432a46a6ec71566ded1a1e6b3554b",
+      "ko": "\"그럼 안 돼.\""
+    },
+    {
+      "line": 220,
+      "event": "road_game_over_magic_group_4",
+      "english_sha256": "9da5a27171629669464812829f0b7c6c11a663cbe19c76c939c66e9848499975",
+      "ko": "\"아브라카-엿 먹어.\""
+    },
+    {
+      "line": 226,
+      "event": "road_game_over_mind_solo_1",
+      "english_sha256": "e603a470d0c6218f1901e34e7efc3f9684e10f2affd6782629a586e1946befa7",
+      "ko": "너는 완전히 이성을 잃는다. 혼돈과 헛소리가 악몽처럼 너를 휘감고..."
+    },
+    {
+      "line": 227,
+      "event": "road_game_over_mind_solo_1",
+      "english_sha256": "96a6f0d9be84a6575744474aeeb9898a22861ac4b27e3dcac020f2810d5caa91",
+      "ko": "...그러다 식은땀을 흘리며 잠에서 깬다."
+    },
+    {
+      "line": 228,
+      "event": "road_game_over_mind_solo_1",
+      "english_sha256": "7e7bbc53b8f36bdb38e6dfcfe2ebb43ca9c2eb853912ec513d63fc4237f173af",
+      "ko": "휴대폰을 확인한다. 오늘은 바로 폴리, 스콧과 자동차 여행을 떠나는 날이다."
+    },
+    {
+      "line": 229,
+      "event": "road_game_over_mind_solo_1",
+      "english_sha256": "466e433a08f448a79fca573c71da5089786607fbce75f2e8641fc815dfe7f13c",
+      "ko": "뭐야, 씨발? 전부 꿈이었어? 무슨 악몽 같은 시간 반복에 갇힌 거야? 대체 어떻게 된 거지?!"
+    },
+    {
+      "line": 230,
+      "event": "road_game_over_mind_solo_1",
+      "english_sha256": "ae1845a59276db2fb6767103f3897f3d8c8e69e402ffb17390cc09cad692474f",
+      "ko": "답을 찾지 못한 너는 몸을 일으켜 또 한 번의 자동차 여행을 준비한다."
+    },
+    {
+      "line": 236,
+      "event": "road_game_over_mind_solo_2",
+      "english_sha256": "a8f0ff28ea79b02beb093ecfd5bdb573d628466337f2a2c83c291baa271bc4f0",
+      "ko": "너희의 정신은 혼돈과 광기에 포위당한다."
+    },
+    {
+      "line": 237,
+      "event": "road_game_over_mind_solo_2",
+      "english_sha256": "e379211111dfbdfc0ea7857a668778f10992c53c1a1ceeb6dea30241b7e2bfa6",
+      "ko": "너희는 마지막 방어선으로 마음속 행복한 안식처에 매달린다."
+    },
+    {
+      "line": 238,
+      "event": "road_game_over_mind_solo_2",
+      "english_sha256": "6636227313af244b5a56f193e5103c919a9370e8dbe757d7a19b2ed508087e20",
+      "ko": "그러려면 눈을 감고 손을 맞잡은 채 기분 좋은 일을 상상해야 해..."
+    },
+    {
+      "line": 239,
+      "event": "road_game_over_mind_solo_2",
+      "english_sha256": "556d87a40bd9633663fd342f92c3326d18de5530bc0dbf87c48811e217e52fc4",
+      "ko": "...예를 들면 너희 모두 이런 끔찍한 꼴은 당하지 않는 자동차 여행 같은 거."
+    },
+    {
+      "line": 240,
+      "event": "road_game_over_mind_solo_2",
+      "english_sha256": "09f13b34d6cb4e71ddaea91502e61cdd2551d29ec79eab30d0d99b986d7ae3fc",
+      "ko": "힘내... 할 수 있어... 더 나은 자동차 여행을 상상해... 어서..."
+    },
+    {
+      "line": 246,
+      "event": "road_game_over_mind_group_2",
+      "english_sha256": "a8f0ff28ea79b02beb093ecfd5bdb573d628466337f2a2c83c291baa271bc4f0",
+      "ko": "너희의 정신은 혼돈과 광기에 포위당한다."
+    },
+    {
+      "line": 247,
+      "event": "road_game_over_mind_group_2",
+      "english_sha256": "e379211111dfbdfc0ea7857a668778f10992c53c1a1ceeb6dea30241b7e2bfa6",
+      "ko": "너희는 마지막 방어선으로 마음속 행복한 안식처에 매달린다."
+    },
+    {
+      "line": 248,
+      "event": "road_game_over_mind_group_2",
+      "english_sha256": "6636227313af244b5a56f193e5103c919a9370e8dbe757d7a19b2ed508087e20",
+      "ko": "그러려면 눈을 감고 손을 맞잡은 채 기분 좋은 일을 상상해야 해..."
+    },
+    {
+      "line": 249,
+      "event": "road_game_over_mind_group_2",
+      "english_sha256": "556d87a40bd9633663fd342f92c3326d18de5530bc0dbf87c48811e217e52fc4",
+      "ko": "...예를 들면 너희 모두 이런 끔찍한 꼴은 당하지 않는 자동차 여행 같은 거."
+    },
+    {
+      "line": 250,
+      "event": "road_game_over_mind_group_2",
+      "english_sha256": "09f13b34d6cb4e71ddaea91502e61cdd2551d29ec79eab30d0d99b986d7ae3fc",
+      "ko": "힘내... 할 수 있어... 더 나은 자동차 여행을 상상해... 어서..."
+    },
+    {
+      "line": 256,
+      "event": "road_game_over_mind_solo_3",
+      "english_sha256": "72b5e3e74d1719ba35519019cd4432567d480eef1949017141bee8f507b4ce15",
+      "ko": "너희의 정신은 완전히 사라져 혼돈과 광기의 신에게 제물로 바쳐진다."
+    },
+    {
+      "line": 257,
+      "event": "road_game_over_mind_solo_3",
+      "english_sha256": "6f1929d800fda193f039a10b63781c55aea8906e2aba0a08adc4251f0b4462ab",
+      "ko": "그토록 수많은 황당한 사건과 온갖 장난을 겪더니..."
+    },
+    {
+      "line": 258,
+      "event": "road_game_over_mind_solo_3",
+      "english_sha256": "7e6b08d271b5f1b5108aa75f2a7b7af3d12cb63c579a4f4160d12fdc5801d308",
+      "ko": "결국 '장난 마스터즈'가 도리어 자기들 정신을 장난감으로 내준 셈이네..."
+    },
+    {
+      "line": 259,
+      "event": "road_game_over_mind_solo_3",
+      "english_sha256": "e68c088f75fac395980057f96c5faeabb52274b27c311e7a93120908a07c61dc",
+      "ko": "...장난의 진정한 마스터에게..."
+    },
+    {
+      "line": 260,
+      "event": "road_game_over_mind_solo_3",
+      "english_sha256": "2b75daefc6841d6a9da1fc96a6ed1491af5bfd52ce96031ae21cfd0f22b8135a",
+      "ko": "...끝에 Z까지 붙는 바로 그 마스터에게!"
+    },
+    {
+      "line": 266,
+      "event": "road_game_over_mind_group_3",
+      "english_sha256": "72b5e3e74d1719ba35519019cd4432567d480eef1949017141bee8f507b4ce15",
+      "ko": "너희의 정신은 완전히 사라져 혼돈과 광기의 신에게 제물로 바쳐진다."
+    },
+    {
+      "line": 267,
+      "event": "road_game_over_mind_group_3",
+      "english_sha256": "6f1929d800fda193f039a10b63781c55aea8906e2aba0a08adc4251f0b4462ab",
+      "ko": "그토록 수많은 황당한 사건과 온갖 장난을 겪더니..."
+    },
+    {
+      "line": 268,
+      "event": "road_game_over_mind_group_3",
+      "english_sha256": "7e6b08d271b5f1b5108aa75f2a7b7af3d12cb63c579a4f4160d12fdc5801d308",
+      "ko": "결국 '장난 마스터즈'가 도리어 자기들 정신을 장난감으로 내준 셈이네..."
+    }
+  ]
+}

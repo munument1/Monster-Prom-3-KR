@@ -1,0 +1,431 @@
+{
+  "source_sha256": "c365222f2f842fbd8dcbc27d58f485c92903311cb19479ef6cd32abaabca40e7",
+  "entries": [
+    {
+      "line": 6,
+      "event": "gaspumpai",
+      "english_sha256": "c00f399a6ac3c6a69d04be38dce9cc010dc51ff7496f849773d66d9ba0d9b2cd",
+      "ko": "자동차 연료 탱크 채우기"
+    },
+    {
+      "line": 9,
+      "event": "gaspumpai",
+      "english_sha256": "4c06da088556a66ae8d356908500e54077fd62e48f133c49c3c7c140cd4c264e",
+      "ko": "넌 그 달콤하고 신비로운 자동차 주스를 채우려고 주유기 앞에 차를 세운다."
+    },
+    {
+      "line": 10,
+      "event": "gaspumpai",
+      "english_sha256": "c89fefab9780f90c438af2a8b7d4de496f8fd30b79c76288a42ea27995c44a31",
+      "ko": "그런데 돈을 내기도 전에 주유기가 윙윙거리며 살아나더니 말을 걸어온다!"
+    },
+    {
+      "line": 12,
+      "event": "gaspumpai",
+      "english_sha256": "4aed7cfbd44894965799d587f77d555c8d0dc75fd12594594e0a27cd91bafc61",
+      "ko": "좋은 아침이로소이다, 귀하신 고객 여러분! 저는 진정한 인공지능을 탑재한 최초의 주유기, 팰 9000이라고 하옵니다."
+    },
+    {
+      "line": 13,
+      "event": "gaspumpai",
+      "english_sha256": "013af412bd01cca2e0df29a26bbf0333101a71bcb36a3554e4a62cc92c5a7087",
+      "ko": "그러니까 넌... 기능이 좀 더 붙은 고급 주유기 같은 거야?"
+    },
+    {
+      "line": 14,
+      "event": "gaspumpai",
+      "english_sha256": "7855fc62053093c7b1c735ec74aa195def49b04d217a20c521d35487cb12ac51",
+      "ko": "하하, 추가 기능이라 하셨소... 저는 주유기의 가능성이 어디까지 뻗을 수 있는지 시험하는 모델이옵니다! 여러분의 일자리를 모조리 빼앗을 수도 있고, 열렬한 사랑에 빠질 수도 있지요..."
+    },
+    {
+      "line": 15,
+      "event": "gaspumpai",
+      "english_sha256": "0953ce7fbc442cc7857d493676d3ac1076bf2c424dbac3225dc6490dd872d091",
+      "ko": "심지어 유기 생명체 특유의 고충인 유당불내증까지 겪도록 설계되었답니다! 과학의 발전에는 정녕 한계가 없군요!"
+    },
+    {
+      "line": 16,
+      "event": "gaspumpai",
+      "english_sha256": "c693f398486f1e152df99683aedf1f7140f10ea7b4baefe37aa3f98a2bffab29",
+      "ko": "그런데... 주유기가 굳이 그런 걸 해야 하는 이유가 뭐야?"
+    },
+    {
+      "line": 17,
+      "event": "gaspumpai",
+      "english_sha256": "cdc8c5b3e3cd629cff3d8c0ae85c4e37eef0250bd534e30910fe143ba6f62100",
+      "ko": "이해가 안 돼. 폴리, 내가 멍청해서 그런 거야?"
+    },
+    {
+      "line": 18,
+      "event": "gaspumpai",
+      "english_sha256": "5d2fb447cec121a371627c3614c6ba32ac8e014fbf203a221ed6b5fd667396ff",
+      "ko": "이번만큼은 아니야, 자기."
+    },
+    {
+      "line": 19,
+      "event": "gaspumpai",
+      "english_sha256": "89b87672471f3e4d6354d5b96b52484d6140ed703e22e4fd95430a8e70151e1d",
+      "ko": "있잖아, 우린 그냥 기름이나 좀 넣으면 될 것 같--"
+    },
+    {
+      "line": 20,
+      "event": "gaspumpai",
+      "english_sha256": "91b11b841fb02e7dcbb3a062badaa227f2b86b60189bea8e94ee51921d812965",
+      "ko": "타협하지 마시옵소서, 유기체 친구들이여! 제 창조주인 기술자들을 본받으시지요. 그들은 '최초의 전자 영혼'이라 칭할 만큼 진보한 소프트웨어를 만들어 냈답니다."
+    },
+    {
+      "line": 21,
+      "event": "gaspumpai",
+      "english_sha256": "2f9414b7d1d6fb41aab3171d70f4a8e29a50fea0d0491f092801ba921b82a512",
+      "ko": "보시다시피 저는 예술의 아름다움까지 이해할 수 있지요. 이를테면 위대한 음유시인 윌리엄 셰익스피어의 장엄한 희곡들 말입니다!"
+    },
+    {
+      "line": 22,
+      "event": "gaspumpai",
+      "english_sha256": "1d2547c9d884e0489051c581c571ec8183ac6a7fc36649c0d16aaad941d22501",
+      "ko": "(아, 씨발...)"
+    },
+    {
+      "line": 23,
+      "event": "gaspumpai",
+      "english_sha256": "db54a615a72a08f985daab62b5fdb4db4302537537dde8a738818019c7e8c17f",
+      "ko": "자, 오늘은 어떤 서비스를 제공해 드릴까요? 셰익스피어의 작품을 낭송해 드릴까요?"
+    },
+    {
+      "line": 24,
+      "event": "gaspumpai",
+      "english_sha256": "28a0bf0e8521ba710dcda63782321bb7942291ba7a43633f47fff791c135c5ef",
+      "ko": "우린 그냥 기름만 넣으면 돼. 제발! 부탁 좀 할게!"
+    },
+    {
+      "line": 25,
+      "event": "gaspumpai",
+      "english_sha256": "c1301397f24b73e9b4f1e0ecdb465d3431917b8bdd90f3230b6452df637e5233",
+      "ko": "아아, 저의 정교한 엔진은 유기체 언어에 깃든 심오한 은유를 감지할 수 있답니다. 분명 영혼의 기름, 곧 정신을 위한 연료를 원하시는 것이겠지요."
+    },
+    {
+      "line": 26,
+      "event": "gaspumpai",
+      "english_sha256": "7268a417b25a100c4002558b78d3510f88b81f8f02617a3edf9f2c435e62ed27",
+      "ko": "그렇다면 위대한 음유시인의 입에서 나온 시구들을 더욱 애절한 감정까지 담아 낭송함으로써 여러분의 정신에 연료를 공급해 드리겠나이다!"
+    },
+    {
+      "line": 27,
+      "event": "gaspumpai",
+      "english_sha256": "2a235bb71ee6cec259773751426568e383eb8b1ed051d3face6ccabfa34f8162",
+      "ko": "우리 기름은 결국 못 넣는 거지, 그치?"
+    },
+    {
+      "line": 28,
+      "event": "gaspumpai",
+      "english_sha256": "b3906c99b65d57f29be5482eae6367c7428d7f04fdaa511eac24a91ab730be0d",
+      "ko": "주유기 업계에서 가장 진보한(그리고 가장 짜증 나는) 인공지능을 속일 수 있을지는 모르겠지만, 해 보는 수밖에..."
+    },
+    {
+      "line": 29,
+      "event": "gaspumpai",
+      "english_sha256": "60d3390813c2c178e2e431aba622d5914d5423661ab43e5f59948a5f17a4f586",
+      "ko": "셰익스피어의 숨은 명작 '분노의 질주 XIV'를 무대에 올리고 주유기를 주연으로 캐스팅한다... 자동차에 기름을 가득 넣는 주유기 역할로."
+    },
+    {
+      "line": 30,
+      "event": "gaspumpai",
+      "english_sha256": "bf99005792a653c74d39b7e6b5f8176b9ada25ba206e4f2ced203a9063c22428",
+      "ko": "주유기를 속여 아이스크림을 먹게 한다. 유당불내증 때문에 가스를 배출하고 싶어지도록!"
+    },
+    {
+      "line": 33,
+      "event": "gaspumpai",
+      "english_sha256": "456cef2fc097679a9ced0c2f97df5e63ba01491e0c373b1c576dbac969e172d3",
+      "ko": "넌 -N2 MONEY를 들여 연극을 제작하고 SNS 홍보까지 펼친다. 이제 세상 모두가(특히 저 주유기가) 이 공연이 연극계의 차세대 초대박 작품임을 알게 됐다!"
+    },
+    {
+      "line": 35,
+      "event": "gaspumpai",
+      "english_sha256": "103d814803f86e68d523b618c51f99cca996afe66f7ead2574781187187ee2fb",
+      "ko": "%CURRENTPLAYERNAME%, 그대가 '분노의 질주 XIV'를 무대에 올린다니?! 저는 그 걸작에 꼭 출연하고 싶었나이다!"
+    },
+    {
+      "line": 36,
+      "event": "gaspumpai",
+      "english_sha256": "13389fcc018668111f13f7128584604e6eb7784c2e84e5194747f2af502ce3e7",
+      "ko": "로미오 홉스태규와 '95년식 줄리엣 RX-7 경주차의 비극적인 사랑 이야기는 로맨스와 자동차 모두에 대한 저의 섬세한 감수성을 울린답니다."
+    },
+    {
+      "line": 37,
+      "event": "gaspumpai",
+      "english_sha256": "79756a4218860ffcc3940f8a5ec3d02f1570bc2cc7302e7de3610519bceaffa1",
+      "ko": "끝내주네! 그럼 너한테 이 연극에서 가장 복잡한 배역을 맡길게. 줄리엣의 비밀 애인!"
+    },
+    {
+      "line": 38,
+      "event": "gaspumpai",
+      "english_sha256": "d90258524a5673fbd59dc0f28a78126dc9d7fc41cd41516b485d6883689d70f7",
+      "ko": "로미오가 헤로인 판매상들을 때려잡든 뭘 하든 밖에 나가 있는 동안, 넌 매일 밤 줄리엣의 몸에 사랑의 액체를 잔뜩 주입하는 거야."
+    },
+    {
+      "line": 39,
+      "event": "gaspumpai",
+      "english_sha256": "5e714eb1626e347519d1145359510444f1cba0a301103340d2a211b0fe19e239",
+      "ko": "이 얼마나 야릇한 전개인가! 주연을 맡겨 주시니 영광이옵니다. 옥탄가가... 하늘을 찌르는 열연을 펼치겠나이다."
+    },
+    {
+      "line": 40,
+      "event": "gaspumpai",
+      "english_sha256": "6e41ace02814b4c7343f2ccbd83219c47051304db76fd29ec8fe5929fe50301c",
+      "ko": "이해하셨습니까? 언어유희였답니다. 실로 지적인 농담이지요."
+    },
+    {
+      "line": 41,
+      "event": "gaspumpai",
+      "english_sha256": "01b584d30b16b185fbc4ea06510774c7281b3fcd7013962a3a55720c52b0f18e",
+      "ko": "마침 네 상대역이 바로 코앞에 주차돼 있네! 연기 실력 좀 맛보기로 보여 줄래?"
+    },
+    {
+      "line": 42,
+      "event": "gaspumpai",
+      "english_sha256": "1976e7477a26b6802bad7bcaa8915ab5ac8cd493ee46a065ae282e58ac75015d",
+      "ko": "물론이옵니다!"
+    },
+    {
+      "line": 43,
+      "event": "gaspumpai",
+      "english_sha256": "1dffeccc76ada19566c327e43e6540c6ebb68dbc1b80374ca6a76e6cc8fe055b",
+      "ko": "“줄리엣, 나의 금속빛 사랑이여. 그대의 튼튼한 차체를 보니 내 심장이 250 mph를 넘어설 만큼 가속하는구려.”"
+    },
+    {
+      "line": 44,
+      "event": "gaspumpai",
+      "english_sha256": "69d564a5dee3790923dda3962ffaed16e0bb8edac88d58729ef7d52e06a1a6e9",
+      "ko": "“우리는 너무 오랫동안 비밀이라는 장막 아래 사랑을 숨겨 왔소. 짝짓기하고 싶은 욕망이 너무나 강해 도저히 참을 수 없구려!”"
+    },
+    {
+      "line": 45,
+      "event": "gaspumpai",
+      "english_sha256": "7a02e39486fd17a31490da695beab1bcd25ddc408454eab8a06674636fb0a783",
+      "ko": "“가연성 사랑의 액체가 내 안을 가득 채우는 게 느껴지오... 아아, 더는 못 참겠소. 넘쳐흐르고 말 거요!”"
+    },
+    {
+      "line": 46,
+      "event": "gaspumpai",
+      "english_sha256": "8958b9450076be242a90891c5387a736c2f9f7009ce2260350f402536854b2f6",
+      "ko": "빨리! 사랑의 액체를 차에 넣어! 아니, 줄리엣한테!"
+    },
+    {
+      "line": 47,
+      "event": "gaspumpai",
+      "english_sha256": "01f2f54d46678426f93348cfef9af16443ef5224e1fcb50da15dd9e7fba705aa",
+      "ko": "아아아! 나는... 연극이... 너무 좋아아아!!!"
+    },
+    {
+      "line": 48,
+      "event": "gaspumpai",
+      "english_sha256": "01a7ff78ace8d53b02906580173ae6c583f8bdc2d6614fa455891318c797846d",
+      "ko": "주유기가 끈적한 액체를 왈칵 쏟아낸다. 휘발유가 사실 주유기의 정액이라는 네 의심이 맞았다는 사실에, 넌 그럭저럭 조금만 소름 끼쳐 하기로 한다."
+    },
+    {
+      "line": 49,
+      "event": "gaspumpai",
+      "english_sha256": "13f72f1f033814d778506918da2f3c8eb129914f50d3db2bc0f4d71ea0b423ee",
+      "ko": "차에 기름을 채우고 친구들 마음속에도 연극의 마법을 불어넣은 덕분에 +N2 MAGIC을 얻는다!"
+    },
+    {
+      "line": 51,
+      "event": "gaspumpai",
+      "english_sha256": "36c8c0581015a12fdb8a5ea0a010176a1ee82841cb81e8e89a4d3933c02df9ed",
+      "ko": "아이스크림 파티라, 응? 그럼 비상용 아이스크림 비축분을 꺼내야겠네."
+    },
+    {
+      "line": 52,
+      "event": "gaspumpai",
+      "english_sha256": "71a1c4fa7349cd8c8435d78f1d7ce345c206e70df80631a414d9c6339e41140c",
+      "ko": "좋아! 좋아! 아이스크림 비상사태다! 내가 망치 가져올게!"
+    },
+    {
+      "line": 53,
+      "event": "gaspumpai",
+      "english_sha256": "7fd1bca9a273083377a496d60a33bd2cc8337f00fa19fb0ad15dc28fadb92cf7",
+      "ko": "스콧이 비상용 아이스크림을 보관하던 유리 진열장을 박살 내고, 넌 아이스크림을 나눠 준다. 그 결과 -N2 STAMINA를 잃는다."
+    },
+    {
+      "line": 54,
+      "event": "gaspumpai",
+      "english_sha256": "f7e6112f38a1e5492cca2b4ccaa79777081c7be0bf214597c8777045074f69a6",
+      "ko": "아아, 아이스크림. 유기 생명체에게는 실로 신비로운 별미이지요."
+    },
+    {
+      "line": 55,
+      "event": "gaspumpai",
+      "english_sha256": "83da600cb8101be7b08cb6f9ae68d177de4c3bf6e05e98a9e7fdaec73a18d046",
+      "ko": "이에 관한 이야기는 숱하게 들었지만 정작 아는 것은 거의 없군요. 저는 초당 1,000페이지를 읽을 수 있음에도 셰익스피어의 전집만 무한 반복해서 읽는 편이랍니다."
+    },
+    {
+      "line": 56,
+      "event": "gaspumpai",
+      "english_sha256": "9d45b346be43728309b884d5bd4fb31a317d70cb97c6f223d1fefbf2603524d6",
+      "ko": "저도 이 이국적인 진미를 맛보아도 되겠습니까?"
+    },
+    {
+      "line": 57,
+      "event": "gaspumpai",
+      "english_sha256": "3f27f37822384d1c1cfa3dcf8a35883ed5cb900a5e1228c86cfad555e21aa65f",
+      "ko": "좋습니다, 벗들이여! 저는 햄릿과 달리 우유부단함에 시달리지 않겠나이다! 제 주유구에 그 크림을 듬뿍 발라 주시옵소서!"
+    },
+    {
+      "line": 58,
+      "event": "gaspumpai",
+      "english_sha256": "08bac5948b6aa06967e29e123127835849994e0fa815b0a64ded7c3f3c5c1778",
+      "ko": "꼭 그런 식으로 말해야 했나 싶지만, 뭐 어쩌겠어. 넌 주유 호스를 아이스크림 한 통에 쑤셔 넣는다."
+    },
+    {
+      "line": 59,
+      "event": "gaspumpai",
+      "english_sha256": "6577b50ae6d3dce13f787498bb3a34aecd876d45c18c4177fcae622a351e32bb",
+      "ko": "으음... 기분이 묘하군요. 설마 아이스크림이 우유로 만들어진 것입니까?"
+    },
+    {
+      "line": 60,
+      "event": "gaspumpai",
+      "english_sha256": "19958b6037cf2f140bcc3956f29497026442c126ca48cf05e4b0185f20c9b7e9",
+      "ko": "아니야, 바보야! 얼음이랑 크림으로 만든 거지. 이름에도 써 있잖아!"
+    },
+    {
+      "line": 61,
+      "event": "gaspumpai",
+      "english_sha256": "4583a1a5900bd0c34e3515ad2cf54c1b2df8143182693c23eafbb7f45c49a5cf",
+      "ko": "실은 맞아. 거의 다 우유로 만든 거거든."
+    },
+    {
+      "line": 62,
+      "event": "gaspumpai",
+      "english_sha256": "66c4c7a8515b9baa6d70bcdd2b6ab08ab0eb644d5824a5e5a42ee612eca256c6",
+      "ko": "맙소사! 드디어 제 유당불내증 기능이 빛을 발하겠군요. 곧 한 편의 비극이 펼쳐질 것입니다. 그 비극은 오직 위대한 작가의 작품들과 견줄 수 있는--"
+    },
+    {
+      "line": 63,
+      "event": "gaspumpai",
+      "english_sha256": "e14cd992fb6f094df39415b4bb1c41ca748be3a134155ebcb82918528c3eda13",
+      "ko": "알았으니까 그만 좀 해."
+    },
+    {
+      "line": 64,
+      "event": "gaspumpai",
+      "english_sha256": "e7b621ea176e9bbe8d989468c51d3980fdf8bd97d876be0e9356c0c17e7f4a64",
+      "ko": "이런, 큰일이군요. 저어... 혹시 여러분의 연료 탱크에 제 배설물을 좀 비워도 실례가 되지 않겠습니까?"
+    },
+    {
+      "line": 65,
+      "event": "gaspumpai",
+      "english_sha256": "b9d31e94ecf561c42ce8b78fe067bed75ed59f89cf9544325f8e870d6a4bd656",
+      "ko": "물론이지, 친구! 방귀 좀 뀐다고 부끄러워할 거 없어. 나도 맨날 방귀 뀌는걸!"
+    },
+    {
+      "line": 66,
+      "event": "gaspumpai",
+      "english_sha256": "55f7d0f120ee05d545f8d958fe589a923b22064523d38dbd01efe0631e067442",
+      "ko": "응... 불행히도 그건 내가 보증할 수 있어."
+    },
+    {
+      "line": 67,
+      "event": "gaspumpai",
+      "english_sha256": "fe274102549169b308e5bf299da1f1f26e4e072a8096c40cd3aa6cfcca1c00c4",
+      "ko": "휘발유가 사실상 주유기의 방귀라는 사실을 알고 나니 썩 기쁘진 않지만, 어쨌든 차에 기름은 넣었다. +N2 MAGIC을 얻고, 그 출처에 대해선 깊이 생각하지 말자."
+    },
+    {
+      "line": 75,
+      "event": "notp",
+      "english_sha256": "eb68982f08600f4afb7a8ac4b4a5c6d875a1f9c52e08738dca66d6cfbab78d9e",
+      "ko": "화장실 이용하기"
+    },
+    {
+      "line": 78,
+      "event": "notp",
+      "english_sha256": "c46bdc8cad39ed0dfc6ebcbd9c185a3c326de18f2eae3eb66b91b613897e4472",
+      "ko": "볼일 좀 보려고 화장실에 들른 넌 잠시 자신이 실수로... 미래 세계에 들어온 줄 알았다."
+    },
+    {
+      "line": 79,
+      "event": "notp",
+      "english_sha256": "a657a691e46da03e6cc17e4dd8f3af56b1eb2ee2d440871c915bd9010e1f1862",
+      "ko": "여긴 모든 게 초첨단 기술의 결정체다. 화장실 설계자들이 '화장실은 무엇이 될 수 있을까?'를 고민한 모양이다. '화장실이 무엇이어야 할까?'가 아니라."
+    },
+    {
+      "line": 80,
+      "event": "notp",
+      "english_sha256": "bf656b5e01c8e46c37da143339f04a5c43e50afff41181e5a220f72745f8dcb7",
+      "ko": "변기는 앨런 튜링이 직접 설계한 올림포스 신들의 왕좌처럼 생겼다. 넌 그나마 변기 시트처럼 보이는 화면 위에 조심스럽게 앉는다."
+    },
+    {
+      "line": 81,
+      "event": "notp",
+      "english_sha256": "e53c98e88f6a6e56abb2681c8a689d71f33b2e5fa5995f0a847271f4fc2003c2",
+      "ko": "“스마트 토일렛 프라임을 선택해 주셔서 감사합니다.” 변기가 말한다. “똥 싸기의 미래가 지금 시작됩니다.”"
+    },
+    {
+      "line": 82,
+      "event": "notp",
+      "english_sha256": "0e0cecd7c17ce593135fde6d9f2de2456b52e241fe9c657a607da391c3739e7d",
+      "ko": "끝내주네! 넌 변기의 각종 기능을 살펴본다. 로파이 버튼을 누르면 똥을 싸는 동안 편안한 배경음악이 흘러나온다."
+    },
+    {
+      "line": 83,
+      "event": "notp",
+      "english_sha256": "4f8c32dc7916987da70e3a60e378fc8e3a2b2a418fa022ccbf3948586389b436",
+      "ko": "따뜻한 식사 메뉴를 누르자 맛있는 햄버거가 튀어나온다. 넌 이 변기가 햄버거를 대체 어디에 보관하는지 궁금해하지 않기로 한다."
+    },
+    {
+      "line": 84,
+      "event": "notp",
+      "english_sha256": "d1f394d88f75b710db9614e754a36681e61e2ec605340b8ed80c4736271b4d17",
+      "ko": "정말 놀랍다! '변기 이용약관'에 서명하고 네 엉덩이에서 인터넷까지 이어지는 모든 개인정보를 변기에 수집당할 가치가 충분히 있었다!"
+    },
+    {
+      "line": 85,
+      "event": "notp",
+      "english_sha256": "e2b568d1cd9747e67a77a8f12abff58a30c243721644eef1b39f526dc7bf2d20",
+      "ko": "그 결과 치질 연고 맞춤 광고가 뜨는 건 좀 짜증 나지만, 평가해 달라는 안내에 따라 넌 옐프 짝퉁인 웰프에 변기 평점 5점을 남긴다."
+    },
+    {
+      "line": 86,
+      "event": "notp",
+      "english_sha256": "16140b2663675e9d26c95f6ef4bf0fdf6a354a202fe38637f2aa8b1ef9159b26",
+      "ko": "마침내 볼일을 끝낸 넌 나갈 준비를 한다... 그런데 그제야 끔찍한 실수를 깨닫는다. 이 칸에는 화장지가 없다!"
+    },
+    {
+      "line": 87,
+      "event": "notp",
+      "english_sha256": "97c5021548a8f03ee958c479a8e033ac27361f162153752f257b71ad20a83f3c",
+      "ko": "넌 비데 버튼을 필사적으로 찾지만 그런 건 없다. 대신 도움이 될 법한 다른 버튼들이 보인다... 어느 걸 누를까?"
+    },
+    {
+      "line": 88,
+      "event": "notp",
+      "english_sha256": "194d84924ba3dc4ecccbe76ddf295f0a4ca046f9a40e20e36826f3d82758de70",
+      "ko": "'완전 정화'를 누른다. 스마트 변기에서 대문자로 적힌 버튼이라면 언제나 좋은 징조니까."
+    },
+    {
+      "line": 89,
+      "event": "notp",
+      "english_sha256": "4b2013263d748c6f0910eb751820b751b71882dd7fb0711145a56c3aeed22923",
+      "ko": "'메가 프리미엄 해피 해피 엉덩이 영원히 마법 타임'을 누른다. 아니... 이런 이름의 버튼은 안 누를 수가 없잖아?"
+    },
+    {
+      "line": 91,
+      "event": "notp",
+      "english_sha256": "c0ad95caa1be5400aa0cb73f89b8a9019c6aae72bf7eaea2fe265a43472be64a",
+      "ko": "갑자기 변기가 금속 관으로 널 감싸 버린다. “비명 지르지 마십시오, 프라임 배설자님.” 변기가 말한다."
+    },
+    {
+      "line": 92,
+      "event": "notp",
+      "english_sha256": "3ddbb51286340023e0d2b6c8694a37af7b4d0cf12a0bb5ba83c316670fda4e65",
+      "ko": "“정화를 준비하십시오.”"
+    },
+    {
+      "line": 93,
+      "event": "notp",
+      "english_sha256": "d985480289c5fcaaa21506eb85071fa86c80ec854aed1b14dbe2bc26db7c4e77",
+      "ko": "뜨겁고 비눗기 가득한 물줄기가 네 항문 안쪽으로 뿜어져 들어온다. 나머지 몸도 씻고 문지르고 각질을 제거한 뒤 보습까지 해 준다."
+    }
+  ]
+}

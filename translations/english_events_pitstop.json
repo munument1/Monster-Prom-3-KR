@@ -1,0 +1,905 @@
+{
+  "source_sha256": "0e5a6bb9a885959fbcff2b8c90b10faf8f890b333a95604c9d2e5aaaff7853d6",
+  "entries": [
+    {
+      "line": 4,
+      "event": "pitstop_car_1",
+      "english_sha256": "7bfd09fcde1cafe7da8bbbf07d04c4785539aa37a73d7d7401914e1151fe7480",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 두 마일 동안 알몸으로 달리기로 한다."
+    },
+    {
+      "line": 5,
+      "event": "pitstop_car_1",
+      "english_sha256": "246326df8ca3122c3ad65043c39ce909ca7fe96bb314251e3b4893b70e892b7d",
+      "ko": "다행히 밤이라 길가의 사슴과 주머니쥐 말고는 네 알몸을 본 사람이 없다."
+    },
+    {
+      "line": 6,
+      "event": "pitstop_car_1",
+      "english_sha256": "41e299b3f0e093e4243bf393c9375cf948a7a1e2dce107146a7de834b8245770",
+      "ko": "다만 그 사슴과 주머니쥐들이 네 벌거벗은 몸을 꽤 못마땅한 눈빛으로 보는 것 같긴 하다..."
+    },
+    {
+      "line": 7,
+      "event": "pitstop_car_1",
+      "english_sha256": "1dfcecea48121a65c4e61c795869f76ae8d1c17f346d96a89974a61c2958f546",
+      "ko": "하지만 죽어라 달린 뒤의 탈진에 비하면 창피함 따위는 아무것도 아니다."
+    },
+    {
+      "line": 8,
+      "event": "pitstop_car_1",
+      "english_sha256": "dfd0188a9d8014a464e39d8986762407a86413db86ba2d3c00a98b24627dcde4",
+      "ko": "젠장, 헬스장 좀 다니라는 하늘의 계시였나 보다. 그래도 +XX 장난 달러는 벌었잖아!"
+    },
+    {
+      "line": 14,
+      "event": "pitstop_car_4",
+      "english_sha256": "37841e538d2fcdade7723a37150cd6b9e4cdbd3cf9be01f3cc9ababdcd54d64d",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 처음 보는 사람이랑 셀카 찍기에 도전한다."
+    },
+    {
+      "line": 15,
+      "event": "pitstop_car_4",
+      "english_sha256": "d7839f508e84cb45a3c273e32a8c6fe7cd4cbd582406f484c1ced56f95131f1d",
+      "ko": "편의점에 있던 할머니에게 다가가 같이 셀카를 찍자고 부탁한다. 할머니는 흔쾌히 승낙한다."
+    },
+    {
+      "line": 16,
+      "event": "pitstop_car_4",
+      "english_sha256": "32ef7380154a6fb83d68c4cb532e3aa2fdf49a44340bb133feaa047a0f3e2e32",
+      "ko": "\"아이고, 우리 참 예쁘게 나왔네!\" 할머니가 말한다. \"우리 손자도 보게 이거 인터넷에 좀 올려 줄래?\""
+    },
+    {
+      "line": 17,
+      "event": "pitstop_car_4",
+      "english_sha256": "227c44e909a0ed750a03ad9621bc6b536cb816f1cfa4459702d14827c7016cde",
+      "ko": "할머니에게 SNS 사용법을 알려 드리느라 반 시간이나 잡혔지만, 감사하다며 지갑에서 사탕을 꺼내 주신다!"
+    },
+    {
+      "line": 18,
+      "event": "pitstop_car_4",
+      "english_sha256": "5b3f353289800e821a698d5af76d15f2902a41f0cc3681982642a96bc05021ac",
+      "ko": "+XX 장난 달러와 +1 새 할머니를 획득했다."
+    },
+    {
+      "line": 24,
+      "event": "pitstop_car_5",
+      "english_sha256": "1be201b83d8836a688be1957b4320a8c76e46b44a6a3ea4143a9c6a4036ca08f",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 한 시간 동안 닭 울음소리를 내기로 한다."
+    },
+    {
+      "line": 25,
+      "event": "pitstop_car_5",
+      "english_sha256": "9dd069fe61b14e6801d2ed2bf9bf1e6366af4d7b6e0f80fc1da80213f96b8d84",
+      "ko": "그 정도야 쉽지! 닭 우는 게 뭐 어렵다고? 꼬꼬댁! 꼬꼬!"
+    },
+    {
+      "line": 26,
+      "event": "pitstop_car_5",
+      "english_sha256": "6b75c7ccd927a7da5ea269c33942df0a1ed4e1bd5ce656973bc603b077b83da8",
+      "ko": "폴리가 정정해 준다. \"아니지, 까악! 까-까악! 까-까악! 까-까악! 이렇게!\""
+    },
+    {
+      "line": 27,
+      "event": "pitstop_car_5",
+      "english_sha256": "90803c932dfb4da1cd247d1be152d76a41261aa77a676b04ed7a6fe267a59a09",
+      "ko": "스콧도 자기만의 의견을 보탠다. \"촤악! 치-촤악! 치-촤악!\""
+    },
+    {
+      "line": 28,
+      "event": "pitstop_car_5",
+      "english_sha256": "e323e7eb3279da4655be5cc1b49237897c7795312e8b118a7944bed96ced57e0",
+      "ko": "난데없이 나타난 낯선 사람까지 끼어든다. \"그거보단 꾸-꾸-까-촤악! 꾸-꾸-까-촤악! 아니에요?\""
+    },
+    {
+      "line": 29,
+      "event": "pitstop_car_5",
+      "english_sha256": "6ee3eabec484f52f7d8b2f0281c132db468b5e7a80d4422467d61621beb42bd6",
+      "ko": "이번 경험으로 닭이 어떻게 우는지는 하나도 배우지 못했지만, 적어도 +XX 장난 달러는 챙겼다."
+    },
+    {
+      "line": 35,
+      "event": "pitstop_car_6",
+      "english_sha256": "552c40d7bb590b6cd8b1fc4476314cec2f467a61cf377c4e6d590eb9a1a45d95",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 모래 한 움큼 먹기에 도전한다."
+    },
+    {
+      "line": 36,
+      "event": "pitstop_car_6",
+      "english_sha256": "e942042d9d6a696d1a2478d9afe0f024e81a17d30377f058b3df6d71ddffb9dd",
+      "ko": "맛도 끔찍한데, 우드득하는 소리와 함께 모래 속에 묻혀 있던 동물 해골까지 씹어 먹었다는 사실을 깨닫고 더 끔찍해진다!"
+    },
+    {
+      "line": 37,
+      "event": "pitstop_car_6",
+      "english_sha256": "bb28caa075db744419339f1e975bc94614c8d034947222dfc6fc6badf9ec558e",
+      "ko": "머릿속에서 목소리가 들린다. \"고마워요, %CURRENTPLAYERNAME%. 제 영혼이 더는 이 뼈에 얽매이지 않으니, 드디어 다음 생으로 떠날 수 있겠어요...\""
+    },
+    {
+      "line": 38,
+      "event": "pitstop_car_6",
+      "english_sha256": "8796bab3011ce473a2d4ead5e3edbf88b7999628ddc7bdd4c2bc81055559bd78",
+      "ko": "멋지네! 입안은 사막처럼 말랐지만, 작은 생쥐의 영혼을 성불시켜 줬고 +XX 장난 달러까지 얻었다!"
+    },
+    {
+      "line": 44,
+      "event": "pitstop_car_7",
+      "english_sha256": "5d5515fb55f150cfc8856016ffde4dc0db44738b30a678e0bad6d94669fdcebc",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 스콧의 신발 냄새 맡기에 도전한다."
+    },
+    {
+      "line": 45,
+      "event": "pitstop_car_7",
+      "english_sha256": "788edd356a5f1f8f2461711e06dc01c25dabba7127f083c224c8f1a81496fe11",
+      "ko": "킁킁. 예상대로 땀 냄새와 발 냄새가 난다..."
+    },
+    {
+      "line": 46,
+      "event": "pitstop_car_7",
+      "english_sha256": "ef2c14f5dc621e73489a4f59641532d73d72f39f4146e9ba5095a3e863cecbd9",
+      "ko": "...그런데 땅콩버터, 육포, 설탕 쿠키, 스파게티 소스 냄새도 난다. 뭐야, 씨발?"
+    },
+    {
+      "line": 47,
+      "event": "pitstop_car_7",
+      "english_sha256": "3c5cadd63e4b8f20db662c4370df7c0a65d781b3e90f3ae07d83fb9655bf28a2",
+      "ko": "알고 보니 스콧은 비상식량을 신발에 보관하고 있었다... 여행 내내 너에게 나눠 줬던 그 간식들 말이다... 와, 최고네..."
+    },
+    {
+      "line": 48,
+      "event": "pitstop_car_7",
+      "english_sha256": "e849fbdb1a67cb0076c80506deaff9b89bb204fff2c2be7ff4154e74b02c212a",
+      "ko": "+1 역겨운 진실과 +XX 장난 달러를 획득했다."
+    },
+    {
+      "line": 54,
+      "event": "pitstop_car_8",
+      "english_sha256": "e974f971402d1de0e60a19dfebeeb8db95cff8a1ff67460e7c9554385acb8148",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 납치당한 척하기에 도전한다."
+    },
+    {
+      "line": 55,
+      "event": "pitstop_car_8",
+      "english_sha256": "9dfbfd2b9ac8f862815359fe2d4cb50b447859e8c713de832d3ca16facd9ec40",
+      "ko": "드디어 즉흥 연기 수업이 빛을 발할 때다! 트렁크에 들어가 눈가리개를 쓰고는 세상 서럽게 흐느끼기 시작한다."
+    },
+    {
+      "line": 56,
+      "event": "pitstop_car_8",
+      "english_sha256": "bef6af3ed2537914db6a955c45de94a8a39446ea4ea2bdb6f44e918964e9e4f9",
+      "ko": "걱정한 행인들이 다가오자, 넌 눈물을 흘리며 자신이 부유한 석유 재벌의 %SONDAUGHTER%인데 몸값을 노리고 납치당했다고 설명한다."
+    },
+    {
+      "line": 57,
+      "event": "pitstop_car_8",
+      "english_sha256": "2e457a5917d5f59fb326024030b41ff2dae46f39ddf07c8520964219daf4526e",
+      "ko": "신고를 받고 출동한 경찰은 이 '끝내주는 도전'의 유머를 이해하지 못한다. 뭐 어때, 최고의 배우에게는 늘 안티가 있는 법. +XX 장난 달러를 획득했다!"
+    },
+    {
+      "line": 63,
+      "event": "pitstop_car_9",
+      "english_sha256": "9ba5773e47fae07d7b589f0be0c9ab916a9c2abe206da6ae3a184f6e69c2c143",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 쓰레기통 뒤지기에 도전한다."
+    },
+    {
+      "line": 64,
+      "event": "pitstop_car_9",
+      "english_sha256": "1ef72420fdad20e52284dd456c2c4960a2a29db1282eb91548b1baba360dcf4c",
+      "ko": "다음 샤워가 언제일지도 모르는 상황에서 꽤 과감한 결정이다..."
+    },
+    {
+      "line": 65,
+      "event": "pitstop_car_9",
+      "english_sha256": "665c89c4a880e08931e6647a8c08383d7e12e7a1c0c9fd54d331e81c87a1d995",
+      "ko": "하지만 수확도 쏠쏠하다. 유명 브랜드 신발 반쪽, 유통기한이 살짝 지난 케소 치즈 한 통, 멋진 틀니까지 찾았으니까! 횡재다!"
+    },
+    {
+      "line": 66,
+      "event": "pitstop_car_9",
+      "english_sha256": "d84911bb8bbce8bc5e81dda2b3bf76390825417c9580421a43f58ed752b1803a",
+      "ko": "+3 쓸모없는 잡동사니와 +XX 장난 달러를 획득했다."
+    },
+    {
+      "line": 72,
+      "event": "pitstop_car_10",
+      "english_sha256": "acf3818600c4e094c6f8d1d1ed02ebc8ed0f0f7311b7aae8e2013a65fcdd340e",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 폴리에게 머리 자르기를 맡긴다."
+    },
+    {
+      "line": 73,
+      "event": "pitstop_car_10",
+      "english_sha256": "ef82b6f7065aa1aec83fc2059459027acc2dd1ee0b12967e4bdd1ff4a3075418",
+      "ko": "테킬라를 병째 들이켜며 피크닉 테이블 위에서 트월킹 중인 친구에게 머리를 맡기는 건 현명해 보이지 않는다..."
+    },
+    {
+      "line": 74,
+      "event": "pitstop_car_10",
+      "english_sha256": "01012dccf28200d502c1aaff39bb3d98295305b5c2bb803208cc41c4c6961bfd",
+      "ko": "하지만 뭐, 네가 현명한 판단으로 유명했다면 애초에 이 자동차 여행에 따라오지도 않았겠지!"
+    },
+    {
+      "line": 75,
+      "event": "pitstop_car_10",
+      "english_sha256": "ce3dbdc1ba78f9b2cd1d58e5c9a73b69ec52386f9d700b33e43573af0cd27a08",
+      "ko": "폴리가 완성한 머리는 정말이지... 음, 뭐라 말해야 할지. 다행히 네가 챙겨 온 가발은 원래 머리 모양과 똑같아서 이 참사를 가릴 수 있다."
+    },
+    {
+      "line": 76,
+      "event": "pitstop_car_10",
+      "english_sha256": "23888b7a0478cb60941a424a3fd878ed352518b1be6422b581ad46f5a4d6f81b",
+      "ko": "적어도 추억과 +XX 장난 달러는 얻었다!"
+    },
+    {
+      "line": 82,
+      "event": "pitstop_car_11",
+      "english_sha256": "95863b85779c8520a87992678ca49f5eaa7965008e1e6c6b93fa16da5cd42cb5",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 밤새 취한 척하기에 도전한다."
+    },
+    {
+      "line": 83,
+      "event": "pitstop_car_11",
+      "english_sha256": "2308af4f037bd30da9bf632e82de2218057612b3616513cf02f8daede6f8529b",
+      "ko": "비틀거리며 혀 꼬인 소리를 내 보지만, 취하는 데는 도가 튼 폴리는 전혀 속지 않는다."
+    },
+    {
+      "line": 84,
+      "event": "pitstop_car_11",
+      "english_sha256": "47cae0b3502af3ca97e24838a84939bb93b759552ffb6a5fce03d081105a4303",
+      "ko": "둘은 배역 연구를 좀 더 하기로 한다... 밤새 진탕 퍼마시면서 말이다."
+    },
+    {
+      "line": 85,
+      "event": "pitstop_car_11",
+      "english_sha256": "281e6f35e08735fecebc77251d009a9b4cbb6903d63c6a11e70165327950f979",
+      "ko": "내일 아침엔 땅을 치고 후회하겠지만, 지금은 이게 세상 최고의 도전이다. +XX 장난 달러를 획득했다!"
+    },
+    {
+      "line": 91,
+      "event": "pitstop_car_12",
+      "english_sha256": "ae6cd6f61b3cdecfc59193c32860a1aa6f387c2c98561c7f23d444d17738b2ef",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 길고양이와 결혼하기에 도전한다."
+    },
+    {
+      "line": 92,
+      "event": "pitstop_car_12",
+      "english_sha256": "f72abece509c2842e18d7d490319fef33112e3a11beffe70da616b2bfc00eafa",
+      "ko": "알고 보니 폴리는 몇 달 전 약에 잔뜩 취했을 때 정식으로 목사 안수를 받았다고 한다."
+    },
+    {
+      "line": 93,
+      "event": "pitstop_car_12",
+      "english_sha256": "5f5a7d69fcad939423a9387cee75ec5fd92abe836e2d8c201f6a4a029e27c3df",
+      "ko": "폴리는 사막을 떠도는 아무 고양이나 한 마리 찾아내 너희 둘의 결혼식을 집전한다."
+    },
+    {
+      "line": 94,
+      "event": "pitstop_car_12",
+      "english_sha256": "1c1835a6d99538cefa579a3698e264c72562340e77aa641d760ac0d67d526754",
+      "ko": "생각보다 엄청난 일이 돼 버렸다. 네 인생이 영원히 바뀐 것이다. 게다가 고양이에게는 새끼가 네 마리 있는데, 이제 법적으로 네 의붓자식이다. 이거 완전히 잘못된 선택 아니야?"
+    },
+    {
+      "line": 95,
+      "event": "pitstop_car_12",
+      "english_sha256": "03c711b43533b0b99c3d2c746da3311b874ec5d864cd38d208d136e5677e423f",
+      "ko": "몇 시간 후 폴리가 결혼식을 집전할 때 손가락을 꼬고 있었으니 결혼은 무효라고 알려 준다. 휴! 그래도 +XX 장난 달러는 받는다."
+    },
+    {
+      "line": 101,
+      "event": "pitstop_car_13",
+      "english_sha256": "5c94accfc95a1e630b065204c8df7ab95b36434ff2f21c602e3c257b00fe7aaa",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 목줄을 차고 네 발로 걷기에 도전한다."
+    },
+    {
+      "line": 102,
+      "event": "pitstop_car_13",
+      "english_sha256": "db41dd46f30fe63c405384698ab0cfaaa90a29ca3556ce19d427db73ee6d0b3c",
+      "ko": "넌 부끄러움도 없이 친구들이 네 목에 목줄을 채우고 휴게소 이곳저곳을 끌고 다니게 둔다."
+    },
+    {
+      "line": 103,
+      "event": "pitstop_car_13",
+      "english_sha256": "1bf2ef7d8834aa3675aa9504cc78dacbac22ee8d290bf42e99a054551e266845",
+      "ko": "모두가 널 빤히 쳐다본다. 부모들은 아이들의 눈을 가린다. 누군가는 사진을 찍는데, 나중에 WeirdosAtRestStops.com에서 그 사진을 보게 될 게 분명하다."
+    },
+    {
+      "line": 104,
+      "event": "pitstop_car_13",
+      "english_sha256": "f036c27819657d457e6ba9f7fa083bd5ced05865c2d4a9e11916acb30a97af9a",
+      "ko": "원래 이런 취향이 없었다면, 이제는 확실히 생겼을 것이다. +XX 장난 달러를 획득했다!"
+    },
+    {
+      "line": 110,
+      "event": "pitstop_car_14",
+      "english_sha256": "27ee9c85de218de6c28e4c4e6906c4006de77bb8b3c52e6b26b5b3bc3c79f971",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 검색 기록 스크린샷 올리기에 도전한다."
+    },
+    {
+      "line": 111,
+      "event": "pitstop_car_14",
+      "english_sha256": "fae7dd490e4387b52151420cc4ce1de8c11fe0d838be281ce24794a6db364119",
+      "ko": "최근 검색 기록에는 어떤... 음, 곧 온 세상이 알게 될 그 부위에 바르는 연고가 있다."
+    },
+    {
+      "line": 112,
+      "event": "pitstop_car_14",
+      "english_sha256": "f36869fcbd8c142dc60eb9a4e022c6b1620aa4f2c4e61e2ff60e40b483c515d1",
+      "ko": "그리고 또 하나는... 네 이름 철자가 맞는지 확인하려고 검색한 기록이다."
+    },
+    {
+      "line": 113,
+      "event": "pitstop_car_14",
+      "english_sha256": "33b32a45834b1d99c2da2e7ba8b4e5c79e7ca787d2b615d5b579037a79174d6a",
+      "ko": "그래, 오늘 네 평판은 제대로 작살났지만 그래도 +XX 장난 달러는 벌었다."
+    },
+    {
+      "line": 119,
+      "event": "pitstop_car_15",
+      "english_sha256": "fcf3d4f310d1819257909f3763977f6ea029593c13a23a1e38114647ef146ed0",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 화장실 점검관 행세하기에 도전한다."
+    },
+    {
+      "line": 120,
+      "event": "pitstop_car_15",
+      "english_sha256": "81393b7bbddf1577c4b5a9a5e412dabae48b2751cbd7a93a48d4b375c112cc12",
+      "ko": "편의점에 들어가 화장실의 청결도, 냄새, 휴지 비치 상태, 변기 물 내리는 힘까지 채점한다."
+    },
+    {
+      "line": 121,
+      "event": "pitstop_car_15",
+      "english_sha256": "540afe3fc5d40105dbfcd97ec58cd022230d6317ae7c1ca1c3ceb800b6c8de94",
+      "ko": "점수는 처참하다. 본사에 '일러바치겠다'고 협박하자 점장은 전 지점 화장실 평생 무제한 무료 이용권으로 널 매수한다!"
+    },
+    {
+      "line": 122,
+      "event": "pitstop_car_15",
+      "english_sha256": "9880aa4130a9dc92c63d6bc6007b549a443d2e0e69e37bf093ca7ffaf3f0e14b",
+      "ko": "애초에 이 화장실은 돈을 내고 쓰는 곳도 아닌데 좀 쓸모없는 특혜 같다... 그래도 +XX 장난 달러는 챙겼으니까."
+    },
+    {
+      "line": 128,
+      "event": "pitstop_car_16",
+      "english_sha256": "93da4147bc322202feaee260cd91115987fcf7803c622733d6f382e96657fb61",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 자기 팔꿈치 핥기에 도전한다."
+    },
+    {
+      "line": 129,
+      "event": "pitstop_car_16",
+      "english_sha256": "3b77513c602b7bb8d5f68ccbf22f4cb1c282c1e6a43b48ae71e3af1243bbbc5c",
+      "ko": "몇 분 동안 기를 쓰고 시도하지만 팔꿈치에 혀가 닿지 않는다."
+    },
+    {
+      "line": 130,
+      "event": "pitstop_car_16",
+      "english_sha256": "f97cfce97e7550e2346619a9b88147ac251152eb70def50254a848dc435acc19",
+      "ko": "하지만 이 도전에서 패배를 인정할 순 없다. 그래서 어깨 관절을 탈구시키고는 내일이 없는 사람처럼 팔꿈치를 혀로 핥아 댄다!"
+    },
+    {
+      "line": 131,
+      "event": "pitstop_car_16",
+      "english_sha256": "9ed4d00f8efbbb048f482024ea156a8b6924860bef714a56b925772b99230d2d",
+      "ko": "그래, 완전히 보람 있었어. +XX 장난 달러를 획득했다."
+    },
+    {
+      "line": 137,
+      "event": "pitstop_car_17",
+      "english_sha256": "b9fd3c6d1d92c187392b83b249066967056c968d7d668c87bb55415638688963",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 다섯 마일 동안 히치하이킹하기에 도전한다."
+    },
+    {
+      "line": 138,
+      "event": "pitstop_car_17",
+      "english_sha256": "dadca7ed5afe28251f6d9d0e994c81a466040e6b42511129ac2ad36b5445fda8",
+      "ko": "자칭 '썰고 베는 해리엇'이라는 친절한 여자의 차를 얻어 탄다. 와, 너도 저렇게 끝내주는 별명이 있었으면!"
+    },
+    {
+      "line": 139,
+      "event": "pitstop_car_17",
+      "english_sha256": "aff64404862d95ac631713d5f19c97ebf1e88e6ed28441b3d69fe7629d0d8d10",
+      "ko": "그녀는 자기가 탈옥한 온갖 감옥 이야기며 뒷좌석에 쌓인 해골을 어떻게 손에 넣었는지 신나게 들려준다."
+    },
+    {
+      "line": 140,
+      "event": "pitstop_car_17",
+      "english_sha256": "1199ab8e5d0e3557d48ddf7cb968c2a46775581f33c0d4dad483ef3ced8b5efc",
+      "ko": "정말 매력적인 여자다! +1 새 친구와 +XX 장난 달러를 획득했다."
+    },
+    {
+      "line": 146,
+      "event": "pitstop_car_18",
+      "english_sha256": "1ce5ef06ee1656b53661774a9d8ce95a3f5e32945fde7fc6c5400289d67a382c",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 모르는 사람에게 농담하기에 도전한다."
+    },
+    {
+      "line": 147,
+      "event": "pitstop_car_18",
+      "english_sha256": "3d21f865992b0908e0b7ac6c7fc154f856aa08c167699566bfcc945a2e1dc89c",
+      "ko": "가죽옷을 입고 담배를 피우는 바이커에게 다가가 말한다. \"오토바이가 왜 넘어졌게요? 타이어가 두 개 다 너무 지쳐서! 그야말로 '투 타이어드'니까!\""
+    },
+    {
+      "line": 148,
+      "event": "pitstop_car_18",
+      "english_sha256": "f01a5c135b7dde7010ccfc89cb2dc1442613c6376dbf63502d10d918f1812bd2",
+      "ko": "바이커가 널 한참 빤히 쳐다본다. 곧 칼빵이라도 맞는 건 아닐까 싶다."
+    },
+    {
+      "line": 149,
+      "event": "pitstop_car_18",
+      "english_sha256": "1a27ba88f0afdffa1e75ec45c5728de06ab10651a080d7749de2feeca6a481f7",
+      "ko": "그러더니 갑자기 푸하하하, 배를 잡고 웃어 댄다. 몸을 접고 눈물까지 흘리며 웃는다. 미친, 네가 그렇게까지 웃긴 줄은 몰랐는데."
+    },
+    {
+      "line": 150,
+      "event": "pitstop_car_18",
+      "english_sha256": "a8517b879b9676016455d1a4265a5ec5d8dd14d187490e27bfc26a412f08b7bb",
+      "ko": "\"고맙다, 꼬맹아! 진짜 한바탕 웃고 싶었거든. 너 꽤 괜찮은 녀석이네.\""
+    },
+    {
+      "line": 151,
+      "event": "pitstop_car_18",
+      "english_sha256": "ba5f29301396510395a2e11f308ffc765f006e79bbc8cb5c95fc4078ec34e7d8",
+      "ko": "바이커가 담배 한 대를 빌려주겠다고 한다. 와, 바이커 세계에서는 이게 진정한 우정의 증표겠지! +XX 장난 달러를 획득했다."
+    },
+    {
+      "line": 157,
+      "event": "pitstop_car_19",
+      "english_sha256": "0fef146aad587d9455cf2b4871cf3286f04d6170b1274c466396bda283c207b7",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 낙서로 벽 도배하기에 도전한다."
+    },
+    {
+      "line": 158,
+      "event": "pitstop_car_19",
+      "english_sha256": "8f961af3a0999863c4fa39e0b5bfaec43cb9f48654a277f86b265d3b40379cc0",
+      "ko": "그런데 뭘 써야 하지? \"%CURRENTPLAYERNAME% 왔다 감\"? \"나루토 x 가필드 5ever\"? 그 유명한 멋진 S 낙서?"
+    },
+    {
+      "line": 159,
+      "event": "pitstop_car_19",
+      "english_sha256": "93dd8283810b24904f13023e6c44f7a73d4bc92a35be197fa826257054837e4e",
+      "ko": "아니, 좀 더 독창적으로 가야지. 네가 쓰고 있던 영화 시나리오의 첫 장면을 벽에 낙서하기로 한다."
+    },
+    {
+      "line": 160,
+      "event": "pitstop_car_19",
+      "english_sha256": "755eb9794d31973be4416d0baba6ad9d5a1962eb606954fbc88b37e26bdc1535",
+      "ko": "언젠가 영화 제작자가 쓰레기통 옆에서 담배를 피우다가 네 천재적인 작품을 알아봐 주길 바라면서!"
+    },
+    {
+      "line": 161,
+      "event": "pitstop_car_19",
+      "english_sha256": "be852c97b8cea367a247b0623facee9ce46cdf3405e214b6cd7877dbcde35c57",
+      "ko": "그날이 오기 전까지는, 적어도 +XX 장난 달러를 벌었으니까."
+    },
+    {
+      "line": 167,
+      "event": "pitstop_car_20",
+      "english_sha256": "d8e14ce92fd50ec4a839cfd3d4916246fd075b18f49363f34d30495542eaeb1b",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 날달걀 먹기에 도전한다."
+    },
+    {
+      "line": 168,
+      "event": "pitstop_car_20",
+      "english_sha256": "8ccae853ba01e8902198432ef8a34d971fe51906373c5c15855060023a297d64",
+      "ko": "날달걀은 구할 데가 없다고 항의하자, 스콧이 바로 이 순간을 위해 여태 주머니에 달걀을 넣고 다녔다는 사실이 드러난다."
+    },
+    {
+      "line": 169,
+      "event": "pitstop_car_20",
+      "english_sha256": "b31b46b72b831d3c13e4c5d62c63bd0db05aa2dc891a2d62bf7a264e04b0be88",
+      "ko": "우와, 우리 스콧이 이렇게 앞일을 내다보고 철저히 준비하다니!"
+    },
+    {
+      "line": 170,
+      "event": "pitstop_car_20",
+      "english_sha256": "b93fd85f1614f29e719a186ae3b59a5f361aa3d22c66d409f75f50a1d6f424dd",
+      "ko": "물론 달걀은 이미 완전히 썩었다. 그래도 중요한 건 마음이지. +XX 장난 달러와 +1 살모넬라 감염을 획득했다."
+    },
+    {
+      "line": 176,
+      "event": "pitstop_car_21",
+      "english_sha256": "f04340c883cd1e641b8768d01cfd4b55090094e7b738e653d8a492cbf8e652b7",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 바지 속에 얼음 쏟아붓기에 도전한다."
+    },
+    {
+      "line": 177,
+      "event": "pitstop_car_21",
+      "english_sha256": "a014082f38b46a8f4dc0379b9f2a1d4a369733b48e38338dc37716f8d735cd28",
+      "ko": "아랫도리는 꽁꽁 얼어붙고, 바지에는 오줌을 잔뜩 지린 것 같은 얼룩까지 생겼다."
+    },
+    {
+      "line": 178,
+      "event": "pitstop_car_21",
+      "english_sha256": "860a5a060dcdc45c5068d4ab67e8657f000c2adfa4153ae170e3a6b7b4ae79ee",
+      "ko": "어차피 체면은 구길 대로 구겼으니, 조금이라도 따뜻해지려고 바지에 진짜 오줌을 살짝 지리기로 한다."
+    },
+    {
+      "line": 179,
+      "event": "pitstop_car_21",
+      "english_sha256": "0cc5643d5b84a960711f58b8528eba42255c544296cf9e8eefd468cf436c23f0",
+      "ko": "폴리가 다시 차에 태워 주려면 신문지를 깔고 앉아야 한다. 그래도 +XX 장난 달러는 벌었다!"
+    },
+    {
+      "line": 185,
+      "event": "pitstop_car_22",
+      "english_sha256": "27c1719ff25ec7a3d90757401372cd1d4e5ca043d55c531ba7c0c09d3a0f2950",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 휴게소의 모래알 전부 세기에 도전한다."
+    },
+    {
+      "line": 186,
+      "event": "pitstop_car_22",
+      "english_sha256": "668e1b1b0639bf67b5a50ac7a72bcafb0fdc34c4ece5bea896ed4d5589a95a0a",
+      "ko": "주판을 꺼내 들고 숫자를 세기 시작한다. 1... 2... 3... 4... 5..."
+    },
+    {
+      "line": 187,
+      "event": "pitstop_car_22",
+      "english_sha256": "337f274b5ebaa507d0c64fe21b2823e71ee7b949c3e00a4ebfee43e26e4347fb",
+      "ko": "모래알을 1,558개 세었을 때쯤 친구들은 모두 잠자리에 들었다."
+    },
+    {
+      "line": 188,
+      "event": "pitstop_car_22",
+      "english_sha256": "1a9160258f78afc60423d4cc07f277e4c2c1a42fb0cd617acbce8a1d171c8742",
+      "ko": "14,470개째에는 해가 떴고, 편의점 직원들은 네가 언제까지 이러고 있을지 내기를 걸기 시작한다."
+    },
+    {
+      "line": 189,
+      "event": "pitstop_car_22",
+      "english_sha256": "e3e263406e6dd53ec5fa77538b7fffaa6ad00d4cfca387162a23cc08b1d8d7dd",
+      "ko": "32,621개째에 귀여운 비둘기에게 한눈을 판 나머지 숫자를 까먹고 처음부터 다시 세야 한다."
+    },
+    {
+      "line": 190,
+      "event": "pitstop_car_22",
+      "english_sha256": "a2f30b6f5c78422cf23c90e96d270ec77154ccda808638ef5f25ecedf77a268b",
+      "ko": "폴리는 불쌍해서(그리고 제발 좀 출발하고 싶어서) 그냥 +XX 장난 달러를 지급해 준다. 이 정도면 할 만했네!"
+    },
+    {
+      "line": 196,
+      "event": "pitstop_car_23",
+      "english_sha256": "d2806a5fa46c6f53818e0f366e7b32d96eb5906a130e4c8c843e6507627409c0",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 마요네즈를 데오드란트 대신 쓰기에 도전한다."
+    },
+    {
+      "line": 197,
+      "event": "pitstop_car_23",
+      "english_sha256": "ef575a892de0e484c3af61a41b76c24f71b9341c2c0350ebc1d9cbebf4b29987",
+      "ko": "오 분 뒤, 너에게선 온 세상의 땀에 찌든 샌드위치 가게 냄새가 난다."
+    },
+    {
+      "line": 198,
+      "event": "pitstop_car_23",
+      "english_sha256": "2056d6e3d94dacc3468a95a67411c405e75f4686727395a58226f08655a909e6",
+      "ko": "나중에는 햄 조각으로 마요네즈를 닦아 내고, 여태 먹어 본 것 중 가장 역겨운 햄 샌드위치를 만들어 먹는다."
+    },
+    {
+      "line": 199,
+      "event": "pitstop_car_23",
+      "english_sha256": "43e0af53018b9e0a74196331d6fc209fc64016f26226b0989e8dc0b9129eb29c",
+      "ko": "뭐, 음식 낭비하면 안 되잖아! (다신 저딴 걸 먹고 싶지는 않지만.) +XX 장난 달러를 획득했다!"
+    },
+    {
+      "line": 205,
+      "event": "pitstop_car_24",
+      "english_sha256": "a6c343782ea7ee18464b5c9fc7620df3d71efaa340fcaeaae3c8bb9bc56006b5",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 오늘 밤 끝날 때까지 자기가 하는 일을 전부 큰 소리로 중계하기에 도전한다."
+    },
+    {
+      "line": 206,
+      "event": "pitstop_car_24",
+      "english_sha256": "d8113973f46e0f5274989a056ef4cd8fb8eeec92c4b26419123a630d88bc3f31",
+      "ko": "내 입장에서는 더할 나위 없이 좋다. 덕분에 내레이션을 하루 쉴 수 있거든!"
+    },
+    {
+      "line": 207,
+      "event": "pitstop_car_24",
+      "english_sha256": "e2faf24725ce3ceb9375b266b2d5a135eb8e2a61cd2c86aab1908915edde790d",
+      "ko": "그럼 안녕! 난 뜨거운 목욕이나 하면서 《드래곤 히트》 최신 화를 읽을 테니까. +XX 장난 달러나 실컷 즐겨!"
+    },
+    {
+      "line": 213,
+      "event": "pitstop_car_25",
+      "english_sha256": "32820df41990d86b41d15b0a7d3cd728378208e76c9f70b275f7944e83052e71",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 쉬지 않고 다섯 분 동안 늑대처럼 울부짖기에 도전한다."
+    },
+    {
+      "line": 214,
+      "event": "pitstop_car_25",
+      "english_sha256": "618a6180918b0b3c9c733891d4a7ea2c5421eaff66740a0d792278f6109a020f",
+      "ko": "해 보지만 폐활량이 턱없이 모자라 끝까지 버티지 못한다. 저주받을 허약한 폐 같으니!"
+    },
+    {
+      "line": 215,
+      "event": "pitstop_car_25",
+      "english_sha256": "794e9bbcdb8244c411e5d9fd4db88e7e035843af66790ed1f100e09bd2eb0847",
+      "ko": "다행히 스콧은 이런 일에 도가 텄다. 스콧의 특훈을 받고 나니 둘이서 제법 근사하게 달을 향해 울부짖는다. 재미있잖아!"
+    },
+    {
+      "line": 216,
+      "event": "pitstop_car_25",
+      "english_sha256": "e79f3ab9f69674af82d3ca5bff248cc9f4bf5349c3e5a5632c8b658ab3e36410",
+      "ko": "스콧은 나중에 뒷발로 귀 긁는 법도 알려 주겠다고 한다. 끝내주네! +XX 장난 달러를 획득했다."
+    },
+    {
+      "line": 222,
+      "event": "pitstop_car_26",
+      "english_sha256": "4f30b3edbc457d91cc36bd37fb5b2328436f8572eaf2a8e4937f6e044a418172",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 손톱을 거꾸로 자라게 하기에 도전한다. 엄청난 묘기인데!"
+    },
+    {
+      "line": 223,
+      "event": "pitstop_car_26",
+      "english_sha256": "5cf7ec1d864de4dffb1fdc5620e50ec127f1e157f88c5b53b3e769cd736079d0",
+      "ko": "정신이 물질을 지배한다는 일념으로 온 마력과 에너지를 이 목표 하나에 쏟아부으며 미친 듯이 집중한다..."
+    },
+    {
+      "line": 224,
+      "event": "pitstop_car_26",
+      "english_sha256": "88a1842146a78ba2c6bfbe998b293ca6830dcfb67318759bb6a9eb4a814ac049",
+      "ko": "...그래도 손톱은 거꾸로 자라지 않는다. %CURRENTPLAYERNAME%, 아무리 네가 개지랄을 떨어도 안 되는 건 있는 법이야."
+    },
+    {
+      "line": 225,
+      "event": "pitstop_car_26",
+      "english_sha256": "808f27f25eb3c3938e4e3e3fffd941ec5483d51b6b8a4b6dfbc77492e21b4359",
+      "ko": "그래서 폴리가 환각버섯을 거하게 먹을 때까지 기다렸다가, 네 손톱은 원래부터 거꾸로 자라고 있었다고 구라를 친다. 폴리가 깜빡 속았다! +XX 장난 달러를 획득했다."
+    },
+    {
+      "line": 231,
+      "event": "pitstop_car_27",
+      "english_sha256": "0e9452a6492e498a5a2b46869330285cf8722e3b6cdf8f89dc1f4a8f30dc4949",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 모르는 사람이 알아챌 때까지 냄새 맡기에 도전한다."
+    },
+    {
+      "line": 232,
+      "event": "pitstop_car_27",
+      "english_sha256": "3e83ce50cf605a3eba34f40fa8298f66c1758f1454c2570bd1fe98af93a884ce",
+      "ko": "편의점에 있는 남자에게 다가가 목덜미에 대고 요란하게 킁킁거리다 그가 돌아보게 만든다."
+    },
+    {
+      "line": 233,
+      "event": "pitstop_car_27",
+      "english_sha256": "f58842343d7e85799e8083131345aa0a5ccefa6d8236a8bd68ec5a690b2c0234",
+      "ko": "\"아, 안녕하세요!\" 남자가 말한다. \"제가 직접 만든 향수에 푹 빠지셨군요! 무료 샘플 하나 드릴까요?\""
+    },
+    {
+      "line": 234,
+      "event": "pitstop_car_27",
+      "english_sha256": "abd5a5e969d9fe84bf0798c1e201edb1f23a378dcd931cf6cbdc25470c97af16",
+      "ko": "저게 향수라고? 넌 이 남자가 제대로 씻는 법을 모르는 게 100% 확실하다고 생각했는데."
+    },
+    {
+      "line": 235,
+      "event": "pitstop_car_27",
+      "english_sha256": "07da9d3e34d8cd53f0e877164bd7e14e15f809d72b4e05f11781125cfe1175a6",
+      "ko": "하지만 차마 그 말을 할 만큼 무례하지는 않아서, +1 구린 향수 샘플을 받아 들고 +XX 장난 달러도 챙긴다."
+    },
+    {
+      "line": 241,
+      "event": "pitstop_car_29",
+      "english_sha256": "0aee3e5c54eb61e6830dd4b6faad03daf17e3e37ede683be64ce12aa9c7c5684",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 팔털 왁싱하기에 도전한다."
+    },
+    {
+      "line": 242,
+      "event": "pitstop_car_29",
+      "english_sha256": "52753947478c81457ee9b73a8ece30cf56b3338bd273bcd03574ba06b0b173e3",
+      "ko": "불행히도 제모용 왁싱 도구를 가져온 사람이 없다. 그러니 대신 덕트 테이프를 써야겠다."
+    },
+    {
+      "line": 243,
+      "event": "pitstop_car_29",
+      "english_sha256": "9c78026b219c1a23e93c8345398b08b51a0e131d928b1b7860ad13c00b1354c5",
+      "ko": "폴리는 벗겨진 피부 겉껍질도 언젠가는 다시 자랄 거라고 안심시킨다... 아마도..."
+    },
+    {
+      "line": 244,
+      "event": "pitstop_car_29",
+      "english_sha256": "06030fb899ae0a410320d7222196bd934092618c98326fa7ed9258049288f0b3",
+      "ko": "뭐 어때, 적어도 +XX 장난 달러는 벌었는걸!"
+    },
+    {
+      "line": 250,
+      "event": "pitstop_car_30",
+      "english_sha256": "5423492a90c5ed0bbd77f9c20cb8f1c392273217647c738d27b5abc00f814afa",
+      "ko": "폴리의 장난 도전 목록을 훑어보다가... 웜 댄스 추기에 도전한다."
+    },
+    {
+      "line": 251,
+      "event": "pitstop_car_30",
+      "english_sha256": "f10d3516fd4c289441ca0c6dc4f0f44ff25107458ea916bc697c48d23a80c3d8",
+      "ko": "네가 웜 댄스를 하도 완벽하게 추는 바람에 진짜 지렁이들이 땅에서 기어 나와 널 새로운 지도자로 추대한다!"
+    },
+    {
+      "line": 252,
+      "event": "pitstop_car_30",
+      "english_sha256": "3d441a390d8f259979518f6928832b4421524606b125c935b6a6a98ca4c27763",
+      "ko": "이 기회를 놓치지 않고 스스로를 지렁이 군주로 선포한 뒤, 지렁이 아내를 맞이하고 네 업적을 기리는 흙 조각상까지 세운다."
+    },
+    {
+      "line": 253,
+      "event": "pitstop_car_30",
+      "english_sha256": "da8acd828e7f2f99c454101b15cc302908b4da05f07e5bee51055bb0cdcf3e01",
+      "ko": "하지만 영원히 여기서 살 수는 없으니, 몇 시간 후 폴리가 거대한 새인 척하며 널 낚아채 데려간다."
+    },
+    {
+      "line": 254,
+      "event": "pitstop_car_30",
+      "english_sha256": "6f16b1eca53395964fde525039a6fb8e9dd5dcaf13f76a4bd24c40379d38e8ea",
+      "ko": "네가 죽음을 가장했던 수많은 방법 중에서도 단연 웃기는 편이다. +XX 장난 달러를 획득했다."
+    },
+    {
+      "line": 260,
+      "event": "pitstop_noodles_intro_1",
+      "english_sha256": "378f5df164c6e6a787b0aaf16a13a75422cae13c5bec75a9c9129ebf1f9b7612",
+      "ko": "아이고야, 안녕하신가! 누들스의 물물교환 가게에 잘 왔어!"
+    },
+    {
+      "line": 261,
+      "event": "pitstop_noodles_intro_1",
+      "english_sha256": "a0445074e1dc787eb3f5c747f6b7eefa56c248a33b680c036738e4cfd663f05a",
+      "ko": "나한테 내놓을 만한 게 있다면 온갖 요상한 잡동사니와 바꿔 줄게!"
+    },
+    {
+      "line": 267,
+      "event": "pitstop_noodles_intro_2",
+      "english_sha256": "a439ef7d413cbb1f0b99e80821767ec5c1bc0e4ed0399f23daf1b90964a44d93",
+      "ko": "어이, 고깃덩어리 양반! 잘 지내나? 내 물물교환 가게에 온 걸 환영해!"
+    },
+    {
+      "line": 268,
+      "event": "pitstop_noodles_intro_2",
+      "english_sha256": "537fbfc9961bdb59068c54d4c26de1b544f088c56ee8f56484ea6954f5905026",
+      "ko": "마음에 드는 물건이라도 있어? 나야 거래하면 기쁘지!"
+    },
+    {
+      "line": 274,
+      "event": "pitstop_noodles_intro_3",
+      "english_sha256": "8a447f61b8aa10fcb086cc12ff3d91fb0dfed7b79a9a454c8261502e036d1902",
+      "ko": "어이, 안녕! 아직도 그 귀찮은 세상 물건들을 잔뜩 가지고 있나 보네?"
+    },
+    {
+      "line": 275,
+      "event": "pitstop_noodles_intro_3",
+      "english_sha256": "cdf93b6995a3a5e42b1f3a1ecd5699079871816c341278cfa6dbf5c7ffcae44a",
+      "ko": "내가 가진 희한한 잡동사니랑 바꾸면 어때? 어차피 세상만사 아무 의미도 없잖아!"
+    },
+    {
+      "line": 281,
+      "event": "pitstop_noodles_intro_4",
+      "english_sha256": "f31ace8b28953c4268ecde8afb6f2827dcbe7f10e21b2c45af5cbcc624d04d45",
+      "ko": "솔직해지자고. 이번 자동차 여행은 네가 고통스럽게 뒈지는 곳으로 가는 편도 티켓일 뿐이야..."
+    },
+    {
+      "line": 282,
+      "event": "pitstop_noodles_intro_4",
+      "english_sha256": "563c1128da7d5887fa2a506955dcfbb3677ac8cf812dd60407cc209624dfc507",
+      "ko": "그래도 내 물건으로 피할 수 없는 최후를 조금이나마 늦춰 보면 어때?"
+    },
+    {
+      "line": 288,
+      "event": "pitstop_noodles_intro_5",
+      "english_sha256": "aeca140e8a4181017a36666e56a2df001fd25deb9b8ef3ac476087fa56088d7d",
+      "ko": "아이고야, %CURRENTPLAYERNAME%! 물물교환하러 왔어?"
+    },
+    {
+      "line": 289,
+      "event": "pitstop_noodles_intro_5",
+      "english_sha256": "f6de00f85ddafe7083dc74bd9704d2cf104980159b797a43f045de7132b57758",
+      "ko": "내가 이 물건들을 훔... 아니, '발견'한 곳은 필멸자의 이해 범위를 초월한 혼돈의 차원이거든..."
+    },
+    {
+      "line": 290,
+      "event": "pitstop_noodles_intro_5",
+      "english_sha256": "380f6195bfe0c4b8cc43aa2f12da07e301908ec0aea9c8d854a0f2256aeedc0c",
+      "ko": "눈길을 끄는 물건이 있으면 마음껏 골라 봐!"
+    },
+    {
+      "line": 296,
+      "event": "pitstop_noodles_intro_6",
+      "english_sha256": "456ef4b3dbf374dc2acffa555e69d30800b2821c08d2cebc95203929e2b3aa34",
+      "ko": "어이, %CURRENTPLAYERNAME%! 자네만을 위한 특별 할인 행사가 있지!"
+    },
+    {
+      "line": 297,
+      "event": "pitstop_noodles_intro_6",
+      "english_sha256": "717984233ee039954e6df5435f16a442fb5798e81b43652a6cc2fee063c8f6fe",
+      "ko": "저 선반에 놓인 물건을 전부 줄게! 대신 자네의 그 귀찮은 간만 내놓으라고!"
+    },
+    {
+      "line": 298,
+      "event": "pitstop_noodles_intro_6",
+      "english_sha256": "ccc0eb1de059d57eaa1f78f51d9acf755e4a65242363dc6ffdbb89c59c4b1faa",
+      "ko": "간이 왜 필요하냐고? 그건 알 필요 없어! 입 놀릴 시간에 간이나 꺼내!"
+    },
+    {
+      "line": 299,
+      "event": "pitstop_noodles_intro_6",
+      "english_sha256": "65e2194ddd09020c68bbd0604506cfacdede22f7025af3fb20393d46f2c7d4e7",
+      "ko": "...좋아, 이번엔 봐주지. 하지만 다음엔 꼭 받아 낼 테다. 다른 교환할 물건은 있어?"
+    },
+    {
+      "line": 305,
+      "event": "pitstop_noodles_intro_7",
+      "english_sha256": "342c5d3d67833d8079c01bbabe76c30213d89d99435ef8921679332e2ba634c2",
+      "ko": "누들스의 물물교환 가게에 온 걸 환영해! 이곳에선 모든 손님이 만족하며 돌아가지!*"
+    },
+    {
+      "line": 306,
+      "event": "pitstop_noodles_intro_7",
+      "english_sha256": "af1fe443b427d0648c6a9f5741ba78febc1baaf87bdbad35c5f7ff888a3f523d",
+      "ko": "(*누들스의 물물교환 가게는 불만족, 해리성 증상, 조기 발병 치매, 비자발적인 차원 이동, 외골격의 급격한 성장에 대해 책임지지 않습니다.)"
+    },
+    {
+      "line": 307,
+      "event": "pitstop_noodles_intro_7",
+      "english_sha256": "a0327f84723dc2ce8324ddf28ea1fb4dc6b45ac3692f4e7792abf86f003be199",
+      "ko": "미안해, 그 멍청한 변호사가 꼭 읽으라더라고. 아무튼, 마음에 드는 거라도 있어?"
+    },
+    {
+      "line": 313,
+      "event": "pitstop_noodles_intro_8",
+      "english_sha256": "f8d729c55f886b28b7d372f7d9cbbb427f80959e5d160c82726605f822255827",
+      "ko": "어이! 초대받은 손님만 이용할 수 있는 누들스의 물물교환 가게에 잘 왔어!"
+    },
+    {
+      "line": 314,
+      "event": "pitstop_noodles_intro_8",
+      "english_sha256": "ccebf2e6187a5f3e83605aa9390cda0ba15f3e060576f3239853784c28c26948",
+      "ko": "아... 그러고 보니 난 초대장을 받은 적이 없는데... 에이, 누가 신경이나 쓰겠어?"
+    },
+    {
+      "line": 315,
+      "event": "pitstop_noodles_intro_8",
+      "english_sha256": "dac4f0df10745dc38224ad7db29212bf1ad22312981959b24fb5e7ad8769513c",
+      "ko": "아무튼 어서 하나 골라!"
+    },
+    {
+      "line": 321,
+      "event": "pitstop_noodles_intro_9",
+      "english_sha256": "dfa2578a666ffbf1cae8197244a17531e85f441e239294eac6570a038c9ed7f4",
+      "ko": "누들스의 물물교환 가게에 잘 왔어! 친구는 할인, 경찰은 두 배로 받아!"
+    },
+    {
+      "line": 322,
+      "event": "pitstop_noodles_intro_9",
+      "english_sha256": "1a912e4208a1045e60c25dbdcbebc3cbda1c73f9574bb47bdea530e4b80a3787",
+      "ko": "하지만 넌 둘 다 아니니까 정가로 하자고, 어때?"
+    },
+    {
+      "line": 328,
+      "event": "pitstop_noodles_intro_10",
+      "english_sha256": "6d61630dab846d41a705eb939e461436bce245a4edd6e0c41f2170d2aeb0df70",
+      "ko": "맹세해, 세르게이! 곧 돈 갚을 거야! 조금만 더 있으면--"
+    },
+    {
+      "line": 329,
+      "event": "pitstop_noodles_intro_10",
+      "english_sha256": "05901c139d46baf697cd4bb4b4e03851b48c61664a5fe9ce633324e6604cae75",
+      "ko": "아, 하하. 너였구나. 방금 소리 지른 건 못 들은 걸로 해 줘. 거래하러 왔어?"
+    },
+    {
+      "line": 335,
+      "event": "pitstop_noodles_outro_1",
+      "english_sha256": "7014a83c8a93ed55cce731e12b006b956446d3357fa2d8a2b0183ecc050280a7",
+      "ko": "거래해 줘서 고마워! 가장 끔찍한 악몽 속에서 또 보자고!"
+    },
+    {
+      "line": 341,
+      "event": "pitstop_noodles_outro_2",
+      "english_sha256": "264886a7b1aed7dbbeadc18e25d48cb1851589a0f4138d183c0526379c132034",
+      "ko": "오오, 탁월한 선택이야! 내가 그 물건을 어떻게 손에 넣었는지 궁금해? 엄청 웃긴 얘긴데!"
+    },
+    {
+      "line": 342,
+      "event": "pitstop_noodles_outro_2",
+      "english_sha256": "03726dd1918195ba59c3d7c2b9f08ed1cdd31f71969fe0713a2236940e2c3b0a",
+      "ko": "누들스는 네가 평생 들어 본 이야기 중 가장 엿 같고 영혼까지 말려 버릴 만한 일화를 늘어놓는다."
+    },
+    {
+      "line": 343,
+      "event": "pitstop_noodles_outro_2",
+      "english_sha256": "c731e31143cb495b1392ac7738cbdfe3329ab17d708224dc5c8083af9259b039",
+      "ko": "...그래서 애들은 하나도 살아남지 못했지! 하하, 좋았던 시절이야. 아무튼 구매한 물건 잘 쓰라고!"
+    }
+  ]
+}

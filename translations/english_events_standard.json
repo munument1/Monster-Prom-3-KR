@@ -1,0 +1,785 @@
+{
+  "source_sha256": "880f20f61fa08d2953dac6e700e1ec64e229ef0786f7b914bfe2fb58459dc7b6",
+  "entries": [
+    {
+      "line": 3,
+      "event": "standard_gas_hitech",
+      "english_sha256": "0727c5a1f1b399805f913ef753e37ce52fb7f701774ca65a01c1cbd9316c1199",
+      "ko": "주유소일 거라고 철석같이 믿고 차를 몰고 들어왔지만, 솔직히 여기가 우주 정거장이라고 해도 놀랍지 않을 정도야."
+    },
+    {
+      "line": 5,
+      "event": "standard_gas_hitech",
+      "english_sha256": "ad148df624c09fe842e7fa2248871f4bb1ab7a60805099d51c82f2c66e4a2481",
+      "ko": "진심으로, 여기 기술 수준이 존나 미래적이야. 평범한 자동차도 정비해 주긴 하는 걸까?"
+    },
+    {
+      "line": 6,
+      "event": "standard_gas_hitech",
+      "english_sha256": "6b85f8a14ff9140666a9be901599514c1346f2208201eee278ebe5341237fe5a",
+      "ko": "뭐, 알아보는 방법은 하나뿐이지. 뭘 할래?"
+    },
+    {
+      "line": 11,
+      "event": "standard_diner_doom",
+      "english_sha256": "352e5b65d3bd898c2a444d39117df398db2240b76d52ca4a3f42aeaca016a0df",
+      "ko": "넌 전에 '절대로, 무슨 일이 있어도 가면 안 되는 저주받은 식당 TOP 10'이라는 인터넷 목록에서 이 식당을 본 적이 있어."
+    },
+    {
+      "line": 13,
+      "event": "standard_diner_doom",
+      "english_sha256": "912d82cb3d41e8862a5fd91ba73af2f901c63849c9d8c87ad8b3d49b08fbe3f0",
+      "ko": "당연히 넌 그걸 도전장으로 받아들였지."
+    },
+    {
+      "line": 14,
+      "event": "standard_diner_doom",
+      "english_sha256": "42821b90a1e7286a526381d9cf0963883039804a01f8012cd2ebf7886286d651",
+      "ko": "아니, 그동안 온갖 흑마술에 손대 놓고서 식당 하나쯤은 감당할 수 있을 거라 생각한 거야."
+    },
+    {
+      "line": 15,
+      "event": "standard_diner_doom",
+      "english_sha256": "237a53f99f6cfd87a6fa5d72497a399c0d14bea0cbc5542ce6cca9fa9b06ed58",
+      "ko": "그래서 여기까지 왔는데, 이제 뭘 할래?"
+    },
+    {
+      "line": 20,
+      "event": "standard_motel_regular",
+      "english_sha256": "a06540bd22df5d37c142f4240e0846af3daf91cbf6e1c8ad4f78118431ecf1ae",
+      "ko": "하루 종일 차에 앉아 있느라 지치고 지친 넌 이제 슬슬 잠자리에 들 준비가 됐어."
+    },
+    {
+      "line": 22,
+      "event": "standard_motel_regular",
+      "english_sha256": "6eaca88a663889f12f0b0c7ee2b46b036056c3a15c57249cc01366be9b87ca06",
+      "ko": "잠들기 전에 무슨 평범한 일을 할지 골라 볼 시간이야. 물론 폴리와 스콧이라면 어떻게든 그걸 괴상하게 만들어 버리겠지만..."
+    },
+    {
+      "line": 27,
+      "event": "standard_picnic_spot",
+      "english_sha256": "297473155d3ca8d76436e5d04ff17ea1dbbd6f1ea0c344f576ab2aa20618f987",
+      "ko": "햇살은 눈부시고, 새들은 지저귀고, 개미들은 네가 흘릴 음식 부스러기를 먹을 생각에 잔뜩 들떠 있어."
+    },
+    {
+      "line": 29,
+      "event": "standard_picnic_spot",
+      "english_sha256": "01f3f59e5ef94815c2cd01abbd344b0023438b238581d256f2409f68d3a3e701",
+      "ko": "소풍 가기 딱 좋은 날이네!"
+    },
+    {
+      "line": 30,
+      "event": "standard_picnic_spot",
+      "english_sha256": "092e8bffe30f968088fadb55f1d87816994c9579d431173d24fb540cb5a42d55",
+      "ko": "피크닉 바구니도 챙겼고 체크무늬 돗자리도 폈어. 이제 여기서 뭘 할지만 결정하면 돼."
+    },
+    {
+      "line": 35,
+      "event": "standard_biker_bar",
+      "english_sha256": "311b8f72085b744c03cbff8540e4512d0136ba13fdfffe5ee2c96336c56ff9cb",
+      "ko": "병 깨지는 소리, 부딪히는 술잔, 굉음을 내는 오토바이, 방금 어떤 놈이 날아가 처박힌 창문이 산산조각 나는 소리..."
+    },
+    {
+      "line": 37,
+      "event": "standard_biker_bar",
+      "english_sha256": "57ae8144df852a1ea671a0fa36fab03baeedba444df6f42d1f7f63e234e64a57",
+      "ko": "이것이야말로 진정한 바이커 바에서 울려 퍼지는 감미로운 선율이지."
+    },
+    {
+      "line": 38,
+      "event": "standard_biker_bar",
+      "english_sha256": "70c6a608f6093dc23bf6b3df9651bfb068d4c2713e9c3387fbb0254ab2e96df9",
+      "ko": "네 안에 잠든 상남자를 깨울 기회야. 뭘 할래?"
+    },
+    {
+      "line": 43,
+      "event": "standard_graveyard",
+      "english_sha256": "99305018a7877222809a9c14ceedeb4a50e7f6a389310ba06b3ab043250eda52",
+      "ko": "묘지는 엄숙하고 고요하게 죽은 이를 추모하며 삶을 되돌아보는 곳이야..."
+    },
+    {
+      "line": 45,
+      "event": "standard_graveyard",
+      "english_sha256": "c598a409ec917ce4c6e1064479bcb59ea90cf56f008e30d0310dabab5c60de22",
+      "ko": "...뭐, 따분한 인간들이나 그렇지. 넌 폴리와 스콧이랑 왔잖아. 그러니까 묘지야말로 장난치기 딱 좋은 곳이지!"
+    },
+    {
+      "line": 46,
+      "event": "standard_graveyard",
+      "english_sha256": "69d28b402a552b5fc130b95f9f46d01ca1d5c8f08de8b2150264309c9984a360",
+      "ko": "문제는 어떤 장난을 쳐야 가장 끝내주냐는 거야."
+    },
+    {
+      "line": 51,
+      "event": "standard_village_west",
+      "english_sha256": "66705a3ad402682db41e933fc2adcfd26ae81c60c6c85124ce700dcb48e15916",
+      "ko": "육연발 권총과 무법자, 야생마와 챙이 넓은 카우보이모자가 넘쳐나는 땅에 온 걸 환영해."
+    },
+    {
+      "line": 53,
+      "event": "standard_village_west",
+      "english_sha256": "815e78566f36ca8933786f7dc1116769514bd1664590bcaa2002c94718272277",
+      "ko": "넌 언제나 진짜 카우보이가 되고 싶었어. 아니, 최소한 TV에 나오는 그런 카우보이라도 말이야. 드디어 기회가 왔네!"
+    },
+    {
+      "line": 54,
+      "event": "standard_village_west",
+      "english_sha256": "f9a0317cea7bbb3435a06467fd8bc0433e4a6aa2560282e737f40a210554ab57",
+      "ko": "자, 뭘 해 볼 텐가... 친구 양반?"
+    },
+    {
+      "line": 59,
+      "event": "standard_art_exhibition",
+      "english_sha256": "0ad520ed7e3b045fbaf91f393271cf1d0bdeec095a4cb4b462c91223e617269e",
+      "ko": "예술은 아름다워. 예술은 감정을 움직이지. 예술은 괴물로 산다는 게 어떤 건지 거침없이 파헤치는 탐구야."
+    },
+    {
+      "line": 61,
+      "event": "standard_art_exhibition",
+      "english_sha256": "2197fb28a0f02f0ea03d9bcba99b6e89b9754fb117b183c8254d2f029d998523",
+      "ko": "그리고 예술이란, 알고 보니 파란 캔버스에 흰 줄 하나 그어 놓고 40밀리언 달러를 받아 처먹는 거였어."
+    },
+    {
+      "line": 62,
+      "event": "standard_art_exhibition",
+      "english_sha256": "65992251997e7626e39994bbc2d3ca2c64dcd307d29c5794f0e4c09738e23296",
+      "ko": "교양 좀 쌓아 볼 시간이야. 미술 전시회에서 뭘 할래?"
+    },
+    {
+      "line": 67,
+      "event": "standard_lake",
+      "english_sha256": "4066c9e505284aabb4273f4bd994b3ac883df0250108caf531b913d81f7e8b34",
+      "ko": "이렇게 덥고 화창한 날에는 호수에 놀러 가는 것만큼 더위를 식히기 좋은 방법도 없지."
+    },
+    {
+      "line": 69,
+      "event": "standard_lake",
+      "english_sha256": "de78de1bd82aa6199ff6540de7956638fd6dfcad671906d47acf4eb28a9bf377",
+      "ko": "게다가 섹시한 친구들이 수영복 입은 모습도 실컷 구경할 수 있잖아!"
+    },
+    {
+      "line": 70,
+      "event": "standard_lake",
+      "english_sha256": "7b5e430dd4fc076d8da1d2d434bbf1a09d4dd447b2946277b797498325862b01",
+      "ko": "물론 넌 지금까지 줄곧 그 광경을 상상하고 있던 건 아니야... 응, 절대 아니고말고. *콜록 콜록*."
+    },
+    {
+      "line": 71,
+      "event": "standard_lake",
+      "english_sha256": "969b9c42dce0a31b95492f5ab525b999095d710b56e2f61df23f6accc588bf64",
+      "ko": "아무튼 여기까지 왔으니 뭘 할래?"
+    },
+    {
+      "line": 76,
+      "event": "standard_diner_pancake",
+      "english_sha256": "14037b565928104bb46ee0da16d4bd5304d5e90927810b6adb025bba3d6a9359",
+      "ko": "아침은 하루 중 가장 중요한 식사야. 그중에서도 최고는 시럽을 듬뿍 끼얹은 폭신폭신한 탄수화물 탑이지."
+    },
+    {
+      "line": 78,
+      "event": "standard_diner_pancake",
+      "english_sha256": "de0e772a94dfd994bd40ad872838777ab4e11777197fa0647286da5a4fed0f74",
+      "ko": "이 식당 메뉴에는 말도 안 되게 거대한 음식들이 있어. 배가 아주 고팠으면 좋겠네!"
+    },
+    {
+      "line": 79,
+      "event": "standard_diner_pancake",
+      "english_sha256": "507adf1b2f95b20099f0b98c58a4a038c71e37f671df77da548eeb6dee1c13e9",
+      "ko": "먹을 팬케이크는 이렇게 많은데 시간은 너무 부족해! 어떤 걸 주문할래?"
+    },
+    {
+      "line": 84,
+      "event": "standard_diner_dinest",
+      "english_sha256": "26e1808d6526830aa911bd40ad09733ba341f499dc213600573807ac72d08c33",
+      "ko": "다이네스트는 입맛 까다로운 여행객들을 위한 고급 식당이야."
+    },
+    {
+      "line": 86,
+      "event": "standard_diner_dinest",
+      "english_sha256": "92307482def9b7234e1f73db838cd7d7606a0b2ba3bbd8ff69b83bcb7cd525cc",
+      "ko": "안타깝게도 세상 사람들 전부가 입맛 까다로운 여행객인 모양이야. 여기 진짜 발 디딜 틈이 없어."
+    },
+    {
+      "line": 87,
+      "event": "standard_diner_dinest",
+      "english_sha256": "000b220c0d5aa1dc8fa7062023b3d8c6d17fc10ad955e22cd176687e2d702fc2",
+      "ko": "당장 자리를 잡으려면 모르는 사람과 합석하는 수밖에 없어."
+    },
+    {
+      "line": 88,
+      "event": "standard_diner_dinest",
+      "english_sha256": "46c820c396a14cdd25bf0e0de063dd243a226f3c02b94b274cd621a5460d3bf4",
+      "ko": "예의범절 따위 박살 내고 새 친구를 사귈 절호의 기회네! 누구 옆에 앉을래?"
+    },
+    {
+      "line": 93,
+      "event": "standard_gas_trolls",
+      "english_sha256": "b20adfaa37efe5775dd89e6d173a42dbf0a7f62a2ba145fb249e23743fdd3b08",
+      "ko": "이 주유소는 마치 어린이 동화책에서 통째로 튀어나온 것 같아."
+    },
+    {
+      "line": 94,
+      "event": "standard_gas_trolls",
+      "english_sha256": "afeba5d2f33feabdda29d50dcedae840bb803bde807b61471586f85de66798e6",
+      "ko": "뭐, 판타지 영웅들이 자동차를 몰고 다니는 동화책이겠지만. 아무튼 그렇다고!"
+    },
+    {
+      "line": 96,
+      "event": "standard_gas_trolls",
+      "english_sha256": "4cedd05b65f8c10e77041c0e1fe3a4752596aa794f5789da62e14da49e27bf1b",
+      "ko": "기이하고 동화 같은 장식 투성이지만 주유소로서 갖출 건 다 갖춘 것 같아. 뭘 할래?"
+    },
+    {
+      "line": 101,
+      "event": "standard_gas_basic",
+      "english_sha256": "8c6caa1b592e0cc137a4dfb0f665eaadaa071ec3becd7627021bc5ab1f56c3b3",
+      "ko": "주유소는 뭐든 바가지요금에 오염물질투성이야. 더러운 화장실에선 날마다 신종 질병이 탄생하는 것 같고."
+    },
+    {
+      "line": 103,
+      "event": "standard_gas_basic",
+      "english_sha256": "58eca5abd0a2d45d9308e2388c67181cde3871cfa1203f01bdc29fa3aa0ffca0",
+      "ko": "그래도 차를 굴리려면 감수해야 하는 필요악이지. 로드트립의 세계에 온 걸 환영해!"
+    },
+    {
+      "line": 104,
+      "event": "standard_gas_basic",
+      "english_sha256": "93a4be8485c7f1e0e1be9641326455f1a14e79430b6a2eb877801dbf0abf8c6b",
+      "ko": "그래서, 뭘 할래?"
+    },
+    {
+      "line": 109,
+      "event": "standard_motel_cheap",
+      "english_sha256": "3cef78a621aca80da9fddd99a49cfaf1f5ab69b518b8f005c8a51989d4be1d6e",
+      "ko": "돈을 아끼는 게 부끄러운 일은 아니지만, 솔직히 그냥 차에서 자는 편이 나았을지도 몰라."
+    },
+    {
+      "line": 111,
+      "event": "standard_motel_cheap",
+      "english_sha256": "2991cd7aa8d5fba96c8894caff5c1576d0a4063c0b7738b5f6bbb5c628f71a65",
+      "ko": "뭐, 살다 보면 하룻밤쯤은 고생도 해 봐야지. 그래야 인격이 단련된다잖아!"
+    },
+    {
+      "line": 112,
+      "event": "standard_motel_cheap",
+      "english_sha256": "fcf13e570d0e3b6b234843a2159fe0ac049c30c042a95bfb9c733d0cb8f4a613",
+      "ko": "적어도 눈 뜨고 보기 힘든 객실 목록을 훑는 동안엔 그렇게 스스로를 위로해 봐..."
+    },
+    {
+      "line": 113,
+      "event": "standard_motel_cheap",
+      "english_sha256": "91a999ae34b83c7e6f6fd2d8013d8e192bd4e4914fa7dbf196ed80aa7bf975e7",
+      "ko": "이제 와서 발 빼기는 늦었어. 오늘 밤엔 어떤 방을 빌릴래?"
+    },
+    {
+      "line": 118,
+      "event": "standard_motel_fancy",
+      "english_sha256": "8a0a0431c43128acfc552e201bbba4d647e3fa682ab8ab624df78c0b3872ff8c",
+      "ko": "제대로 된 호텔에 묵자니 돈이 아깝고, 평범한 모텔에 묵자니 눈이 너무 높다면 어디로 가야 할까? 아무래도 여기인 모양이네!"
+    },
+    {
+      "line": 120,
+      "event": "standard_motel_fancy",
+      "english_sha256": "c486a0c12568e293015cda0303d39a517807582b2602ef1a68ec922d4fcb2088",
+      "ko": "이곳엔 품격과 매력, 우아함이 넘쳐흘러. 공교롭게도 네겐 평생 없었던 것들이지."
+    },
+    {
+      "line": 121,
+      "event": "standard_motel_fancy",
+      "english_sha256": "921048ef8d7e17d3ce62cfdc8e31de17680002364568daafb6bb87207723c13f",
+      "ko": "그러니 오늘 밤은 돈 많고 고상한 부자 코스프레를 하기 딱 좋은 밤이야! 뭘 할래?"
+    },
+    {
+      "line": 126,
+      "event": "standard_lab",
+      "english_sha256": "260e3a93ca29f3851ad803d96f008e3273df0518c43d91c805b0a2df312d4fd5",
+      "ko": "정부 음모론을 믿는 편이야? 뭐, 이제 곧 믿게 될 거야."
+    },
+    {
+      "line": 128,
+      "event": "standard_lab",
+      "english_sha256": "fd0eae148cc4b40538d7bae2b924c1dd2cd6611f2f643d002778e10685debd64",
+      "ko": "비밀 정부 연구소에 온 걸 환영해. 네가 제일 좋아하는 정치인들이 과학자들에게 신 노릇 좀 해 보라고 시키는 곳이지."
+    },
+    {
+      "line": 129,
+      "event": "standard_lab",
+      "english_sha256": "01667c8a62f070252827ec00c9ece3f83b336b30755cf7e9f80df62d07c9338b",
+      "ko": "섬뜩한 실험과 돌연변이 생물, 괴물의 존엄을 짓밟는 범죄가 여기저기 널려 있어."
+    },
+    {
+      "line": 130,
+      "event": "standard_lab",
+      "english_sha256": "e4feaac86a8a57555363e8a2bfca1c3598852d0c757ba719e4c247b19b8fe8a3",
+      "ko": "뭐가 제일 흥미로워 보여?"
+    },
+    {
+      "line": 135,
+      "event": "standard_shady_property",
+      "english_sha256": "107941f035969a44433533850a67c7a783c75dbf154026135efd1e68ca7b7ad2",
+      "ko": "여긴 딱 봐도 절대 발을 들여선 안 될 곳처럼 보여..."
+    },
+    {
+      "line": 137,
+      "event": "standard_shady_property",
+      "english_sha256": "e78be8746b997638c4345ea1cc3411d7c351b98db008530fcdf59183552f56fb",
+      "ko": "그러니까 당연히 꼭 들어가 봐야지. 공포영화식 논리 만세!"
+    },
+    {
+      "line": 138,
+      "event": "standard_shady_property",
+      "english_sha256": "ba26d57f58e2f7029599ea8915b9e854deb28be114336b4ed67e6e4b4d050a33",
+      "ko": "이제 문제는 이 부지 안으로 어떻게 들어가느냐야. 어떤 방법을 쓸래?"
+    },
+    {
+      "line": 143,
+      "event": "standard_space_station",
+      "english_sha256": "1f34a6aa237ca1e2bde0f65d7ffa5263b49ec4a3a32e81c766673b61f597b27d",
+      "ko": "대부분의 사람들처럼 너도 어릴 때는 우주에 가고 싶었어."
+    },
+    {
+      "line": 144,
+      "event": "standard_space_station",
+      "english_sha256": "7d0e6d47017c23717993abb1aa5b6f011fdb81c3e274bed896b82ac63bbabe3b",
+      "ko": "그러다 수학을 엄청나게 해야 한다는 말을 듣고, 그딴 건 네 적성에 안 맞는다고 마음을 접었지."
+    },
+    {
+      "line": 146,
+      "event": "standard_space_station",
+      "english_sha256": "5ddfe52178bfeb95986774030736c5d8ccce2bccfb64fd0bee0328c58c5e53c3",
+      "ko": "하지만 이제 마음속 우주 탐험가를 마음껏 풀어 줄 기회야! 뭘 할래?"
+    },
+    {
+      "line": 151,
+      "event": "standard_landmark_foot",
+      "english_sha256": "69c7c7ead6bc9f3e6ae0f54e46ffc02032602827d506d803db4ff65067a85d8c",
+      "ko": "'사막의 발'은 기묘한 명소야. 발이랑 똑같이 생긴 천연 암석 지형이거든."
+    },
+    {
+      "line": 152,
+      "event": "standard_landmark_foot",
+      "english_sha256": "fc87c2743f3c9a594c681a8a04a2de9a7b107f92c7d3fe287267018b55040aad",
+      "ko": "하지만 그게 주변의 가이드 투어와 기념품 가게, 온갖 관광객 낚시용 상술을 정당화할 정도인지는 모르겠어..."
+    },
+    {
+      "line": 154,
+      "event": "standard_landmark_foot",
+      "english_sha256": "b243276f00551cb02be08275696664cee0934676027076bdacb4bdfdc6cdb280",
+      "ko": "뭐, 여기 오겠다고 결정한 건 너니까 기왕 온 김에 즐겨야지. 뭘 할래?"
+    },
+    {
+      "line": 159,
+      "event": "standard_landmark_potato",
+      "english_sha256": "dd8b644aa881a2defd9bb43b8142604e9243699c1df5d63cecccb557994cad01",
+      "ko": "보라, 세계에서 가장 거대한 감자를! 크고, 전분도 넘치고, 아주 시골스럽기까지 하지!"
+    },
+    {
+      "line": 161,
+      "event": "standard_landmark_potato",
+      "english_sha256": "88b3d222f6cb23714be6a27d2f0d38a4cd1fc7799bb3f0fb2f35c78620e2f5fa",
+      "ko": "세계 최대의 감자튀김 한 접시로 다시 태어나기에 딱 좋은 감자네!"
+    },
+    {
+      "line": 162,
+      "event": "standard_landmark_potato",
+      "english_sha256": "f654dd3cc2ccd74de7bb88ecd2519fcc8f796a2baf30bcdb7279f9fa1dc724d8",
+      "ko": "이 농업의 경이로움을 멀뚱멀뚱 바라보는 것 말고도 할 일은 많아. 뭘 할래?"
+    },
+    {
+      "line": 167,
+      "event": "standard_landmark_hole",
+      "english_sha256": "b44d3c6b506229360becb295ff22d3dab40f8530427dd017f3d7381b9c40d08e",
+      "ko": "사막에 구멍 하나 뚫려 있다니... 야, 이젠 아무거나 관광 명소로 만들어 버리는구나?"
+    },
+    {
+      "line": 169,
+      "event": "standard_landmark_hole",
+      "english_sha256": "f5920ff9172addafdc483a90e3b729f869205dd338807c3abdd5b7316512a126",
+      "ko": "구멍이 밑도 끝도 없이 깊다는 사람들도 있지만, 설마 진짜 바닥이 없겠어... 그렇지?"
+    },
+    {
+      "line": 170,
+      "event": "standard_landmark_hole",
+      "english_sha256": "c1116799ed4a4b48ba4375d479c9aa7c7f2eb340caba0e2a0401a9c06a1b25e1",
+      "ko": "뭐, 어쨌든 여기까지 왔잖아. 이제 뭘 할래?"
+    },
+    {
+      "line": 175,
+      "event": "standard_village_charming",
+      "english_sha256": "f81382937d6ba773a8e5caa6bebfa8123aefef12bbbbe55a93e359b03c60ae70",
+      "ko": "꽃과 오월제 장대, 온갖 축제가 가득한 그림 같은 작은 마을이야."
+    },
+    {
+      "line": 176,
+      "event": "standard_village_charming",
+      "english_sha256": "d88f4d238283ca789719c5261469a5a0036e51a7e46c4e77a394243d5603b916",
+      "ko": "...그러니까 분명 뭔가 수상한 일이 벌어지고 있는 거겠지? 누가 항상 이렇게 행복하겠어."
+    },
+    {
+      "line": 178,
+      "event": "standard_village_charming",
+      "english_sha256": "078bcb62a1ad51c92a9c4cf1596ea8120f831510a561339c47e963f082ac2d64",
+      "ko": "에이, 네가 괜히 의심하는 걸지도 모르지. 신나게 놀 기회잖아! 일단 뭘 할래?"
+    },
+    {
+      "line": 183,
+      "event": "standard_village_kaiju",
+      "english_sha256": "931cdb3ebb03576a733b9987540ede967eee7b06f7ddc9541d84678d293c2884",
+      "ko": "불타는 건물, 비명을 지르는 사람들, 고막을 찢어 놓을 듯한 포효..."
+    },
+    {
+      "line": 185,
+      "event": "standard_village_kaiju",
+      "english_sha256": "9811620f4ff4757853d11669456a21e3d26565acb284e3bbfde82c85d6cfbb8f",
+      "ko": "틀림없어. 거대 괴수가 이 도시를 습격하고 있어."
+    },
+    {
+      "line": 186,
+      "event": "standard_village_kaiju",
+      "english_sha256": "fb5ebbb2f4e3a5bccf4fb94d521758363a4f5931ba16fdf0e4cb0dde100a53d8",
+      "ko": "대놓고 사람이 죽어 나가는 도시에 왜 굳이 관광을 온 건지는 모르겠지만..."
+    },
+    {
+      "line": 187,
+      "event": "standard_village_kaiju",
+      "english_sha256": "8f83e401b4271ebad34ecc18c0e928813969c46e2f8f168413e2e12faeba547b",
+      "ko": "하긴, 이제 와서 네게 상식적인 행동을 기대하는 나도 참 바보지."
+    },
+    {
+      "line": 188,
+      "event": "standard_village_kaiju",
+      "english_sha256": "0a0e109cbd108117f613d6889046e504a63536bdf2e1365a9b65c2317449102a",
+      "ko": "어쨌든 이젠 거대 파충류한테 죽지 않도록 몸을 지켜야 해. 뭘 할래?"
+    },
+    {
+      "line": 193,
+      "event": "standard_reptile_show",
+      "english_sha256": "741b6d66f5f560b1be8d92376ebfbd769203d81ddabe5b7d92ad649d4c32cb00",
+      "ko": "파충류 버라이어티 쇼에 온 걸 환영해! 무대에 열정을 불태우는 냉혈동물 친구들을 만나 보라고!"
+    },
+    {
+      "line": 195,
+      "event": "standard_reptile_show",
+      "english_sha256": "ac88c81a5da90ae9244b6837479672b95d1ece4e2b49b4bb40cf491657f7b7a9",
+      "ko": "오늘은 몇 가지 공연이 예정돼 있어. 어떤 무대를 보고 싶어?"
+    },
+    {
+      "line": 200,
+      "event": "standard_biz_summit",
+      "english_sha256": "59a7595f9a3c097b0602b76e51e7e229c95da99c7352a5e641863d9c7dbe9cbb",
+      "ko": "여긴 자본주의의 최정예들이 어떻게 하면 돈을 더 긁어모을지 머리를 맞대는 거물급 비즈니스 정상회의야."
+    },
+    {
+      "line": 202,
+      "event": "standard_biz_summit",
+      "english_sha256": "29961818076da4c5aefd3b3fea14c8efe9ca3c621d1c5d0a128c191f08b809d0",
+      "ko": "여기서는 좀 겉도는 기분이 들겠지만, 거물 사업가라면 누구나 성공할 때까지 성공한 척하라고 가르쳐 줄 거야!"
+    },
+    {
+      "line": 203,
+      "event": "standard_biz_summit",
+      "english_sha256": "07be109d5b0ac50014badfa49d16eb73333a9ffe53c42f9eac1ea2e92f928a99",
+      "ko": "자, 뭘 해 볼래?"
+    },
+    {
+      "line": 208,
+      "event": "standard_movie_set",
+      "english_sha256": "b2f2035782b15c7620cea70458740fb63d28587182c5c8b160cacc1c5b954fdd",
+      "ko": "누구나 한 번쯤은 영화배우가 되면 어떤 기분일지 궁금해하곤 하지."
+    },
+    {
+      "line": 210,
+      "event": "standard_movie_set",
+      "english_sha256": "00ed65f43c8481cd418abf578bad2000cedf98054237045e7232f196fbdaddb8",
+      "ko": "넌 여전히 그게 어떤 기분인지 몰라. 그냥 영화 촬영장에 무단 침입한 평범한 여행객일 뿐이거든."
+    },
+    {
+      "line": 211,
+      "event": "standard_movie_set",
+      "english_sha256": "ed4540156ee39cfe344e5b494066e28e79f319d78eb4a5166893fe928eafbe3e",
+      "ko": "하지만 네가 할리우드에 가장 가까이 가 볼 기회가 이번이 마지막일 수도 있으니, 기왕이면 뽕을 뽑아야지! 뭘 할래?"
+    },
+    {
+      "line": 216,
+      "event": "standard_wedding",
+      "english_sha256": "69781d1731443a92d14125e8b000d855c94e320a08334d4f0203410802fd5e97",
+      "ko": "아, 결혼식! 두 사람, 혹은 그 이상의 영혼의 짝들이 평생 서로를 사랑하며 살겠다고 맹세하는 자리..."
+    },
+    {
+      "line": 217,
+      "event": "standard_wedding",
+      "english_sha256": "20c0855fbfb262df06b95b59b6a364148b8e4ba82b5de57e3b49406ce1ef1f16",
+      "ko": "뭐, '진정한 사랑'이라는 걸 믿는다면 말이지. 아니어도 근사하게 차려입고 술에 취할 수 있으니 결혼식은 꽤 재밌어."
+    },
+    {
+      "line": 219,
+      "event": "standard_wedding",
+      "english_sha256": "88bb6593f7aed47f6d196151f533903d8865bca1fd36a808d6fb01bc8be60b22",
+      "ko": "게다가 불청객으로 난입하는 재미도 있지! 지금 딱 네가 그러고 있거든. 쉿!"
+    },
+    {
+      "line": 220,
+      "event": "standard_wedding",
+      "english_sha256": "68e1bcd6143fd0be55b7048927d3b779f7c0b59b61aa45f01ce498a98b7b1b38",
+      "ko": "자, 뭘 할래?"
+    },
+    {
+      "line": 225,
+      "event": "standard_road_warriors",
+      "english_sha256": "94c6dbd275c1b4518696bb0ce0d685dce361e3d6138ae530c7043bb602ad00f2",
+      "ko": "차들은 위험천만할 정도로 마개조됐고, 사막은 휠캡과 탄피가 굴러다니는 황무지가 됐어."
+    },
+    {
+      "line": 226,
+      "event": "standard_road_warriors",
+      "english_sha256": "308924cc67ad1c21c192028b76cf9f73b7036a608320911be27702434b529ca7",
+      "ko": "어딜 봐도 가죽옷, 고철 갑옷, 방독면, 그리고 시커먼 아이섀도를 떡칠한 사람들뿐이야."
+    },
+    {
+      "line": 228,
+      "event": "standard_road_warriors",
+      "english_sha256": "2979c1f4e5a0238ee72fc6558fc5324dd1d05f21b19314308f74e3fbeb9ace7e",
+      "ko": "포스트 아포칼립스 정착지에 온 걸 환영해! 이곳에서 지켜야 할 법은 단 하나, 속도가 생명이다!"
+    },
+    {
+      "line": 229,
+      "event": "standard_road_warriors",
+      "english_sha256": "45ca29f7d2f915b8d0307b4fcbccef7438dd82f91460e5c4e6db08b865a7c94e",
+      "ko": "위험천만한 디젤펑크식 놀 거리가 한가득이야. 뭘 할래?"
+    },
+    {
+      "line": 234,
+      "event": "standard_merkingdom_outpost",
+      "english_sha256": "36985c127a09c564f2371f47c9d4790a2e464ad7b3be49f1c1c5f80e75cab9b7",
+      "ko": "한때 수족관이었던 듯한 건물 옥상마다 머킹덤의 깃발이 펄럭이고 있어."
+    },
+    {
+      "line": 236,
+      "event": "standard_merkingdom_outpost",
+      "english_sha256": "4e5ffdbc235c183db7e887105662d09eb85b0aa25f78694ff2ade103fa7b8fa6",
+      "ko": "바닷속 군주들이 영토를 계속 넓히고 있는 모양이네!"
+    },
+    {
+      "line": 237,
+      "event": "standard_merkingdom_outpost",
+      "english_sha256": "75e6612973edd94f2a4b77b6e8cca306d8340db9c526164d9e672ca1787a17d4",
+      "ko": "뭐, 폭군 노릇 하는 바다의 지배자들 좀 찾아가 봐도 나쁠 건 없겠지. 뭘 할래?"
+    },
+    {
+      "line": 242,
+      "event": "standard_con",
+      "english_sha256": "18af2bbb573767f8eb70c9eafed0eda1e8e4b7ba3de0e61c35fb5ca67434b0da",
+      "ko": "야호, 덕후 행사다! 남 눈치 안 보고 진짜 덕후인 네 모습을 마음껏 드러낼 수 있는 곳이지."
+    },
+    {
+      "line": 244,
+      "event": "standard_con",
+      "english_sha256": "6a5db52da38dc082c5a76b851e9c663bfff7d0b41a439dad363689f0f200f735",
+      "ko": "코스플레이어에 굿즈 판매상, 토크 패널, 게임 대회, 바가지 음식까지..."
+    },
+    {
+      "line": 245,
+      "event": "standard_con",
+      "english_sha256": "7491fcd7b39aa2ccd3ef87a33721e461a7028fb7d822f09bee941024a8aa138c",
+      "ko": "할 건 산더미인데 시간은 턱없이 부족해! 뭘 해 보고 싶어?"
+    },
+    {
+      "line": 250,
+      "event": "standard_spa",
+      "english_sha256": "7a8a2765f6eee098ff12272f109c4c9cf9f0b98a9efacaf4e1a7601c2abea611",
+      "ko": "그런데 말이야, 휴가를 떠난 것치고 이번 로드트립은 의외로 스트레스가 심했지."
+    },
+    {
+      "line": 252,
+      "event": "standard_spa",
+      "english_sha256": "d5eb977851494eef6132076e8d06ef12b5026991b193709fc2f88f5f4298665c",
+      "ko": "목적지에 도착하기 전에 스파에서 푹 쉬면 제대로 기분 전환이 될 것 같아."
+    },
+    {
+      "line": 253,
+      "event": "standard_spa",
+      "english_sha256": "50a108f2aec7b67612453ae98365693b3114b845ceb7b08227dcef2755cc8391",
+      "ko": "문제는... 어떻게 긴장을 풀고 싶으냐는 거야."
+    },
+    {
+      "line": 258,
+      "event": "standard_ufo_sightseeing",
+      "english_sha256": "0733f7d29cf2259ad8b3ac05d8f39bfac3fba4e564ed7a7408284dc62035e467",
+      "ko": "넌 오늘 아주 오래된 의문 하나에 답을 찾으러 왔어. 외계인은 정말 존재할까?"
+    },
+    {
+      "line": 260,
+      "event": "standard_ufo_sightseeing",
+      "english_sha256": "3fc0e92b8f62905beeaa91b16d74b24b19facb3c0320c46f168aad77a037126e",
+      "ko": "오늘 외계인을 볼 수 있을지는 모르지만, 적어도 다른 UFO 관찰자들과 어울리는 건 재밌겠지!"
+    },
+    {
+      "line": 261,
+      "event": "standard_ufo_sightseeing",
+      "english_sha256": "fdc6b5d27f8fc25b29843520ee22c7950c2cbd2a1fd9954e284afe6d80c3dc6a",
+      "ko": "별을 구경하고 외계인 음모론을 떠드는 것 말고는 또 뭘 할래?"
+    },
+    {
+      "line": 266,
+      "event": "standard_farm",
+      "english_sha256": "6ac5deb8a5f696a3f85b2208fd0fb09007f13b14ddaf379223ddcd977b127604",
+      "ko": "아, 농장 생활. 가끔은 도시의 북적거림에서 벗어나고 싶을 때도 있지."
+    },
+    {
+      "line": 267,
+      "event": "standard_farm",
+      "english_sha256": "14496a50fe45a1aefbed1dbde1618795acbcf3acfdf83d2b87cb71bc5d3c6915",
+      "ko": "농부들은 맑은 공기를 마시고, 직접 기른 음식을 먹으며 소박하게 살아가."
+    },
+    {
+      "line": 269,
+      "event": "standard_farm",
+      "english_sha256": "f5fcd538921572f02b95815de01ff223abab1ef342c9211ad718a206fa207f16",
+      "ko": "물론 그 대가로 죽어라 몸을 써야 하고, 말동무라곤 가축밖에 없는 경우가 많지만..."
+    },
+    {
+      "line": 270,
+      "event": "standard_farm",
+      "english_sha256": "bcac2e0dc2985cd9b927cff737d24336c1096ecafa17b6504175ffb564b04451",
+      "ko": "에라, 좆까라 그래! 오늘만큼은 네 안의 전원생활 감성을 제대로 불태울 거야! 농장 어디부터 구경할래?"
+    },
+    {
+      "line": 275,
+      "event": "standard_fortune_teller",
+      "english_sha256": "de0059ac2ea509f03d7364302511ab7a1136e60ac585c759d306d05684ff33da",
+      "ko": "점술은 진짜일까, 아니면 죄다 사기일까? 확인하는 방법은 하나뿐이지..."
+    },
+    {
+      "line": 277,
+      "event": "standard_fortune_teller",
+      "english_sha256": "4d1e12a8ca6ab8d4ca5ed558df6e12f395e0ea73587c8f5242ee6c1dcc7b0e2d",
+      "ko": "이 이동식 점집을 운영하는 영매가 바깥에 제공하는 점술 종류를 적은 안내판을 세워 놨어."
+    },
+    {
+      "line": 278,
+      "event": "standard_fortune_teller",
+      "english_sha256": "d9a50b33ee0e33f9586f36de0328bf3d0109428a9daffb4ac80dda415c17be20",
+      "ko": "미래를 엿볼 방법도 참 가지가지네! 뭘 해 볼래?"
+    },
+    {
+      "line": 283,
+      "event": "standard_rodeo",
+      "english_sha256": "647112b9a16c58792ff34decc0adc5964505bae3c235ef76812f74532f562897",
+      "ko": "로데오는 카우보이 문화의 최고로 멋진 요소들을 모두 모아 놓은 짜릿한 축제야."
+    },
+    {
+      "line": 285,
+      "event": "standard_rodeo",
+      "english_sha256": "41e307d1c906864f0493037e019377e09482a6187931f079d708765d05ea2429",
+      "ko": "승마, 송아지 묶기, 소와 씨름하기, 그리고 풀드포크를 토 나올 만큼 처먹기까지."
+    },
+    {
+      "line": 286,
+      "event": "standard_rodeo",
+      "english_sha256": "87b1af0299a191b545610816033df81fae32f9ee6b443191bb15bda01e6109df",
+      "ko": "오늘은 갖가지 경기와 시범 행사가 열려! 어떤 걸 구경할래?"
+    },
+    {
+      "line": 291,
+      "event": "standard_village_abandoned",
+      "english_sha256": "7b2191bf7afe5b4af13b9e1fd8f6149fce57c57add4ebae5a567056809c0cfd7",
+      "ko": "우와, 여기엔 정말 아무도 없어. 마을을 한참 돌아다녔는데 살아 있는 사람을 단 한 명도 못 봤어."
+    },
+    {
+      "line": 293,
+      "event": "standard_village_abandoned",
+      "english_sha256": "4db77590a0232b9d6bc735b4f2a4e453504f9e94c12c25f7025b857df8a0918a",
+      "ko": "주민들은 다 어디로 간 걸까? 물건은 전부 그대로인데. 흐음..."
+    },
+    {
+      "line": 294,
+      "event": "standard_village_abandoned",
+      "english_sha256": "aabd8d6100c12d7ef76a1305a543a05a226bef13bfd3c278fdc150a10f7e78d8",
+      "ko": "뭐, 일단 가장 먼저 할 일은..."
+    },
+    {
+      "line": 299,
+      "event": "standard_landmark_wigs",
+      "english_sha256": "faf16a6385c2216d2c9c1e32804e1a2629dddbc17872f91fd16b5f679d839cdf",
+      "ko": "아프로부터 올림머리까지, 온갖 색깔과 모양과 스타일의 가발들이 전시돼 있어."
+    },
+    {
+      "line": 301,
+      "event": "standard_landmark_wigs",
+      "english_sha256": "c9240ea78ca57a1f90a6450984d226e3a22ee140af1b893546fc4066d25a643b",
+      "ko": "인조 머리카락에 이렇게 유구하고 다채로운 역사가 있었을 줄이야!"
+    },
+    {
+      "line": 302,
+      "event": "standard_landmark_wigs",
+      "english_sha256": "27bc958b42892081e33cc8f2a5cbcbfad0ade2d8895e2d7d53c1b72ca0e6546a",
+      "ko": "박물관에는 구경할 거리가 잔뜩 있어. 넌 일단..."
+    },
+    {
+      "line": 307,
+      "event": "standard_gift_shop",
+      "english_sha256": "683481ac695a1bb1f05e2b3682817ba9c333ee2fa1b627dcd4bdf5377b1b164c",
+      "ko": "이런 게 대체 무슨 '기념품 가게'야? 사막 한복판에 세운 임시 노점이잖아?"
+    },
+    {
+      "line": 309,
+      "event": "standard_gift_shop",
+      "english_sha256": "ea77142f7b6bbf0da9ceaf00bbb3707c1dba9e78c6b49b38b753623750b6243c",
+      "ko": "그나저나 여기서 파는 건 도대체 뭐야? 어디에 쓰는 물건인데? 대체 뭘로 만들기나 한 거야?"
+    },
+    {
+      "line": 310,
+      "event": "standard_gift_shop",
+      "english_sha256": "3a538f5300d2f0b757554a32e5f6fe1c2e958b481a07eeb4c45205d6ee6015b7",
+      "ko": "뭐, 확실히 이상하긴 하지만, 기왕 왔으니..."
+    },
+    {
+      "line": 315,
+      "event": "standard_national_park",
+      "english_sha256": "dcf24e08ebb37137489eba58d101b58bfd91a1bfe02358b0a7115e265ac21c33",
+      "ko": "자연을 보호하는 건 중요한 일이야. 그 일이라면 국립공원만큼 잘하는 곳도 없지."
+    },
+    {
+      "line": 316,
+      "event": "standard_national_park",
+      "english_sha256": "f72fca2b96a08e4a9e202e76bdcf32118fa919ff2b0fb615ce5156347418b68c",
+      "ko": "여기서는 쉬면서 맑은 산 공기를 들이마시고, 대자연의 아름다움을 온몸으로 느낄 수 있어."
+    },
+    {
+      "line": 318,
+      "event": "standard_national_park",
+      "english_sha256": "b0c7a67996bb5945762df1866d2a7c268665900d153d10cd691427669becff4f",
+      "ko": "...아니면 그냥 존나 사고 치고 난장판을 만들 수도 있겠지. 그래, 그쪽이 훨씬 가능성 높아."
+    },
+    {
+      "line": 319,
+      "event": "standard_national_park",
+      "english_sha256": "c37878eb02566ee2e8101c68dbd43c45561946eda30980f25740b0cc5f6c243e",
+      "ko": "어쨌든 공원에서 뭘 할래?"
+    },
+    {
+      "line": 324,
+      "event": "standard_monster_truck",
+      "english_sha256": "12e99469e41cab33d7b8193bc2555f2c89d6d2e89f69bf50a4c8ab33a627a526",
+      "ko": "커다란 바퀴를 단 거대한 트럭 두 대가 서로 박살 나도록 들이받는 것만큼 '재밌는' 일이 또 있을까?"
+    },
+    {
+      "line": 326,
+      "event": "standard_monster_truck",
+      "english_sha256": "09eee1ff0cbe32e24ebb09b686973891d34a2e3ada91f68a2ca752cf425f6be1",
+      "ko": "관중석은 자동차가 박살 나는 광경을 볼 생각에 환호하고 소리 지르는 팬들로 가득해."
+    },
+    {
+      "line": 327,
+      "event": "standard_monster_truck",
+      "english_sha256": "463dcfff3768f822382e8fa385e1a32bf97813277f37848fa8c68e1520d4c124",
+      "ko": "너랑 친구들도 이제 슬슬..."
+    },
+    {
+      "line": 332,
+      "event": "standard_larp",
+      "english_sha256": "60159dabbabc71daf3431135fd6134ca8d01eeef3375b8e99ee27b6068276232",
+      "ko": "우와, 이 LARP 행사장은 인간들로 바글바글하네. 진짜 살아 있는 인간들 말이야. 이거 좀 이상한데."
+    }
+  ]
+}

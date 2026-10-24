@@ -16,7 +16,10 @@ ROOT = Path(__file__).resolve().parents[1]
 SRC = ROOT / "work/source"
 DEST = ROOT / "build/playtest/game_assets/texts"
 TOKEN = re.compile(r"%[^%\r\n]+%|\[[^\[\]\r\n]+\]|<[^<>\r\n]+>")
-NUMBER = re.compile(r"(?<![A-Za-z0-9_])[+-]?\d+(?:\.\d+)?(?![A-Za-z0-9_])")
+# Include numeric values embedded directly in identifiers/stat tokens, such as
+# "+2BOLDNESS", "+XX", or "Pal 9000"; preserve Arabic digits exactly.
+# Variable/control tokens are independently checked by TOKEN.
+NUMBER = re.compile(r"(?<!\d)[+-]?\d+(?:\.\d+)?")
 
 
 def verify_line(english: str, korean: str, ident: str) -> None:
@@ -31,10 +34,21 @@ def verify_line(english: str, korean: str, ident: str) -> None:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description="Create verified Roadtrip event text overrides")
+    parser.add_argument(
+        "--only",
+        metavar="ASSET",
+        help="Verify/build only a given english_events_* asset (supports concurrent translation work)",
+    )
+    args = parser.parse_args()
     files = sorted((ROOT / "translations").glob("english_events_*.json"))
+    if args.only:
+        name = args.only.removesuffix(".json")
+        files = [f for f in files if f.stem == name]
     if not files:
         raise RuntimeError("No translation files")
     n_total = 0
+    outputs: list[tuple[Path, str, int]] = []
     for f in files:
         doc = json.loads(f.read_text(encoding="utf-8"))
         name = f.stem
@@ -44,10 +58,14 @@ def main() -> None:
             raise ValueError(f"source asset changed: {name}")
         lines = original.splitlines(keepends=True)
         visited = set()
+        previous_num = -1
         for row in doc["entries"]:
             num = row["line"]
             if not isinstance(num, int) or not (0 <= num < len(lines)):
                 raise ValueError(f"out of range source row: {name}:{num}")
+            if num <= previous_num:
+                raise ValueError(f"translated lines are not in source order: {name}:{num}")
+            previous_num = num
             if num in visited:
                 raise ValueError(f"duplicate line: {name}:{num}")
             visited.add(num)
@@ -66,12 +84,15 @@ def main() -> None:
             verify_line(source, row["ko"], f"{name}:{num}")
             fields[3] = row["ko"]
             lines[num] = "\t".join(fields) + eol
-        DEST.mkdir(parents=True, exist_ok=True)
-        out = DEST / (name + ".txt")
-        out.write_text("".join(lines), encoding="utf-8", newline="\n")
-        assert len(out.read_text(encoding="utf-8").splitlines()) == len(original.splitlines())
-        print(f"BUILT {out.name} translated={len(visited)} original_lines={len(lines)}")
+        content = "".join(lines)
+        assert len(content.splitlines()) == len(original.splitlines())
+        outputs.append((DEST / (name + ".txt"), content, len(visited)))
         n_total += len(visited)
+    # Validate the entire requested selection before writing any output.
+    DEST.mkdir(parents=True, exist_ok=True)
+    for out, content, count in outputs:
+        out.write_text(content, encoding="utf-8", newline="\n")
+        print(f"BUILT {out.name} translated={count} original_lines={len(content.splitlines())}")
     print(f"PASS translated_lines={n_total} output={DEST}")
 
 
