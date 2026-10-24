@@ -80,7 +80,7 @@ powershell -ExecutionPolicy Bypass -File scripts\uninstall_local_playtest.ps1
 
 게임은 Steam에서 실행하고 언어를 **영어**로 유지합니다. 게임의 원본 DLL,
 원본 AssetBundle 및 기존 저장 데이터는 변경하지 않습니다.
-2026-10-24 기준 **총 30,255개 후보 중 7,664개(25.33%)**를 한국어로 번역한
+2026-10-24 기준 **총 30,255개 후보 중 11,028개(36.45%)**를 한국어로 번역한
 진행 중인 프로젝트이므로 **완역판으로 배포하지 않습니다.**
 내역은 [번역 진행 보고](docs/TRANSLATION_PROGRESS.md)를 참고하세요.
 
