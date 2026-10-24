@@ -27,7 +27,7 @@ Monster Prom 3: Monster Roadtrip Steam 설치본 2026-10-24, build 25955894:
   단지 잔재일 수 있습니다. DLL에서 2편의 `ModTool`/`WorkshopLoader` 구현 클래스는
   확인되지 않았으므로 **공식 번역 모드 사용 가능**이라고 해석하면 안 됩니다.
 
-## 가장 안전한 런타임 적용 설계 (미구현, 미검증)
+## 런타임 적용 설계 (소스 구현 및 컴파일 완료, 실게임 미검증)
 
 1. x86 **BepInEx 5 Mono**를 별도 테스트 게임 사본에서만 사용합니다.
 2. Harmony가 `BeautifulGlitch.CoreAssetManager.GetTextAsset`의
@@ -41,6 +41,12 @@ Monster Prom 3: Monster Roadtrip Steam 설치본 2026-10-24, build 25955894:
    동작 보장 전까지 배포하지 않습니다.
 4. 이벤트 텍스트는 원본 `ReadLocalizedTextFile`의 loose-file 경로를 사용하고,
    원본 문자열/태그/원문 수치가 정상적으로 들어오는지 확인합니다.
+
+선택형 `src/RoadtripKoreanFontBridge/` 소스는 .NET Framework 4.7.2/x86으로
+BepInEx5+Harmony 및 3편 원본 DLL 참조를 이용해 **경고 0·오류 0으로 컴파일**했습니다.
+일단 로컬 Unity2021 글꼴 번들을 우선 로딩하고, 실패 시 2편 번들을 시도한 뒤
+맑은 고딕으로 대체하는 순서를 사용합니다. **실제 BepInEx 부팅과
+게임 UI 출력은 테스트하지 않았습니다.**
 
 ## 합격 기준
 
@@ -61,5 +67,9 @@ Monster Prom 3: Monster Roadtrip Steam 설치본 2026-10-24, build 25955894:
   보존한 이벤트 TXT 테스트 출력물. **실게임 적용 전제 검증은 안 됨**.
 - `build/preview/english_metatexts.txt`: UI 한글 문구 검토용. **게임은 이 파일을
   직접 읽지 않음**.
+- `src/RoadtripKoreanFontBridge/`: 3편용 선택형 BepInEx Mono x86 폰트/UI
+  브리지 **소스**. 빌드된 DLL은 Git에서 제외되며 게임에 설치하지 않음.
+- `build/fontbundles/roadtrip_korean_fonts.bundle`: Unity 2021.3.15f1
+  Editor가 있어야 생성할 수 있는 글꼴 번들 경로. **현재 미생성**.
 
 원본 에셋, 게임 복제본, 로더 바이너리, Windows 폰트는 GitHub에 업로드하지 않습니다.

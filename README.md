@@ -84,3 +84,8 @@ python -X utf8 -m unittest discover -s tests -v
 [`docs/INGAME_VALIDATION.md`](docs/INGAME_VALIDATION.md)에 별도로 추적합니다.
 2편 한국어용 **Jua / Gamja Flower**를 3편에 재사용하는 로컬 감사/추출 절차는
 [`docs/FONT_REUSE.md`](docs/FONT_REUSE.md)에 기록했습니다.
+
+선택형 3편용 폰트/UI 런타임 브리지 **소스**는
+[`src/RoadtripKoreanFontBridge/`](src/RoadtripKoreanFontBridge/)에 있습니다.
+컴파일은 되었지만 실게임 실행·한글 출력·2019→2021 번들 호환성을
+아직 검증하지 않았으므로 배포 가능한 완성 패치로 취급하면 안 됩니다.

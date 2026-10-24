@@ -62,6 +62,20 @@ python -X utf8 scripts\prepare_camp_fonts.py --audit-only
 3편의 선택형 x86 Mono 플러그인으로 불러오는 것입니다. 이는 Unity Editor가
 별도로 필요하며 현재 리포지토리의 폰트 준비 단계만으로는 이루어지지 않습니다.
 
+이를 위한 **에디터 빌드 소스**도 준비해 두었습니다.
+
+```powershell
+cd D:\Codex_Trans\Monster-Prom-3-KR
+.\scripts\build_camp_font_bundle.ps1 -UnityEditorPath 'C:\Program Files\Unity\Hub\Editor\2021.3.15f1\Editor\Unity.exe'
+```
+
+스크립트는 버전을 먼저 검사하고, 사용자 PC의 `work/fonts/`에 추출한
+폰트를 `work/unity_font_project/` 안에서만 복사·가공해
+`build/fontbundles/roadtrip_korean_fonts.bundle`을 생성하도록 설계했습니다.
+**현재 PC에는 Unity 6000 에디터만 확인되고 Unity 2021.3.15f1 에디터는
+없으므로 실제 에셋 번들 빌드는 실행하지 않았습니다.** 이는 향후 설치 후
+검증할 수 있는 레시피일 뿐, 완성된 바이너리가 아닙니다.
+
 구현 우선순위는 3편 전용 런타임 폰트 브리지에서 `Jua`를 헤더용,
 `GamjaFlower`를 본문용으로 할당하는 것입니다. 직접 번들 로딩이 안 되면
 별도의 OS 폰트 등록/적합한 Unity2021 번들 제작이 필요합니다. 그전까지는
