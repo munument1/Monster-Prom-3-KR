@@ -1559,7 +1559,7 @@
       "line": 369,
       "event": "evilmenu",
       "english_sha256": "257ee6356f48331536b26a835fc5c817655af0d924197c850d7b99c73f987e2c",
-      "ko": "다들 참 평론가 납셨네. 시시한 수프 때문에 -N2 HYPE를 잃지만, 맛은 꽤 괜찮으니 +N2 STAMINA를 얻는다."
+      "ko": "다들 참 평론가 납셨네. 시시한 수프 때문에 -N2 흥을 잃지만, 맛은 꽤 괜찮으니 +N2 체력을 얻는다."
     },
     {
       "line": 377,
@@ -3623,7 +3623,7 @@
       "line": 872,
       "event": "deathballs",
       "english_sha256": "ecf5a5b44d006eda42b15fe329f3a6adf3e781640ea8f95d0ecdd6d34a02ecd1",
-      "ko": "안 돼애애애! 내 공들아! 거기가 내 비밀 약점이란 말이야!"
+      "ko": "안 돼애애애! 내 불알은 안 돼! 거기가 내 비밀 약점이란 말이야!"
     },
     {
       "line": 873,
@@ -3696,6 +3696,906 @@
       "event": "deathballs",
       "english_sha256": "8f2ef2cefa10f52749edd720e1384649bde8c4cb8b53e621f9e3d417c392e4bd",
       "ko": "쉿! 감동적인 절정 장면을 방해하지 마!"
+    },
+    {
+      "line": 890,
+      "event": "deathballs",
+      "english_sha256": "23cc0576bbe84f54593297d9389b4fdec2969a8bd4c226aa7a9ca4aa4a3d66e1",
+      "ko": "눈물이 계속 흘러내린다. 그러다 8번 공 군이 다시 숨을 헐떡이는 소리가 들린다!"
+    },
+    {
+      "line": 891,
+      "event": "deathballs",
+      "english_sha256": "195beccd2d35102f67f19024a66a07b5c06c089104e57b1d75abcf769e43eec2",
+      "ko": "나... 살아 있다고?! 선배, 네 사랑의 힘이 날 되살렸어! 아직 이 판에서 이길 수 있을 것 같아. 날 다시 당구대에 올려 줘!"
+    },
+    {
+      "line": 892,
+      "event": "deathballs",
+      "english_sha256": "99e0fe1995aa816f1d76436468c29f332e05d5affc42bd6960d64c2ba0e610b5",
+      "ko": "넌 8번 공 군을 당구대에 다시 올리고 큐를 겨눠, 마침내 상대를 포켓에 넣는 데 성공한다! 네 승리다!"
+    },
+    {
+      "line": 894,
+      "event": "deathballs",
+      "english_sha256": "c5b047c4e62952271a3b3e2bd7e7404e23bc90b59048fc3be52e944956944419",
+      "ko": "이게 대체 어떻게 승리로 인정되는 건데, 씨발? 내가 먼저 8번 공을 넣었잖아."
+    },
+    {
+      "line": 896,
+      "event": "deathballs",
+      "english_sha256": "5e2422c9f6bb26cbc611a64681dc0ea549dc8ff7ae4e0556f59683925bea6cca",
+      "ko": "사랑의 힘 때문이지, 멍청아! 대서사시급 결투에서는 사랑이 모든 논리를 이긴다는 게 상식이잖아."
+    },
+    {
+      "line": 897,
+      "event": "deathballs",
+      "english_sha256": "bdea93767211af95f1a163a9bd28e93c7deaee0aa14a900141fb1efabdc87852",
+      "ko": "그래, 규칙을 찾아보는 중인데, ‘사랑의 힘’이 궁극의 필살기로 인정되는 것 같아."
+    },
+    {
+      "line": 898,
+      "event": "deathballs",
+      "english_sha256": "28679b5c885218194b5e3c27d1c05ff0db30c1756f936d36dba2c8aa1eca8912",
+      "ko": "%CURRENTPLAYERNAME%가 이겼어! 위스키, 네가 건 +N2 MONEY를 %HIMHER%에게 줘."
+    },
+    {
+      "line": 899,
+      "event": "deathballs",
+      "english_sha256": "aa1883ebb45b78ed781e421a211df8335f012a85d390619ce8d3bcda32e368fd",
+      "ko": "안 돼애애애애애애!"
+    },
+    {
+      "line": 900,
+      "event": "deathballs",
+      "english_sha256": "9ebf45f2b9727f13316ce8be4a847efa5ad8ccc01f63496ba10f21fabdb51481",
+      "ko": "만세! 데우스 엑스 마키나가 얼마나 억지인지 때문에 -N2 HYPE를 잃은 건 아무도 신경 안 쓴다. 게다가 8번 공 군과 장거리 연애까지 시작한다!"
+    },
+    {
+      "line": 908,
+      "event": "fakeghosts",
+      "english_sha256": "77ce389d072c536ce77db3e7e4271d29922ada09e94227531147b42a291cd883",
+      "ko": "유령인 척하며 사람들 놀래키기"
+    },
+    {
+      "line": 914,
+      "event": "fakeghosts",
+      "english_sha256": "327f5e0c675d88aa51e5b71052687f1b0c8133b47d98bed46e140eab1ad44e65",
+      "ko": "넌 폴리와 스콧과 단둘이 있을 기회를 잡아 시트 유령 아이디어를 제안한다. 둘은 즉시 찬성한다."
+    },
+    {
+      "line": 915,
+      "event": "fakeghosts",
+      "english_sha256": "26811e5e79320605273ba19d9102ede81b2465876016b28728cb68ffdbc25600",
+      "ko": "첫 희생자가 세 무덤에 꽃을 놓고 있는 걸 발견한다. 묘비 뒤로 살금살금 다가가 적당한 순간을 기다렸다가 덮친다!"
+    },
+    {
+      "line": 918,
+      "event": "fakeghosts",
+      "english_sha256": "6bef770f0ea85413b33e7373919598bb5d396c5d2508a08aa5ade636a2024a58",
+      "ko": "으아악!"
+    },
+    {
+      "line": 921,
+      "event": "fakeghosts",
+      "english_sha256": "f6a55bc674064b1132a6ba901216ab04b972380bfdd50bf2a1e3afeee57e49be",
+      "ko": "아우우우! 난 유령이다!"
+    },
+    {
+      "line": 922,
+      "event": "fakeghosts",
+      "english_sha256": "547f6c8a1fe5d815955d48770f652dbd6a756ba279b83da65e03b0cae4d6483b",
+      "ko": "뭐, 비슷하네."
+    },
+    {
+      "line": 923,
+      "event": "fakeghosts",
+      "english_sha256": "688c9e2f7020f9a97ef569daf6b60b1a57a44cd00edbb4539adf26f00bd1d2a9",
+      "ko": "세상에, 맙소사! 너희 셋은 대체 어디서 튀어나온 거야?!"
+    },
+    {
+      "line": 924,
+      "event": "fakeghosts",
+      "english_sha256": "21928d66d157c7fc3c8a789e23e717f3070a99d21c06d1566eada030cb06e72e",
+      "ko": "우린 유우우우우우우령이야! 네가 저지른 온갖 죄값을 치르게 하려고 널 괴롭히러 왔지, 뭐 그런 거!"
+    },
+    {
+      "line": 925,
+      "event": "fakeghosts",
+      "english_sha256": "ed4bb6ab75da2c2786d9821dcd2090b658711a3161879b651c8a2aab67d5899a",
+      "ko": "잠깐... 케이시, 토리, 알렉스의 유령이라는 거야? 얘들아, 나야, 마테오! 그 다자연애 모임의 마테오!"
+    },
+    {
+      "line": 926,
+      "event": "fakeghosts",
+      "english_sha256": "8eef35fcf2edf13fc34815c3184cf2ec21442d4537e25881d88b315f482247b3",
+      "ko": "그... 뭐라고?"
+    },
+    {
+      "line": 927,
+      "event": "fakeghosts",
+      "english_sha256": "c0620ce6b88a0b7ea1c120f4ac2dc8c050d9e47e22c64bd32643690c14a70361",
+      "ko": "너희 셋을 죽게 한 그 치명적인 섹스 그네 사고 때문에, 네가 받아 마땅한 영원한 고통을 안겨 줄 거라는 건 알아..."
+    },
+    {
+      "line": 928,
+      "event": "fakeghosts",
+      "english_sha256": "4c4a140dff5b21fca4e2ec0a1db011360563f22b97ead46284814445ed9880fb",
+      "ko": "조립만 제대로 했더라면 좋았을 텐데. 설명서를 읽기 귀찮아서 대충 만들었고, 그 게으름 때문에 너희가 전부 목숨을 잃었지."
+    },
+    {
+      "line": 929,
+      "event": "fakeghosts",
+      "english_sha256": "a60f3b96b05cae7ef3b3b7b931a562cf66659a9f6f21f89d2d4e1dd91ab3da41",
+      "ko": "(개발자 메모: 다자연애 관계가 전부 변태적이라고 생각하는 건 지나치게 단순하고 명백히 틀렸다는 점을 짚고 넘어가야 합니다. 그런 경우도 있고 아닌 경우도 있지만, 이 관계는 그랬습니다.)"
+    },
+    {
+      "line": 930,
+      "event": "fakeghosts",
+      "english_sha256": "691bae7ba7e0ba4c8a19f0143addb561ec8a0515050d6feb63785ab8e21780a0",
+      "ko": "너희가 너무 그리워... 내가 얼마나 미안한지 보여 주려면 뭘 해야 할까? 진심이야, 뭐든 할게!"
+    },
+    {
+      "line": 931,
+      "event": "fakeghosts",
+      "english_sha256": "39cd49bda6507b1cd10d771368747fafdf3566aeade6bf76367177967c64e9dd",
+      "ko": "(폴리, 우리 어떡하지? 이 사람이 우릴 다른 사람으로 착각하는 것 같은데.)"
+    },
+    {
+      "line": 932,
+      "event": "fakeghosts",
+      "english_sha256": "152cab8d46f617fb345700f8fc1671a1188dd0c8ac203958a200d5d3a01bd2a2",
+      "ko": "(그냥 맞장구쳐. 장난의 첫 번째 규칙은 언제 그만둬야 할지 모르는 거야.)"
+    },
+    {
+      "line": 933,
+      "event": "fakeghosts",
+      "english_sha256": "8d47f83a26e60ebf7acf6d22e56f93f5cdeedb5b1a7556bcd7b4c05382669ff1",
+      "ko": "자, 도망치지 않을 거면 이 상황을 이용해야지. 마테오가 어떻게 사죄하게 할까?"
+    },
+    {
+      "line": 934,
+      "event": "fakeghosts",
+      "english_sha256": "0ff324188e212f4fc664550ecb5788790e3831c0fea0292238a379fbff082124",
+      "ko": "‘요즘 가장 핫한 신사업, 폴리와 스콧의 먹을 수 있는 음식에 1000달러를 투자해!’"
+    },
+    {
+      "line": 935,
+      "event": "fakeghosts",
+      "english_sha256": "5dfdb114add93f13dd1adab882648932972a9958c699984267aa3541363c8df0",
+      "ko": "‘네가 먹고 있는 샌드위지만 주면 없던 일로 해 줄게.’"
+    },
+    {
+      "line": 937,
+      "event": "fakeghosts",
+      "english_sha256": "164e97b6652e90a287e23fa70809d77974d4abb557ed33690b32ba84d48f2c06",
+      "ko": "폴리와 스콧의 먹을 수 있는 음식...? 내가 너희를 사실상 살해한 걸 용서받으려면 거기에 투자하면 된다고?"
+    },
+    {
+      "line": 938,
+      "event": "fakeghosts",
+      "english_sha256": "2cdbd9af4198f4875be045c30e71de2e550037b6c5fba3c49ff4da77659b2345",
+      "ko": "당연하지! P&SEF는 식빵이 나온 뒤 최고의 발명품이 될 거야! 먹을 수 있는 식빵도 나올 거고!"
+    },
+    {
+      "line": 939,
+      "event": "fakeghosts",
+      "english_sha256": "1e964b2687067ec6a87d9e6547b58be0a25534ded7ccf782367cd416429698c4",
+      "ko": "P&SEF는 오랫동안 준비해 온 사업이야! 처음엔 ‘폴리와 스콧의 재활용 음식’이었는데, 출발이 영 좋지 않았지."
+    },
+    {
+      "line": 940,
+      "event": "fakeghosts",
+      "english_sha256": "fb5277b464f36034e7d7aab2983a43972bc0ab251d32a9cc9fc7d872b0efd1dc",
+      "ko": "듣자 하니 ‘재활용 음식’은 그냥 똥이더라. 그래서 아무도 안 샀어."
+    },
+    {
+      "line": 941,
+      "event": "fakeghosts",
+      "english_sha256": "8cc7ed198e4aca62e7ff57c0057405e1e70e39b03f091173738ce4d211aadc7c",
+      "ko": "그런데 폴리가 ‘먹을 수 있는(edible)’이 약물이 아닌 다른 걸 뜻한다는 걸 떠올렸고, 그게 사업을 시작할 결정적인 깨달음이었어!"
+    },
+    {
+      "line": 942,
+      "event": "fakeghosts",
+      "english_sha256": "1d4cf201cee08d6dea46f3e098c10c84664a09c47ff15284f4f0670c44d87bbe",
+      "ko": "그렇군. 그래도 왜 하필 이 회사에 투자하라고 하는지는 모르겠지만, 너희가 예전부터 내게 재정 문제는 주도적으로 해결하라고 격려해 주긴 했지..."
+    },
+    {
+      "line": 943,
+      "event": "fakeghosts",
+      "english_sha256": "0391af57eb9366d74daeb9008a3534498ac21d4e5a0065a3efd9b65f84c46cf2",
+      "ko": "특히 먹을 수 있는 바이브레이터에 투자하느라 우리 생명보험금을 전부 날린 뒤로 말이야. 그거에 비하면 먹을 수 있는 음식은 꽤 건전하네, 그렇지?"
+    },
+    {
+      "line": 944,
+      "event": "fakeghosts",
+      "english_sha256": "4dcc987d3132502f1153d9440cfc04ab3deba83c7c40bddf3dfccba74307fe3e",
+      "ko": "괜찮아, 형제! 이번 투자로 네가 실수로 우릴 죽인 일은 완전히 용서할게. 누구나 실수는 하는 법이야!"
+    },
+    {
+      "line": 945,
+      "event": "fakeghosts",
+      "english_sha256": "85742fd3fce7a6e1e0bdefbf4d71c98277c901d26b7fb132b6ae9e0f0f56d052",
+      "ko": "마테오는 투자금을 내고 떠난다. 너희는 또 한 번 장난에 성공했다며 하이파이브를 한다."
+    },
+    {
+      "line": 946,
+      "event": "fakeghosts",
+      "english_sha256": "d6a3c2e00848ab58e4134c2f0b400de9a94fd5efe879d14e12718f8bb0a05c01",
+      "ko": "다만 이건 장난이라기보다 세 명의 죽음을 애도하는 홀아비를 사기 친 것에 가깝다. 객관적으로 아주 못된 짓이다. 그래서 +N2 MONEY를 얻지만 -N2 SOUL을 잃는다."
+    },
+    {
+      "line": 948,
+      "event": "fakeghosts",
+      "english_sha256": "d8aa739924e8fcd6025851fede34e4b6ab923b812f1f569b685823e17701a6b6",
+      "ko": "잠깐, 진짜야? 내 샌드위치만 원한다고? 왜? 유령은 먹지도 못하잖아, 안 그래?"
+    },
+    {
+      "line": 949,
+      "event": "fakeghosts",
+      "english_sha256": "71749a38f07336c03fb8357c574d0603724ab459f490bbd98c2c6245570e9903",
+      "ko": "너 유령 경찰이야? 왜 따져 묻는 건데!"
+    },
+    {
+      "line": 950,
+      "event": "fakeghosts",
+      "english_sha256": "a572ce53a3ef5be8bd251c327d9a6291208f539d63872b35481a32a3311c46e2",
+      "ko": "알았어, 그냥... 샌드위치를 이미 절반이나 먹었고, 이걸 사려고 도시 반대편에 있는 맛있는 델리까지 갔단 말이야!"
+    },
+    {
+      "line": 951,
+      "event": "fakeghosts",
+      "english_sha256": "d3996e2167966dbdd704cd27d4669155e67c8ee653632f5b2ffb7363b8f3b011",
+      "ko": "차라리 남은 평생 너희를 기리는 데 바치면 안 될까? 섹스 그네 사고를 막는 단체에 기부한다든지?"
+    },
+    {
+      "line": 952,
+      "event": "fakeghosts",
+      "english_sha256": "6946aeb11ed51a19a56e86f3e40adc3502decb1b12b7e8b6efc79b87568fa1c4",
+      "ko": "안 돼. 샌드위치를 내놓든지, 아니면 죄책감과 고통 속에서 영원히 네 영혼이 타들어 가게 될 거야. 규칙이 그래."
+    },
+    {
+      "line": 953,
+      "event": "fakeghosts",
+      "english_sha256": "fbc57212cde84804f8bb2dd1de747b0623c22c3d751b663b2cf92d0df0d4941d",
+      "ko": "결국 마테오는 샌드위치를 넘긴다. 호밀빵에 BLT가 들어간 샌드위치다! 맛있겠다!"
+    },
+    {
+      "line": 954,
+      "event": "fakeghosts",
+      "english_sha256": "de87feb54ebe39e74f8d29b19c9ed8600d961cb1133627bfefeca5d51083d4f5",
+      "ko": "와... 이렇게 하길 잘한 것 같아. 이제 죄책감에서 벗어났으니 영혼이 한결 가벼워졌어. 내가 저지른 일에 대한 죄책감에서..."
+    },
+    {
+      "line": 955,
+      "event": "fakeghosts",
+      "english_sha256": "f8748900587de573c3984897818bfa60ce73bfb64ae8dddf607b93004d846704",
+      "ko": "그래, 잘 들었어. 토마토는 신선한 거야? 맛있네!"
+    },
+    {
+      "line": 956,
+      "event": "fakeghosts",
+      "english_sha256": "8b7532a9dd701bae8cfbce977977968c836b391012966dba42c71250f54b73d8",
+      "ko": "샌드위치는 정말 맛있다. 마테오가 이걸 위해 영혼의 구원까지 포기하려 했던 이유를 알 것 같다."
+    },
+    {
+      "line": 957,
+      "event": "fakeghosts",
+      "english_sha256": "056b87163a520cfbf164b2674f3f5b73cb5454abb142a254b6cb7d5ced5e8fc1",
+      "ko": "간식 덕분에 +N2 STAMINA를 얻지만, 슬픔에 잠긴 세 아이의 홀아비에게서 훔쳤으므로 -N2 SOUL을 잃는다."
+    },
+    {
+      "line": 965,
+      "event": "welcomezombie",
+      "english_sha256": "700ad999e549cebf8d925fec0d7b8123cf01fbdb4e8e8484aed82af5f89cf04b",
+      "ko": "죽은 자를 되살리기"
+    },
+    {
+      "line": 969,
+      "event": "welcomezombie",
+      "english_sha256": "367bf94aa719cb0dabe3a933c4f1829a941e91d740071b077eba1e2ba0e2e6ec",
+      "ko": "묘지를 어슬렁거리던 중 거친 기타 리프와 ‘난 이 마을이 정말 싫어’라고 징징대며 노래하는 남자의 목소리가 들린다."
+    },
+    {
+      "line": 970,
+      "event": "welcomezombie",
+      "english_sha256": "fab79154e4b1b69ea52b12b8244614a97956a2a0b442d8abfcb8f31d0767fc0d",
+      "ko": "소리를 따라가 보니 강령술사 제라드가 무덤에 느긋하게 누워 음악을 듣고 맥주를 마시고 있다."
+    },
+    {
+      "line": 972,
+      "event": "welcomezombie",
+      "english_sha256": "2c4308aa8a47171618428042245f3c643d90a48f1e42a257ac55e0cf8d6dc511",
+      "ko": "아, 그래. 내가 드물게 야외에서 우울한 척하는 밤에 숨어 있을 비밀 아지트를 찾아냈구나. 대단하네."
+    },
+    {
+      "line": 973,
+      "event": "welcomezombie",
+      "english_sha256": "81659b2545c8202aa7a6ad840b77995eb77bff39acd018fbdcfa31b4ed2f5077",
+      "ko": "멋진데! 나도 묘지에서 술 마시는 게 취미야. 난 보통 EDM을 크게 틀지. 여기 분위기를 ‘살아나게’ 해 주거든. 무슨 말인지 알지?"
+    },
+    {
+      "line": 974,
+      "event": "welcomezombie",
+      "english_sha256": "aa0157fa84471619ac8cc5af3b34bd30512b1201f2e6fe2f35a8abf1eb95141f",
+      "ko": "쯧, 맘대로 해... 그 발랄한 기운 좀 딴 데 가서 풀어 줄래? 난 어둡고 뒤틀린 생각을 술로 잠재우는 중이라고..."
+    },
+    {
+      "line": 975,
+      "event": "welcomezombie",
+      "english_sha256": "5f62e8dcde5731abb977b531bff3668a011208a10756c2903a91720da93e93ef",
+      "ko": "아, 젠장. 맥주가 손이 닿지 않는 데 있네. 잠깐만."
+    },
+    {
+      "line": 976,
+      "event": "welcomezombie",
+      "english_sha256": "111e6a292bf4652d1cf0156869037a79c14ca70891f141b9f1999ae203718aaf",
+      "ko": "로렘 입숨 돌로르 시트 아메트!"
+    },
+    {
+      "line": 977,
+      "event": "welcomezombie",
+      "english_sha256": "dbdad39a76e3f64ca66f02794526afdaedbd5da82166988175dcef7d1c314b68",
+      "ko": "제라드의 지팡이에서 빛이 번쩍이더니 좀비가 흙을 헤치고 기어 나온다! 썩어 문드러진 몸으로 비틀거리며 ‘뇌애애애애!’ 하고 울부짖는다."
+    },
+    {
+      "line": 978,
+      "event": "welcomezombie",
+      "english_sha256": "a6f405bdd04d8df414e87da90ad5f376cbb055f345bcfdb956feb1f7cfec3dd9",
+      "ko": "그래, ‘뇌’ 맞지. 맥주 좀 건네줄래? 왼쪽에 있어... 아니, 내 왼쪽... 그래, 딱 좋아. 잘했어, 하수인."
+    },
+    {
+      "line": 979,
+      "event": "welcomezombie",
+      "english_sha256": "4fc14f0cc38a5981c5981f92ddaaedcb88b9226b1a42e7bb80c5cf63a479cff6",
+      "ko": "아, 네 좀비 정말 귀엽다! 사랑하지 않을 수 없는 늙고 쭈글쭈글한 치와와 같아."
+    },
+    {
+      "line": 980,
+      "event": "welcomezombie",
+      "english_sha256": "ad03ba2714f4c2ff7f036e3985a8257302a4cd5071f82598a38942ec0e165491",
+      "ko": "이름을 티클스라고 지으면 안 돼? 예전에 티클스라는 햄스터를 키웠는데, 감자칩인 줄 알고 실수로 먹어 버렸어."
+    },
+    {
+      "line": 981,
+      "event": "welcomezombie",
+      "english_sha256": "c1e69bfbfe68d4e3c5685af48cc2e91369787f8a067d6236dc7941b3fa4669bd",
+      "ko": "안 돼, 이름 못 지어. 정들기만 할 테니까. 맥주 여섯 캔을 다 마시면 ‘티클스’는 다시 땅속으로 돌아갈 거야."
+    },
+    {
+      "line": 982,
+      "event": "welcomezombie",
+      "english_sha256": "a5f3643775ea2efe7a3e6adb9e6a8163fae68946a1e6f5d15ba7b0f90ce58d15",
+      "ko": "어떻게 생명을 맛보게 해 놓고 다시 전부 빼앗을 수가 있어? 이건 《앨저넌에게 꽃을》이 아니라고, 이 개자식아!"
+    },
+    {
+      "line": 983,
+      "event": "welcomezombie",
+      "english_sha256": "537682a3a6e5ce210489f5d4d0caa9bb762c1f4fa1e4406fe626ab5defbdfa78",
+      "ko": "왜 그렇게 화를 내? 그냥 좀비잖아. 보통은 인격이나 자유 의지가 없는 되살아난 시체일 뿐이라고."
+    },
+    {
+      "line": 984,
+      "event": "welcomezombie",
+      "english_sha256": "5fb32e6da4b6bda7d11e93b088de6f2db9efa4ed94ab49a765f78cea7695f066",
+      "ko": "흠, 시험해 보자. 티클스, 자유 의지가 있다면 ‘뇌!’라고 말해 봐."
+    },
+    {
+      "line": 985,
+      "event": "welcomezombie",
+      "english_sha256": "34d4df8d3afbdb16155e1cb1eb98e3b07af3e50d8c4ffbbd055bcad7071c10d8",
+      "ko": "‘뇌애애애애애애!’"
+    },
+    {
+      "line": 986,
+      "event": "welcomezombie",
+      "english_sha256": "4af3b4836bad2a90eb0730eb6b5e89f659639040258e1a3714322942424e906a",
+      "ko": "봤지? 완벽한 자의식이야! 티클스는 분명 안에 있어. 저 찬란한 개성을 껍데기 밖으로 끌어낼 뭔가만 있으면 돼. %CURRENTPLAYERNAME%, 어떻게 하는 게 좋을까?"
+    },
+    {
+      "line": 987,
+      "event": "welcomezombie",
+      "english_sha256": "45a2805e7ab2c24734a8f75ba9c7f98b3af2953613a86eb3c884e9f7e3c5e7be",
+      "ko": "‘뇌’는 유용한 단어지만, 티클스에게 꼭 필요한 두 번째 단어도 가르쳐 줄 수 있어."
+    },
+    {
+      "line": 988,
+      "event": "welcomezombie",
+      "english_sha256": "3662914dee7c5eb91f734e485595f386e2797afaa17fb2c46b04f178e62bbca5",
+      "ko": "이 좀비가 ‘뇌’를 외치고 있지만, 사실은 택시 면허를 달라고 하는 거라는 걸 넌 알고 있다."
+    },
+    {
+      "line": 990,
+      "event": "welcomezombie",
+      "english_sha256": "c8d6b47e27fc0f5ddcbc98c1f39836702730769a4705dc5dbeb53762eee8a162",
+      "ko": "좀비한테 말을 가르치겠다고? 그 무의미한 일을 하는 데 얼마나 오래 걸릴지 알기나 해?"
+    },
+    {
+      "line": 991,
+      "event": "welcomezombie",
+      "english_sha256": "bbf7e2fc125a6e0e66b989abc20301f7b0614eb3d3d9817fa0c519cf8917dd92",
+      "ko": "몰라! 그래도 일단 해 보는 거야. 시간 점프 시작!"
+    },
+    {
+      "line": 994,
+      "event": "welcomezombie",
+      "english_sha256": "3fae7fc10885c98f3d866b2ee9bb623439bf2206bc86345a7f5ed749bbd84fc2",
+      "ko": "그래, 시간 점프를 하긴 할 거야. 종말 이후의 3088년까지!"
+    },
+    {
+      "line": 995,
+      "event": "welcomezombie",
+      "english_sha256": "de35a0940d3ed517f313c069545de57209a9df20f2c79dc247e3bb62a7438af5",
+      "ko": "미국에서 가장 근육질인 초인 병사 미치 배다스버그와 정예 타격대가 타임스 스퀘어에서 좀비들을 쏴 죽이고 있다."
+    },
+    {
+      "line": 996,
+      "event": "welcomezombie",
+      "english_sha256": "6e87199d9a2ac49bbd879377cad18b727deaee20df0d147ea29cadc20c893d1e",
+      "ko": "좀비 하나가 미치를 덮쳐 땅에 쓰러뜨린 뒤 입을 벌려 섬뜩한 울음소리를 내뱉는다..."
+    },
+    {
+      "line": 997,
+      "event": "welcomezombie",
+      "english_sha256": "25e8c5d56728540098644447af15f257b8744538daffa95ee5064f1d73bb27f6",
+      "ko": "‘카와붕가아아아아!’"
+    },
+    {
+      "line": 998,
+      "event": "welcomezombie",
+      "english_sha256": "4fa61a282cdf90ff66b465beb345db98f9fa0045871b01c2eb26e179c9b9d311",
+      "ko": "‘뭐라고...?’ 미치가 말한다. ‘장군님! 들으셨습니까?’"
+    },
+    {
+      "line": 999,
+      "event": "welcomezombie",
+      "english_sha256": "03f66cd40f91966782b00850af641c962e9556706987a76961143b6279022d00",
+      "ko": "‘뭘 들었다는 거냐, 배다스버그 병장?! 좀비가 죽는 소리와 기관총 소리밖에 안 들린다!’"
+    },
+    {
+      "line": 1000,
+      "event": "welcomezombie",
+      "english_sha256": "25e8c5d56728540098644447af15f257b8744538daffa95ee5064f1d73bb27f6",
+      "ko": "‘카와붕가아아아아!’"
+    },
+    {
+      "line": 1001,
+      "event": "welcomezombie",
+      "english_sha256": "96963be9b3b34d470b4b2cb8f7eff7579df878622a7016d15627a83cc39b71e0",
+      "ko": "‘장군님, 이번엔 분명 들으셨잖습니까! 이 좀비가 카와붕가라고 말하고 있습니다!’"
+    },
+    {
+      "line": 1002,
+      "event": "welcomezombie",
+      "english_sha256": "578cb35f520fc5cc81049975ee80b3d600fb4daceab3758529e52003f736640c",
+      "ko": "‘그딴 게 뭐가 중요해?! 미치, 저 새끼 머리에 총알을 박아!’"
+    },
+    {
+      "line": 1003,
+      "event": "welcomezombie",
+      "english_sha256": "5acaecbe23766b305c96d4cfe3198998aa222493469a17fe4b4c94d6a6ec7540",
+      "ko": "‘히히... 그래도 좀 웃기잖아!’"
+    },
+    {
+      "line": 1004,
+      "event": "welcomezombie",
+      "english_sha256": "75dfaf99edd94424a7f0ce42f577ec0b487b82c4cb71f64567b72d08b5749327",
+      "ko": "미치는 좀비를 보고 웃느라 너무 정신이 팔려, 좀비가 가슴을 찢어발기는 걸 너무 늦게 알아차린다."
+    },
+    {
+      "line": 1005,
+      "event": "welcomezombie",
+      "english_sha256": "b3ca515c2c5505c2d9cfcd064fc39639b272f522db34758c6d0b9c9781429bfd",
+      "ko": "‘장군님...’ 미치는 죽어 가며 숨을 헐떡인다. ‘제 아내에게... 카와붕가 좀비 얘기를... 꼭 해 주십시오... 제가 본 것 중 제일 웃긴... 씨발...’"
+    },
+    {
+      "line": 1008,
+      "event": "welcomezombie",
+      "english_sha256": "d21b360b31305f9b84c5b658006100055b1ac933a5fd0a242129717746dde03e",
+      "ko": "와. 진짜 좀비에게 ‘카와붕가’라고 말하게 했네. 멍청한 일에 쏟는 네 집념은 거의 감탄스러울 정도야."
+    },
+    {
+      "line": 1009,
+      "event": "welcomezombie",
+      "english_sha256": "469f942762698442a07e15224c23ed7fc1dd5ec39a4a4a368b62f9a3903def09",
+      "ko": "그래! 좀비가 네 뇌를 먹으면서 ‘카와붕가’라고 말하는 걸 상상해 봐, 친구. 최고의 장난이지!"
+    },
+    {
+      "line": 1010,
+      "event": "welcomezombie",
+      "english_sha256": "bb9853ada414ccf3cf40c62ba95049d0e7c372a0bcd1d336ded24ce6b75c29e7",
+      "ko": "티클스의 어휘력을 넓혀 준 덕분에 +N2 SOUL을 얻지만, 좀비에게 새 단어를 가르치려고 어둡고 사악한 곳까지 다녀오느라 -N2 MAGIC을 잃는다."
+    },
+    {
+      "line": 1013,
+      "event": "welcomezombie",
+      "english_sha256": "0353aa8fc7d1f87f59cfaa4207359217b0fed90e315f412845caf9696b8fa634",
+      "ko": "좀비는 택시 면허 같은 걸 원하지 않아. 운전도 못 하잖아. 이 비틀거리는 괴물이 ‘원하는’ 건 차갑고 고요한 관 속으로 돌아가는 것뿐이야."
+    },
+    {
+      "line": 1014,
+      "event": "welcomezombie",
+      "english_sha256": "0f9d34cb973ce42185f38d67487026f491f41441ae7a6c4ec34dcf11283fa19e",
+      "ko": "제라드. 제라드. 친구. 형씨. 야. 제라드. 잘 생각해 봐."
+    },
+    {
+      "line": 1015,
+      "event": "welcomezombie",
+      "english_sha256": "0c9daccca8eb860559a494dc095c505d36440b4aa0882a4f7876d54f9027575c",
+      "ko": "영화가 알려 준 게 있다면, 좀비의 약점은 두 가지라는 거야. 존나 느리고, 매일 먹고살 돈을 벌어 주는 직업도 없지."
+    },
+    {
+      "line": 1016,
+      "event": "welcomezombie",
+      "english_sha256": "040e48c58b5886e48b2323b3880b6fd51f62397fb108ef84279b7e18aa21259c",
+      "ko": "이걸로 두 문제를 다 해결할 수 있어! 대체 뭐가 잘못되겠어?"
+    },
+    {
+      "line": 1017,
+      "event": "welcomezombie",
+      "english_sha256": "77f19349b47a2f8240ea506b8d8371b2326a882ab4cdbe08e1fc3960ba85ad23",
+      "ko": "넌 -N2 MONEY를 내고 티클스에게 택시 면허를 사 준다. 사후에 새로운 목적을 준 덕분에 +N2 SOUL을 얻는다!"
+    },
+    {
+      "line": 1020,
+      "event": "welcomezombie",
+      "english_sha256": "8cc47932f8ff0b7639eaf4d4a0f0630dfed696d4c6d2679b4f496fdc186da090",
+      "ko": "종말 이후의 미래, 두 시민이 뉴욕을 휩쓰는 좀비 무리에게서 전속력으로 도망친다. 언데드 무리를 간신히 따돌리고 있다."
+    },
+    {
+      "line": 1021,
+      "event": "welcomezombie",
+      "english_sha256": "ad6277e9b652d726f57d09ef7208cb0a56740084a44778c2ac128ca086dcdd9c",
+      "ko": "‘여보, 저 택시가 우리 쪽으로 오고 있어! 생존자인가 봐!’"
+    },
+    {
+      "line": 1023,
+      "event": "welcomezombie",
+      "english_sha256": "f63ceac81b36cec3b615619ea164c8e41d794888837c1b1cc216651396c77dc9",
+      "ko": "두 사람은 열린 문으로 뛰어들고 택시는 쏜살같이 출발한다."
+    },
+    {
+      "line": 1024,
+      "event": "welcomezombie",
+      "english_sha256": "d6bc43b7a8f25e520cc32c1986c649cebacfce3455ef3be97f09e09685541a65",
+      "ko": "‘휴, 태워 줘서 고마워요! 퀸스의 노던 블러바드로 가 주세요.’"
+    },
+    {
+      "line": 1026,
+      "event": "welcomezombie",
+      "english_sha256": "ed1bdcd03570c39bde0f8be9a3d38f0ed5e444a845a1edd773eb6a5032e8b98f",
+      "ko": "택시 기사는 고개를 180도 돌리더니 ‘뇌애애애!’ 하고 울부짖는 것으로 대답한다."
+    },
+    {
+      "line": 1027,
+      "event": "welcomezombie",
+      "english_sha256": "8ff76b5ca9172b88b443f5da427fa4fa39dfcb0ee80ca89b6d5793401f16c3ab",
+      "ko": "‘맙소사! 날 먹고 있어! 오우버를 불렀어야 했는데!’"
+    },
+    {
+      "line": 1028,
+      "event": "welcomezombie",
+      "english_sha256": "8ebfac68236c760ce0868d24ca9c342d83eb456b48222d73165dcfc644df3e9f",
+      "ko": "‘차 세워! 이 개같은 요금 안 낼 거야! 미터기 꺼! 씨발 미터기 끄라고오오!’"
+    },
+    {
+      "line": 1029,
+      "event": "welcomezombie",
+      "english_sha256": "73c85c69633d6bdbb77b2f52ebb40ffeb4264eb735f7de5c01419513437a2a3a",
+      "ko": "느릿느릿한 좀비는 봤겠지. 이상하게 좀 빠른 좀비도 본 적 있을 거야..."
+    },
+    {
+      "line": 1030,
+      "event": "welcomezombie",
+      "english_sha256": "40e6acf31d4850c45f20912c22dd14fad67dc2d5d16dda9a7d7a34bcf964f154",
+      "ko": "하지만 올여름 블록버스터에서는... 택시를 모는 좀비를 만나게 된다!"
+    },
+    {
+      "line": 1032,
+      "event": "welcomezombie",
+      "english_sha256": "6850859223e544887f2da07ac01b3fdcb543284187a166c205f651d25c15590f",
+      "ko": "‘택시 좀비: 점심시간의 습격’이 곧 가까운 극장에서 개봉합니다!"
+    },
+    {
+      "line": 1040,
+      "event": "eulogy",
+      "english_sha256": "cf69ee585ee39b7f1c0550d2a26416b721e062b5f20585e203efc0e69688c160",
+      "ko": "장례식 난입하기"
+    },
+    {
+      "line": 1043,
+      "event": "eulogy",
+      "english_sha256": "148ced0d88828bb8384c244fa39c8c09280c4cbf0aeabd7f7734bc32de6e87ba",
+      "ko": "친구들을 찾아가 장례식에 난입할 계획이라고 말한다. 친구들은 즉시 찬성한다!"
+    },
+    {
+      "line": 1045,
+      "event": "eulogy",
+      "english_sha256": "c8f3ef0770b5d73415aeea49a818be91bd8a7abbb2a1000785baa06a96641392",
+      "ko": "아, 장례식 난입이라니, 내가 제일 좋아하는 취미 중 하나지. 결혼식 난입의 유령, 노인, 세 번이나 남편을 잃은 여성 CEO 버전이랄까."
+    },
+    {
+      "line": 1047,
+      "event": "eulogy",
+      "english_sha256": "5c2e943c5daf8fcc22b56e742dacf2a40aee755371e2ff16f1c839a867390102",
+      "ko": "너희는 여러 장례식에 난입해 온갖 방식으로 애도 분위기를 망쳐 놓는다."
+    },
+    {
+      "line": 1048,
+      "event": "eulogy",
+      "english_sha256": "b333c64a3612208f723d36cec482c3ca2966a21516055181594a81eaf864a4eb",
+      "ko": "그러다 누군가의 추도사 시간에 들어가 버린다... 당연히 스콧과 폴리도 난입하고 싶어 한다. 신성한 건 아무것도 없다."
+    },
+    {
+      "line": 1050,
+      "event": "eulogy",
+      "english_sha256": "2838f6ff8c724535f7942694aba4a1f05b84183ad4072ecbe5e81125ad6926d1",
+      "ko": "맞아, 고인과 난 엄청 오래전부터 알던 사이야. 암스테르담의 클럽 화장실 칸에서 키스했거든."
+    },
+    {
+      "line": 1051,
+      "event": "eulogy",
+      "english_sha256": "6ef27c22dd19a7a0f3bf3c1b9ac7e30fe402f701b96e1e8b0206bc5edfc51f23",
+      "ko": "남자 화장실에 실수로 들어가면서 시작된 만남 중에선 내 두 번째로 좋았던 경험이었어!"
+    },
+    {
+      "line": 1053,
+      "event": "eulogy",
+      "english_sha256": "166e79757bf58793ca57c83cca65c336015c459d9167d94f9ea109ead4844c20",
+      "ko": "고인과 난 절친이었어! 동물원에서 만나 정말 멋진 대화를 나눴고, 몇 달 동안 매일 다시 만나곤 했지."
+    },
+    {
+      "line": 1054,
+      "event": "eulogy",
+      "english_sha256": "596bbbe50f29d6d55f834d9e83addaa9592cb7c1a3ed304ff04ca96cf71a5da0",
+      "ko": "솔직히 말해서... 이제 플리퍼 씨 없는 삶을 어떻게 살아야 할지 모르겠어..."
+    },
+    {
+      "line": 1056,
+      "event": "eulogy",
+      "english_sha256": "2fc4ce0117bcd0482f30dfeb1d179a5694ba1b185bba1e7934bcdce08d03549a",
+      "ko": "스콧, 자기야, 여긴 플리퍼 씨 장례식장이 아니야. 전시관을 탈출했다가 북극곰에게 잡아먹힌 지 일 년이나 됐어. 이제 놓아줘야 해."
+    },
+    {
+      "line": 1058,
+      "event": "eulogy",
+      "english_sha256": "7c43ac7e032158d4374cd7cc56bfe15671e3b2b805011467083612f683ee56e2",
+      "ko": "‘어... 그렇군요.’ 목사가 말한다. ‘다음 추도사는 누구죠? %CURRENTPLAYERNAME%?’"
+    },
+    {
+      "line": 1059,
+      "event": "eulogy",
+      "english_sha256": "1b758963179da01bf360f96fba9552bf492355fa593e7dd0f038b89e8f0878f7",
+      "ko": "‘%SIRMAAM%, 기분 나쁘게 듣진 마세요. 오늘 들은... ‘별난’ 추도사를 생각하면, 말씀하시기 전에 고인을 실제로 알던 분인지 확인하고 싶습니다.’"
+    },
+    {
+      "line": 1060,
+      "event": "eulogy",
+      "english_sha256": "661bd8b7ac6fda1123507b9d28d5367e977ea7b410ee5347ee53874f5b7e4198",
+      "ko": "젠장! 그냥 ‘그리울 겁니다’ 한마디 하고 크림 퍼프나 먹으려 했는데! 이제 즉석에서 거짓말을 지어내야 한다."
+    },
+    {
+      "line": 1061,
+      "event": "eulogy",
+      "english_sha256": "89896f06e97e356b2e02bd088f383e185dd7fe8513176961ed38e9b39ed9d3d7",
+      "ko": "‘고인과는 모르는 사이였다고 인정하겠습니다... 하지만 하루가 끝나면 우리 모두가 서로에게 낯선 사람 아닌가요?’"
+    },
+    {
+      "line": 1062,
+      "event": "eulogy",
+      "english_sha256": "39006ec4c91c572049b06fc97537efb26d6272d012e490ef368d75cb29829d51",
+      "ko": "‘저는 고인의 비밀 애인이었습니다!’"
+    },
+    {
+      "line": 1063,
+      "event": "eulogy",
+      "english_sha256": "6ca833c410364dd3d56b47d9484701033e8a3fb289d53dde71bdb0550904f6dd",
+      "ko": "‘고인을 아는 이유는... 제가 바로 고인이기 때문이죠! 저예요!’"
+    },
+    {
+      "line": 1065,
+      "event": "eulogy",
+      "english_sha256": "351f2296f4e21a579334724307a9c9614808e4b59e4e0bff72432e83fc03873c",
+      "ko": "넌 한마디 한다. 그래, 고인을 몰랐지만, 여기 있는 사람 중 정말로 고인을 아는 사람이 있긴 했을까?"
+    },
+    {
+      "line": 1066,
+      "event": "eulogy",
+      "english_sha256": "7434bbc9e74c8f89ec6c45b37741702b01f49d712a294fa969dea8de388f90ed",
+      "ko": "‘어... 당연히 알았죠?’ 한 여자가 말한다. ‘게리는 내 아버지였어요! 엉터리 철학 같은 헛소리는 딴 데 가서 하세요!’"
+    },
+    {
+      "line": 1067,
+      "event": "eulogy",
+      "english_sha256": "4d1f23f35e0d2371dda47ad706ae56399389a9960eac8cde0a8b535f626fce2b",
+      "ko": "군중은 야유하고, 넌 고개를 떨군 채 떠나려 한다. 그때 누군가 달려와 외친다. ‘멈춰요! %CURRENTPLAYERNAME%님의 지혜를 들어야 해요!’"
+    },
+    {
+      "line": 1068,
+      "event": "eulogy",
+      "english_sha256": "ab78463f55c1642fa297343b0ecc6b6cd6e4b0e0b0539d07214512c6205ac00f",
+      "ko": "‘아, 이런.’ 게리의 딸이 한숨 쉰다. ‘이제 술주정뱅이 필립 삼촌이 훈계하겠네.’"
+    },
+    {
+      "line": 1069,
+      "event": "eulogy",
+      "english_sha256": "ed0746444f098daf11825d99ce1f7ba4a75f517b489cb2af2fa449848120bb2c",
+      "ko": "‘이봐, 내가 술꾼이긴 해도 한 가지는 알아. 우리 모두 게리에게 낯선 사람들이었다고! 생각해 봐!’"
+    },
+    {
+      "line": 1070,
+      "event": "eulogy",
+      "english_sha256": "749edc45ae818fc9c7c0b495819cbb24b7eab889185452a504a669e91ac8fc87",
+      "ko": "‘우린 게리의 겉모습만 알았지. 좋아하는 스포츠나 형편없는 척 노리스 농담 같은 거 말이야...’"
+    },
+    {
+      "line": 1071,
+      "event": "eulogy",
+      "english_sha256": "b0ca90d81f6d0d094555aa3d86d364f9d7f6eb7cf6a2d5355efe00150ba7603c",
+      "ko": "‘하지만 우리 중 게리의 영혼을 진정으로 이해한 사람이 있을까? 여러분 삶에서 정말로 안다고 말할 수 있는 사람이 누구지?’"
+    },
+    {
+      "line": 1072,
+      "event": "eulogy",
+      "english_sha256": "8f0e521ec4cfd209d7a479c056e18c8f08a2afd6fa801a801e4c012e21f564b4",
+      "ko": "‘사랑하는 사람은 양파와 같아. 겉은 멀쩡하지만 한 겹씩 벗기다 보면 눈물 나고 고통스럽고, 차라리 배달 음식을 시킬 걸 후회하게 되지.’"
+    },
+    {
+      "line": 1073,
+      "event": "eulogy",
+      "english_sha256": "c2958899a01a23c349bbf5537c2291fe91930c75ae5e9b3d2c0977e8e3cdae9e",
+      "ko": "‘아, 이제 배달 음식이 엄청 당기네. 내가 무슨 얘기 중이었지?’"
+    },
+    {
+      "line": 1074,
+      "event": "eulogy",
+      "english_sha256": "bbe8909d6265f051fddb3f24d3b2f019a4202d1da04be9cb365013a25feb1e2b",
+      "ko": "‘아, 맞다. %CURRENTPLAYERNAME% 말이 맞고, 너희는 다 틀렸어. 엿이나 먹어.’"
+    },
+    {
+      "line": 1075,
+      "event": "eulogy",
+      "english_sha256": "51b1f4ab90745135e155f5be9a0b64505ae98c3df4c4782cbd73c8180c6c663d",
+      "ko": "술주정뱅이 필립은 가운데 손가락 두 개를 치켜들고 연단에서 내려오다 얼굴부터 넘어져 버린다. 적어도 그 굴욕 덕분에 넌 슬쩍 빠져나갈 수 있다."
+    },
+    {
+      "line": 1077,
+      "event": "eulogy",
+      "english_sha256": "6506676ef614021ab5ddb701b275dc108901ee5d9d2de16eb9bf5fb1eeba62c9",
+      "ko": "와, %CURRENTPLAYERNAME%. 정말 심오한 말이었나 봐. 난 한마디도 이해 못 했어!"
+    },
+    {
+      "line": 1078,
+      "event": "eulogy",
+      "english_sha256": "387f7962cc7f862acce482dc155ec00cb1c48ea2b81308d482138ee39ad00701",
+      "ko": "아니었어. %CURRENTPLAYERNAME%의 추도사는 완전 엉망이었어. 장난을 시작할 때 진실을 말하는 건 최악이라는 걸 알았어야지. 에이!"
+    },
+    {
+      "line": 1079,
+      "event": "eulogy",
+      "english_sha256": "70dce7b3915a6f9c60e06ae6de3d13a8dd56757b8a5805a2fe70f3278e9757d3",
+      "ko": "정직이 최선의 방책이라지만, 흔히들 그게 제일 재미없는 방책이기도 하다는 건 말 안 해 주지. +N2 SOUL을 얻지만 -N2 HYPE를 잃는다."
+    },
+    {
+      "line": 1082,
+      "event": "eulogy",
+      "english_sha256": "078d6c753ffec181ac753e05151ee19bb2d2807bef903fbc1e3dbf661a772046",
+      "ko": "세상에! %CURRENTPLAYERNAME%도 게리랑 섹스했어?!"
+    },
+    {
+      "line": 1083,
+      "event": "eulogy",
+      "english_sha256": "41594ac80a3fc420c5693cf125a9fc59c185ef95e8136897825c86f5add265bc",
+      "ko": "뭐야, 나도 그래! 폴리와 내가 둘 다 게리라는 사람과 가까웠다는 건 알았지만, 서로 다른 게리인 줄 알았지. 세상 참 좁네!"
+    },
+    {
+      "line": 1084,
+      "event": "eulogy",
+      "english_sha256": "19de9a3979065be9cc726efeb6ef9f325f2a88e28f73f6128ae2d20fe3c93d9d",
+      "ko": "‘저도 고백할 게 있습니다.’ 목사가 쑥스럽게 말한다. ‘저도... 게리의 비밀 애인이었습니다.’"
+    },
+    {
+      "line": 1085,
+      "event": "eulogy",
+      "english_sha256": "685de1e1a5686fcd93cc5ba55c4c19c9b39bef131105aeaca797486c2df5c1ab",
+      "ko": "‘저도요!’ 게리의 전 상사가 말한다. ‘나도!’ 어니스트 삼촌이 외친다."
+    },
+    {
+      "line": 1086,
+      "event": "eulogy",
+      "english_sha256": "2aebf6ac50348e8b0460e031fc13a4037a236118b509efdf43ccfd9be4fa74d2",
+      "ko": "‘나도 그랬지!’ 모두가 피하는 언덕 위에 사는 음산하고 수수께끼 같은 노파가 말한다."
+    },
+    {
+      "line": 1087,
+      "event": "eulogy",
+      "english_sha256": "adac863a1fd10a0f48a8a90d72a9328f2ae149b94f3628d38247a2066caf91a6",
+      "ko": "‘우리도 게리의 애인이었어!’ 게리의 남성 합창단 단원들이 말한다."
+    },
+    {
+      "line": 1088,
+      "event": "eulogy",
+      "english_sha256": "4a55b1a6b2fa30da1b3ec073e1472a31290eb03df7e065ad789d12b691352eb7",
+      "ko": "‘우린 합창단이라고 거짓말했어. 사실은 게리와 난교 파티를 즐기던 친구들이었는데, 사람들 기분 상하게 하고 싶지 않았거든.’"
+    },
+    {
+      "line": 1089,
+      "event": "eulogy",
+      "english_sha256": "e78c080e41f30952bb0182e6eba3b564ededb82e4ff58a3ce735556d095f2066",
+      "ko": "추도사는 잊히고, 모두가 고인과 과거에 성관계를 맺었다는 사실을 공유하며 친해진다. (중요한 건 전부 과거형이라는 점이다.)"
+    },
+    {
+      "line": 1090,
+      "event": "eulogy",
+      "english_sha256": "502214748378f6e3cd6a78727e3eece75e9f9517f09a127db679cc60e9494746",
+      "ko": "게리, 정말 그리울 거야. 그 전설적인 자지는 영원히 우리 마음속에 살아 있을 거야."
+    },
+    {
+      "line": 1091,
+      "event": "eulogy",
+      "english_sha256": "b6dca220239e92da7f8c2dac15e5580bce4b337b8df613d65cc1f053e3fbdb42",
+      "ko": "나도 그래. 게리는 장례식에서 자기 성기를 이야기하는 우리를 보며 미소 짓고 있을 거야. 그가 바라던 일이겠지."
+    },
+    {
+      "line": 1092,
+      "event": "eulogy",
+      "english_sha256": "35a65dfbaef7ac3d8437a6da3b2f67790ba36a10d28d5245b465303f175703b4",
+      "ko": "맞아. 분위기를 이렇게 뒤집다니 잘했어, %CURRENTPLAYERNAME%. 내가 또 죽게 된다면, 내 장례식도 이렇게 활기차고 축제 같은 내 소중한 부위의 축제가 됐으면 좋겠어!"
+    },
+    {
+      "line": 1093,
+      "event": "eulogy",
+      "english_sha256": "9cc5a944440852dc45d712654c9a20cc342feda40d0ecfdf26c1f340ca29ea8a",
+      "ko": "그렇게 되도록 네가 책임질게. 저속한 추도사 때문에 -N2 SOUL을 잃지만 +N2 HYPE를 얻는다!"
+    },
+    {
+      "line": 1096,
+      "event": "eulogy",
+      "english_sha256": "4e0111418cd8f293ee061990bfce73a1c384b6fa44e22e2dfe1ee53a08ecd047",
+      "ko": "잠깐, 뭐라고?! 하지만... 대체 어떻게?!"
+    },
+    {
+      "line": 1097,
+      "event": "eulogy",
+      "english_sha256": "d4da3cbd2105c63d316b6b1445fb1e6a15aed7a223f00cbaaf40f63c68dbf4ef",
+      "ko": "네 고백에 사람들이 충격에 빠지며 군중이 아수라장이 된다. 그 틈에 손재주 마술을 부려 장난을 완벽하게 마무리할 수 있다."
+    },
+    {
+      "line": 1098,
+      "event": "eulogy",
+      "english_sha256": "9c2a7d7e49f42655f93287a85f768649c98832e45bbba094d90f447dbe8fec04",
+      "ko": "‘관을 확인해 봐요!’ 누군가 외친다. ‘맙소사... 관 안에 색종이 조각이 가득해!’"
+    },
+    {
+      "line": 1099,
+      "event": "eulogy",
+      "english_sha256": "d1b91818409d0afd5e0782a6d1be53d77c3e8ed1e08fb9f081179f4b1b04432b",
+      "ko": "그런데 %CURRENTPLAYERNAME%가 정말 고인이라면, 왜 %VERB_DOES_DO% %HESHE% %CURRENTPLAYERNAME%처럼 생겼지?"
+    },
+    {
+      "line": 1100,
+      "event": "eulogy",
+      "english_sha256": "e9f42d7ad26f3d3b1e992bd7e0115638d6106fd624040e06ccc4be9e86618627",
+      "ko": "오래가진 않아! 넌 손재주 마술로 자기 얼굴을 벗겨 내고, 그 아래에 있는 고인의 얼굴을 드러낸다!"
+    },
+    {
+      "line": 1101,
+      "event": "eulogy",
+      "english_sha256": "9bff41e2a4a93b2c8c996076af8620cca6b407cdc520d57ae8f696eb8650c9a4",
+      "ko": "넌 마지막 작별 인사를 하러 왔다고 선언한다... 그리고 네 살인범을 고발하러 왔다고!"
+    },
+    {
+      "line": 1102,
+      "event": "eulogy",
+      "english_sha256": "e92c2547bc232d98ad37e31f562108c5182df608fef0620cf20049f3263f6d31",
+      "ko": "살인범이 여기 있다고? 아, 젠장! 누가 죽였어, 게리?!"
+    },
+    {
+      "line": 1103,
+      "event": "eulogy",
+      "english_sha256": "46b9d7b0cf801c321c3021e96e25222f7a4af506f9b1ce3f869eade209e622b9",
+      "ko": "‘내가 그랬다!’ 목사가 총을 꺼내 들며 외친다."
     }
   ]
 }

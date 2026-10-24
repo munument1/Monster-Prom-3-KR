@@ -3293,7 +3293,7 @@
       "line": 1812,
       "event": "bubble_red4",
       "english_sha256": "1f2509f6496e91ae5e5fff5fda80db4d1ab1ae7bea29850c061179ae5cbe57be",
-      "ko": "더 많이 먹을 수도 있을 것 같은데!"
+      "ko": "내가 더 많이 먹을 수 있다고 장담해!"
     },
     {
       "line": 1818,
@@ -3743,7 +3743,7 @@
       "line": 2107,
       "event": "bubble_low_mind2",
       "english_sha256": "159572170d0f39a19bf8499bc48e081f2443ace47bd6922ef3f43a3a49d563e8",
-      "ko": "그러게. 정신 좀 차릴 수 있으면 좋겠다..."
+      "ko": "그러게. 마음의 평화를 좀 되찾으면 좋겠어..."
     },
     {
       "line": 2113,
@@ -4230,6 +4230,1284 @@
       "event": "bubble_hope9",
       "english_sha256": "48d9b144787a994386d01c5424a51f5071ea702a98b089b94f4d2be87bf6f15d",
       "ko": "호프, 과거를 볼 수 있는 초능력자도 있어?"
+    },
+    {
+      "line": 2379,
+      "event": "bubble_hope9",
+      "english_sha256": "fb66acdb25aa79f6ce3c474a04fb95fbad1287a40d8afb9563050578436903e9",
+      "ko": "...그건 그냥 \"기억력이 있다\"고 하는 거야."
+    },
+    {
+      "line": 2380,
+      "event": "bubble_hope9",
+      "english_sha256": "df67bb591bc432ae4527ad0998058864bca7e247b039d7f74667ab35799e4ef1",
+      "ko": "우와..."
+    },
+    {
+      "line": 2386,
+      "event": "bubble_hope10",
+      "english_sha256": "76c47218a0b568cfd6115e2bf65ad3299f0de1379c2efbe3a50e9c2b7424f6a6",
+      "ko": "호프, 차 안에서 게임할래?"
+    },
+    {
+      "line": 2387,
+      "event": "bubble_hope10",
+      "english_sha256": "39b17cd3e4193b01b23448a595becb069a8151569039118f6b406600f41f82db",
+      "ko": "좋아. 내 천리안으로 \"내가 보는 건\" 게임 어때?"
+    },
+    {
+      "line": 2393,
+      "event": "bubble_hope11",
+      "english_sha256": "1e9862f87ba1ae0268afa930ed3becbfa530fe8c84cd25afd2989e6639ff3087",
+      "ko": "호프, 나도 같이 카드 놀이해도 돼?"
+    },
+    {
+      "line": 2394,
+      "event": "bubble_hope11",
+      "english_sha256": "195ddb0a6b6690cd3d6a84a8d3168efb6f36ea390cb52d04c498acae27744a69",
+      "ko": "그럼. 이 타로 솔리테어 한 판만 끝내고."
+    },
+    {
+      "line": 2400,
+      "event": "bubble_hope12",
+      "english_sha256": "9206d7bf011787313673243566b17c110f5f6a3e3a0f6f62ce430fc7dc9333a7",
+      "ko": "스콧, 손금 봐 줄까?"
+    },
+    {
+      "line": 2401,
+      "event": "bubble_hope12",
+      "english_sha256": "3c4864964805ce10de006f80728b7219ca1b75aba6cdb6fb77767603df786025",
+      "ko": "좋아! 대신 내 다른 손한테는 말하지 마! 질투할지도 몰라."
+    },
+    {
+      "line": 2407,
+      "event": "bubble_hope13",
+      "english_sha256": "b843a7a644a1d568c25649d66f7e4cf89a1b052ebcd32b4616d417806dfee9ed",
+      "ko": "호프..."
+    },
+    {
+      "line": 2408,
+      "event": "bubble_hope13",
+      "english_sha256": "0bd93fdc5ef4c5f724a9f09d7dd8aabae1d2eb0a370a2fb6b520a8ce49630fb5",
+      "ko": "...손금은 양손 다 봐도 되는 거야?"
+    },
+    {
+      "line": 2414,
+      "event": "bubble_hope14",
+      "english_sha256": "7bba88596d19dc93bd66c179d5f0016f4ec57bec238e9700291fae8a993878d7",
+      "ko": "호프, 내가 무슨 생각 하는지 맞혀 봐!"
+    },
+    {
+      "line": 2415,
+      "event": "bubble_hope14",
+      "english_sha256": "9a99aff8601a342604c928a4204e84a9866f57918aba894bd892b03ae20b25f2",
+      "ko": "이미 알아. \"멍멍\"이지."
+    },
+    {
+      "line": 2416,
+      "event": "bubble_hope14",
+      "english_sha256": "3f69aa67c19d7f8e0ab5923c8254a50c01fce9987be720eb9c6b966271351633",
+      "ko": "와, 진짜 잘 맞힌다!"
+    },
+    {
+      "line": 2422,
+      "event": "bubble_hope15",
+      "english_sha256": "2404127b7c20bb82a380c846a519f823fd69590347a6526ccf570219f57e1ab6",
+      "ko": "미래에 뭔가가 보이는데..."
+    },
+    {
+      "line": 2423,
+      "event": "bubble_hope15",
+      "english_sha256": "d6b741de6fc7f9cb4229e491aee6a2693efe38586ed854b75c27c643eeb9884f",
+      "ko": "술이 있는 자리라면 난 무조건 갈래!"
+    },
+    {
+      "line": 2429,
+      "event": "bubble_hope16",
+      "english_sha256": "36cbbfb5081e5cee057ac2737bde07a20f2ed127c2f9c0ca2faab2e9626b3922",
+      "ko": "내게 환영이 보여..."
+    },
+    {
+      "line": 2430,
+      "event": "bubble_hope16",
+      "english_sha256": "837e0b08ec231a9c56b84bb173a54a69b7c69f620326cfcca7a4bef4c055ec91",
+      "ko": "우리 코치도 경기 전에 꼭 그렇게 말하던데!"
+    },
+    {
+      "line": 2436,
+      "event": "bubble_blue1",
+      "english_sha256": "884d4c63fef89eba3ab73ee1bd6afaf37ef49414c43f3a10ec8825151138159f",
+      "ko": "이 차, 전투 로봇으로 변신할 수 있어?"
+    },
+    {
+      "line": 2437,
+      "event": "bubble_blue1",
+      "english_sha256": "00afd222f9e1d0fbbf67d806d99855393c1f58761242e965f079d5109b8023a8",
+      "ko": "아니... 하지만 개조하면 되지!"
+    },
+    {
+      "line": 2443,
+      "event": "bubble_blue2",
+      "english_sha256": "10bf596ea297653c9a317b9e1ad54af7fd388aa0519ef25fab26083b667b05cf",
+      "ko": "비키, 제일 좋아하는 공구가 뭐야?"
+    },
+    {
+      "line": 2444,
+      "event": "bubble_blue2",
+      "english_sha256": "0c692719b3ba3492b4b07dd1673720014d68d663a665c37d9652205043aab6a0",
+      "ko": "최고의 도구는 언제나 호기심 많은 두뇌지!"
+    },
+    {
+      "line": 2445,
+      "event": "bubble_blue2",
+      "english_sha256": "9fed8e6360d98e144f2bf83e6462da0af50c8a7a8287af1bef9b37683c596ca4",
+      "ko": "...그리고 청테이프도."
+    },
+    {
+      "line": 2451,
+      "event": "bubble_blue3",
+      "english_sha256": "164b43d60e8ad40eb051bef686de6c9b0075deb776bce8d2b5c8ad892c0b2359",
+      "ko": "후우, 충전 좀 해야겠어..."
+    },
+    {
+      "line": 2452,
+      "event": "bubble_blue3",
+      "english_sha256": "591eb05b8d491a3a94ec42642858a9dfecd9e20fffd8f081845aa9d327c562fa",
+      "ko": "자동차 배터리 좀 빌려도 될까?"
+    },
+    {
+      "line": 2458,
+      "event": "bubble_blue4",
+      "english_sha256": "4599f9ea801bfa044859235935f65bb462f790feb6460158e8c8a2787290a4f2",
+      "ko": "비키 아직 낮잠 자는 중이야?"
+    },
+    {
+      "line": 2459,
+      "event": "bubble_blue4",
+      "english_sha256": "73d1de1e1bf37de054de23557f4cfd092859cc76efd2867c85e26ef87344fc92",
+      "ko": "아니, 깨어 있어."
+    },
+    {
+      "line": 2460,
+      "event": "bubble_blue4",
+      "english_sha256": "074604572787ef58c94d3cd8cd8c29c86b2d3fdc55d3a2d4b54a93d325e15091",
+      "ko": "살아 있다아아!!!"
+    },
+    {
+      "line": 2466,
+      "event": "bubble_blue5",
+      "english_sha256": "9421509c4b41d8db4ef14a305f6aa46fda352ffaeffe12b907f131477b1f118b",
+      "ko": "...그래서 진짜 괴물은 프랑켄슈타인이었다는 거야."
+    },
+    {
+      "line": 2467,
+      "event": "bubble_blue5",
+      "english_sha256": "091852dd01251fbe819fc0b7465d8151f4df82e71904b6496473ffb9cf77508e",
+      "ko": "우와... 심오한데."
+    },
+    {
+      "line": 2473,
+      "event": "bubble_blue6",
+      "english_sha256": "76264ee855696198cf55969b8b40c3ca2f94f39b1d711c2906daad789ce31fe5",
+      "ko": "으아악! 내 자리에 잘린 손이 있어!"
+    },
+    {
+      "line": 2474,
+      "event": "bubble_blue6",
+      "english_sha256": "64c05f30266414fc99641ea59ea8f3a75c009b22742067a63ce31e58dcef50da",
+      "ko": "어, 고마워! 안 그래도 찾고 있었어!"
+    },
+    {
+      "line": 2480,
+      "event": "bubble_blue7",
+      "english_sha256": "13b6bfb7062ba3845d18402a9e3c713aad5640f1ddbdb1c9b59454ffd3a76779",
+      "ko": "으윽... 이제 이 발을 갈아 끼울 때가 된 것 같아."
+    },
+    {
+      "line": 2481,
+      "event": "bubble_blue7",
+      "english_sha256": "9a0d2defa3ab8a1bfc591301b346c4eca25f8fd66f8a2cb296f7db3bfd8f20e7",
+      "ko": "신발을 바꾼다는 거겠지?"
+    },
+    {
+      "line": 2482,
+      "event": "bubble_blue7",
+      "english_sha256": "38178a20b470cfd18299fb1593dd4ba706f1a83321dac051d01086efd8b7a96f",
+      "ko": "아니."
+    },
+    {
+      "line": 2488,
+      "event": "bubble_blue8",
+      "english_sha256": "cbb8e8feaa7342dc10fef5d2136d196a18763d82529b3685c59748ca3f636d26",
+      "ko": "어라, 차가 전보다 훨씬 부드럽게 달리는데..."
+    },
+    {
+      "line": 2489,
+      "event": "bubble_blue8",
+      "english_sha256": "1ba03efc1fdc331178c8888f8fd5c53b5882fc2007dc0eb9c4e66c5fb9461e46",
+      "ko": "너희 몰래 회로 좀 손봤거든!"
+    },
+    {
+      "line": 2495,
+      "event": "bubble_blue9",
+      "english_sha256": "8884b88c876cb71d717ac0eff90beafb0555927ff368fae5badf9e0fd1257131",
+      "ko": "흐음, 엔진이 뭔가 이상하게 작동하는데."
+    },
+    {
+      "line": 2496,
+      "event": "bubble_blue9",
+      "english_sha256": "8688bfc71ce37a6fc2cd1fc4c1aad080e8c0cd4059802e476344a4dff5d7cae4",
+      "ko": "잠깐만! 내 공구 가져올게!"
+    },
+    {
+      "line": 2502,
+      "event": "bubble_blue10",
+      "english_sha256": "78dffb0a805576a3bc5db60f73defa83f9365e4ce038fd6a8514f2b3dce0bc3d",
+      "ko": "비키, 자동차 여행 좋아해?"
+    },
+    {
+      "line": 2503,
+      "event": "bubble_blue10",
+      "english_sha256": "927f68890042e893c2601d5a0871b0c84b3076b0789b763856e1fd0c58fb85ad",
+      "ko": "그럼! 사후 세계에서도 난 늘 속도감 넘치게 살아!"
+    },
+    {
+      "line": 2509,
+      "event": "bubble_blue11",
+      "english_sha256": "5cb01e8ecdca83ece69e83f9b1dd5dc492026c2aa377cc66d94b39671e6f2c94",
+      "ko": "비키, 저기 새야! 저기 또 다른 새도 있어!"
+    },
+    {
+      "line": 2510,
+      "event": "bubble_blue11",
+      "english_sha256": "91d31df55fc6c3a82d09596197f595c90904490d1a4789da3effd6dc492a5f0a",
+      "ko": "좋네, 스콧. 하지만 탐조는 좀 더 구체적으로 관찰해야 하거든!"
+    },
+    {
+      "line": 2516,
+      "event": "bubble_blue12",
+      "english_sha256": "47d5d05e4bc8276574a3b553082229c07ee0076afe684204c78fddfd3ea8d54a",
+      "ko": "저기 봐! 푸른머리메추라기비둘기야!"
+    },
+    {
+      "line": 2517,
+      "event": "bubble_blue12",
+      "english_sha256": "c0f38078ed390c6e026380bf7e06b72e01ce2f24b2df5f2af882286475821d72",
+      "ko": "정말? 난 그냥 새인 줄 알았는데!"
+    },
+    {
+      "line": 2523,
+      "event": "bubble_blue13",
+      "english_sha256": "c9ef4763df8e97180ad7933e1bd3b4e3b7bb1e0f3d70b2b5a495474b5e976bf1",
+      "ko": "비키, 어디 가고 싶어?"
+    },
+    {
+      "line": 2524,
+      "event": "bubble_blue13",
+      "english_sha256": "89f2cac39d83b27bbb2fb459f18080c95e64d384c13d5641be4df7cc48500a43",
+      "ko": "어디든 전부! 난 자동차 여행도 완벽하게 달성해야 직성이 풀리거든!"
+    },
+    {
+      "line": 2530,
+      "event": "bubble_blue14",
+      "english_sha256": "55cc27c802f6a472afccdc091e8992055e247bebe24f874d72bf0669c0f07b80",
+      "ko": "앗, 자동차 배터리가 방전돼 가네."
+    },
+    {
+      "line": 2531,
+      "event": "bubble_blue14",
+      "english_sha256": "42480784bd4fe6916cca76a45031c3653a7f4d50eeb755ef8a09473a56968618",
+      "ko": "나한테 연결해! 에너지는 넘쳐 나니까!"
+    },
+    {
+      "line": 2537,
+      "event": "bubble_blue15",
+      "english_sha256": "8a3941efaa8434c0d7831573347a87128640130854b28288130e9f68b9ecff3c",
+      "ko": "...그전에는 공학도 좀 공부했고."
+    },
+    {
+      "line": 2538,
+      "event": "bubble_blue15",
+      "english_sha256": "65493453a595b7e92ed8935e23ae196606f2270aa7d704454ab7f61f2a80aa1e",
+      "ko": "와, 그럼 \"공학쟈\"를 철자까지 쓸 줄 알아?!"
+    },
+    {
+      "line": 2544,
+      "event": "bubble_green1",
+      "english_sha256": "ffaba8f0ea7456d6629edd59aee634225611b47316185d3a859eca10e1ed5e47",
+      "ko": "푸우우우..."
+    },
+    {
+      "line": 2545,
+      "event": "bubble_green1",
+      "english_sha256": "ed85354e5ebb043508ce885edebaa058671bc58a2345e4dc17482375ff7f67d9",
+      "ko": "쿠우우우..."
+    },
+    {
+      "line": 2546,
+      "event": "bubble_green1",
+      "english_sha256": "eceec3531637c4211bdc6d4bb74028c184d48f3dbfdcc6fcc90cf9e45ab2988c",
+      "ko": "우와, 코골이도 완벽하게 합이 맞네!"
+    },
+    {
+      "line": 2552,
+      "event": "bubble_green2",
+      "english_sha256": "f2dc2f049191187ecb4a11bdffb68c6513e402958b346f40e93a44b1a0555cf4",
+      "ko": "브라이언, 낮잠 하나는 정말 선수급이야!"
+    },
+    {
+      "line": 2553,
+      "event": "bubble_green2",
+      "english_sha256": "1aabcc168132b77da5eda668324512fe1ee7a03ce22b129f935daba512a4ad51",
+      "ko": "쿨쿨..."
+    },
+    {
+      "line": 2554,
+      "event": "bubble_green2",
+      "english_sha256": "303c0ebba719e9599c34949465c8bbb5b2006ab249f2c730666fd9224abbd4ba",
+      "ko": "저것 봐, 언제나 자기만의 경지에 빠져 있다니까!"
+    },
+    {
+      "line": 2560,
+      "event": "bubble_green3",
+      "english_sha256": "234c67635cacd8e235331ca031e505039a61836194b5ae5c81f51b510554470c",
+      "ko": "아, 피곤하다..."
+    },
+    {
+      "line": 2561,
+      "event": "bubble_green3",
+      "english_sha256": "53610c2c0b1d21dd32390c4b41d886891a623dc49f67a34b73fa95a320510a01",
+      "ko": "서 있기만 해도 죽을 맛이야."
+    },
+    {
+      "line": 2567,
+      "event": "bubble_green4",
+      "english_sha256": "8436e56f9297f96519d425288c182882c0a5a6ee0a7f405608aa1b4d1e650630",
+      "ko": "잠깐 내가 운전대 잡아 줄까?"
+    },
+    {
+      "line": 2568,
+      "event": "bubble_green4",
+      "english_sha256": "c851d9cc4b2934008dfa185d79e7615f7a8b9c31164a23ea8664c7ea23ac63b7",
+      "ko": "오오오! 운전하는 시체다!"
+    },
+    {
+      "line": 2574,
+      "event": "bubble_green5",
+      "english_sha256": "234c67635cacd8e235331ca031e505039a61836194b5ae5c81f51b510554470c",
+      "ko": "아, 피곤하다..."
+    },
+    {
+      "line": 2575,
+      "event": "bubble_green5",
+      "english_sha256": "e56fa7a23eef4370e944c24f5df8590e27907ae2a0696fc0efa13c9c861cbd62",
+      "ko": "너 방금 낮잠 자고 일어났잖아."
+    },
+    {
+      "line": 2576,
+      "event": "bubble_green5",
+      "english_sha256": "8f573c04ab61127545582895d1f6b21d2acacb42e40f2356d77fb9fae67578c9",
+      "ko": "그래서 뭐?"
+    },
+    {
+      "line": 2582,
+      "event": "bubble_green6",
+      "english_sha256": "d9b557065b941150bed05e8fa6456c7b227ec7ec395b35cc671df5da1f2ea62a",
+      "ko": "브라이언, 내 뇌 먹을 거야?"
+    },
+    {
+      "line": 2583,
+      "event": "bubble_green6",
+      "english_sha256": "179c54de7bedc4751bad87e262960fcc2e50d80d12b0dfc641e3a27f325da3f1",
+      "ko": "으음... 감자튀김이 더 좋은데."
+    },
+    {
+      "line": 2589,
+      "event": "bubble_green7",
+      "english_sha256": "71810198426d6c2cbeff4d3ebbe1232be64384569ab6ea32e93bed1130fcf07f",
+      "ko": "자동차 배터리가 거의 다 된 것 같아."
+    },
+    {
+      "line": 2590,
+      "event": "bubble_green7",
+      "english_sha256": "f0ee5d8d6b70811c0a0b258914a87b8255ca76018621ad7bdadc0a9b1657b178",
+      "ko": "그 기분이 뭔지 나야 잘 알지..."
+    },
+    {
+      "line": 2596,
+      "event": "bubble_green8",
+      "english_sha256": "bce8f93393d2dbded4dfdefaa18ecea128826ed47e1d3ce17d037646a1f8e030",
+      "ko": "풍경 정말 멋지지, 브라이언?"
+    },
+    {
+      "line": 2597,
+      "event": "bubble_green8",
+      "english_sha256": "db226d5d7703340311054bfb5b028648c547e4261f012b09cf3a4c6a20db7fd1",
+      "ko": "쿨쿨쿨..."
+    },
+    {
+      "line": 2603,
+      "event": "bubble_green9",
+      "english_sha256": "e112ecb69a2c379ff9d0ffd48615577a40532e4db08d1e7f3fb83c13c57ae949",
+      "ko": "폴리, 브라이언 또 잠든 것 같아."
+    },
+    {
+      "line": 2604,
+      "event": "bubble_green9",
+      "english_sha256": "50eb7985249ce00d50bee39206d66afa393cf7b376ab5a9aede16b9cb24f4214",
+      "ko": "쟤 감자튀김 먹자."
+    },
+    {
+      "line": 2605,
+      "event": "bubble_green9",
+      "english_sha256": "6c65ae45ee7ffb7f766c67a1e35be02419962561fc7f05fb57defdfacb72463d",
+      "ko": "일어났어! 나 안 자!"
+    },
+    {
+      "line": 2611,
+      "event": "bubble_green10",
+      "english_sha256": "6276a554f50d575aabfe1a83c294714d02276c60788068748a9da8a12545d9e7",
+      "ko": "간식 먹게 잠깐 세우면 안 돼? 배고파."
+    },
+    {
+      "line": 2612,
+      "event": "bubble_green10",
+      "english_sha256": "fc7f09ce3bb24296073b3f9def0f48592cbcbceb39485291edb30b11c0e82a70",
+      "ko": "너 지금도 간식 먹고 있잖아!"
+    },
+    {
+      "line": 2618,
+      "event": "bubble_green11",
+      "english_sha256": "d134710acf082cdfe72e0a77423f9ddb80a19c77d4c704f0add0e3faa75504f2",
+      "ko": "브라이언, 스콧 간식 먹을래?"
+    },
+    {
+      "line": 2619,
+      "event": "bubble_green11",
+      "english_sha256": "4154292732662d7d7363cc4e1c1a4d89b772ee028bae92932fdf0c7605146bb3",
+      "ko": "누구 간식이든 난 좋아."
+    },
+    {
+      "line": 2625,
+      "event": "bubble_green12",
+      "english_sha256": "c1de715131eef5ef1a03e13fe9352e95aa82a4fa241b8c597d232afe2c5d3397",
+      "ko": "브라이언, 가방에 뭐 챙겨 왔어?"
+    },
+    {
+      "line": 2626,
+      "event": "bubble_green12",
+      "english_sha256": "61fbcc59ac71334be5cbcec4a452fc72074097c073642818b436a697c538fa60",
+      "ko": "아, 꼭 필요한 것만. 감자튀김이랑 베개."
+    },
+    {
+      "line": 2632,
+      "event": "bubble_green13",
+      "english_sha256": "f3f1923115659c17cb6aa6b151f73d5d736f381c0fb036e3c926a3f1850c4d70",
+      "ko": "브라이언, 어디 가고 싶은 데 없어?"
+    },
+    {
+      "line": 2633,
+      "event": "bubble_green13",
+      "english_sha256": "05740dca3573d7d425c7018fc42994ffb7b68a2eb13572c4f6d13ffd3f92b7d8",
+      "ko": "아, 난 차 안이 편해. 고마워."
+    },
+    {
+      "line": 2639,
+      "event": "bubble_finn1",
+      "english_sha256": "9e4c0882ff174e4dd26ea19f875f9d9b64fc9d3c0d9d04824055b13ed05d7253",
+      "ko": "우리 아직 일정대로 가고 있는 거야?"
+    },
+    {
+      "line": 2640,
+      "event": "bubble_finn1",
+      "english_sha256": "2c28460189ddf8cb246a02f20e8f9b8d03b1263846b68a333e395c0e2e63794f",
+      "ko": "무슨 일정?"
+    },
+    {
+      "line": 2641,
+      "event": "bubble_finn1",
+      "english_sha256": "c04dd3c2aaa7cf4f38521cf016b7f701afdf5c32654ef36250edaef94a4fc4c8",
+      "ko": "...대체 어떻게 이렇게 살아가는 거야?!"
+    },
+    {
+      "line": 2647,
+      "event": "bubble_finn2",
+      "english_sha256": "24dff270343fe6f9ba862e4f5fa23e9b4835375992ce1df54b025f3d47726288",
+      "ko": "이두근 멋진데! 핀, 운동 좀 해?"
+    },
+    {
+      "line": 2648,
+      "event": "bubble_finn2",
+      "english_sha256": "473b321d890574f6ca9efc02ee72dc56b1232d9fe5788bbea65b3fbc63ea4b45",
+      "ko": "그럼. 140파운드짜리 의자도 들 수 있고..."
+    },
+    {
+      "line": 2649,
+      "event": "bubble_finn2",
+      "english_sha256": "f574a411b6a36614b49437b4f77a0fced0c9f8bafd754dd442c0fb43861af56f",
+      "ko": "...39파운드짜리 끔찍한 상사도 들 수 있지."
+    },
+    {
+      "line": 2655,
+      "event": "bubble_finn3",
+      "english_sha256": "f0144540ee82400f606be1c515978cc9f085d60762010323e08ffc89167c7bce",
+      "ko": "혹시 나도 \"승객\"으로 승진할 가능성이 있을까?"
+    },
+    {
+      "line": 2661,
+      "event": "bubble_finn4",
+      "english_sha256": "36430afd52a37db1df5bce82af5c00f7f7684db64a289bde290597230a73403c",
+      "ko": "괴물 인사과에는 어떻게 연락해야 해?"
+    },
+    {
+      "line": 2662,
+      "event": "bubble_finn4",
+      "english_sha256": "c185ef2b7631ec3bfd2d82a9e7adfc811cbb40916a045c0ce698416a6591c588",
+      "ko": "불만, 징징거림, 염병할 투정은 전부 %CURRENTPLAYERNAME%한테 접수해."
+    },
+    {
+      "line": 2668,
+      "event": "bubble_finn5",
+      "english_sha256": "3616b015bfb7d081a81b8e15e23fe95636e55d7928fe2af04b0d26f66c34457a",
+      "ko": "히치하이커 노동조합 같은 건 없어?"
+    },
+    {
+      "line": 2674,
+      "event": "bubble_finn6",
+      "english_sha256": "7b7e844afc842c60bc39e1631c0bcf4150f706eb469da189ce5813adb233f89d",
+      "ko": "우리 명함이라도 만들까?"
+    },
+    {
+      "line": 2675,
+      "event": "bubble_finn6",
+      "english_sha256": "6246baae8c23115ab3ca64be6ba18e944b911d1cb85e600914e702069c0ff0ee",
+      "ko": "오오, 내 가짜 신분증도 만들어 줄 수 있어?!"
+    },
+    {
+      "line": 2681,
+      "event": "bubble_finn7",
+      "english_sha256": "304168198db381e00f981defa0393f403b9e8adef99d6514b325c283fe0fd555",
+      "ko": "태워 줘서 고마워, 얘들아."
+    },
+    {
+      "line": 2682,
+      "event": "bubble_finn7",
+      "english_sha256": "35d347381a352ac9f747a516fa33be2a241f50450caacf048c2f9bb2eb2cf790",
+      "ko": "탈것이 아니라 승객이 되니까 정말 좋네!"
+    },
+    {
+      "line": 2688,
+      "event": "bubble_finn8",
+      "english_sha256": "b6b5553aac8bf987a29d08ed1faff631d078d5a572718bd8134b1f1d78c18510",
+      "ko": "...자, 네 좌석 등받이 젖혀 줬어."
+    },
+    {
+      "line": 2689,
+      "event": "bubble_finn8",
+      "english_sha256": "44ee5bb1029abc96b29605b4a127b050144fbe4255bbf68516cdc6f729a25018",
+      "ko": "살면서 이렇게 큰 쾌락을 느껴 본 적이 없어."
+    },
+    {
+      "line": 2695,
+      "event": "bubble_finn9",
+      "english_sha256": "09fda85563ab97774f8af48fd29d1fb854a55f9535bc884124f18a3be5d8884e",
+      "ko": "핀, 휴대폰으로 뭐 해?"
+    },
+    {
+      "line": 2696,
+      "event": "bubble_finn9",
+      "english_sha256": "1e9d119739b06a8100747b4e27fa8efe3c2c55dfc51382baa6aad7cc78d8deac",
+      "ko": "파파스 씨한테 아침 시리얼 만드는 법 가르치는 중이야."
+    },
+    {
+      "line": 2702,
+      "event": "bubble_finn10",
+      "english_sha256": "1f0d2cfb89bd39f4f8949b8e4b1e9cbd4150a2389ec19360f6269a9e6077314e",
+      "ko": "와, 핀! 팔씨름 정말 잘하는데!"
+    },
+    {
+      "line": 2703,
+      "event": "bubble_finn10",
+      "english_sha256": "b12fac6be9062351eef32e836dc82ec4197b732cdd30c85ab6f840e6ff2c309a",
+      "ko": "파파스 씨를 업고 다니려면 근력이 좀 필요하거든."
+    },
+    {
+      "line": 2709,
+      "event": "bubble_finn11",
+      "english_sha256": "852c6c9515c539a081b9c9c02bcc37d8d0ea1c007e610a5a932e7d4ec30a8df1",
+      "ko": "오오, 이 좌석 진짜 편안하다!"
+    },
+    {
+      "line": 2710,
+      "event": "bubble_finn11",
+      "english_sha256": "60e27b5fa6ed91e5a1187d5ceefb65f71551748135b26b4cc07fe2deebe8feae",
+      "ko": "등뼈가 아파 죽는 줄 알았거든!"
+    },
+    {
+      "line": 2716,
+      "event": "bubble_dahliaappliance1",
+      "english_sha256": "85b949ad02fec48d2b0ae915b9608af966c4ca940a1d200cace7d4b17318a987",
+      "ko": "헹굼 코스 시작이다! 가자아아!"
+    },
+    {
+      "line": 2722,
+      "event": "bubble_dahliaappliance2",
+      "english_sha256": "c5c8f3234e8386cff9501c2a76ed824f7f547bc584f5708f34aa3e7c39cf2109",
+      "ko": "우와, 차가 왜 이렇게 흔들려?"
+    },
+    {
+      "line": 2723,
+      "event": "bubble_dahliaappliance2",
+      "english_sha256": "4fb2e1c63391f37a2f28f34e0dcfe64d0ee9792e53357742c9052848d5cc50b1",
+      "ko": "내가 뒷좌석에서 격렬하게 진동하고 있다!"
+    },
+    {
+      "line": 2724,
+      "event": "bubble_dahliaappliance2",
+      "english_sha256": "f9c623a608ed66b2c11acb8fafe87832815008e1aa10bcb7a744ff820dc75a9c",
+      "ko": "...야릇하네."
+    },
+    {
+      "line": 2730,
+      "event": "bubble_dahliaappliance3",
+      "english_sha256": "67cee0917075eef52dc374ccef58d4f2db4c96ba08f955522939e69c0015d294",
+      "ko": "간장 얼룩아, 넌 날 이길 수 없다!"
+    },
+    {
+      "line": 2731,
+      "event": "bubble_dahliaappliance3",
+      "english_sha256": "a1b80d4ab949a8619116bc534f1546cac42f4454ea694d7afbea376f96db733d",
+      "ko": "분노한 세탁기보다 무서운 건 지옥에도 없다!!!"
+    },
+    {
+      "line": 2737,
+      "event": "bubble_dahliaappliance4",
+      "english_sha256": "a9287c0fbcf8724194a32faddbcdadc1568659f03f988e35862658d6b553c9fd",
+      "ko": "스콧, 그 에너지 드링크 나도 마셔 봐도 돼?"
+    },
+    {
+      "line": 2738,
+      "event": "bubble_dahliaappliance4",
+      "english_sha256": "7c80616379ec526f1317ad662f25d362ef2c2658463c6ea4983c81c7c09f7a97",
+      "ko": "내 세제 투입구에 부어 주기만 해!"
+    },
+    {
+      "line": 2744,
+      "event": "bubble_dahliaappliance5",
+      "english_sha256": "332f83f9153df0dd04566ad8f4542ff3daf995466f0f9705c63f9fc42a078898",
+      "ko": "달리아, 네가 제일 빨고 싶은 얼룩은 뭐야?"
+    },
+    {
+      "line": 2745,
+      "event": "bubble_dahliaappliance5",
+      "english_sha256": "c88e9a633f4d0a416ddd12e59bf224c6332bf3e269a3549e0ba406ddae5f8986",
+      "ko": "내 적들의 피다."
+    },
+    {
+      "line": 2751,
+      "event": "bubble_dahliaappliance6",
+      "english_sha256": "45b5c2413fa62d888590aa6145dd20882b8344bbf8ab6ed98813815cfa452336",
+      "ko": "잠깐, 달리아... 넌 짐이 하나도 없어?"
+    },
+    {
+      "line": 2752,
+      "event": "bubble_dahliaappliance6",
+      "english_sha256": "c150a29149f47724679facb529142ef34a59c06b295b913a5dc6490d7c3d16c0",
+      "ko": "필요한 옷은 전부 내 안에 들어 있거든!"
+    },
+    {
+      "line": 2758,
+      "event": "bubble_dahliaappliance7",
+      "english_sha256": "a5377748438e5a2d09d2dd0ebdf5b9709bf80a0a22e6878ef71dcdc35fd57676",
+      "ko": "달리아, 이 버튼을 누르면 어떻게 돼?"
+    },
+    {
+      "line": 2759,
+      "event": "bubble_dahliaappliance7",
+      "english_sha256": "e744633f3e3893b85376881f46cf8ff90fdeeddb86dba5055a3c28140ee32072",
+      "ko": "내 모든 버튼의 목적은 단 하나, 얼룩 학살이다."
+    },
+    {
+      "line": 2765,
+      "event": "bubble_dahliaappliance8",
+      "english_sha256": "69130e4165fda61e30a2b46a92ff0d2a49512bc7d7fb16c08196df0b8d6099ee",
+      "ko": "그럼 세탁건조기는 어떻게 생각해?"
+    },
+    {
+      "line": 2766,
+      "event": "bubble_dahliaappliance8",
+      "english_sha256": "6843ea157d0b22bcf00c1af502016e244dde3f58faf4d98ad5bd587502e1e30d",
+      "ko": "이도 저도 아닌 어중간한 놈들이지."
+    },
+    {
+      "line": 2772,
+      "event": "bubble_dahliaappliance9",
+      "english_sha256": "8bde02703df07617ab193feb7b5fce7e1a2524297dd4638cb10066a5f9dbad20",
+      "ko": "위이잉... 위이잉..."
+    },
+    {
+      "line": 2773,
+      "event": "bubble_dahliaappliance9",
+      "english_sha256": "3791e6f8a0aaa4463abc0c504cce401274b0a545918757a4ced71cb2766522c7",
+      "ko": "폴리, 달리아가 뭔가 하고 있어..."
+    },
+    {
+      "line": 2774,
+      "event": "bubble_dahliaappliance9",
+      "english_sha256": "c56cd120d4911643f20d24c86c3d5830fce9096d9d01f5521e252f515bbb7486",
+      "ko": "쉿, 코 고는 것 같은데!"
+    },
+    {
+      "line": 2780,
+      "event": "bubble_dahliaappliance10",
+      "english_sha256": "446cab51c9b67bc748df70add3e93776642f305393d14de923e2f9fa90492679",
+      "ko": "어디 좀 세우면 안 돼? 안에 든 걸 쏟아내야겠어."
+    },
+    {
+      "line": 2781,
+      "event": "bubble_dahliaappliance10",
+      "english_sha256": "7f3d32499114328a6fce3c19b52e5078d553116d7df60c72692c38c7cf3eab39",
+      "ko": "히히히..."
+    },
+    {
+      "line": 2787,
+      "event": "bubble_dahliaappliance11",
+      "english_sha256": "d962588f8eaf93297e696f1a31766ec27b62b70aba48539ea7d419e9b55c3dd1",
+      "ko": "제발 뭐든 좋으니 빨랫감을 줘! 셔츠 한 장만이라도!"
+    },
+    {
+      "line": 2788,
+      "event": "bubble_dahliaappliance11",
+      "english_sha256": "7373f025c28467ea38864637e12eb7bc42c44c864e7b466cee46a3b203bf9aea",
+      "ko": "달리아, 끼니 사이에 군것질하면 안 돼."
+    },
+    {
+      "line": 2794,
+      "event": "bubble_lamb1",
+      "english_sha256": "aa876bed5dc89055cd0ceaa94698fcf2a5abfda01bcaa3472b050ced32dbb0c9",
+      "ko": "잠깐 멈출래? 도끼로 찍어야 할 나무를 봤어!"
+    },
+    {
+      "line": 2795,
+      "event": "bubble_lamb1",
+      "english_sha256": "94eab8e666c7108027d4e8186736c80355cf1686638e444464db60596bc6639c",
+      "ko": "또?"
+    },
+    {
+      "line": 2801,
+      "event": "bubble_lamb4",
+      "english_sha256": "a52aa38caa2dd24ad0f1fc3b428b01b242c1a535ade4171d287276ac35278416",
+      "ko": "...그리고 우린 그 녀석의 시체를 먹어 치웠지!"
+    },
+    {
+      "line": 2802,
+      "event": "bubble_lamb4",
+      "english_sha256": "326babe2391268c41840e9356570642e319cc8f751951a2458dea83456b5c6dc",
+      "ko": "...폴리, 나 이제 배 안 고픈 것 같아."
+    },
+    {
+      "line": 2808,
+      "event": "bubble_lamb5",
+      "english_sha256": "a7c2d82afcd81159e7496c760130d86ce9d87418801807b9a5b0eac0904e1626",
+      "ko": "폴리, 네가 파티를 좋아한다고 들었어!"
+    },
+    {
+      "line": 2809,
+      "event": "bubble_lamb5",
+      "english_sha256": "23f236990013f365b4537f2330db3f505fe75c014e0771c7c33af5890c1032cf",
+      "ko": "모닥불 의식이 좋아, 아니면 산 제물 의식이 좋아?"
+    },
+    {
+      "line": 2815,
+      "event": "bubble_lamb6",
+      "english_sha256": "9d5818d4377f69d46282eb01bb9055f1bdccd4ded604e5a5583a7712bdd691eb",
+      "ko": "...그러곤 사흘 내내 환각 속에서 헤맸지!"
+    },
+    {
+      "line": 2816,
+      "event": "bubble_lamb6",
+      "english_sha256": "d912ba1274d79c5f74497d94c33f57033b565feb235f63858ccdb3721e9ae206",
+      "ko": "나도 그 버섯 꼭 구해 봐야겠어!"
+    },
+    {
+      "line": 2822,
+      "event": "bubble_lamb7",
+      "english_sha256": "3e58690ec97640cbedf16cf77042baa592c0a35a6b2ef2b478093cf8d81d9e2d",
+      "ko": "...이렇게 해서 너클본즈를 하는 거야!"
+    },
+    {
+      "line": 2823,
+      "event": "bubble_lamb7",
+      "english_sha256": "9007de9bdf4d353a2075ec21ea40608ae489878e26f581becdfc0901740ca369",
+      "ko": "멋져! 근데 하나도 못 알아들었어!"
+    },
+    {
+      "line": 2829,
+      "event": "bubble_lamb8",
+      "english_sha256": "50803132b33597887a4eb83089acc85196a847739da2fb71dfc7f34c76c2a428",
+      "ko": "저기 봐, 길가에 사람들이 있어!"
+    },
+    {
+      "line": 2830,
+      "event": "bubble_lamb8",
+      "english_sha256": "06d492cffaf89ac60dd4c6fe75180c2b53756d2ee221fec4e49f5c96badc65c8",
+      "ko": "야! 너희도 사이비 종교에 가입할래?!"
+    },
+    {
+      "line": 2836,
+      "event": "bubble_lamb12",
+      "english_sha256": "f4efce1f766627b2f7c62f1a5ee3fa463e5a04353ec1a854f073f3c4313b1358",
+      "ko": "...이렇게 하면 사람을 세뇌할 수 있어!"
+    },
+    {
+      "line": 2837,
+      "event": "bubble_lamb12",
+      "english_sha256": "2eb625fe068145686cfc21cbc63e5a7f04e4400e67dc9b8098c5764ad89248fe",
+      "ko": "이상하네. 비누를 더 많이 쓸 줄 알았는데."
+    },
+    {
+      "line": 2843,
+      "event": "bubble_lamb14",
+      "english_sha256": "7c63a23bf89b15ad3e6e474da0fe20d7f89362befcfa23eaa80d41864574aa19",
+      "ko": "세상에, 저것 좀 봐!"
+    },
+    {
+      "line": 2844,
+      "event": "bubble_lamb14",
+      "english_sha256": "9eb0bfc63bba1b78acd6bc01d20b7a044d2b973c6e08d5ec3bf0edf5ed0e9345",
+      "ko": "그래, 볼게! 근데 그냥 \"어린양\"이라고 불러도 되는데."
+    },
+    {
+      "line": 2850,
+      "event": "bubble_lamb15",
+      "english_sha256": "70dbcf469f3e97366f2a69eb89da0f6d0663a8dc3313e6a6d210f63b5b54e8ed",
+      "ko": "우리의 주님이자 구세주인 나에 관해 잠깐 이야기해도 될까?"
+    },
+    {
+      "line": 2856,
+      "event": "bubble_lamb11",
+      "english_sha256": "11f4323c54171183a9bb7d9f3edd1ec6d88b400dc6dd1d8d2e0c64be54b64130",
+      "ko": "어린양, 휴가는 자주 가?"
+    },
+    {
+      "line": 2857,
+      "event": "bubble_lamb11",
+      "english_sha256": "4520472c9313e82c530014a0a91d400e11abc121a90a081cd86b089a00730ae4",
+      "ko": "아니, 그래도 가끔 여행은 떠나."
+    },
+    {
+      "line": 2858,
+      "event": "bubble_lamb11",
+      "english_sha256": "ffdc0aca835828fa6728d447b04aec4c870ee756957c5f5572189b932353ed32",
+      "ko": "대개 적을 죽이러 가는 여행이지!"
+    },
+    {
+      "line": 2864,
+      "event": "bubble_lamb13",
+      "english_sha256": "671ff70327ec6668a524b07f90cec4166c05132cce9f8ed625737b61ae5343a6",
+      "ko": "...그렇게 해서 네 번째 결혼식을 올렸어!"
+    },
+    {
+      "line": 2865,
+      "event": "bubble_lamb13",
+      "english_sha256": "354cb3d06c8bb46dbba0996930a98f90527f19978d60464330cde478bab1ed4e",
+      "ko": "하지만 다섯 번째는 훨씬 더 난리였지..."
+    },
+    {
+      "line": 2866,
+      "event": "bubble_lamb13",
+      "english_sha256": "5e3c7d289ead2be3793fba12d90c3172cbc77b493e15ded16e8f7f3ecd3ab686",
+      "ko": "젠장, 이 어린양은 연애사가 아주 화려하네!"
+    },
+    {
+      "line": 2872,
+      "event": "bubble_lamb2",
+      "english_sha256": "4da3445b64afd1f46e2997c3688fb5b77289fd7f18f477956d192d71c31e00df",
+      "ko": "이 차 맘에 드는데!"
+    },
+    {
+      "line": 2873,
+      "event": "bubble_lamb2",
+      "english_sha256": "80934059aa4a9d52c330d093525e6a897428fb2e79e70add85ea1cc6c4574f9b",
+      "ko": "악마의 마법진으로 순간이동하는 게 더 빠르지만, 이것도 재밌어!"
+    },
+    {
+      "line": 2879,
+      "event": "bubble_going_motel_regular_eotr_1",
+      "english_sha256": "1c98d4f56dd9e2e1134d62fedb1067b474f34d6f34bdc9d3bcb50156c4b46658",
+      "ko": "우리 여기 전에 왔던 것 같지 않아?"
+    },
+    {
+      "line": 2880,
+      "event": "bubble_going_motel_regular_eotr_1",
+      "english_sha256": "e69a1f4463a2bb1400362d1bc97a31d97eee6307951cee9d2b536b42d11750f8",
+      "ko": "모텔은 다 비슷하게 생겼으니까 그런가 봐."
+    },
+    {
+      "line": 2886,
+      "event": "bubble_going_motel_regular_eotr_2",
+      "english_sha256": "78db452cdfe55052b8722e103952c09f32754eed341beae215c65a5ed32e693d",
+      "ko": "으아... 우리 빙빙 돌다가 제자리로 돌아온 거야?"
+    },
+    {
+      "line": 2887,
+      "event": "bubble_going_motel_regular_eotr_2",
+      "english_sha256": "309bfcf93c43d00c55594d74b987458bcd84cb47580c0c76eb10f6255a171de9",
+      "ko": "그럴 리 없을 텐데..."
+    },
+    {
+      "line": 2893,
+      "event": "bubble_going_motel_regular_eotr_3",
+      "english_sha256": "c989e229d4754b772748422f6b6f4b2e3dc6e02487ef9b47b583f5d1484799d1",
+      "ko": "뭐야? 또 이 모텔이야?"
+    },
+    {
+      "line": 2894,
+      "event": "bubble_going_motel_regular_eotr_3",
+      "english_sha256": "1e2837875fa8a81ac5f4cd51df97d3d4e1925239e783e0509f6d1d12425f1859",
+      "ko": "됐어, 그냥 쉬었다 가자."
+    },
+    {
+      "line": 2900,
+      "event": "bubble_going_motel_regular_eotr_4",
+      "english_sha256": "ad635487a655bd394b570515c2338dfa96f2eed81403a26f12dc821a51ccb466",
+      "ko": "드디어! 좀 쉴 수 있겠네."
+    },
+    {
+      "line": 2901,
+      "event": "bubble_going_motel_regular_eotr_4",
+      "english_sha256": "504fa6e57c86e16b91de47e16f64c517361dc8d2da751bea221db8d701a4556f",
+      "ko": "그 말 어디서 들었던 것 같은데...?"
+    },
+    {
+      "line": 2907,
+      "event": "bubble_going_diner_dinest_eotr_1",
+      "english_sha256": "f38db7ffc90fd34bfac799778051a195ed394aea79451006261412e5dc2a3db8",
+      "ko": "이 식당 냄새, 낯이 익은데..."
+    },
+    {
+      "line": 2908,
+      "event": "bubble_going_diner_dinest_eotr_1",
+      "english_sha256": "e7fcd7e659213a324e1e8470c26c54937ae8ad6f6b51f1476179a01440f7d2a9",
+      "ko": "내가 여기서 오줌 싼 적 있나?"
+    },
+    {
+      "line": 2914,
+      "event": "bubble_going_diner_dinest_eotr_2",
+      "english_sha256": "ad58cc45536f08327280e280b59519f4a81a73af27f84d90135c3f0b8b2e514a",
+      "ko": "다이네스트다! 들러서 뭐 좀 먹으면 안 돼?"
+    },
+    {
+      "line": 2915,
+      "event": "bubble_going_diner_dinest_eotr_2",
+      "english_sha256": "795e1e9fec7d471c32f79a61b920eeca21228dcf26ce71c139f57fb4acca5afe",
+      "ko": "좋지. 그런데 여기 체인점 같은 거야, 아니면...?"
+    },
+    {
+      "line": 2921,
+      "event": "bubble_going_caves_eotr_1",
+      "english_sha256": "054d20a44c07e9570865a23189cfd71e18e2f9f117a30903656ca314b92dd352",
+      "ko": "오오, 동굴이야! 전부터 꼭 한번 가 보고 싶었어!"
+    },
+    {
+      "line": 2922,
+      "event": "bubble_going_caves_eotr_1",
+      "english_sha256": "1f1146a88e761d98d2be7ffe50d4409d6c878b147cea6a6b733d6f0fb241c7b2",
+      "ko": "응, 뭔가 날 안으로 끌어당기는 기분이야..."
+    },
+    {
+      "line": 2928,
+      "event": "bubble_going_caves_eotr_2",
+      "english_sha256": "c09251bd2f527be8ae42f6a1328ca207d5a16c467fb7393efc7ab7950367f6fa",
+      "ko": "우와, 동굴이다!"
+    },
+    {
+      "line": 2929,
+      "event": "bubble_going_caves_eotr_2",
+      "english_sha256": "90691919eaa6fd23dcb8fbe5efa62900f9625f735e98860ceb844628d8b5f0a3",
+      "ko": "난 진짜 평생 단 한 번도 동굴에 들어가 본 적이 없어!"
+    },
+    {
+      "line": 2935,
+      "event": "bubble_going_graveyard_eotr_1",
+      "english_sha256": "863b5d630fe9356f370b0039bd16fe6f1369ea6f10312808067a2c6aeb958fcb",
+      "ko": "저 묘지, 어쩐지 좀 낯익은데..."
+    },
+    {
+      "line": 2936,
+      "event": "bubble_going_graveyard_eotr_1",
+      "english_sha256": "2332bf7b3dbfed579b776122cd492a8371e0b3db59a1942a9d551006701fd833",
+      "ko": "뼈가 쌓인 곳은 다 거기서 거기지!"
+    },
+    {
+      "line": 2942,
+      "event": "bubble_going_graveyard_eotr_2",
+      "english_sha256": "75193c8d9b562d7b0721aa8e46c472965afcd0a7bd3a546a90c5bb0a263637e0",
+      "ko": "멋져! 또 묘지야!"
+    },
+    {
+      "line": 2943,
+      "event": "bubble_going_graveyard_eotr_2",
+      "english_sha256": "dfa864bd6ec9803a40d0ff666952b24782ea55b900830f40297d6bd720da17f9",
+      "ko": "이 근처엔 묘지가 대체 몇 개나 있는 거야?"
+    },
+    {
+      "line": 2949,
+      "event": "bubble_going_graveyard_eotr_3",
+      "english_sha256": "c4a6724de373d394b9672e60677da267d0bb491d050e12c8c010f843c0511449",
+      "ko": "오오, 묘지가 또 있네!"
+    },
+    {
+      "line": 2950,
+      "event": "bubble_going_graveyard_eotr_3",
+      "english_sha256": "caf640e2ef1fb0bf02dae373e5801dd861d5ec0730d32a8db8a9003a99d939f5",
+      "ko": "장난칠 기회도 또 생겼군!"
+    },
+    {
+      "line": 2956,
+      "event": "bubble_leaving_motel_regular_eotr_1",
+      "english_sha256": "afdd759c3b3fb66c62b48609a353136d3d557389e42766b688274d0473c6a615",
+      "ko": "나쁘진 않았는데..."
+    },
+    {
+      "line": 2957,
+      "event": "bubble_leaving_motel_regular_eotr_1",
+      "english_sha256": "81ef7087f51e0a004d9da6f9608e8a44bafdcbec22aefb604134202e7952863a",
+      "ko": "...왜 문지기가 \"또 오셨네요!\"라고 했지?"
+    },
+    {
+      "line": 2963,
+      "event": "bubble_leaving_motel_regular_eotr_2",
+      "english_sha256": "639fa30f65ddc373482fd37797aa1cfc639051b28c5877d7822db272ad92782c",
+      "ko": "거기서 쉬었는데도 별로 개운하지 않아..."
+    },
+    {
+      "line": 2964,
+      "event": "bubble_leaving_motel_regular_eotr_2",
+      "english_sha256": "00ac6596249c135c17edaf8b960cf5f94371a5792662b8685146d9480228bbd9",
+      "ko": "나도 마찬가지야."
+    },
+    {
+      "line": 2970,
+      "event": "bubble_leaving_motel_regular_eotr_3",
+      "english_sha256": "649cf0a312ad7252caab477d77238ea5b7b13b552957ad8b50a8cfc04aab9680",
+      "ko": "뭐, 그건 참... 기묘했어."
+    },
+    {
+      "line": 2976,
+      "event": "bubble_leaving_motel_regular_eotr_4",
+      "english_sha256": "6d2c9e382a1a24c89edc0d158072b2f69bb2a775c9492c3d38a3e61bc8a72952",
+      "ko": "폴리, 숙박이 별로 즐겁지 않았어."
+    },
+    {
+      "line": 2977,
+      "event": "bubble_leaving_motel_regular_eotr_4",
+      "english_sha256": "26a341ee70af76b1a84d432229c943caf9bf6dab0076b2ef696f61dae11db8dc",
+      "ko": "나도 그래, 스콧."
+    },
+    {
+      "line": 2983,
+      "event": "bubble_leaving_diner_dinest_eotr_1",
+      "english_sha256": "29f6110743b53a6257b5d7bff3511507cb0691526197c3fe05226da36701cb75",
+      "ko": "폴리, 그 식당 정말 이상했어..."
+    },
+    {
+      "line": 2984,
+      "event": "bubble_leaving_diner_dinest_eotr_1",
+      "english_sha256": "4e6ea2c4e923bde6d4ad10413f263188db2c2f2c67dbba6e184f3def25f82cbe",
+      "ko": "진짜 이상했지..."
+    },
+    {
+      "line": 2990,
+      "event": "bubble_leaving_diner_dinest_eotr_2",
+      "english_sha256": "90c4689ad618e61b061c68a784b0c89e382fc45be273d6ee2c7ecb8f9ef87eba",
+      "ko": "몸 상태가 영 안 좋아..."
+    },
+    {
+      "line": 2991,
+      "event": "bubble_leaving_diner_dinest_eotr_2",
+      "english_sha256": "8aed6cb0c74e0284720979d0a188db73d4fda6bb9ffe0b580b3f63c448a4922d",
+      "ko": "...음식 때문은 아닌 것 같아."
+    },
+    {
+      "line": 2997,
+      "event": "bubble_leaving_caves_eotr_1",
+      "english_sha256": "d4ee67379cb35295f3ff112bc9b303a0eec4e37d6da60138def215c013e0d816",
+      "ko": "우리 다시는 동굴에 가지 말자."
+    },
+    {
+      "line": 3003,
+      "event": "bubble_leaving_caves_eotr_2",
+      "english_sha256": "6a4fbcfbde3f711d31323dee30050f688d6cef051f1680a7a81ec35bd3b599ca",
+      "ko": "동굴은 원래 과대평가됐다니까..."
+    },
+    {
+      "line": 3004,
+      "event": "bubble_leaving_caves_eotr_2",
+      "english_sha256": "08a70054f59e703ae5ee2bb185ba6951a0ee7e3798cd17e527fbf15e8bc6a586",
+      "ko": "그러게..."
+    },
+    {
+      "line": 3010,
+      "event": "bubble_leaving_caves_eotr_3",
+      "english_sha256": "186d639b3ac7ae2c30cf6f4f51d9ec3fccb44af7e2b01103aa8dbc00787e0771",
+      "ko": "동굴아아, 안녀엉!"
+    },
+    {
+      "line": 3011,
+      "event": "bubble_leaving_caves_eotr_3",
+      "english_sha256": "44ccfb2377d3b69857a540789cbc53e84434ef4be1bd433160057f03f06bb17b",
+      "ko": "(다시는 안 만나면 좋겠네.)"
+    },
+    {
+      "line": 3017,
+      "event": "bubble_leaving_graveyard_eotr_1",
+      "english_sha256": "9bad9e9e4b76a3fc4f03ab1508ddf48531ede98136cb8ec17d246cc87adb1db2",
+      "ko": "재미 하나도 없었어..."
+    },
+    {
+      "line": 3018,
+      "event": "bubble_leaving_graveyard_eotr_1",
+      "english_sha256": "82950f9b9bdcecd501d9ddb119171e02129d78f1bd0649785de015150761d727",
+      "ko": "묘지가 이렇게 슬픈 곳일 줄 누가 알았겠어?"
+    },
+    {
+      "line": 3024,
+      "event": "bubble_going_motel_regular_eotr2",
+      "english_sha256": "9d2b0cde3fe6beb327d08612e0eb1b33bb95e84e6d9dfc3a90cb40048c79aa77",
+      "ko": "잠깐, 이거 아까 그곳 아니야...?"
+    },
+    {
+      "line": 3025,
+      "event": "bubble_going_motel_regular_eotr2",
+      "english_sha256": "af78c4ebe6240b384fb8f539aeba72762d3d0a6d0a13242b981e038e760408c7",
+      "ko": "무슨 상관이야, 난 좀 쉬어야겠어."
+    },
+    {
+      "line": 3031,
+      "event": "bubble_going_motel_regular_eotr3_1",
+      "english_sha256": "37d9ffacdf33e91ccb1ee343e025a501525cad862a608b209359f1c9b6b9b36a",
+      "ko": "봐, 모텔이 또 나왔어!"
+    },
+    {
+      "line": 3032,
+      "event": "bubble_going_motel_regular_eotr3_1",
+      "english_sha256": "ad5257e6d7164b999aa000ae5ebfdac2ccbcd02a753ba4704be0a4afe83004f3",
+      "ko": "아니... 아니야, 그럴 리가..."
+    },
+    {
+      "line": 3038,
+      "event": "bubble_going_motel_regular_eotr3_2",
+      "english_sha256": "8466db0ed4f98569d9899f869d40b3c16825e90a99e8ee8ce01329e436e6b235",
+      "ko": "뭐야, 이건 또...?"
+    },
+    {
+      "line": 3039,
+      "event": "bubble_going_motel_regular_eotr3_2",
+      "english_sha256": "1042c4bb24dc1d7cc5458d4fcf4b4881c3ebc77f1f5fae50681d701c4308d441",
+      "ko": "폴리, 저기 봐! 모텔이다!"
+    },
+    {
+      "line": 3045,
+      "event": "bubble_going_spookyacademy_1",
+      "english_sha256": "af8e562a72dc6967a7b1e12890fb099f66cb70428349ae5b2582204034c1c840",
+      "ko": "잠깐... 저거 설마...?"
+    },
+    {
+      "line": 3046,
+      "event": "bubble_going_spookyacademy_1",
+      "english_sha256": "faa143760d796173afb56adf527ad13be1c7675c8e9460700bcb383ba19c53ea",
+      "ko": "차를 세우는 게 좋겠어."
+    },
+    {
+      "line": 3052,
+      "event": "bubble_going_spookyacademy_2",
+      "english_sha256": "117f07d65c1dfef480245ed68d997e83852974eb5b528bc8c1504e33a677b5d1",
+      "ko": "잠깐, 저게...?"
+    },
+    {
+      "line": 3053,
+      "event": "bubble_going_spookyacademy_2",
+      "english_sha256": "3b2421ded37eb6917ea80f2b0f91955e5d6d06d7346cbbfd38882b08a4ef59ba",
+      "ko": "...아니야, 그럴 리 없어."
+    },
+    {
+      "line": 3059,
+      "event": "bubble_going_spookyacademy_3",
+      "english_sha256": "c17cd014bba44e5c1f234470e7ee83d99c5b5b93c31a61465977009ab3ba2efc",
+      "ko": "저곳은..."
+    },
+    {
+      "line": 3060,
+      "event": "bubble_going_spookyacademy_3",
+      "english_sha256": "27659f73a655944a71929d38898a88af1abfb0c44fbab6ccb7b422034e3de13f",
+      "ko": "말도 안 돼... 좀 더 가까이 가 보자."
+    },
+    {
+      "line": 3066,
+      "event": "bubble_going_sanctuary_1",
+      "english_sha256": "c12d75f83955870334d5232238d6d1c6392251bc5f27549a5d56da19d6ec0450",
+      "ko": "저 빌어먹을 장소는 대체 뭐야?"
+    },
+    {
+      "line": 3067,
+      "event": "bubble_going_sanctuary_1",
+      "english_sha256": "fd3c5827a3f33750e31df6a7749175d5990016de21616e19eb856e7178cedd48",
+      "ko": "으아아악드르륵끼야아아"
+    },
+    {
+      "line": 3073,
+      "event": "bubble_leaving_motel_regular_eotr2",
+      "english_sha256": "77fb95f7ff041d7dfd4ff8b4409f31d8974b835f9bd94f78b646c8a18b4753a8",
+      "ko": "다시는 그곳을 볼 일이 없었으면 좋겠어."
+    },
+    {
+      "line": 3074,
+      "event": "bubble_leaving_motel_regular_eotr2",
+      "english_sha256": "1a1a1ac739ef999fa2304bbd20b53c74971e413aa5ab4fc4081a4b4eafb1f084",
+      "ko": "잠깐..."
+    },
+    {
+      "line": 3075,
+      "event": "bubble_leaving_motel_regular_eotr2",
+      "english_sha256": "253ab6880772d9c416ccb591cc40eb320011508fc226f004e9eff7c0abc33ece",
+      "ko": "아, 씨발, 내 인생..."
+    },
+    {
+      "line": 3081,
+      "event": "bubble_leaving_motel_regular_eotr3",
+      "english_sha256": "6a507d53fbda925f49a6a722863712fb78b2b3e6ecde586049ec971962b84659",
+      "ko": "기분이 영 이상해..."
+    },
+    {
+      "line": 3087,
+      "event": "bubble_leaving_spookyacademy",
+      "english_sha256": "42bb38184bec8be50d510ee0e2d8021e905e1dc21e4605d3bd347a184cc2d802",
+      "ko": "으아으르르끅뜨아아으아"
+    },
+    {
+      "line": 3088,
+      "event": "bubble_leaving_spookyacademy",
+      "english_sha256": "dfbbe8b953f3292f4c1ac5b25d82a30e2378e49694b2367f89f1f0aa15d87cd1",
+      "ko": "조금만 버텨, 친구..."
+    },
+    {
+      "line": 3094,
+      "event": "bubble_leaving_sanctuary",
+      "english_sha256": "de551b867bc5fa5b42a805858392d3468e17fba0effe410e02d5279728dbc82f",
+      "ko": "세상에, 이 악몽은 언제 끝나는 거야?"
+    },
+    {
+      "line": 3095,
+      "event": "bubble_leaving_sanctuary",
+      "english_sha256": "426d49311afbb0829535a44c267e31b6cfbb895a47ba4629c978a95897031eaf",
+      "ko": "희망적인 소리를 해 보자고! [Something dumb and naively positive]!"
+    },
+    {
+      "line": 3096,
+      "event": "bubble_leaving_sanctuary",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
     }
   ]
 }
