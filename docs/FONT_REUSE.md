@@ -1,8 +1,9 @@
-# 2편 한글 글꼴 재사용 조사 및 로컬 테스트 준비
+# 2편 한글 글꼴 재사용 — 3편 실게임 적용 확인
 
-**현재 상태:** 사용자 PC에 설치된 *Monster Prom 2: Monster Camp*에서
-한국어용 글꼴 두 개를 읽기 전용으로 확인했고, *Monster Roadtrip* 3편의
-로컬 작업 폴더로만 추출했습니다. **3편 실게임 출력은 아직 확인하지 않았습니다.**
+**2026-10-24 실제 적용 확인:** 사용자 PC의 *Monster Prom 2: Monster Camp*에서
+주아·감자꽃을 읽기 전용으로 추출해 *Monster Roadtrip* 3편에 연결했습니다.
+BepInEx 로그의 폰트 선택 성공과 한글 메인 메뉴 스크린샷을 확인했습니다.
+**추가 이벤트 대사·전체 UI 회귀 검증은 미완**입니다.
 
 ## 실제 2편 글꼴 프로필
 
@@ -57,10 +58,35 @@ python -X utf8 scripts\prepare_camp_fonts.py --audit-only
 따라서 **2편 번들에서 `LoadAllAssets<Font>()`만 호출해서 글꼴 두 개를
 얻는 방식은 성공을 보장할 수 없습니다.**
 
-가장 재현성 높은 장기 방식은 준비된 OFL TTF 두 개를
-**Unity 2021.3.15f1용 개별 Font 루트 AssetBundle**로 로컬에서 재패키징한 뒤
-3편의 선택형 x86 Mono 플러그인으로 불러오는 것입니다. 이는 Unity Editor가
-별도로 필요하며 현재 리포지토리의 폰트 준비 단계만으로는 이루어지지 않습니다.
+## Unity Editor 없이 기존 번들에서 Font 루트 노출 — 실게임 테스트 통과
+
+`scripts/expose_camp_fonts.py`는 2편 원본 번들의 AssetBundle `m_Container`에
+이미 번들 안에 존재하던 `Jua`와 `GamjaFlower` Font 오브젝트의 **루트 레퍼런스
+두 개만 추가**합니다. 해당 폰트의 `PathID`, `fontset_korean`에서 사용한
+의존 자산 `preloadIndex`/`preloadSize`를 그대로 유지하며, UnityPy가 로컬
+복제본을 LZ4 방식으로 직렬화합니다. **2편 원본 설치 파일은 수정하지 않습니다.**
+
+```powershell
+cd D:\Codex_Trans\Monster-Prom-3-KR
+python -X utf8 scripts\prepare_camp_fonts.py
+python -X utf8 scripts\expose_camp_fonts.py
+```
+
+출력은 Git 제외 `build/fontbundles/roadtrip_korean_fonts.bundle`입니다. 실제
+3편 Unity 2021.3.15f1 게임에서 `LoadAllAssets<Font>()`가 **2개를 반환**했고,
+두 글꼴 모두 현재 한글 943종 검사에 합격했습니다.
+
+기본 메뉴 스크린샷에서는 주아 스타일의 한글 글꼴이 보였고, 로그에서
+`Selected header font: 'Jua'` 및 `Selected body font: 'GamjaFlower'`가 확인됐습니다.
+이 우회법은 **테스트한 현재 2편·3편 버전에 한해** 검증했으며 향후 게임 업데이트
+시 재검증이 필요합니다. 출력 번들은 2편 게임 자산을 포함하므로 **절대 공개
+저장소나 릴리스 파일에 업로드하지 않습니다.**
+
+### 대안: Unity 2021 Editor를 이용한 새 번들 제작
+
+기존 버전 자산과의 미래 호환성 문제가 생기면, 준비된 OFL TTF 두 개를
+Unity 2021.3.15f1용 개별 Font 루트 AssetBundle로 처음부터 재패키징하는
+방식을 사용할 수 있습니다. 이는 해당 Unity Editor가 있어야 합니다.
 
 이를 위한 **에디터 빌드 소스**도 준비해 두었습니다.
 
@@ -72,17 +98,15 @@ cd D:\Codex_Trans\Monster-Prom-3-KR
 스크립트는 버전을 먼저 검사하고, 사용자 PC의 `work/fonts/`에 추출한
 폰트를 `work/unity_font_project/` 안에서만 복사·가공해
 `build/fontbundles/roadtrip_korean_fonts.bundle`을 생성하도록 설계했습니다.
-**현재 PC에는 Unity 6000 에디터만 확인되고 Unity 2021.3.15f1 에디터는
-없으므로 실제 에셋 번들 빌드는 실행하지 않았습니다.** 이는 향후 설치 후
-검증할 수 있는 레시피일 뿐, 완성된 바이너리가 아닙니다.
+현재 PC에는 Unity 6000 에디터만 확인되므로 이 **대체 빌드 경로**는 실행하지
+않았습니다. 위 UnityPy 방식으로 이미 글꼴 로딩 성공을 확인했습니다.
 
-구현 우선순위는 3편 전용 런타임 폰트 브리지에서 `Jua`를 헤더용,
-`GamjaFlower`를 본문용으로 할당하는 것입니다. 직접 번들 로딩이 안 되면
-별도의 OS 폰트 등록/적합한 Unity2021 번들 제작이 필요합니다. 그전까지는
-시스템에 이미 설치된 맑은 고딕이나 노토 산스 KR을 **임시 대체 글꼴**로
-사용할 수 있지만 2편의 글꼴 디자인과는 다릅니다. 단순히 로컬 TTF를
-복사했다고 `Font.CreateDynamicFontFromOSFont`가 자동으로 읽지는 않습니다.
-원본 2편 파일을 게임 폴더에 덮어쓰지 않습니다.
+3편 런타임 브리지는 우선 재구성한 번들에서 주아/감자꽃을 사용합니다. 실패하면
+Windows 프로세스 전용 폰트 등록을 시도하지만, 실제 게임 테스트에서는
+Unity가 사설 등록을 OS 글꼴 목록에서 찾지 못했습니다. 이후 2편 원본 번들
+직접 접근도 실패해 최종적으로 맑은 고딕 대체 표시가 성공한 바 있습니다.
+실제 재구성 번들이 있을 때에는 **맑은 고딕으로 대체하지 않고 주아/감자꽃을
+사용**합니다. 원본 2편 파일을 게임 폴더에 덮어쓰지 않습니다.
 
 참고: <https://docs.unity.com/en-us/engine/6000.3/manual/assets-and-media/assets-managing-runtime/assetbundles-section/asset-bundles-intro>
 

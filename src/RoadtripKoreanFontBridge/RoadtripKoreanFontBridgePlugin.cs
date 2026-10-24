@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Reflection;
+using System.Runtime.InteropServices;
 using BepInEx;
 using BepInEx.Configuration;
 using HarmonyLib;
@@ -20,6 +21,12 @@ namespace RoadtripKoreanFontBridge
         public const string PluginVersion = "0.1.0";
 
         private const string DefaultRoadtripBundlePath = @"D:\Codex_Trans\Monster-Prom-3-KR\build\fontbundles\roadtrip_korean_fonts.bundle";
+        private const string DefaultLocalFontDirectory = @"D:\Codex_Trans\Monster-Prom-3-KR\work\fonts";
+        private const string LocalHeaderFontFamily = "Jua";
+        private const string LocalBodyFontFamily = "Gamja Flower";
+        private const string LocalHeaderFontFileName = "Jua.ttf";
+        private const string LocalBodyFontFileName = "GamjaFlower.ttf";
+        private const uint PrivateFontResource = 0x10;
         private const string DefaultCampBundlePath = @"C:\Games\Steam\steamapps\common\Monster Prom 2 - Monster Camp\MonsterCamp_Data\StreamingAssets\aa\StandaloneWindows\profilesfontsets_assets_all_79f49ff1b358585c59c1388d6a773d92.bundle";
         private const string DefaultPreviewPath = @"D:\Codex_Trans\Monster-Prom-3-KR\build\preview\english_metatexts.txt";
         private const string FallbackFontName = "Malgun Gothic";
@@ -34,6 +41,7 @@ namespace RoadtripKoreanFontBridge
         private ConfigEntry<bool> _enableFontBridge;
         private ConfigEntry<bool> _enableMetatextOverride;
         private ConfigEntry<string> _roadtripBundlePath;
+        private ConfigEntry<string> _localFontDirectory;
         private ConfigEntry<string> _bundlePath;
         private ConfigEntry<string> _previewPath;
         private ConfigEntry<string> _headerFontName;
@@ -42,6 +50,8 @@ namespace RoadtripKoreanFontBridge
 
         private Harmony _harmony;
         private readonly List<AssetBundle> _fontBundles = new List<AssetBundle>();
+        private readonly List<string> _registeredPrivateFontPaths = new List<string>();
+        private readonly List<Font> _dynamicFonts = new List<Font>();
         private Font _headerFont;
         private Font _bodyFont;
         private Font _fallbackFont;
@@ -65,6 +75,8 @@ namespace RoadtripKoreanFontBridge
                 "Replace english_metatexts with the local build/preview file when it exists.");
             _roadtripBundlePath = Config.Bind("Fonts", "RoadtripFontBundlePath", DefaultRoadtripBundlePath,
                 "Path to the optional Unity 2021-compatible Jua/GamjaFlower bundle built for Monster Roadtrip.");
+            _localFontDirectory = Config.Bind("Fonts", "LocalFontDirectory", DefaultLocalFontDirectory,
+                "Directory containing local Jua.ttf and GamjaFlower.ttf. Fonts are registered privately for this process only.");
             _bundlePath = Config.Bind("Fonts", "MonsterCampFontBundlePath", DefaultCampBundlePath,
                 "Fallback source path to Monster Camp's original Unity 2019 profilesfontsets bundle. Cross-version loading is unverified.");
             _previewPath = Config.Bind("Metatexts", "PreviewFilePath", DefaultPreviewPath,
@@ -106,6 +118,8 @@ namespace RoadtripKoreanFontBridge
             {
                 _instance = null;
             }
+
+            ReleaseLocalFonts();
         }
 
         private void PatchConfiguredMethods()
@@ -164,8 +178,13 @@ namespace RoadtripKoreanFontBridge
         {
             HashSet<char> requiredCharacters = CollectRequiredKoreanCharacters();
             // Prefer a bundle built with the game's Unity 2021 editor. Only use the
-            // Unity 2019 Monster Camp bundle for roles still missing a valid font.
+            // local process-private TTFs next, and the Unity 2019 Monster Camp bundle
+            // only for roles still missing a valid font after that.
             TryLoadFontsFromBundle(_roadtripBundlePath.Value, "Roadtrip-compatible", requiredCharacters);
+            if (_headerFont == null || _bodyFont == null)
+            {
+                TryLoadLocalFonts(requiredCharacters);
+            }
             if (_headerFont == null || _bodyFont == null)
             {
                 TryLoadFontsFromBundle(_bundlePath.Value, "Monster Camp Unity 2019", requiredCharacters);
@@ -185,6 +204,225 @@ namespace RoadtripKoreanFontBridge
             Logger.LogInfo("Selected header font: " + FontDescription(_headerFont));
             Logger.LogInfo("Selected body font: " + FontDescription(_bodyFont));
         }
+
+        private void TryLoadLocalFonts(HashSet<char> requiredCharacters)
+        {
+            string directory = string.IsNullOrWhiteSpace(_localFontDirectory.Value)
+                ? string.Empty
+                : _localFontDirectory.Value.Trim();
+            if (directory.Length == 0 || !Directory.Exists(directory))
+            {
+                Logger.LogInfo("Local font directory not found; skipping private TTF fonts: " + directory);
+                return;
+            }
+
+            string headerPath = Path.Combine(directory, LocalHeaderFontFileName);
+            string bodyPath = Path.Combine(directory, LocalBodyFontFileName);
+            bool headerRegistered = RegisterPrivateFont(headerPath, LocalHeaderFontFamily);
+            bool bodyRegistered = RegisterPrivateFont(bodyPath, LocalBodyFontFamily);
+
+            string[] installedFontNames = null;
+            bool installedFontListAvailable = false;
+            try
+            {
+                installedFontNames = Font.GetOSInstalledFontNames();
+                installedFontListAvailable = installedFontNames != null;
+                if (installedFontListAvailable)
+                {
+                    Logger.LogInfo("Unity reports " + installedFontNames.Length + " OS font family name(s) after private font registration.");
+                }
+            }
+            catch (Exception ex)
+            {
+                Logger.LogWarning("Could not enumerate OS font names after private registration; dynamic font creation will be tested directly: " + ex.Message);
+            }
+
+            if (_headerFont == null)
+            {
+                Font candidate = TryCreateLocalDynamicFont(
+                    LocalHeaderFontFamily, headerRegistered, installedFontNames, installedFontListAvailable,
+                    requiredCharacters, "local Jua font");
+                if (candidate != null)
+                {
+                    _headerFont = candidate;
+                }
+            }
+
+            if (_bodyFont == null)
+            {
+                Font candidate = TryCreateLocalDynamicFont(
+                    LocalBodyFontFamily, bodyRegistered, installedFontNames, installedFontListAvailable,
+                    requiredCharacters, "local Gamja Flower font");
+                if (candidate != null)
+                {
+                    _bodyFont = candidate;
+                }
+            }
+        }
+
+        private bool RegisterPrivateFont(string path, string familyName)
+        {
+            if (Environment.OSVersion.Platform != PlatformID.Win32NT)
+            {
+                Logger.LogWarning("Private font registration is only supported on Windows; skipping " + familyName + ".");
+                return false;
+            }
+
+            if (string.IsNullOrWhiteSpace(path) || !File.Exists(path))
+            {
+                Logger.LogWarning("Local font file not found for " + familyName + ": " + path);
+                return false;
+            }
+
+            string fullPath;
+            try
+            {
+                fullPath = Path.GetFullPath(path);
+            }
+            catch (Exception ex)
+            {
+                Logger.LogWarning("Could not resolve local font path for " + familyName + ": " + ex.Message);
+                return false;
+            }
+
+            try
+            {
+                int added = AddFontResourceExW(fullPath, PrivateFontResource, IntPtr.Zero);
+                if (added <= 0)
+                {
+                    Logger.LogWarning("Windows did not register private font '" + familyName + "' from " + fullPath +
+                        " (AddFontResourceExW returned " + added + ", Win32 error " + Marshal.GetLastWin32Error() + ").");
+                    return false;
+                }
+
+                _registeredPrivateFontPaths.Add(fullPath);
+                Logger.LogInfo("Registered private process-only font '" + familyName + "' from " + fullPath + ".");
+                return true;
+            }
+            catch (Exception ex)
+            {
+                Logger.LogWarning("Private font registration failed for '" + familyName + "': " + ex.Message);
+                return false;
+            }
+        }
+
+        private Font TryCreateLocalDynamicFont(
+            string familyName,
+            bool privateFontRegistered,
+            string[] installedFontNames,
+            bool installedFontListAvailable,
+            HashSet<char> requiredCharacters,
+            string description)
+        {
+            if (!privateFontRegistered)
+            {
+                return null;
+            }
+
+            if (installedFontListAvailable && !ContainsFontFamily(installedFontNames, familyName))
+            {
+                Logger.LogWarning("Unity's OS font list does not contain privately registered family '" + familyName + "'. Falling back to the next font source.");
+                return null;
+            }
+
+            Font candidate;
+            try
+            {
+                candidate = Font.CreateDynamicFontFromOSFont(familyName, 32);
+            }
+            catch (Exception ex)
+            {
+                Logger.LogWarning("Unity could not create dynamic font '" + familyName + "' from the private registration: " + ex.Message);
+                return null;
+            }
+
+            if (candidate == null)
+            {
+                Logger.LogWarning("Unity returned no dynamic Font for privately registered family '" + familyName + "'.");
+                return null;
+            }
+
+            _dynamicFonts.Add(candidate);
+            if (!HasKoreanGlyphCoverage(candidate, requiredCharacters, description + " ('" + familyName + "')"))
+            {
+                Logger.LogWarning("Privately registered font '" + familyName + "' failed Korean glyph coverage; falling back to the next font source.");
+                return null;
+            }
+
+            Logger.LogInfo("Selected local dynamic font family '" + familyName + "'.");
+            return candidate;
+        }
+
+        private static bool ContainsFontFamily(string[] fontNames, string familyName)
+        {
+            if (fontNames == null || string.IsNullOrWhiteSpace(familyName))
+            {
+                return false;
+            }
+
+            foreach (string fontName in fontNames)
+            {
+                if (string.Equals(fontName, familyName, StringComparison.OrdinalIgnoreCase))
+                {
+                    return true;
+                }
+            }
+
+            return false;
+        }
+
+        private void ReleaseLocalFonts()
+        {
+            for (int i = _dynamicFonts.Count - 1; i >= 0; i--)
+            {
+                Font font = _dynamicFonts[i];
+                if (font == null)
+                {
+                    continue;
+                }
+
+                try
+                {
+                    Destroy(font);
+                }
+                catch (Exception ex)
+                {
+                    Logger.LogWarning("Could not release dynamic font '" + font.name + "': " + ex.Message);
+                }
+            }
+            _dynamicFonts.Clear();
+            _headerFont = null;
+            _bodyFont = null;
+            _fallbackFont = null;
+
+            for (int i = _registeredPrivateFontPaths.Count - 1; i >= 0; i--)
+            {
+                string path = _registeredPrivateFontPaths[i];
+                try
+                {
+                    if (RemoveFontResourceExW(path, PrivateFontResource, IntPtr.Zero))
+                    {
+                        Logger.LogInfo("Removed private process-only font resource: " + path);
+                    }
+                    else
+                    {
+                        Logger.LogWarning("Windows did not remove private font resource '" + path + "' (Win32 error " + Marshal.GetLastWin32Error() + ").");
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Logger.LogWarning("Could not remove private font resource '" + path + "': " + ex.Message);
+                }
+            }
+            _registeredPrivateFontPaths.Clear();
+        }
+
+        [DllImport("gdi32.dll", CharSet = CharSet.Unicode, EntryPoint = "AddFontResourceExW", SetLastError = true)]
+        private static extern int AddFontResourceExW(string fileName, uint flags, IntPtr reserved);
+
+        [DllImport("gdi32.dll", CharSet = CharSet.Unicode, EntryPoint = "RemoveFontResourceExW", SetLastError = true)]
+        [return: MarshalAs(UnmanagedType.Bool)]
+        private static extern bool RemoveFontResourceExW(string fileName, uint flags, IntPtr reserved);
 
         private void TryLoadFontsFromBundle(string path, string sourceDescription, HashSet<char> requiredCharacters)
         {
@@ -310,6 +548,10 @@ namespace RoadtripKoreanFontBridge
                 try
                 {
                     _fallbackFont = Font.CreateDynamicFontFromOSFont(FallbackFontName, 32);
+                    if (_fallbackFont != null)
+                    {
+                        _dynamicFonts.Add(_fallbackFont);
+                    }
                 }
                 catch (Exception ex)
                 {

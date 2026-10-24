@@ -16,7 +16,9 @@
   `CoreAssetManager.GetTextAsset("english_metatexts")`를 통해 Addressables에서 읽습니다.
   외부 TXT를 같은 경로에 두어도 UI가 자동으로 번역되지 않습니다.
 - 2편과 달리 팬 번역용 ModTool/Workshop 로딩 클래스는 해당 설치본 DLL에서 확인되지 않았습니다.
-- 한국어 글꼴·동적 태그·줄바꿈·게임 실행 적용 여부는 **아직 검증하지 않았습니다**.
+- 2026-10-24 실제 Steam 실행에서 **메인 메뉴 한국어 출력**과 2편의
+  **Jua(주아)·Gamja Flower(감자꽃)** 로딩을 확인했습니다. 대사 전체·분기·저장
+  및 TextMeshPro 화면까지 검증한 것은 아닙니다.
 
 ## 원문 분량
 
@@ -44,6 +46,7 @@ python -X utf8 scripts\extract_assets.py
 python -X utf8 scripts\build_playtest.py
 python -X utf8 scripts\build_ui_preview.py
 python -X utf8 scripts\prepare_camp_fonts.py
+python -X utf8 scripts\expose_camp_fonts.py
 python -X utf8 scripts\audit_progress.py
 python -X utf8 -m unittest discover -s tests -v
 ```
@@ -59,16 +62,26 @@ python -X utf8 -m unittest discover -s tests -v
 - `scripts/build_playtest.py`: 원문 해시·이벤트명·대사 해시·원본 제어 태그·숫자·행수를
   검증한 후 실제 게임이 읽을 **영어 슬롯 오버라이드 파일**을 `build/playtest/game_assets/texts/`에 생성.
 - `scripts/build_ui_preview.py`: 구조를 유지한 UI 번역 검토본을
-  `build/preview/english_metatexts.txt`에 생성. **이 파일은 아직 게임에 적용되지 않습니다.**
+  `build/preview/english_metatexts.txt`에 생성. 3편 전용 런타임 브리지로
+  **영어 UI 슬롯에 실제 적용되는 것**을 게임 실행 및 스크린샷으로 확인했습니다.
 
-### 실게임 테스트 전 주의
+### 설치·제거 및 실게임 테스트
 
-현재 프로젝트에서 게임 폴더로 파일을 자동 복사하지 않습니다. 테스트가 승인되면
-`build/playtest/game_assets/texts/english_events_*.txt`를 게임 설치 경로
-`MonsterRoadtrip_Data/StreamingAssets/game_assets/texts/` 아래에 배치하고
-게임 언어를 영어로 유지해야 해당 오버라이드 탐색 경로를 사용합니다.
-하지만 게임 실행에서 한글 글꼴과 실제 출력이 검증되기 전에는
-**완성된 설치 패치라고 배포하지 않습니다.** 게임 파일을 직접 덮어쓰거나 수정하지 마세요.
+테스트 설치는 `scripts/install_local_playtest.ps1`를 통해 수행합니다.
+검증된 x86 BepInEx와 선택형 브리지 DLL, 영어 슬롯 이벤트 TXT 11개만
+**새 파일로 추가**하며 기존 파일과 충돌하면 설치를 거부합니다. 설치된
+파일별 SHA256은 `work/install/installed_files.json`에 기록합니다.
+
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts\install_local_playtest.ps1
+# 게임을 종료한 뒤 설치 제거
+powershell -ExecutionPolicy Bypass -File scripts\uninstall_local_playtest.ps1
+```
+
+게임은 Steam에서 실행하고 언어를 **영어**로 유지합니다. 게임의 원본 DLL,
+원본 AssetBundle 및 기존 저장 데이터는 변경하지 않습니다.
+현재 작업은 총 30,255개 후보 중 1,081개만 번역한 초기 테스트 버전이므로
+**완역판으로 배포하지 않습니다.**
 
 ## 번역 원칙
 
@@ -87,5 +100,5 @@ python -X utf8 -m unittest discover -s tests -v
 
 선택형 3편용 폰트/UI 런타임 브리지 **소스**는
 [`src/RoadtripKoreanFontBridge/`](src/RoadtripKoreanFontBridge/)에 있습니다.
-컴파일은 되었지만 실게임 실행·한글 출력·2019→2021 번들 호환성을
-아직 검증하지 않았으므로 배포 가능한 완성 패치로 취급하면 안 됩니다.
+컴파일뿐 아니라 실제 게임 메인 메뉴 한글 출력과 폰트 로딩까지 확인했습니다.
+향후 한국어 이벤트·선택지와 TextMeshPro 등 추가 화면의 종합 QA는 남아 있습니다.

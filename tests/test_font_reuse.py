@@ -7,6 +7,7 @@ The test is skipped on machines where fonts have not been prepared locally.
 from __future__ import annotations
 
 import json
+import sys
 import unittest
 from pathlib import Path
 
@@ -40,6 +41,22 @@ class PreparedFontTest(unittest.TestCase):
         gamja = TTFont(LOCAL_FONTS / "GamjaFlower.ttf")
         cmap = set((gamja.getBestCmap() or {}).keys())
         self.assertTrue(all(cp in cmap for cp in range(0xAC00, 0xD7A4)))
+
+    def test_local_roadtrip_bundle_exposes_two_camp_fonts(self) -> None:
+        """The playable Unity bundle must have named Font roots, not just profiles."""
+        bundle = ROOT / "build/fontbundles/roadtrip_korean_fonts.bundle"
+        if not bundle.is_file():
+            self.skipTest("No user-owned, gitignored local font bundle was prepared")
+        try:
+            import UnityPy  # noqa: F401
+        except ImportError:
+            self.skipTest("UnityPy is an optional local dependency")
+        sys.path.insert(0, str(ROOT / "scripts"))
+        from expose_camp_fonts import read_font_roots
+
+        roots = read_font_roots(bundle)
+        self.assertEqual(set(roots), {"Jua", "GamjaFlower"})
+        self.assertEqual(len(set(roots.values())), 2)
 
 
 if __name__ == "__main__":

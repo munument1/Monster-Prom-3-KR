@@ -1,7 +1,9 @@
-# 실게임 적용 검증 — 미실행 상태
+# 실게임 적용 검증 — 메인 메뉴 한국어·2편 글꼴 확인
 
-> 현 단계: **번역 JSON·빌더 정적 검증 완료, 한국어 출력 미검증**.
-> 원본 게임·Steam·사용자 설정·세이브에 변경을 가하지 않았습니다.
+> **2026-10-24 Steam 실게임 테스트:** 한글 메인 메뉴, `english_metatexts`
+> 런타임 교체, Jua 헤더/감자꽃 본문을 화면·BepInEx 로그로 확인했습니다.
+> 원본 DLL/AssetBundle 및 사용자 세이브는 변경하지 않았고, 별도 로더 파일을
+> 추가했습니다. **이벤트 대사 전체·선택지·게임 저장 검증은 미완입니다.**
 
 ## 확인된 기술적 제약
 
@@ -27,9 +29,10 @@ Monster Prom 3: Monster Roadtrip Steam 설치본 2026-10-24, build 25955894:
   단지 잔재일 수 있습니다. DLL에서 2편의 `ModTool`/`WorkshopLoader` 구현 클래스는
   확인되지 않았으므로 **공식 번역 모드 사용 가능**이라고 해석하면 안 됩니다.
 
-## 런타임 적용 설계 (소스 구현 및 컴파일 완료, 실게임 미검증)
+## 런타임 적용 설계 (소스·컴파일·메뉴 실행 확인)
 
-1. x86 **BepInEx 5 Mono**를 별도 테스트 게임 사본에서만 사용합니다.
+1. **BepInEx 5 Mono x86**를 사용자 요청으로 설치했습니다. 원본 DLL과
+   Unity 번들은 그대로 두고 신규 파일 33개만 추가했습니다.
 2. Harmony가 `BeautifulGlitch.CoreAssetManager.GetTextAsset`의
    `english_metatexts` 결과를 번역된 `TextAsset`으로 치환하여 메뉴와 UI를 번역하도록 설계합니다.
 3. `UILabel`(NGUI)과 `UnityEngine.UI.Text`가 한글 문자열을 출력하는 시점에
@@ -42,16 +45,21 @@ Monster Prom 3: Monster Roadtrip Steam 설치본 2026-10-24, build 25955894:
 4. 이벤트 텍스트는 원본 `ReadLocalizedTextFile`의 loose-file 경로를 사용하고,
    원본 문자열/태그/원문 수치가 정상적으로 들어오는지 확인합니다.
 
-선택형 `src/RoadtripKoreanFontBridge/` 소스는 .NET Framework 4.7.2/x86으로
+`src/RoadtripKoreanFontBridge/`는 .NET Framework 4.7.2/x86으로
 BepInEx5+Harmony 및 3편 원본 DLL 참조를 이용해 **경고 0·오류 0으로 컴파일**했습니다.
-일단 로컬 Unity2021 글꼴 번들을 우선 로딩하고, 실패 시 2편 번들을 시도한 뒤
-맑은 고딕으로 대체하는 순서를 사용합니다. **실제 BepInEx 부팅과
-게임 UI 출력은 테스트하지 않았습니다.**
+초기 실행에서는 기존 2편 AssetBundle에서 폰트 루트가 노출되지 않아 맑은 고딕으로
+표시됐지만, `scripts/expose_camp_fonts.py`가 원본을 건드리지 않고 만든 로컬
+번들에 Jua/GamjaFlower 두 개를 루트 자산으로 노출하자 게임 로그에
+**`LoadAllAssets<Font>() returned 2 Font asset(s)`**, `Selected header font: 'Jua'`,
+`Selected body font: 'GamjaFlower'`가 출력됐습니다. 게임 제목 메뉴의 글꼴
+변화도 스크린샷(`work/testlogs/roadtrip_original_camp_fonts.jpg`)으로 확인했습니다.
 
 ## 합격 기준
 
-1. 원본 게임·저장 데이터 백업을 확보하고 **별도 테스트 사본**에서만 적용합니다.
+1. 원본 파일의 SHA256을 기록하고 새로 추가한 파일은 제거 가능해야 합니다.
+   **통과**: `work/install/installed_files.json`에 설치 대상 33개와 원본 SHA 보존.
 2. 기본 화면·설정 메뉴의 한국어 UI가 정상 출력되고 글꼴이 깨지지 않습니다.
+   **메인 메뉴 확인**, 설정 하위 메뉴는 미확인.
 3. `english_events_default`, `tutorial`, `standard`, `maingame` 이벤트와
    `>choice`·`>action` 문구가 한글로 출력됩니다.
 4. 폴리/스콧의 대화, 게임 오버·엔딩 텍스트, 표준 자원 표기,
@@ -65,11 +73,15 @@ BepInEx5+Harmony 및 3편 원본 DLL 참조를 이용해 **경고 0·오류 0으
 
 - `build/playtest/game_assets/texts/english_events_*.txt`: 원본 행/메타 구조를
   보존한 이벤트 TXT 테스트 출력물. **실게임 적용 전제 검증은 안 됨**.
-- `build/preview/english_metatexts.txt`: UI 한글 문구 검토용. **게임은 이 파일을
-  직접 읽지 않음**.
+- `build/preview/english_metatexts.txt`: UI 한글 문구 검토용.
+  게임 자체 로더는 읽지 않으나 **BepInEx 브리지의 후킹으로 적용 확인**.
 - `src/RoadtripKoreanFontBridge/`: 3편용 선택형 BepInEx Mono x86 폰트/UI
-  브리지 **소스**. 빌드된 DLL은 Git에서 제외되며 게임에 설치하지 않음.
-- `build/fontbundles/roadtrip_korean_fonts.bundle`: Unity 2021.3.15f1
-  Editor가 있어야 생성할 수 있는 글꼴 번들 경로. **현재 미생성**.
+  브리지 **소스**. 빌드된 DLL은 Git에서 제외되며 로컬 게임에만 설치됨.
+- `build/fontbundles/roadtrip_korean_fonts.bundle`: 2편 번들을 로컬에서
+  재구성해 생성·실게임 로딩에 성공한 **Git 제외 테스트 자산**.
+- `scripts/install_local_playtest.ps1`, `uninstall_local_playtest.ps1`:
+  해시 검증 후 신규 설치 파일만 추가·제거하는 스크립트.
+- **미지원 경로:** 게임 일부 `TextMeshPro` 위젯은 기존 플러그인이 다루지 않음.
+  특수 공지/배너 등에 미번역 또는 글꼴 누락 가능, 추가 테스트 필요.
 
 원본 에셋, 게임 복제본, 로더 바이너리, Windows 폰트는 GitHub에 업로드하지 않습니다.
