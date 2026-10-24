@@ -1476,6 +1476,1506 @@
       "event": "evilmenu",
       "english_sha256": "bd2081d704dd8acc2953993ffae415fd936abf01fa1bf1bf8b798213fde56cb9",
       "ko": "폴리와 스콧이 말한 재료가 전부 들어 있다... 그보다 더 많은 것도. 넌 분명 +N2 STAMINA를 얻는다."
+    },
+    {
+      "line": 352,
+      "event": "evilmenu",
+      "english_sha256": "efb456cc30d740c6132bf50d42e0981bbf05b0af7951f2ea4941eaa59cf0b67d",
+      "ko": "여기엔... 으, 저거 피클이야?! 넌 피클을 싫어하잖아! 젠장, 왜 항상 피클 빼 달라는 걸 잊는 거야?"
+    },
+    {
+      "line": 353,
+      "event": "evilmenu",
+      "english_sha256": "ee98a7feb7200598b1c076b7c40e0645b3592f87834ffc80fd0ab1174bea94b8",
+      "ko": "이 버거에 재료가 대체 어떻게 다 들어간 거지?"
+    },
+    {
+      "line": 354,
+      "event": "evilmenu",
+      "english_sha256": "4401d25fd90b11dd18c15ea5e3729b969da5ce4a829cab767ed36e0158a11ad1",
+      "ko": "이 맛은 뭐지? 설마... 스콧 엉덩이 맛? 아니겠지... 맞을 리가... 있나?"
+    },
+    {
+      "line": 355,
+      "event": "evilmenu",
+      "english_sha256": "d572d6aa92953d58a4e2430750f0be71f6397eca3a1e65bb67eac489c4054500",
+      "ko": "이런 의문들이 답도 없이 머릿속을 괴롭힌다. 버거 속 재료들이 아무 논리도 없이 버거를 괴롭히는 것처럼. 넌 -N2 MIND를 잃는다."
+    },
+    {
+      "line": 360,
+      "event": "evilmenu",
+      "english_sha256": "06ddfbea2f6fd7ed52f3abb5bb3ba71486fe2c9504d7bd7ee1a859a5721a7cae",
+      "ko": "좋아."
+    },
+    {
+      "line": 361,
+      "event": "evilmenu",
+      "english_sha256": "731c4ff86c111fb732353473a4576d8d3387e839517cb60a4266f8c3b347a6b9",
+      "ko": "어라, 이번엔 재밌는 경고도 없어? 이 수프엔 대체 무슨 \"끔찍한 저주\"가 걸려 있는 건데?"
+    },
+    {
+      "line": 362,
+      "event": "evilmenu",
+      "english_sha256": "2853028906a6afe1a1b958c4f88ab330e26d89e282968992460eabbaac154edd",
+      "ko": "사악한 숲의 마녀가 아이를 삶아 먹던 수프인가?"
+    },
+    {
+      "line": 363,
+      "event": "evilmenu",
+      "english_sha256": "a398cdb8e7ffaaf844f068183c35333d62eca2a4212eddda57e2758fa8153d85",
+      "ko": "이 수프가 18세기에 의문의 죽음을 맞은 대주교의 마지막 식사였나?"
+    },
+    {
+      "line": 364,
+      "event": "evilmenu",
+      "english_sha256": "605fcf77251f5ce9727866c440501c16ce5d239a8bbc13ab1960ee9f688eedc4",
+      "ko": "%CURRENTPLAYERNAME%의 콧구멍이 %HESHE% %VERB_INHALES_INHALE% 그 맛있는 냄새를 맡는 순간 뒤집혀 버리는 수프일까?!"
+    },
+    {
+      "line": 365,
+      "event": "evilmenu",
+      "english_sha256": "43e31653782cc3a74054e9614c73385b4b0879ae5157a475ee1984b8131a5ae3",
+      "ko": "아니. 그냥 양파 수프야."
+    },
+    {
+      "line": 366,
+      "event": "evilmenu",
+      "english_sha256": "2c0ad1af789fb5fd21bfbe34d43ac52adf079eafd1fdc594436a6892dbddf333",
+      "ko": "오... 그럼 양파라도 저주받은 건가?"
+    },
+    {
+      "line": 367,
+      "event": "evilmenu",
+      "english_sha256": "3d08b37cdf5c2183bc5d33dda0ba25815d4430bcfee0340f1f5bc1eb3adff06f",
+      "ko": "아니."
+    },
+    {
+      "line": 368,
+      "event": "evilmenu",
+      "english_sha256": "5749b4e955d6be61df452b8bc7b1e3b96c28b73acae6385f3d1777c25e77c0e8",
+      "ko": "음. 좀 김빠지네."
+    },
+    {
+      "line": 369,
+      "event": "evilmenu",
+      "english_sha256": "257ee6356f48331536b26a835fc5c817655af0d924197c850d7b99c73f987e2c",
+      "ko": "다들 참 평론가 납셨네. 시시한 수프 때문에 -N2 HYPE를 잃지만, 맛은 꽤 괜찮으니 +N2 STAMINA를 얻는다."
+    },
+    {
+      "line": 377,
+      "event": "findbooth",
+      "english_sha256": "e3e5560b345a10d103cf8f0ee8659adc70443ec7d1845b3d81ae7e9f680cb2e8",
+      "ko": "식당 부스 찾기"
+    },
+    {
+      "line": 382,
+      "event": "findbooth",
+      "english_sha256": "39fd3ec71b231d89dd4e73ff7c3e9cec8873922524a6e2add549ac1b5c13fba4",
+      "ko": "너희는 식당에 들어선다. 희망으로 가슴이 벅차오른다. 식사가 잘 풀리면 콜레스테롤까지 가득 차겠지만!"
+    },
+    {
+      "line": 385,
+      "event": "findbooth",
+      "english_sha256": "7ac0c8b85215a0b67384f57b2ce9e673a2dc9cc9bf937b9d40e0027b983d5e13",
+      "ko": "둠스 다이너에 오신 걸 환영합니다. 1952년부터 불행을 파는 장사를 해 왔죠. 뭘 도와드릴까요?"
+    },
+    {
+      "line": 386,
+      "event": "findbooth",
+      "english_sha256": "f93fb7d43f3be8a56b017c0cb9f5992c99d98a91c411d1ac94c12e9690030730",
+      "ko": "여럿이 앉을 수 있는 부스 하나 주세요! 케첩도 세 병 더 가져다주시고요!"
+    },
+    {
+      "line": 387,
+      "event": "findbooth",
+      "english_sha256": "26a0d32aee6d5f25413fc994265793ad8eb957cee5f9e2f7dfb7de268bbdbee9",
+      "ko": "케첩은 식전 요리로 먹고, 폴리는 남은 걸 비닐봉지에 담아 고속도로에서 차들한테 던져요."
+    },
+    {
+      "line": 388,
+      "event": "findbooth",
+      "english_sha256": "715542034abf931f848f301b5a21e94ae4a9d65dcc7d669d3d6180742c411d53",
+      "ko": "관심 없고, 물어본 적도 없는데요. 영안실처럼 한산하니 아무 데나 앉으세요."
+    },
+    {
+      "line": 389,
+      "event": "findbooth",
+      "english_sha256": "762aeb3ce2aaa44970ae63010f20d38ee9a3a70b38a14c3625f4e41dd466b4a2",
+      "ko": "좋네. 가장 가까운 부스로 향한다."
+    },
+    {
+      "line": 391,
+      "event": "findbooth",
+      "english_sha256": "ab3d37238b6c8d8b2252b1b286350b7eacf686c2568067712e3ddbcae6165512",
+      "ko": "%CURRENTPLAYERNAME%! 미쳤어? 아무 부스나 골라도 되는 게 아니잖아!"
+    },
+    {
+      "line": 392,
+      "event": "findbooth",
+      "english_sha256": "fb5fccded2328da9ae8f21bd1409fd3e55798d6c28296b33fbe755302f09159c",
+      "ko": "식당 부스를 고르는 건 엄청나게 중요하다고. 주크박스와의 거리, 건물 안의 외풍, 남아 있는 나쁜 기운까지 다 따져야 해..."
+    },
+    {
+      "line": 393,
+      "event": "findbooth",
+      "english_sha256": "250bd7032dc1068a8a88ae4b5d8a815441041534061781ec1343d9f33c602ea9",
+      "ko": "코치님이 이런 말씀을 하신 적이 있어:"
+    },
+    {
+      "line": 397,
+      "event": "findbooth",
+      "english_sha256": "1b8447794c8c261fa48d755dcef68f0f8809ca16d904324baea637c414ef5cc3",
+      "ko": "\"남의 회상 장면에 들어가게 되면, 현명하고 유익한 조언을 해 줘서 도움이 되도록 하라!\""
+    },
+    {
+      "line": 400,
+      "event": "findbooth",
+      "english_sha256": "160e317995409cfeffae90338aa57b94d9bd02642aeba74a88473b5e5da5e2c8",
+      "ko": "무슨 뜻인지는 모르겠지만, 여기서 하기에 딱 맞는 말 같았어."
+    },
+    {
+      "line": 401,
+      "event": "findbooth",
+      "english_sha256": "2954c1bd815bc3cd3a4a9dd095fb6ca3992caab090f7b2cd40fec87a2632347e",
+      "ko": "그렇게 중요하다면 어쩔 수 없지. 너는 앉기 좋은 자리를 찾아 식당 안을 뒤지기 시작한다."
+    },
+    {
+      "line": 402,
+      "event": "findbooth",
+      "english_sha256": "4e1f29f0e1528386150018a18aefe83d56ba7affc0961495410b4a1a8c09362a",
+      "ko": "뭔가 이상한 일이 벌어지기 시작한다. 아무리 걸어도 주변 풍경이 계속 반복된다. 오래된 만화의 배경처럼."
+    },
+    {
+      "line": 403,
+      "event": "findbooth",
+      "english_sha256": "7c38eb3546dd5f054f2819a67a29d55fc553aaf88d725b7be025417eca5cabf0",
+      "ko": "몇 분이 몇 시간이 된다. 너는 여전히 걷고 있다. 부스와 네온사인은 기름때와 절망으로 가득한, 빠져나갈 수 없는 50년대풍 악몽 속을 헤매는 네 모습을 상기시킨다."
+    },
+    {
+      "line": 404,
+      "event": "findbooth",
+      "english_sha256": "628e117408de09452914681702c463efe747e07231c78f391a41305785b77495",
+      "ko": "좋아, 얘들아. 우리 길을 잃었어. 나도 졌다는 건 인정해. 그래도 어른답게 누굴 탓할 사람부터 찾지는 말자, 알겠지?"
+    },
+    {
+      "line": 405,
+      "event": "findbooth",
+      "english_sha256": "2b11958ab24f3c3f1e0f8f004631b5721886b07f72d98aec4cc33d5ac8afa068",
+      "ko": "폴리다. 폴리가 범인이다."
+    },
+    {
+      "line": 406,
+      "event": "findbooth",
+      "english_sha256": "01063c8904c0e441158ca47ebe5cd22131d528498037c4881675514e439e9281",
+      "ko": "하지만 그건 중요하지 않다. 중요한 건 네가 친구들을 이 식당에서 데리고 나왔을 때 고마움을 받을 사람이 되는 거다!"
+    },
+    {
+      "line": 407,
+      "event": "findbooth",
+      "english_sha256": "278c2e6f3e0c95d62ae7b424e5e497d045c43987780875cc7801e3b59572f96a",
+      "ko": "식당 신에게 피의 제물을 바치고 도움을 청한다."
+    },
+    {
+      "line": 408,
+      "event": "findbooth",
+      "english_sha256": "5ccf6d1992a051ee64ae930aad1f5e08f77b726bcf68e2ad9620fcd86626b6e7",
+      "ko": "식당 셰르파를 고용해 길을 안내받는다."
+    },
+    {
+      "line": 410,
+      "event": "findbooth",
+      "english_sha256": "de89681af5b9f24a45edd69e1ff838f8ef448b37756df06d434b1cdcbe5e53e2",
+      "ko": "시간이 없어! 제물로 바칠 달콤한 피를 얻으려고 네 다리를 찌른다."
+    },
+    {
+      "line": 411,
+      "event": "findbooth",
+      "english_sha256": "e21dcaf9a86210e610d3aaaf75ed72414fce3cc075f3be2c0a7ebf33877c7521",
+      "ko": "%CURRENTPLAYERNAME%, 제발 모든 문제를 피의 제물로 해결하는 건 그만둬. 네 피에도 한계가 있다고!"
+    },
+    {
+      "line": 412,
+      "event": "findbooth",
+      "english_sha256": "0ebdf5157b8677c7947ae923878fb3b60357b263582d4b7b89559afa4590912f",
+      "ko": "그래도 %HESHE% %VERB_DOES_DO% 주문을 외우는 부분은 좋아. 뭔가 마음이 편해져!"
+    },
+    {
+      "line": 413,
+      "event": "findbooth",
+      "english_sha256": "d392f90ee27077e97a34d1f2e9cba8fa36fc4f2808a04f355149bf56ec667e27",
+      "ko": "그래, 바로 그거야! 주문 외우기!"
+    },
+    {
+      "line": 414,
+      "event": "findbooth",
+      "english_sha256": "81abe03dedf7ec9b99ae158fba366972bceea963a7f4261badeeb6a8a0135493",
+      "ko": "또 %HESHE% %VERB_GOES_GO% 저러네. 내 말 들어 봐. 그 피를 모아 두지 않을 거면, 적어도 훨씬 재밌는 데 쓸 수 있잖아."
+    },
+    {
+      "line": 415,
+      "event": "findbooth",
+      "english_sha256": "79e4dfcb54ef9b6ef60c24122582f8992477521e41e78216ca796212d21e1489",
+      "ko": "폴리는 눈을 굴리고 스콧은 네 주문에 맞춰 흥얼거린다. 그런데... 감자튀김을 네 피에 찍어 먹는 거야?"
+    },
+    {
+      "line": 416,
+      "event": "findbooth",
+      "english_sha256": "ca9e40ac2ac80a888ef39f55b34234aabea9e223e6d4ffe27cc0c7764f1e77c9",
+      "ko": "멍청이들, 네 희생의 뜻을 몰라주는군! 식당 신께서는 네가 바친 풍성한 제물을 보시면 저들의 불신을 용서하실 것이다."
+    },
+    {
+      "line": 419,
+      "event": "findbooth",
+      "english_sha256": "691b3e37d472736b1e1270878221525394d6ee477e3021a9e64049955f83455f",
+      "ko": "무슨 일이에요? 왜 사방에 피를 흘리고 있어요? 외부 혈액 반입은 안 됩니다. 여긴 장사하는 곳이라고요."
+    },
+    {
+      "line": 420,
+      "event": "findbooth",
+      "english_sha256": "687e1d9cac3062e6636768ce19fe7f1daa6c2681b025dd3c4b3eeada13d6ee3a",
+      "ko": "식당 신이시여! 강림하셨다! 너는 성스러운 부스를 찾게 해 달라며 그분의 발치에 몸을 던진다."
+    },
+    {
+      "line": 421,
+      "event": "findbooth",
+      "english_sha256": "d5eedc45905aa0af04c098f2c47f8f17454346657e6d6046c0502216b355015a",
+      "ko": "%CURRENTPLAYERNAME%은 신경 쓰지 마. 피를 너무 흘려서 헛것을 보는 것뿐이야. 자주 있는 일이거든."
+    },
+    {
+      "line": 422,
+      "event": "findbooth",
+      "english_sha256": "9b25c6e19e455a95fc097727b9d32e3f94555e76f109eefd7afe0d202fd8f57b",
+      "ko": "으. 내가 출구를 알려 주고 공짜 버거까지 줄 테니, 그냥 여기서 나가 주겠어?"
+    },
+    {
+      "line": 423,
+      "event": "findbooth",
+      "english_sha256": "f3fcdd170a879501ab35ff8b7ae4812086076df30db59ec50a7d7706a7d52f8a",
+      "ko": "식당 신의 한없는 자비를 찬양하라! 너희는 빠져나온다. 식당 미로에서 탈출해 +N2 MIND를 얻지만, 피를 너무 흘린 탓에 -N2 STAMINA를 잃는다."
+    },
+    {
+      "line": 425,
+      "event": "findbooth",
+      "english_sha256": "c86c782034d47259c645df7568af269b6d629da012f38ac678b10e4c113cbb1e",
+      "ko": "좋은 생각이야!"
+    },
+    {
+      "line": 426,
+      "event": "findbooth",
+      "english_sha256": "f9a9b4847b2007ea3e233e255caac26a58430a86488ca2b382a359d38aa574bc",
+      "ko": "체크무늬 부스에 앉은 당신! 셰르파예요?"
+    },
+    {
+      "line": 427,
+      "event": "findbooth",
+      "english_sha256": "b3559806059572efc69fab30005a03e92ec516bc4561c9653267ee53ddc8cba2",
+      "ko": "아, 맞혀 보죠. '셰르파'란 위험한 외국 환경을 안내해 주는 사람이라고 생각하시는 거죠?"
+    },
+    {
+      "line": 428,
+      "event": "findbooth",
+      "english_sha256": "3013966824bed72f0942fc57b104d0578547d6280a63937003547d983b89d392",
+      "ko": "사실 셰르파는 티베트의 민족 집단입니다. 그들을 단순한 직업으로 취급하는 건 고정관념이죠. '셰르파'가 아니라 '길잡이'를 찾으시는 겁니다."
+    },
+    {
+      "line": 429,
+      "event": "findbooth",
+      "english_sha256": "8e2732e1d2621dc27f79ddfcc9ef8ebedeae3e66dfafe5806e4a7d02fd69fb0b",
+      "ko": "아! 죄송해요. 그럼 셰르파는 아니시겠네요."
+    },
+    {
+      "line": 430,
+      "event": "findbooth",
+      "english_sha256": "6dc7ee06ccdef5b89e13384c1313549cf7772f879092257a3df99758d88e48a7",
+      "ko": "뭐, 저는 실제로 셰르파이긴 합니다만, 그건 요점이 아니죠. 중요한 건 길을 안내해 줄 사람을 찾고 있다는 겁니다, 알겠죠?"
+    },
+    {
+      "line": 431,
+      "event": "findbooth",
+      "english_sha256": "ecde9f60e3096f29dc9c6b39864012dfa9598e16c2f253825d0d6ac5f816397f",
+      "ko": "네, 알겠어요. 그럼 이 식당에서 나가게 안내해 줄 길잡이는 어디서 찾죠?"
+    },
+    {
+      "line": 432,
+      "event": "findbooth",
+      "english_sha256": "617a099d8eecc7ad69df4841f37b33d1320f5431149fe180de039448d895abb3",
+      "ko": "사실 전 여기 단골이라서, 제가 길잡이가 되어 드릴 수도 있죠."
+    },
+    {
+      "line": 433,
+      "event": "findbooth",
+      "english_sha256": "a3b81cde176cd99be3b827a41f3eea70e331574f63628c1fb667d81f50574651",
+      "ko": "그러니까 이 경우엔 제가 셰르파이자 길잡이인 셈이죠. 하지만 이런 우연을 근거로 앞으로도 그 단어를 함부로 쓰시면 안 됩니다, 알겠죠?"
+    },
+    {
+      "line": 434,
+      "event": "findbooth",
+      "english_sha256": "c7585a65582118d586a8243ef3668b7dbdaf6419aa91354ac5e07d6f3500d45a",
+      "ko": "알겠어요!"
+    },
+    {
+      "line": 435,
+      "event": "findbooth",
+      "english_sha256": "13619597a9fa97b5d3eb6042a7316dfce6b36c0a9b58379d9f05158737cd8b80",
+      "ko": "그럼 따라오세요. 여기서 데리고 나가 드리죠."
+    },
+    {
+      "line": 436,
+      "event": "findbooth",
+      "english_sha256": "96107fa1ee551ed8f43f11142b22a311b4c99b2e170db991fd2c3bdc6a69aad6",
+      "ko": "완벽해! 너는 새 길잡이에게 -N2 MONEY를 지불하고, 그가 둠스 다이너를 가로지르는 무시무시한 여정으로 너희를 이끈다."
+    },
+    {
+      "line": 437,
+      "event": "findbooth",
+      "english_sha256": "1791588786d4969724bbe9382fad9ee09ec2fe7960aca2993498c464e466b9dc",
+      "ko": "지루하고 끝도 없어 보이던 식당은 이내 실제로 위험한 장소로 변한다."
+    },
+    {
+      "line": 438,
+      "event": "findbooth",
+      "english_sha256": "2c519a2b6ec08bcc003608d6e2425917de468720ffa5fe9d8dc3f1ec358ed88b",
+      "ko": "이곳의 건축 구조가 모든 논리를 거스르는 에셔풍 구조물로 무너지기 시작한다."
+    },
+    {
+      "line": 439,
+      "event": "findbooth",
+      "english_sha256": "21241127138c96a62789b74d3f7ddfcb5ac5d070470b33f0673a65c594d358e7",
+      "ko": "마치 이 식당이 처음부터 식당이 아니라 식당인 척하는 지각 있는 생명체였던 것만 같다! 소름 끼치는군..."
+    },
+    {
+      "line": 440,
+      "event": "findbooth",
+      "english_sha256": "c8ef72786de8b5be30aefccf1ad7d24415fd40cf13f3c3c033ff19274aa14255",
+      "ko": "바닥이 순식간에 뒤로 물러나 바닥 없는 구덩이가 드러나는 식이다. 너희는 모두 뒤로 뛰지만 길잡이는 미처 피하지 못한다. 간신히 가장자리를 붙잡았지만... 상태가 심상치 않다."
+    },
+    {
+      "line": 441,
+      "event": "findbooth",
+      "english_sha256": "bc413e3984c10dc4c905b35d14a5e96a4dfbec35a5a15ce4e6fa2771f87dfe7b",
+      "ko": "빨리! 내 손을 잡아!"
+    },
+    {
+      "line": 442,
+      "event": "findbooth",
+      "english_sha256": "73ba5052369d0a427301ba816aec143d2f13c056f505c0e09c47e8955b64a275",
+      "ko": "안 돼, 도망쳐! 걱정 마. 이 저주받은 식당에 오는 위험은 늘 알고 있었어. 그저... 여기 피클 튀김은 도저히 못 이기겠더라. 정말 끝내주..."
+    },
+    {
+      "line": 443,
+      "event": "findbooth",
+      "english_sha256": "f71a6215c953d87b1fab8d506a850e8220771572b08bd81397219455b0a71174",
+      "ko": "그가 말을 끝내기도 전에 심연으로 떨어지고, 너희는 목숨을 걸고 달아난다."
+    },
+    {
+      "line": 446,
+      "event": "findbooth",
+      "english_sha256": "f9565f8bc40874794ccea9b1ecb11f4d9a3ac90c807071715b2e05925bb4f50c",
+      "ko": "이봐! 식당 안에서 뛰면 안 돼!"
+    },
+    {
+      "line": 447,
+      "event": "findbooth",
+      "english_sha256": "efa298967c80dc83178e79f5af4d4afa635e735d1a2627e6f2976339eb3d73d1",
+      "ko": "뭐라고?! 식당이 길잡이를 제물로 받아들인 것처럼, 내부가 다시 정상으로 돌아왔다! 너는 제라드에게 자초지종을 설명한다."
+    },
+    {
+      "line": 448,
+      "event": "findbooth",
+      "english_sha256": "531507179c5b264df8d261abd1e7f591b451b6755a1441297c40493e2082b620",
+      "ko": "으, 그런 일이 있었구나..."
+    },
+    {
+      "line": 449,
+      "event": "findbooth",
+      "english_sha256": "a09d00633ee07b41ed6da1566cb86ec9bd4c7a6bddb28f2f5b5cc6884f94caf9",
+      "ko": "오늘의 특별 메뉴 어때요? 피클 튀김을 곁들인 버거입니다. 값은 둠스 다이너를 고소하지 않겠다는 계약서에 서명하는 거고요."
+    },
+    {
+      "line": 451,
+      "event": "findbooth",
+      "english_sha256": "c98dacc86c105e7ca552e32a9630799c20aefed8e2801867a621576ff5cfde7d",
+      "ko": "좋아! 너희는 친구를 애도하며 버거를 먹는다. 그 악몽 같은 미로에서 벗어난 덕에 +N2 MIND를 얻는다."
+    },
+    {
+      "line": 452,
+      "event": "findbooth",
+      "english_sha256": "64b55d07e7a4352fab8084e0c0bc442656759d1801e0fb3e7299186d2655ca00",
+      "ko": "아직 좀 슬퍼, 얘들아. 그 길잡이는 정말 좋은 사람이었어."
+    },
+    {
+      "line": 453,
+      "event": "findbooth",
+      "english_sha256": "827811cc7d4eda9b9f7ba8b77762f6ed9e01c0173af242c0b35697ed06b9ea08",
+      "ko": "슬퍼하지 마, 스콧. 생각해 보면 우리 티베트 친구는 헛되이 죽은 게 아니야. 덕분에 버거를 얻었잖아!"
+    },
+    {
+      "line": 454,
+      "event": "findbooth",
+      "english_sha256": "d9f563397c751cef4511794f9b6cd6c6460ddc0d9ec53fb5142e982c9fa9da6c",
+      "ko": "그래... 그리고 그 사람 말이 맞았어. 이 피클 튀김, 정말 맛있다."
+    },
+    {
+      "line": 462,
+      "event": "bearrobbery",
+      "english_sha256": "45524e4d9a2179db36df8683112f8a4a956cf43f73f92ed08b72639e5d19ad73",
+      "ko": "소풍 즐기기"
+    },
+    {
+      "line": 464,
+      "event": "bearrobbery",
+      "english_sha256": "405b0b0e52006006b58f9ecdbc44e77b05461060e0ab112aa607071fdb584232",
+      "ko": "음식이 든 피크닉 바구니도 있고, 날씨도 좋고, 함께 즐길 친구들도 있다. 이제 체크무늬 담요를 어디에 펼칠지만 정하면 된다."
+    },
+    {
+      "line": 466,
+      "event": "bearrobbery",
+      "english_sha256": "c262e178fd7007a0f4a11ec68f5a2f8043f8467953748efe4ba502697c0a3f7f",
+      "ko": "걱정 마, 얘들아. 완벽한 소풍 장소 찾는 법은 내가 알아! 몬스터 스카우트에서 다 배웠거든."
+    },
+    {
+      "line": 467,
+      "event": "bearrobbery",
+      "english_sha256": "87e161b1837ad733a7848346a3d35cfe6a8b87a7a01df2579e728ba8ee40c352",
+      "ko": "첫 단계는 장소에 다른 사람의 오줌이 묻어 있지 않은지 확인하는 거야. 남이 먼저 찜한 곳에서 소풍하는 건 무례하거든."
+    },
+    {
+      "line": 468,
+      "event": "bearrobbery",
+      "english_sha256": "aeb437bc923e5ec648aaf422cfea9b52d6bc2b02791526db0238eff15cc05ff6",
+      "ko": "완벽한 소풍은 친구 세 명에서 여섯 명과 함께해야 가장 즐겁지. 다행히 우리도 그 숫자 안에 들어가네!"
+    },
+    {
+      "line": 469,
+      "event": "bearrobbery",
+      "english_sha256": "b09dec5caf98e24d6356b05455af184523deff2b020a4658f1eef913728b00a5",
+      "ko": "공기가 좋은 높은 언덕에서 장소를 찾아보자. 걸으면서 손가락에 침을 묻혀 바람을 확인할게. 영화에서 사람들이 그러는 걸 봤거든."
+    },
+    {
+      "line": 470,
+      "event": "bearrobbery",
+      "english_sha256": "6fa751e9c5a4b828ccb6f531862c2b5797fc930046474758341071dacd309349",
+      "ko": "네 말이 그렇다면야, 친구. 앉을 만한 곳을 찾을 때까지 따라다닐게."
+    },
+    {
+      "line": 471,
+      "event": "bearrobbery",
+      "english_sha256": "6936da78a5811b258663eb1efe63dc47272b4420f26791c649f440f660fa7b45",
+      "ko": "너는 스콧의 소풍 장소 찾기 소동에 장단을 맞춰 준다. 마침내 스콧이 적당하다고 판정한 풀밭을 찾아내고, 너희는 샌드위치와 감자 샐러드를 먹기 시작한다."
+    },
+    {
+      "line": 473,
+      "event": "bearrobbery",
+      "english_sha256": "ebfdef9007597e810931f44278a0f665c209bad6e19992d6cd961d3110df6ef0",
+      "ko": "크르르르르아아아아악!"
+    },
+    {
+      "line": 474,
+      "event": "bearrobbery",
+      "english_sha256": "f843a2b9ef36427919100390744188009e3237f9753a8042ed480ab4d7883c54",
+      "ko": "안 돼! 소풍 장소를 고를 때 가장 중요한 단계인 주변 지역 곰 방지 처리를 깜빡했어!"
+    },
+    {
+      "line": 475,
+      "event": "bearrobbery",
+      "english_sha256": "6a119ef8420a811183a308c2c9eb22bcde6480f55fbbc5fe89f702fd6bbca225",
+      "ko": "크오오오오오오아아아아!"
+    },
+    {
+      "line": 476,
+      "event": "bearrobbery",
+      "english_sha256": "70749df2299ca59bb0a425baa4acddae2527face32177878153f1334c2eb6e9b",
+      "ko": "우와! 총 든 곰이야? 내가 죽은 이유로 꼽는 두 번째로 좋아하는 변명이네!"
+    },
+    {
+      "line": 477,
+      "event": "bearrobbery",
+      "english_sha256": "a09f048d2c2d5f7b7febd784371b86861ed79db2207582436778dd8e376d88aa",
+      "ko": "안 돼! 이 곰은 소풍 음식을 훔치는 정도가 아니라 소풍을 강탈하고 있어! 꼼짝 마, 강도다!"
+    },
+    {
+      "line": 478,
+      "event": "bearrobbery",
+      "english_sha256": "267927fc8c6f6d259e65ac26d4d1f5d27b2ce143ae56dbadfc4a2473a29f05b0",
+      "ko": "피크닉은 가져가도 돼요, 곰 아저씨. 우린 문제 일으키고 싶지 않아요!"
+    },
+    {
+      "line": 479,
+      "event": "bearrobbery",
+      "english_sha256": "dbf8755b67dce04f9babc19ec641f24cc733a30b10752bdc937cda67f855d8eb",
+      "ko": "그르르르르..."
+    },
+    {
+      "line": 480,
+      "event": "bearrobbery",
+      "english_sha256": "a654c0cd6a517f5f0428c71122796fc58ac2436cdd0b5d4959f49d57d9c6cb8d",
+      "ko": "곰은 그 조건에 만족하지 않는 모양이다. 곰이 폴리의 허니 미드 병을 향해 총을 겨눈다."
+    },
+    {
+      "line": 481,
+      "event": "bearrobbery",
+      "english_sha256": "dbad610ebc21bc8206b9b5595570ab0930afef833b395115f4ed9758f3651e8b",
+      "ko": "뭐야, 내 술까지 훔치겠다고? 안 돼, 위니 더 파티 푸퍼! %CURRENTPLAYERNAME%의 시체를 밟고 가기 전엔 어림없어!"
+    },
+    {
+      "line": 482,
+      "event": "bearrobbery",
+      "english_sha256": "2a52f816dc3b3d05d33551f1502f9f1a71dff90be428b1c658c93608c50e921f",
+      "ko": "미드를 위해 죽을 생각은 없다. 곰이 너희를 총으로 벌집 만들기 전에 끼어들어 오늘의 영웅이 되어라!"
+    },
+    {
+      "line": 483,
+      "event": "bearrobbery",
+      "english_sha256": "9c2da5bf4529318bb357f7c32e91efb29014fc08c0f40d83f89a548e81bc695a",
+      "ko": "곰의 행동은 타고난 본성보다는 양육 환경 탓일 수 있다. 어떤 사정이 곰을 범죄의 길로 이끌었는지 공감하며 알아보고 도와준다."
+    },
+    {
+      "line": 484,
+      "event": "bearrobbery",
+      "english_sha256": "471a604e0ce7529511b31254e6c9f1d352ba494cbdb83c4e172353a1ae2cf6c2",
+      "ko": "곰이 맛있는 소풍보다 더 탐내는 유일한 것, 택시 면허를 이 곰에게 안겨 줘라. 상상해 봐! 택시를 모는 곰이라니! 돈으로도 못 살 장관이야."
+    },
+    {
+      "line": 486,
+      "event": "bearrobbery",
+      "english_sha256": "c2165f9b199828e49361e9e282e3facee9e4e8cf3535c73c02c51c91935ea836",
+      "ko": "공감의 힘을 발휘해 곰의 감정적 혼란에 호소한다."
+    },
+    {
+      "line": 487,
+      "event": "bearrobbery",
+      "english_sha256": "892af0c249bb541af9c95eb91fb4c9b2f534381e95969f1eeab5798eb2037534",
+      "ko": "너는 곰에게 네 마음을 이해한다고, 정말로 이해한다고 말한다. 이 소풍이 탐날 수는 있어도 꼭 필요한 건 아니다. 샌드위치와 탄산음료가 내면의 고통을 묻어 주진 못할 테니까."
+    },
+    {
+      "line": 488,
+      "event": "bearrobbery",
+      "english_sha256": "e847238a6b8c6b097df91be3d8d12e3162fff3f55e56b622365668376d4fb59b",
+      "ko": "하지만 네가 이 곰에게 정말 필요한 걸 줄 수 있다. 바로 곰 포옹이다."
+    },
+    {
+      "line": 489,
+      "event": "bearrobbery",
+      "english_sha256": "4b8d3a69dbc2e289e98f73f344541f5f38c9224fab9ba98fc6deefc319ff701f",
+      "ko": "...그르릉?"
+    },
+    {
+      "line": 492,
+      "event": "bearrobbery",
+      "english_sha256": "580efa9e3e53cae72e22e97e3dadbd57983a7b388d5cf10642fdaa19366547ee",
+      "ko": "곰은 가족 중 가장 작고 약했던 시절을 떠올린다. 감정적으로 무심한 곰 아빠는 왜소하고 약하다는 이유로 그를 방치했다."
+    },
+    {
+      "line": 493,
+      "event": "bearrobbery",
+      "english_sha256": "ce83a679bbbbc96f081ec53db4cebfc28fe8e67fd4cd2da4ea0f08663462844b",
+      "ko": "그는 일자리를 구하려 애썼지만 번번이 실패했다. 요즘은 곰을 고용하는 곳이 없으니까. 생계를 잇기도 버겁다."
+    },
+    {
+      "line": 494,
+      "event": "bearrobbery",
+      "english_sha256": "89404f19c722415b3ea08e7709492b5d52027494bdbe5b98c61b243b216d6113",
+      "ko": "곰 아내는 새끼들을 먹여 살리지 못한다고 그를 타박한다. 동굴 월세조차 간신히 감당한다. 빌어먹을 숲속 젠트리피케이션!"
+    },
+    {
+      "line": 495,
+      "event": "bearrobbery",
+      "english_sha256": "13119fc18ac5a0817e9f97196a5d7817f99107277540e9064559985fa66ec88b",
+      "ko": "유난히 심한 부부싸움 끝에 그는 숲을 떠돌았다. 배는 고프고, 짜증은 치밀고, 불공평한 세상에 대한 분노로 가득 찬 채..."
+    },
+    {
+      "line": 496,
+      "event": "bearrobbery",
+      "english_sha256": "f6409dac45e250e143546ca8906f0f93ec627a6c9ef0254d078656f43c262b23",
+      "ko": "곰은 옆면에 \"FREE GUNS 4 BEARS\"(곰에게 공짜 총!)라고 적힌 총기 상자를 지나쳤던 일을 떠올린다. 이제 뭘 해야 할지 알았다..."
+    },
+    {
+      "line": 499,
+      "event": "bearrobbery",
+      "english_sha256": "78f83d4a4550adf99b43dc7adbc963311c31f2c3053597de805bddb9074b3a62",
+      "ko": "네가 안아 주자 곰의 주둥이를 따라 눈물 한 방울이 흘러내린다. 곰은 네 등을 토닥이고, 곰곰이 생각할 시간이 필요하다며 숲속으로 돌아간다."
+    },
+    {
+      "line": 501,
+      "event": "bearrobbery",
+      "english_sha256": "f2700a678dde9cdcd9eef32652fe33e6d0032f9ab80ad4fd6a760432fb706e9a",
+      "ko": "그러니까 연민과 이해로 곰의 문제를 해결했다고? 재미없네."
+    },
+    {
+      "line": 502,
+      "event": "bearrobbery",
+      "english_sha256": "d4fba924a2208ce8f44a90fb1fdacdce85b61b7c04288f42c36a96bd442b9c39",
+      "ko": "아니, 오해하진 마. 내 미드를 지켜 준 건 고맙게 생각해... 아, 스콧 목숨도 구해 줬고."
+    },
+    {
+      "line": 503,
+      "event": "bearrobbery",
+      "english_sha256": "8eb074cdc8d91e37f5f06ade3c1cd0bedff5e96b443b7bdf6082369871148483",
+      "ko": "하지만 그 총구에서 벗어나는 방법 중 객관적으로 가장 재미없는 방식이었어."
+    },
+    {
+      "line": 504,
+      "event": "bearrobbery",
+      "english_sha256": "1bcdaffc5c70b1010574b5c8e27bad779a6ed19f6aa4a1eab98377c2792e5d7b",
+      "ko": "이런, 그냥 \"고마워, %CURRENTPLAYERNAME%!\" 한마디 정도는 해 줄 수 있잖아..."
+    },
+    {
+      "line": 505,
+      "event": "bearrobbery",
+      "english_sha256": "1785b1a762f5756773ea88141fc4a7cb1e973806b630d4481658ec0a83419dff",
+      "ko": "네가 옳은 일을 했다는 건 마음속으로 알고 있다. -N2 HYPE를 잃었지만, 곰을 도운 덕에 +N2 SOUL을 얻는다!"
+    },
+    {
+      "line": 508,
+      "event": "bearrobbery",
+      "english_sha256": "75082dd73c499b096c73096baa228bd3a2289925b8f583719e20217b93f5940f",
+      "ko": "너는 -N2 MONEY를 내고 택시 면허를 주문한다. 그리고 곰에게 건넨다..."
+    },
+    {
+      "line": 510,
+      "event": "bearrobbery",
+      "english_sha256": "c803866804ea8b37446fed8f8af697c39b0d43030ef014693a592399c7ba7dbb",
+      "ko": "곰은 그걸 들고 달아난다! 만세! 그 만남을 아주 매끄럽게 넘긴 덕에 +N2 HYPE를 얻는다."
+    },
+    {
+      "line": 511,
+      "event": "bearrobbery",
+      "english_sha256": "e74bbd56aa9c20f78519400245a6e8bd2b316fce741402d780154d9d0e654ec2",
+      "ko": "잘 풀려서 다행이긴 한데, 우리가 한 행동이 나중에 대가를 치르게 할 것 같은 기분이 들어?"
+    },
+    {
+      "line": 512,
+      "event": "bearrobbery",
+      "english_sha256": "c1be70bd7008286278058e2653cf5a50593c69f0958923729ddafa1bbaa951a4",
+      "ko": "쳇, 무슨 소리야? 우리한테 그런 일은 절대 안 생겨."
+    },
+    {
+      "line": 515,
+      "event": "bearrobbery",
+      "english_sha256": "26a659ee08320970ff0447788eedc3bc4228e380f00dd5e89b49806bfdc8b5ba",
+      "ko": "얼마 후, 두 등산객이 필사적으로 도망치며 숲속을 질주한다. 헐떡이는 숨소리에 광란의 드럼 비트가 깔린다."
+    },
+    {
+      "line": 517,
+      "event": "bearrobbery",
+      "english_sha256": "0efa0726ab793ca17762e40841ce8b1093026a012ceb93b1788d65cbb7df25b3",
+      "ko": "\"이 숲이 위험하다고 했잖아, 거스! 애초에 오지 말았어야 했어!\""
+    },
+    {
+      "line": 518,
+      "event": "bearrobbery",
+      "english_sha256": "9b1647c24401ff7bf429d7caa3a9d37cc467177f0cf618f88114a7a9f08776f9",
+      "ko": "\"알아, 그런데 이건?! 너도 이건 비정상이라고 인정해야 해!\""
+    },
+    {
+      "line": 519,
+      "event": "bearrobbery",
+      "english_sha256": "0b444a3c60f57ef2bc216c34a7790f55cbfbd339ad62fd5526be0a26a210745c",
+      "ko": "\"가혹한 야생에는 비정상 따위 없어! 자연은 잔인한 여주인이라서 우리를 한계까지 몰아붙이지!\""
+    },
+    {
+      "line": 520,
+      "event": "bearrobbery",
+      "english_sha256": "12b56d64bb3ce0348b06b45a3b6a9a126813d67a0b15c69ec83f1198047fe1cb",
+      "ko": "\"그래, 그래. 자연은 개같지! 그래도 그 곰이 씨발 택시를 몰고 다니는 건 설명이 안 되잖아!\""
+    },
+    {
+      "line": 524,
+      "event": "bearrobbery",
+      "english_sha256": "d29d02bd6d5aac8760e6fde6c4e71a730912c933a4130241ed282259e3bb7231",
+      "ko": "부릉! 부르르르르릉!"
+    },
+    {
+      "line": 525,
+      "event": "bearrobbery",
+      "english_sha256": "a20b28139f029b96f4a181ad796074a75cbcf01990e87a496719d6986efbcb36",
+      "ko": "너는 '인간 대 자연'을 봤다. '인간 대 곰'도 봤다. '인간 대 곰 여러 마리'까지 봤을지도 모른다."
+    },
+    {
+      "line": 526,
+      "event": "bearrobbery",
+      "english_sha256": "c37db651133b16eb3d38624cedc1ce6d1d36d4773f3631274fdfd54fe5007242",
+      "ko": "하지만 올여름 블록버스터 대작에서 드디어 보게 될 것이다. 인간 대 곰... 택시 안에서!"
+    },
+    {
+      "line": 529,
+      "event": "bearrobbery",
+      "english_sha256": "92025fd86afe785d4c071e99019582522a17e21d5003be7909878963344b4ab8",
+      "ko": "\"택시 곰: 요금은... 네 얼굴이다!\" 가까운 극장에서 곧 개봉!"
+    },
+    {
+      "line": 537,
+      "event": "fetchpicnic",
+      "english_sha256": "143a8306e9f1b87cf4bf31099bdc79a195cff5f39e60af890a5cb4e8a84d0a17",
+      "ko": "공 가져오기 놀이하기"
+    },
+    {
+      "line": 540,
+      "event": "fetchpicnic",
+      "english_sha256": "55639e0107ae1713741639eaa34038e1c1059bf0b771caeda88b664edeeef04f",
+      "ko": "너는 샌드위치를 먹기 시작한다. 폴리는 햇볕을 쬐려고 눕는다. 너희는 이 평온한 순간을 만끽한다..."
+    },
+    {
+      "line": 541,
+      "event": "fetchpicnic",
+      "english_sha256": "2312a1446ad608534ce7e7e69f4d6d6e396ba8562f0106350b98875c7a4ef66b",
+      "ko": "이 평화가 오래가지 못하리라는 걸 알기에."
+    },
+    {
+      "line": 543,
+      "event": "fetchpicnic",
+      "english_sha256": "2ec88fa0e49b9a95d64fbe74a5bdf036b27f2f0563d2c32af1f9de7cdf1b51da",
+      "ko": "%CURRENTPLAYERNAME%! %CURRENTPLAYERNAME%! 나랑 공 가져오기 놀이 할래?"
+    },
+    {
+      "line": 544,
+      "event": "fetchpicnic",
+      "english_sha256": "9df2697e068f8814809f644c1a98d0c3d220dfd79601c8399416f4b3c2343f12",
+      "ko": "올 것이 왔다."
+    },
+    {
+      "line": 545,
+      "event": "fetchpicnic",
+      "english_sha256": "241333dc79de1489171747260223082b2613b113d61b1287bf268ddd2b62490b",
+      "ko": "공 던져! 막대기! 던져 줘! 제발?? 나한테 이렇게 좋은 막대기가 있는데 쫓아가서 다시 가져와야 해!"
+    },
+    {
+      "line": 547,
+      "event": "fetchpicnic",
+      "english_sha256": "dcd2149ca9b25acdcdb3edb3be9ff5e3ba77c7db4ba0d08b58c01bf22eb81aa8",
+      "ko": "우리 약속했잖아, 자기. 지난 휴게소에서 내가 얘랑 공 가져오기 놀이 했어. 이번엔 네 차례야."
+    },
+    {
+      "line": 548,
+      "event": "fetchpicnic",
+      "english_sha256": "24d215ccb05361e05c785084f886c8af2271842c563bf115da3fd35d7dc5b3cb",
+      "ko": "너는 스콧에게 막대기를 건네고, 스콧은 신나서 꼬리를 흔들며 앉는다. 젠장, 조금 귀엽긴 하다."
+    },
+    {
+      "line": 549,
+      "event": "fetchpicnic",
+      "english_sha256": "33236ac6799e0461fb1ee579c908768d51b58ecc8d57a6655f11f6436164b051",
+      "ko": "이제 중요한 결정을 내려야 한다. 막대기를 얼마나 멀리 던질까?"
+    },
+    {
+      "line": 550,
+      "event": "fetchpicnic",
+      "english_sha256": "d8252f3ca03b5c215b813041fa4d4185318b51770ff1996c34c255f6a22f9475",
+      "ko": "너무 무리하진 마. 오늘 밤 늦게 쓸 에너지도 아껴 둬야지. 윙크!"
+    },
+    {
+      "line": 551,
+      "event": "fetchpicnic",
+      "english_sha256": "fc7be1065fdea07bbd0b0b6f189445b8d55ad30e8f756e50d836f323b64d0bf2",
+      "ko": "막대기를 날려 버려. 아주 세게 날려 버려!"
+    },
+    {
+      "line": 552,
+      "event": "fetchpicnic",
+      "english_sha256": "43c8d08c51582469b7dc20be0b4b88058f86b46066ac2a44bf659523a1ea166c",
+      "ko": "페치 속임수를 써 보자. 막대기를 던지는 척하다가 등 뒤에 숨기는 거야!"
+    },
+    {
+      "line": 555,
+      "event": "fetchpicnic",
+      "english_sha256": "32d8f11c2ed67b1b61b943f0a0bfd6254df785a7c3466fc8e354ad6c537e3e67",
+      "ko": "그냥 스콧에게 막대기를 건네기로 한다. 에너지도 아끼고 가져오기 놀이 과정도 간소화하자!"
+    },
+    {
+      "line": 556,
+      "event": "fetchpicnic",
+      "english_sha256": "8169830f63907329bbd1b0996f91032b9e9c08b44d0f6194fc3f224de7aa5b7e",
+      "ko": "어...?"
+    },
+    {
+      "line": 557,
+      "event": "fetchpicnic",
+      "english_sha256": "2a57a632bcc5338f3c97baf2cdfea85860d51db14bc9ec2f37808d00a0be1c3a",
+      "ko": "스콧은 착하게도 따지지 않고 막대기를 너에게 돌려준다. 너는 다시 건넨다. 재밌어... 그렇지?"
+    },
+    {
+      "line": 559,
+      "event": "fetchpicnic",
+      "english_sha256": "19a7f318855e09a71f1da5ab0987231ed8182310cf3e00d5cade537b354dfcbd",
+      "ko": "씨발, 이제 파티다! 여기서 뭘 주고받는 거야?"
+    },
+    {
+      "line": 560,
+      "event": "fetchpicnic",
+      "english_sha256": "9b93f8c4694f30fe9accc11809b10851e64a98730b2563780c16ce2754dc6c0f",
+      "ko": "가져오기 놀이를 하려는 건데, %CURRENTPLAYERNAME%은 규칙을 모르는 것 같아..."
+    },
+    {
+      "line": 561,
+      "event": "fetchpicnic",
+      "english_sha256": "f1505b728f8840b0bff4b7de684594d33fb603241df10978fd55664fc0e760c8",
+      "ko": "으음... 뭔가 다른 일이 벌어지고 있는 것 같아."
+    },
+    {
+      "line": 562,
+      "event": "fetchpicnic",
+      "english_sha256": "aeff3b7e1d636555e14d3a95f9c7892247668409f59706185bfd7b5164809df3",
+      "ko": "%CURRENTPLAYERNAME%이 %HISHER% 주로 쓰지 않는 손으로 막대기를 \"던지고\" 있다는 거 알아챘어?"
+    },
+    {
+      "line": 563,
+      "event": "fetchpicnic",
+      "english_sha256": "d44fc38ac4f5e455a37a5fa66e540769edf637e03306ae20eff2219ae6058595",
+      "ko": "그건 %HESHE%%VERB_'S_'RE% 나중에 자위하려고 %HISHER% 기운을 아끼고 있다는 명백한 증거야."
+    },
+    {
+      "line": 564,
+      "event": "fetchpicnic",
+      "english_sha256": "1bcf333144095cc17888558ec72283dbe720760f6918b189c28d03d1b5b86531",
+      "ko": "뭐라고?! 그걸 어떻게 안 거야?!"
+    },
+    {
+      "line": 565,
+      "event": "fetchpicnic",
+      "english_sha256": "34b3fb746f9933cca3ce1131358f7caf30df427e83076fc05da76ef082e6d6a8",
+      "ko": "난 음탕한 일이라면 뭐든 꿰뚫어 보는 셜록 홈스급 전문가니까! 멀리서도 자위할 생각에 흥분한 %MANWOMAN%을 단번에 알아볼 수 있거든!"
+    },
+    {
+      "line": 566,
+      "event": "fetchpicnic",
+      "english_sha256": "ff18aad4d1337bbcdb0c123dee579ed14a0cd73bee9917d2941e189137ed6f52",
+      "ko": "아... 에너지를 아끼고 싶은 거라면 괜찮아, 친구. 그냥 가져오기 놀이를 엄청 하고 싶었을 뿐인데..."
+    },
+    {
+      "line": 567,
+      "event": "fetchpicnic",
+      "english_sha256": "71af88c56870ada406f26538cafab8057fc19af87effc7271723afa80b317a7b",
+      "ko": "내가 같이 놀아 줄게, 친구. %CURRENTPLAYERNAME%과 달리 난 나중에 자위할 기운도 남기고 지금 좋은 친구 노릇도 할 수 있거든. 이리 와."
+    },
+    {
+      "line": 569,
+      "event": "fetchpicnic",
+      "english_sha256": "242747d7762772f87bbb19e3217512a5294f8bca074bb5b7f606b80b50ddece3",
+      "ko": "가져오기 놀이를 망쳐 -N2 HYPE를 잃었지만, 아낀 +N2 STAMINA는 나중에 도움이 될 거야!"
+    },
+    {
+      "line": 571,
+      "event": "fetchpicnic",
+      "english_sha256": "8f7acc05b34de32cfc57363c2e63e4546e7cbaaa7d193dd4979bdd646707f475",
+      "ko": "너는 온 힘을 다해 막대기를 던지며 아주 애니메이션 같은 \"하아아앗!!\" 소리를 낸다."
+    },
+    {
+      "line": 573,
+      "event": "fetchpicnic",
+      "english_sha256": "16a046192f39077defa4834a95db96d37fedeeb031f6892d922440ceb58b6158",
+      "ko": "막대기는 지평선 너머로 사라진다... 그리고 얼마 지나지 않아 스콧도 사라진다."
+    },
+    {
+      "line": 574,
+      "event": "fetchpicnic",
+      "english_sha256": "ff192477068a5e4bbffad840b85553e5ab0d2e6f1f070a78511f48730664b253",
+      "ko": "그리하여 그는 떠났다."
+    },
+    {
+      "line": 575,
+      "event": "fetchpicnic",
+      "english_sha256": "a48166fee7aeb22d4e7f2d8fac536599ed0faf269faf9c7df774801058b594c5",
+      "ko": "걱정 마, 우리한테 돌아오는 길을 찾을 거야. 우리 냄새를 기억하고 있거든."
+    },
+    {
+      "line": 576,
+      "event": "fetchpicnic",
+      "english_sha256": "7ecea72b599fbb2ec039f0951dd54c4588b8c9df92bf91b706e451100c28bac3",
+      "ko": "기다리는 동안 시간이나 때울까? 내가 지금 무슨 색 속옷을 입었는지 맞혀 봐!"
+    },
+    {
+      "line": 577,
+      "event": "fetchpicnic",
+      "english_sha256": "880da4287d70dec7d05ca09229d34f45339ec78e4dbd3c127b2197a259adcf9e",
+      "ko": "점수라고? ...아니, 진짜로 네가 맞혀 보길 바라는 눈치다."
+    },
+    {
+      "line": 578,
+      "event": "fetchpicnic",
+      "english_sha256": "77d214adfc472e02afe74ed7e84f397d683a75a25af4b50155dd54b84c570903",
+      "ko": "네가 마침내 '세룰리안 블루'라고 맞힐 때까지 한참이 걸렸고, 그제야 스콧이 돌아온다."
+    },
+    {
+      "line": 580,
+      "event": "fetchpicnic",
+      "english_sha256": "e62db135db755a983c3baf25ca73201252d4dd6e605cbe7be7530a1843dba793",
+      "ko": "형들! 이것 봐요! 착한 강아지처럼 막대기를 가져왔어요!"
+    },
+    {
+      "line": 581,
+      "event": "fetchpicnic",
+      "english_sha256": "c5bdc533ce1e6928a8da984c49042b7efc54a22683ae1f9ba62e7849445396be",
+      "ko": "잘했어, 친구! 왜 이렇게 오래 걸렸어?"
+    },
+    {
+      "line": 582,
+      "event": "fetchpicnic",
+      "english_sha256": "d08490b060797fce5f789a0ee40d1f71fbe53c969356d46339bc7a4a865f20b2",
+      "ko": "음, 막대기를 쫓아가다 수상한 선술집에 들어갔는데, 거기서 컬트 집단에게서 고대 유물을 되찾으라는 퀘스트를 받았어요!"
+    },
+    {
+      "line": 583,
+      "event": "fetchpicnic",
+      "english_sha256": "5641b2bda70decb6ea411a9856087927d42c6be73ef2f90a053eb78d84b2f681",
+      "ko": "정말 험난한 모험이었죠. 자경단 괴물 사냥꾼, 치명적일 만큼 섹시한 러시아 스파이, 매력 +2짜리 음유시인과 팀을 짜서 유물을 되찾았어요."
+    },
+    {
+      "line": 584,
+      "event": "fetchpicnic",
+      "english_sha256": "2fe1866f48088fcb8c468a6621a2ee74c7cbbbb2cdb7f7be321bb15fccd96a3f",
+      "ko": "고생 끝에 유물을 찾아냈는데, 믿기지 않겠지만... 그게 바로 제 막대기였어요!"
+    },
+    {
+      "line": 585,
+      "event": "fetchpicnic",
+      "english_sha256": "ed6b26f0d7dc4cb0e3a55eb1e5e49d01a96bebe604e1489dfa876c1ed44bf8db",
+      "ko": "막대기에서 신이 튀어나와 특별한 힘을 줬어요. 이제 제가 재채기할 때마다 사춘기 소년 한 명에게 첫 가슴털이 난다니까요!"
+    },
+    {
+      "line": 586,
+      "event": "fetchpicnic",
+      "english_sha256": "3cd77299cd787e9958b95a9873d9db49cdb4859a51fcb9fb9059817c16f9af85",
+      "ko": "대단하긴 한데, 내가 막대기를 그렇게까지 멀리 던졌을 리가 없다는 생각이 자꾸 들어."
+    },
+    {
+      "line": 587,
+      "event": "fetchpicnic",
+      "english_sha256": "5b56ac4d040ea285e499eec06011e3a29b1c469e3221913d7c0c46096e47f928",
+      "ko": "동감이야. 우리 앞쪽 스무 피트쯤에 있는 저 막대기가 %CURRENTPLAYERNAME%이 던진 막대기일 가능성이 더 크지 않아?"
+    },
+    {
+      "line": 588,
+      "event": "fetchpicnic",
+      "english_sha256": "5bec63c7668806f7ef006ec9e05e6e191ebab8d68ea035a17612c638ff15a08f",
+      "ko": "아, 아마 그렇겠네요. 못 봤어요! 제가 이렇다니까요!"
+    },
+    {
+      "line": 589,
+      "event": "fetchpicnic",
+      "english_sha256": "7cf038cca1596f428a083545cd00f1a8ac0970e1c42d2bc9d1ba351ff5217560",
+      "ko": "스콧과 함께하는 또 다른 하루, 또 다른 모험이다. 가져오기 놀이로 +N2 HYPE를 얻었지만, 그 엄청난 투구에 기력을 몽땅 쏟아 -N2 STAMINA를 잃었다."
+    },
+    {
+      "line": 591,
+      "event": "fetchpicnic",
+      "english_sha256": "b6be75e25341984a485a50af29f32e1e22f42d5c3748092a4049eae74fc2b0e1",
+      "ko": "너는 극적으로 몸을 젖히고 막대기를 '던진다'. 스콧은 아무것도 모른 채 막대기를 쫓아 달려간다."
+    },
+    {
+      "line": 593,
+      "event": "fetchpicnic",
+      "english_sha256": "0cb40ef405dcd79d8e37e0e43c27ad24d7acc0f06aeb06191802d0131f965a7b",
+      "ko": "ㅋㅋㅋ, 잘했어, %CURRENTPLAYERNAME%. 하이파이브!"
+    },
+    {
+      "line": 594,
+      "event": "fetchpicnic",
+      "english_sha256": "d0256e57cb3a2a09a49a4b98bf57be846357203889a3865ee962c502d406349d",
+      "ko": "폴리가 하이파이브를 날린다. +N4 HYPE와 +N2 MAGIC이 넘쳐흐를 정도로 강렬하다."
+    },
+    {
+      "line": 595,
+      "event": "fetchpicnic",
+      "english_sha256": "aabe3d879d71a6109ca18d5d665b057c53e6f8f453417a6590d9e7c9ff7da6be",
+      "ko": "스콧은 몇 시간 동안 필사적으로 막대기를 찾느라 사라진다. 덕분에 일행 전체가 -N4 STAMINA를 잃고, 마침내 돌아오는데... 경찰까지 데려왔다?!"
+    },
+    {
+      "line": 597,
+      "event": "fetchpicnic",
+      "english_sha256": "67f7462749336950ee8a7e14a1f217052087b116b45f56e3dc9af2bdf96bc441",
+      "ko": "안녕하세요, 스콧 하울 씨 맞으시죠? 막대기가 사라졌다고 신고하셨나요?"
+    },
+    {
+      "line": 598,
+      "event": "fetchpicnic",
+      "english_sha256": "c9d2a3bed8eb97cc98df95b0bbab647fa41a374dab03d25aa8426b133f16bb1a",
+      "ko": "네. 제 절친 %CURRENTPLAYERNAME%이랑 가져오기 놀이를 했어요. 절 배신할 리 없는 좋은 친구거든요. 그런데 %HESHE% 막대기를 던지자 그게 그냥... 사라졌어요."
+    },
+    {
+      "line": 599,
+      "event": "fetchpicnic",
+      "english_sha256": "8b95bf9b9e06bd4e322fcca4ba414bbdc1d0b96fb4ab7663aab9d58b3ae2fb46",
+      "ko": "걱정 마렴, 꼬마야. 네 막대기 실종 사건은 이제 이 경찰서의 최우선 수사 과제란다. 지원 인력도 이미 출발했어."
+    },
+    {
+      "line": 600,
+      "event": "fetchpicnic",
+      "english_sha256": "37f8e9f061754903542d93a757dd974f2f69777352a8826908c91088ac63c521",
+      "ko": "몽타주 담당 화가가 네 막대기를 그릴 수 있게 생김새를 설명해 주겠니?"
+    },
+    {
+      "line": 601,
+      "event": "fetchpicnic",
+      "english_sha256": "1b42e0cad0e057105c5031c75618adeee7ce8e77e2f044f0dfbb38976885b419",
+      "ko": "그게... 음... 갈색이고... 막대기처럼 생겼어요...?"
+    },
+    {
+      "line": 602,
+      "event": "fetchpicnic",
+      "english_sha256": "f8c4a9a17388cb0a2e7c98ca5d9599dd74f648b68e16e39b50959aa30da4df7f",
+      "ko": "경찰은 막대기를 샅샅이 수색하지만, 물론 아무것도 찾지 못한다."
+    },
+    {
+      "line": 603,
+      "event": "fetchpicnic",
+      "english_sha256": "4374df90fb81e3689e29303695ff4216ea5198a7be98bbb87d1a28de04560b97",
+      "ko": "젠장! 여기까지는 안 가려고 했는데, 이제 방법이 없어... 막대기 초능력자를 데려와!"
+    },
+    {
+      "line": 605,
+      "event": "fetchpicnic",
+      "english_sha256": "83ff6ba1a028bb26337053b02acc93a07d1d97eebe6db8f71939bbef906c7d55",
+      "ko": "전 그냥 평범한 초능력자인데요. 뭐, 그러죠."
+    },
+    {
+      "line": 606,
+      "event": "fetchpicnic",
+      "english_sha256": "b44adbfdab6d5b0e8a62485e491b7c9b32101ceb55171d4200373baa4567a714",
+      "ko": "호프?! 이제 경찰이랑 손잡은 거야? 넌 정의로운 편이어야 하잖아!"
+    },
+    {
+      "line": 607,
+      "event": "fetchpicnic",
+      "english_sha256": "189e5953e551b0139929f81da267fc4d8c516d34f8c4cfae9e5045efaf16cd7a",
+      "ko": "흥, 그래도 적어도 %CURRENTPLAYERNAME%만큼 나쁘진 않지..."
+    },
+    {
+      "line": 608,
+      "event": "fetchpicnic",
+      "english_sha256": "9c8b6ec4b1313144ede39e4e75ac9909e681ea7f5f7b16364d4f163da58e9d4f",
+      "ko": "...%HESHE%%VERB_'S_'VE% 지금까지 스콧의 막대기를 %HISHER% 뒷주머니에 숨기고 있었어."
+    },
+    {
+      "line": 609,
+      "event": "fetchpicnic",
+      "english_sha256": "769cf8ca589fe9d45d7b49725cde9cf4369a3a6eb1dae4fa8eba62993278f09c",
+      "ko": "뭐라고?! 하지만 왜, %CURRENTPLAYERNAME%? 왜애애애?!"
+    },
+    {
+      "line": 611,
+      "event": "fetchpicnic",
+      "english_sha256": "8af97153a766364ee4756e2e0161be4e3e6782377ab95e1da27ea8bc05aab6d7",
+      "ko": "이런... 스콧은 네 막대기 절도에 대해 고소하진 않지만, 형편없는 친구인 대가로 -N2 SOUL을 잃는다."
+    },
+    {
+      "line": 619,
+      "event": "crashpicnic",
+      "english_sha256": "f4c42b717fa3143d9ab711b4ffa8e329b6cec3a894ba0c9b996b12452a3e2cb0",
+      "ko": "남의 소풍에 끼어들기"
+    },
+    {
+      "line": 624,
+      "event": "crashpicnic",
+      "english_sha256": "d505a6d11b783f485cdf651714d1e6ee8959d14a8fe8df21ef4358238dadcb85",
+      "ko": "남의 소풍에 무임승차할 수 있는데 굳이 직접 차릴 이유가 있나?"
+    },
+    {
+      "line": 625,
+      "event": "crashpicnic",
+      "english_sha256": "afb2e6136f1197f42874fe68c8852b52a2df379d0fd1881ce9a5d20ec630cd55",
+      "ko": "어색한 회사 야유회와 코티지치즈만 먹는 가족의 소풍을 거른 뒤, 너희는 몰래 끼어들기에 완벽한 소풍을 찾아낸다..."
+    },
+    {
+      "line": 627,
+      "event": "crashpicnic",
+      "english_sha256": "21f39100e48de47f3e2ede842918d6d61c72fd5337d0a0e64c38b0a34515f9d9",
+      "ko": "얘들아, 저 소풍 완전 핫한데! 저쪽에 최소 쉰 명은 모인 것 같아! DJ까지 있잖아!"
+    },
+    {
+      "line": 628,
+      "event": "crashpicnic",
+      "english_sha256": "9fc546f8bd27618a77120565bdbbdd2103da3869943c565f13c5d43c7dce0153",
+      "ko": "그런데 어떻게 들어가지? 저 문지기 엄청 깐깐해 보여. 곰조차 못 들어가게 하잖아."
+    },
+    {
+      "line": 630,
+      "event": "crashpicnic",
+      "english_sha256": "e4d7e2e0041b57407818083b4c279f380f836856c99430bd07a9dd01b85a5d92",
+      "ko": "크아아아아아아앙!"
+    },
+    {
+      "line": 631,
+      "event": "crashpicnic",
+      "english_sha256": "efe7119c6575a159eef981535c301cb0a16b5c321942b1371914feb0029e9ee9",
+      "ko": "문지기가 말한다. '크아아아아앙'은 명단에 없거든, 친구! 털 난 엉덩이 빼고 꺼져. 내가 쫓아내기 전에!"
+    },
+    {
+      "line": 633,
+      "event": "crashpicnic",
+      "english_sha256": "6a442b37c85d159834c2229b9ab04e2eadad87035a1358847702cafb86c37c31",
+      "ko": "잠깐, 줄 서서 들어가려는 저 사람 리엄 아니야?"
+    },
+    {
+      "line": 634,
+      "event": "crashpicnic",
+      "english_sha256": "b34afd94c7ec0c3275f2b2f44dc824f4968282764119cd203216a1a27689470b",
+      "ko": "리엄! 리엄! 야! 리엄! 나 스콧이야! 네 친구! 이봐! 안녕!"
+    },
+    {
+      "line": 636,
+      "event": "crashpicnic",
+      "english_sha256": "a2eac8de83d0d3f6fb13f12aa579d93f10bfaeb894059055905f64bbf949070f",
+      "ko": "아, 이런. 너희까지 여길 알게 된 거야? 제발 이 소풍이 대중적인 유행이 된 건 아니라고 해 줘..."
+    },
+    {
+      "line": 637,
+      "event": "crashpicnic",
+      "english_sha256": "4ec1415baf6b3aba212ad3737368f62afe876c31af4ac443b1a60a4396de91fe",
+      "ko": "안녕, 리엄! 그냥 궁금해서 그런데, 우리 우정을 이용해서 저기 소풍에 들어갈 수 있게 도와줄래?"
+    },
+    {
+      "line": 638,
+      "event": "crashpicnic",
+      "english_sha256": "be863f89994129cbceae8ff7b81e43177ed35a6bde240ae95e3aa3e67b25f574",
+      "ko": "절대 안 돼! 우리가 말하는 건 바로 그 'DJ 허니 디종의 소풍 대축제 20XX'라고."
+    },
+    {
+      "line": 639,
+      "event": "crashpicnic",
+      "english_sha256": "39c365819124484dd8c6bb30f5b9a1632a1ddef7c2f7ceb4523ea3ae17a21486",
+      "ko": "유행에 민감한 소풍 애호가들이 가장 선호하는 장소지... 아니면 체크무늬 담요 위에서 코카인을 코로 들이마시는 걸 좋아하는 사람들에게도."
+    },
+    {
+      "line": 640,
+      "event": "crashpicnic",
+      "english_sha256": "4d9b8e7778910330e22598074390a33e532a42bcc4b49999143fc51c2ceca4bb",
+      "ko": "와, 겨자통이 DJ를 맡은 초특급 소풍에 초대받았다고 우리랑 놀기엔 너무 잘난 척하는 거야? 우리 친구인 줄 알았는데!"
+    },
+    {
+      "line": 641,
+      "event": "crashpicnic",
+      "english_sha256": "6db225aa0657e32fe4803a3d9505ee7e3436657af8e13706714b643423a0ba0a",
+      "ko": "우린 친구 맞아! 진짜야, 재수 없게 굴려는 게 아니라고. 사실 나도 여기 낄 만큼 쿨한 사람은 겨우 될까 말까야."
+    },
+    {
+      "line": 642,
+      "event": "crashpicnic",
+      "english_sha256": "e02081b3f40045144eaae11937170074aae0cc89bbcfa5d4eac8fa8515980572",
+      "ko": "문지기를 설득해서 나 혼자 들어가는 것만 해도 벅찰 거야. 너희까지 들여보낼 방법은 없어."
+    },
+    {
+      "line": 643,
+      "event": "crashpicnic",
+      "english_sha256": "861729dfa0da0d5504dd139d1def0678aa350573c61bc6087608f83bfdbcf0f9",
+      "ko": "리엄은 도움이 안 됐지만, 넌 포기하지 않는다! 이제 이 소풍에 몰래 들어갈 방법을 골라 보자."
+    },
+    {
+      "line": 644,
+      "event": "crashpicnic",
+      "english_sha256": "7d04b23c0b6e50be95dc58d23afb03694dec58579fa24d6f342a8010118644b3",
+      "ko": "가장 흔한 이름이라고 우기며 명단에 도전한다. 이름은 '존 도', '자코모 칼초네', 'Password1234'라고 하자."
+    },
+    {
+      "line": 645,
+      "event": "crashpicnic",
+      "english_sha256": "64e6050f0b6833cb22afd5eac745351e01b49a5f933d7efdd987305c3ec486c3",
+      "ko": "트렌치코트 안에 다 같이 구겨 넣고 엄청나게 덩치 큰 유명인 한 명인 척한다."
+    },
+    {
+      "line": 647,
+      "event": "crashpicnic",
+      "english_sha256": "16e8d5412c02f1d3547394c19d3b64969c9ea12852329a65534b0872c8bf2bb1",
+      "ko": "좋은 생각이야! Password1234는 내가 찜! FunNameGenerator.com에 따르면 그게 내 스트리퍼 예명이거든."
+    },
+    {
+      "line": 648,
+      "event": "crashpicnic",
+      "english_sha256": "20c22329e5318e8944572848f4eb4a5472c57fef514b46ea4fdf2e319ab8fbee",
+      "ko": "좋아, 난 자코모 칼초네 할래! 크면 이탈리아 사람이 되고 싶었거든!"
+    },
+    {
+      "line": 649,
+      "event": "crashpicnic",
+      "english_sha256": "5a0012c5ad77c5634ddc7b4c6c2e9f47d574fcc0decb36002bed11f1e3d7431a",
+      "ko": "그게 네 대단한 계획이야? 그런 이름이 진짜라고 믿을 만큼 멍청한 사람은 없을걸."
+    },
+    {
+      "line": 651,
+      "event": "crashpicnic",
+      "english_sha256": "6bde585a863b0cbebf327d0fdee8ecc7837c7dcdc1724f369552f09d202c5df3",
+      "ko": "두고 봐! 너는 문지기에게 느긋하게 다가가 자신을 바로 그 존 도라고 소개한다."
+    },
+    {
+      "line": 652,
+      "event": "crashpicnic",
+      "english_sha256": "a14004b7dc282b5e8a266cea0ad897b534ac5e91344b42fdc26b32d29a077057",
+      "ko": "'아, 물론이죠! 작품의 열렬한 팬입니다, %MRMRS% 도 씨. 친구분들과 함께 들어가셔도 됩니다.'"
+    },
+    {
+      "line": 654,
+      "event": "crashpicnic",
+      "english_sha256": "6184b674657654e38d8f0d7acf414ad1b0185d4465e49940b1e7471edb3c09c1",
+      "ko": "말도 안 돼. 대체 왜 통하는 건데?!"
+    },
+    {
+      "line": 655,
+      "event": "crashpicnic",
+      "english_sha256": "7c4cfe59c55d2ac847e9100b775b0d7a45f4a4483c6384d9550391ef6f4863dc",
+      "ko": "'어이, 어이, 물러서! 자네가 누구라고 생각하는 거야?'"
+    },
+    {
+      "line": 656,
+      "event": "crashpicnic",
+      "english_sha256": "702ff5d758f60fd35d28ecb7bdc03dedaa798222b90384f6c661422d3a44f7bc",
+      "ko": "난 리엄 드 리옹쿠르야! DJ 전용 서버에서 두 번째 등급의 모더레이터라고! 제발, 명단에 있어야 한다고!"
+    },
+    {
+      "line": 657,
+      "event": "crashpicnic",
+      "english_sha256": "8beb05992db28b96c92953543c7374c022da0a477a55a9e346e020f489c8aad5",
+      "ko": "'리엄 드 리옹쿠르라고? 하! 내가 들어 본 가짜 이름 중에서도 최고군.'"
+    },
+    {
+      "line": 658,
+      "event": "crashpicnic",
+      "english_sha256": "accc80fd77f5d66c05f2d97d055c3b818a5a0b90ea39f68305c9b3382ba0fdcd",
+      "ko": "'두운이 너무 심하잖아. 그리고 사자 법정이 뭐야? 사자는 무리 지어 사는 거 아니었나? 줄에서 나가!'"
+    },
+    {
+      "line": 660,
+      "event": "crashpicnic",
+      "english_sha256": "07317f56d9342743b67180cc9b9a33e0498322c4777b0187664eed2d0bde5b63",
+      "ko": "리엄에겐 최악의 날이지만 네 알 바는 아니다. 너희는 소풍을 즐기며 맛있는 잠수함 샌드위치를 먹고 +N2 STAMINA를 얻는다."
+    },
+    {
+      "line": 661,
+      "event": "crashpicnic",
+      "english_sha256": "295a06525ffbab44c1281128de7e6282bb63d57ef778b5a501d8201343800eee",
+      "ko": "하지만 진짜 존 도와 Password1234, 자코모 칼초네가 도착했을 땐 입장을 거부당한다."
+    },
+    {
+      "line": 662,
+      "event": "crashpicnic",
+      "english_sha256": "ccaa36b5d0801679316abf713344abc322f9959229c343cd4868b0e7067b1caf",
+      "ko": "Password1234의 흐느낌이 주변에 울려 퍼진다. 오늘은 그 사람의 생일이었고, 소원은 이 소풍에 들어가는 것 하나뿐이었다. 네가 생일을 망쳐 -N2 SOUL을 잃는다."
+    },
+    {
+      "line": 664,
+      "event": "crashpicnic",
+      "english_sha256": "bc166698133d55f29c975bc6596737884794628a344570f27748455fddd50c96",
+      "ko": "멍청이 셋을 트렌치코트 하나에 넣는다고 어떻게 소풍에 들어갈 수 있다고 생각하는 거야?"
+    },
+    {
+      "line": 665,
+      "event": "crashpicnic",
+      "english_sha256": "17e96787e91e4a17b05768a0537105594dd7f1cdb1723ed47b969ebe3c9b0101",
+      "ko": "스콧과 난 '트렌치코트 속 멍청이 둘' 수법으로 클럽 스물두 곳, 결혼식 아홉 번, 분위기 제대로 달아오른 돌잔치 한 번에 들어갔다고."
+    },
+    {
+      "line": 666,
+      "event": "crashpicnic",
+      "english_sha256": "4c6f5a829277e4cd18b55e437337febeba528f5cbc03eb556854441d4e26e25b",
+      "ko": "한 명 더 추가하면 팀원이 늘어나는 거잖아. 팀워크가 꿈을 이루는 법이지!"
+    },
+    {
+      "line": 667,
+      "event": "crashpicnic",
+      "english_sha256": "1c421462d03c5af7cdffbff68175198761ed2f21ee7e8b8663ea2fd70db3a2d2",
+      "ko": "아, 폴리! 우리 차에 수상님 의상이 아직 있는 거 기억나?"
+    },
+    {
+      "line": 668,
+      "event": "crashpicnic",
+      "english_sha256": "9cb1c379b0c8782681a25b599239d7234aa4b3c867e54c2ef74d61c9ac43bb85",
+      "ko": "'수상님?' 캠프 스푸키에서 네가 연기했던 악명 높은 파시스트 폭군 캐릭터 말이야?"
+    },
+    {
+      "line": 669,
+      "event": "crashpicnic",
+      "english_sha256": "adb8713a1c398fe0e0557f42915deb6acce2f781e3b6ada3878ba39c61f95b86",
+      "ko": "맞아. '악명 높은 파시스트 폭군'에 '유명한'이 빠질 순 없잖아! 수상님이라면 분명 명단에 있을 거야. 가자!"
+    },
+    {
+      "line": 671,
+      "event": "crashpicnic",
+      "english_sha256": "2ad854fa8893f89efae987636d3b5caa53ae52c7cb2a8d9c4ab5ee880ada1f4a",
+      "ko": "너희는 모두 의상을 갖춰 입고 문지기에게 다가간다. 문지기가 묻는다. '뭘 흉내 내는 거죠?'"
+    },
+    {
+      "line": 673,
+      "event": "crashpicnic",
+      "english_sha256": "98e272be0212ec392917c1599d9878c77d1646134798ac5a3dba6e7ab458457d",
+      "ko": "내가 바로 수상님이다, 이 찌질한 멍청이! 명단에 내 이름이 없으면 지옥을 맛보게 될 거다!"
+    },
+    {
+      "line": 674,
+      "event": "crashpicnic",
+      "english_sha256": "43d6d1211d44b9f0dde99f61f39c0b9e2b787d216a3a1a1b07fe6abc7d43b2e8",
+      "ko": "'수상님이라고요?! 죽은 줄 알았는데! 죄송하지만 명단에 없으십니다...'"
+    },
+    {
+      "line": 675,
+      "event": "crashpicnic",
+      "english_sha256": "32d1f92d4563d699813471314429f0aad5c4cb98113566f0115052c5facc407b",
+      "ko": "뭐라고?! 당장 명단에 올려! 안 그러면 네 딸을 내 명단에 올려 버리겠어!"
+    },
+    {
+      "line": 676,
+      "event": "crashpicnic",
+      "english_sha256": "6cadf2b714a69d469855272b7eed4ea6073690ac407a25d52086f359d549a012",
+      "ko": "...돔 게임에 보내 죽일 십 대들의 명단 말이다. 협박하는 거야. 못 알아들었을까 봐 알려 주는군."
+    },
+    {
+      "line": 677,
+      "event": "crashpicnic",
+      "english_sha256": "11eeef38eab0a25f0ba0dd090abaaaf90abfeedb87987c0f6f8b83ab0ff7a709",
+      "ko": "'하지만 전 딸도 없는데요! 제발 자비를 베풀어 주세요!'"
+    },
+    {
+      "line": 678,
+      "event": "crashpicnic",
+      "english_sha256": "a09829b65f0ff35939fbd7ec91a8c94c82a6855ff7bed4ca739516997a4fcc05",
+      "ko": "내가 이 소풍에 못 들어가면 넌 앞으로 딸이 절대 생기지 못할 거다!"
+    },
+    {
+      "line": 679,
+      "event": "crashpicnic",
+      "english_sha256": "b8636816fb8b7014c9678830e890bd5978a1eb7a441256eaa0606535d4054491",
+      "ko": "'으악, 너무 무섭고 혼란스러워요! 그냥 소풍을 즐기세요, 제발!'"
+    },
+    {
+      "line": 681,
+      "event": "crashpicnic",
+      "english_sha256": "07522bf9466c7c1e72d6b2a71858608d0f6f298da15948008437508b6a42bfe0",
+      "ko": "저게 그렇게까지 잘 먹힐 이유는 전혀 없었는데."
+    },
+    {
+      "line": 682,
+      "event": "crashpicnic",
+      "english_sha256": "3c1b04dbf8b646715e3901f8f24af1f23b08edeb72b7cea984aedfd13f4cac1b",
+      "ko": "하지만 먹혔잖아. 그게 중요하지! 소풍의 맛있는 잠수함 샌드위치 덕분에 +N2 STAMINA를 얻는다."
+    },
+    {
+      "line": 683,
+      "event": "crashpicnic",
+      "english_sha256": "6c15ca1ef4e85d0cc8de51ef15f4083d64e463b8f435ead8a3ef05466550b633",
+      "ko": "안타깝게도, 너무 오랫동안 수상님 행세를 하느라 -N2 MIND를 잃는다. 파시스트 폭군 흉내는 정신 건강에 이상하리만치 해롭다!"
+    },
+    {
+      "line": 691,
+      "event": "punchsomeone",
+      "english_sha256": "5de3d3cb4942bc77da4c5fde4d25f1ffb83ad3a54594d6c4462192149a1304f6",
+      "ko": "패싸움 시작하기"
+    },
+    {
+      "line": 695,
+      "event": "punchsomeone",
+      "english_sha256": "06f9eac33bf3e20257e41f8655bc838668062a8f286b5b646e14fa8dc4ac9d0b",
+      "ko": "너는 바에 앉아 팔씨름하는 손님 둘을 지켜본다. 한 명이 이기자 다른 한 명은 의자를 들어 그의 머리를 내리친다. 둘은 서로 달려들어 바닥에 나뒹군다."
+    },
+    {
+      "line": 697,
+      "event": "punchsomeone",
+      "english_sha256": "3e3c5879f980f8ed5ace50ac30ea63f6dbf409f3c3d3b2a13fac998cc09891c1",
+      "ko": "좋았어어어! 싸워! 싸워! 싸워!"
+    },
+    {
+      "line": 698,
+      "event": "punchsomeone",
+      "english_sha256": "ab45ed8d151116095ccdfc891277fa7cb90a93a7824710b799bc20dad233157b",
+      "ko": "너는 바닥에서 뒹구는 근육 덩어리 둘을 바라본다. 하아. 꼭 폭력으로 해결해야 하나?"
+    },
+    {
+      "line": 699,
+      "event": "punchsomeone",
+      "english_sha256": "aefa2fa02b1f292669a22c5cef39f7a80ff0ebbd7fcc1c81538cbd7d0c9b1cdd",
+      "ko": "물론 너도 실제로 폭력을 꽤 자주 쓰긴 하지만, 오늘은 그럴 기분이 아니다. 지금은 도덕적으로 우월한 평화주의자 행세를 하고 싶다."
+    },
+    {
+      "line": 700,
+      "event": "punchsomeone",
+      "english_sha256": "18cd76980efe1dfd3cd51837d19527736284d0d39a4da98da359faaa6fd1d4ff",
+      "ko": "주먹을 휘두르는 대신, 너는 아주 멋지고 거친 표정을 지어 보인다. 사람들이 널 건드리지 못하게 하기엔 그것만으로 충분하다."
+    },
+    {
+      "line": 701,
+      "event": "punchsomeone",
+      "english_sha256": "e43337a94ddaec8301d6d59744db3def3a2a7f34574b02f8e21d1b819b146a1b",
+      "ko": "%CURRENTPLAYERNAME%, 표정이 왜 그래? 아파? 방귀 참는 중이야?"
+    },
+    {
+      "line": 702,
+      "event": "punchsomeone",
+      "english_sha256": "8ef5b53637a7185614ab5b51c33101ecb7a3e02b7433243d6654d3f71e322713",
+      "ko": "아니, 저 표정 알아. 싸움 걸기 직전의 표정이야! %CURRENTPLAYERNAME%이 한판 붙고 싶어 해!"
+    },
+    {
+      "line": 703,
+      "event": "punchsomeone",
+      "english_sha256": "163902477b413a129a237bb04020319aad3939f4f8decacc79ca059d25d6eba0",
+      "ko": "다들 들어 봐! %CURRENTPLAYERNAMECAPS%이 싸우고 싶대!!!"
+    },
+    {
+      "line": 704,
+      "event": "punchsomeone",
+      "english_sha256": "42dfcab656100e142667fb9689cd1cb759cc5cfe67da31bb46e51f0c51acdab8",
+      "ko": "야호, 싸움이다! 경계선 없는 스포츠 같아! 내가 응원단장 해도 돼, %CURRENTPLAYERNAME%?"
+    },
+    {
+      "line": 705,
+      "event": "punchsomeone",
+      "english_sha256": "2fe8a55146eed8afbdf5858e6ba9ae7c41f9b5ec6c0ec789c2314f686cde25e2",
+      "ko": "바-이-커를 외쳐! %CURRENTPLAYERNAMECAPS%이 네 팔을 부러뜨릴 거야!"
+    },
+    {
+      "line": 706,
+      "event": "punchsomeone",
+      "english_sha256": "8a9201be36cf6f8903616c3475db40dbcedf0c3d8066c19286e598763794f114",
+      "ko": "폭력이 답은 아니라고 결심했던 거 기억나? 그런데 알고 보니 또래 압력은 언제나 정답이라서, 결국 누군가와 싸우게 된다."
+    },
+    {
+      "line": 707,
+      "event": "punchsomeone",
+      "english_sha256": "17839981d4e328e2ee3c3cd1ce4bcd65c9a059cc2bd5d264664e657e35099cc6",
+      "ko": "이 술집에 네가 박살 낼 수 있는 놈 하나쯤은 있겠지... 누구에게 도전할까?"
+    },
+    {
+      "line": 710,
+      "event": "punchsomeone",
+      "english_sha256": "cb80cef27aa392ccf207d585c1830a0d0edfd49ea66912805b162d221e686b4b",
+      "ko": "근육질의 거친 마술사 배리 밥"
+    },
+    {
+      "line": 711,
+      "event": "punchsomeone",
+      "english_sha256": "8a49555ab99dd10346ea0dc8bb190659ec9d8d46060854ca39178a291f43b9f9",
+      "ko": "네 최악의 악몽... 악몽으로 만들어진 닉 응하즈하즈"
+    },
+    {
+      "line": 715,
+      "event": "punchsomeone",
+      "english_sha256": "119fdbc8441023f7af445a5fe3d4b5bc3e4b2c1f00d5ac08259cb42a88df1c32",
+      "ko": "너는 카드 한 장을 골라 보라며 배리 밥에게 싸움을 건다."
+    },
+    {
+      "line": 716,
+      "event": "punchsomeone",
+      "english_sha256": "ae7e55941df1f96d4470c46b5038eb9245a8074adb40a6c0b8e7b02b84a65496",
+      "ko": "배리는 클로버 에이스를 뽑는다. 너는 카드를 다시 섞어 넣고 말한다. '자... 이게 네 카드 맞지?!'"
+    },
+    {
+      "line": 717,
+      "event": "punchsomeone",
+      "english_sha256": "2dbed863a2615676c5cb9c15a30805a718413110af22b9b262e48759a61530f8",
+      "ko": "너는 나무 몽둥이로 배리의 얼굴을 후려친다!"
+    },
+    {
+      "line": 718,
+      "event": "punchsomeone",
+      "english_sha256": "8ef0eea52ece2935c0ca6d0ffa8ed465ebdb3c73917720fc330c66fa7a7d7875",
+      "ko": "배리는 소매를 열어 아름다운 흰 비둘기를 날려 보내 대신 맞게 한다."
+    },
+    {
+      "line": 719,
+      "event": "punchsomeone",
+      "english_sha256": "bae6f3a49c3b475e6b488d3d8436b9fd65aa3697d4d8f95b105a6c18baf0686c",
+      "ko": "그런 다음 '슬랩어카잠'이라는 주문을 외운다. 마술 지팡이로 네 뺨을 후려칠 수 있는 주문이다. 아야."
+    },
+    {
+      "line": 720,
+      "event": "punchsomeone",
+      "english_sha256": "b43b394fe6a456383f799101aaab2ae195e46855531d81035126171bf82f537e",
+      "ko": "너는 -N2 MAGIC을 소모해 주문을 외우고, 주머니에서 손수건을 꺼낸다. 손수건에는 또 다른 손수건이 묶여 있고, 그 손수건에는 또 다른 손수건이, 또 그다음 손수건이..."
     }
   ]
 }

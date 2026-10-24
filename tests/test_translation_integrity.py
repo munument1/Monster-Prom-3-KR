@@ -29,6 +29,36 @@ class TranslationIntegrity(unittest.TestCase):
         self.assertEqual(sum(row.get("row_type") == "action" for row in records), 373)
         self.assertEqual(sum(row["kind"] == "metatext" for row in records), 2871)
 
+    def test_reviewed_translations_cover_a_contiguous_catalog_prefix(self):
+        """Prevent skipped choice/action lines or out-of-order UI IDs.
+
+        Every reviewed asset's translations should be a contiguous prefix of
+        actual displayable source candidates. We do not assume source physical
+        line numbers are consecutive because event directives occupy other rows.
+        """
+        records = [json.loads(line) for line in (ROOT / "work/catalog.jsonl").read_text(encoding="utf-8").splitlines()]
+        candidates = {}
+        for row in records:
+            if row["kind"] == "event":
+                candidates.setdefault(row["asset"], []).append(
+                    (row["line"], row["event"], row["english_sha256"])
+                )
+        for path in sorted((ROOT / "translations").glob("english_events_*.json")):
+            translated = json.loads(path.read_text(encoding="utf-8"))["entries"]
+            actual = [(row["line"], row["event"], row["english_sha256"]) for row in translated]
+            with self.subTest(asset=path.stem):
+                self.assertEqual(actual, candidates[path.stem][: len(translated)])
+
+        ui = json.loads((ROOT / "translations/english_metatexts_ko.json").read_text(encoding="utf-8"))["translations"]
+        source_order = [row["id"] for row in records if row["kind"] == "metatext"]
+        # The original curated 195 UI keys skipped a few earlier source IDs.
+        # Subsequent batches filled those gaps, appending to the existing JSON
+        # rather than reordering/rewriting vetted entries. The translated KEY
+        # SET is therefore now a contiguous source prefix, even though JSON
+        # insertion order is not and must not be rewritten to force that order.
+        self.assertEqual(len(ui), len(set(ui)))
+        self.assertEqual(set(ui), set(source_order[: len(ui)]))
+
     def test_tokens_and_numbers_preserved(self):
         verify_line("Hello, %PLAYER%! [n] +2 SMARTS", "안녕, %PLAYER%! [n] +2 SMARTS", "example")
         verify_line("...", "……", "silent-reaction")
