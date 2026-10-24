@@ -39,6 +39,11 @@ APPROVED_EVENT_CORRECTIONS = {
         "new": "생각해 보니 친구들은 널 어디서도 본 적이 없다. 넌 이 로드트립에 끼어들려고 %HISHER% 기억을 망가뜨린 빌어먹을 글리치일 뿐이다.",
         "reason": "The glitch corrupted their memories to insert itself into the road trip; this is not a literal path/way.",
     },
+    ("english_events_endings", 2926): {
+        "old": "내가 교단에 들어온다니 추종자들이 얼마나 신났는지 봐!",
+        "new": "네가 교단에 들어온다니 추종자들이 얼마나 신났는지 봐!",
+        "reason": "The speaker addresses the player who is joining the cult; first-person subject reverses the meaning.",
+    },
 }
 
 

@@ -54,6 +54,19 @@ class DeltaIntegrity(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "approved correction value mismatch"):
             is_approved_event_correction("english_events_endings", old, arbitrary)
 
+    def test_only_exact_reviewed_ending_pronoun_correction_is_allowed(self):
+        old = {
+            "line": 2926,
+            "event": "ending_date_lamb",
+            "english_sha256": "74f3febe9fcb847c56836a37262fb9c8ca948c8e223bf020706f093c1554f992",
+            "ko": "내가 교단에 들어온다니 추종자들이 얼마나 신났는지 봐!",
+        }
+        new = {**old, "ko": "네가 교단에 들어온다니 추종자들이 얼마나 신났는지 봐!"}
+        self.assertTrue(is_approved_event_correction("english_events_endings", old, new))
+        arbitrary = {**new, "ko": new["ko"] + "!"}
+        with self.assertRaisesRegex(ValueError, "approved correction value mismatch"):
+            is_approved_event_correction("english_events_endings", old, arbitrary)
+
     def test_unapproved_event_edit_is_rejected(self):
         old = {"line": 1739, "event": "pitstop_passenger_loveanother_yellow_1", "english_sha256": "ae214a54a10ddd39c0849d5666acfa286c58aa0f4d27cf27c48dfa55ad9dcb45", "ko": "old"}
         new = {**old, "ko": "arbitrary edit"}
