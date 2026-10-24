@@ -5,7 +5,7 @@ import unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from verify_translation_delta import validate_ui  # noqa: E402
+from verify_translation_delta import is_approved_event_correction, validate_ui  # noqa: E402
 
 
 class DeltaIntegrity(unittest.TestCase):
@@ -30,6 +30,35 @@ class DeltaIntegrity(unittest.TestCase):
         newer = {"source_sha256": "unchanged", "translations": {"A": "플레이", "C": "종료"}}
         with self.assertRaisesRegex(ValueError, "next catalog sequence"):
             validate_ui(newer, self.original, self.catalog)
+
+    def test_only_exact_reviewed_event_correction_is_allowed(self):
+        old = {
+            "line": 1739,
+            "event": "pitstop_passenger_loveanother_yellow_1",
+            "english_sha256": "ae214a54a10ddd39c0849d5666acfa286c58aa0f4d27cf27c48dfa55ad9dcb45",
+            "ko": "(하지만 %CURRENTPLAYERNAME%를 거절해서 %HIMHER%에게 상처를 주면 어떡하지? 못되게 보이고 싶진 않은데...)",
+        }
+        new = {**old, "ko": "(하지만 %HIMHER%를 거절해서 %CURRENTPLAYERNAME%의 마음에 상처를 주면 어떡하지? 못되게 보이고 싶진 않은데...)"}
+        self.assertTrue(is_approved_event_correction("english_events_pitstop", old, new))
+
+    def test_only_exact_reviewed_ending_correction_is_allowed(self):
+        old = {
+            "line": 685,
+            "event": "ending_failure_glitch_3",
+            "english_sha256": "b9862f53f8dde310e9943a9e9cc091843b4936578b536d599e33646bc31d192e",
+            "ko": "생각해 보니 친구들은 널 어디서도 본 적이 없다. 넌 이 로드 트립에 %HISHER% 길을 비집고 들어와 기억을 망가뜨린 빌어먹을 글리치일 뿐이다.",
+        }
+        new = {**old, "ko": "생각해 보니 친구들은 널 어디서도 본 적이 없다. 넌 이 로드트립에 끼어들려고 %HISHER% 기억을 망가뜨린 빌어먹을 글리치일 뿐이다."}
+        self.assertTrue(is_approved_event_correction("english_events_endings", old, new))
+        arbitrary = {**new, "ko": new["ko"] + "!"}
+        with self.assertRaisesRegex(ValueError, "approved correction value mismatch"):
+            is_approved_event_correction("english_events_endings", old, arbitrary)
+
+    def test_unapproved_event_edit_is_rejected(self):
+        old = {"line": 1739, "event": "pitstop_passenger_loveanother_yellow_1", "english_sha256": "ae214a54a10ddd39c0849d5666acfa286c58aa0f4d27cf27c48dfa55ad9dcb45", "ko": "old"}
+        new = {**old, "ko": "arbitrary edit"}
+        with self.assertRaisesRegex(ValueError, "approved correction value mismatch"):
+            is_approved_event_correction("english_events_pitstop", old, new)
 
 
 if __name__ == "__main__":

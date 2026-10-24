@@ -5171,7 +5171,7 @@
       "line": 1739,
       "event": "pitstop_passenger_loveanother_yellow_1",
       "english_sha256": "ae214a54a10ddd39c0849d5666acfa286c58aa0f4d27cf27c48dfa55ad9dcb45",
-      "ko": "(하지만 %CURRENTPLAYERNAME%를 거절해서 %HIMHER%에게 상처를 주면 어떡하지? 못되게 보이고 싶진 않은데...)"
+      "ko": "(하지만 %HIMHER%를 거절해서 %CURRENTPLAYERNAME%의 마음에 상처를 주면 어떡하지? 못되게 보이고 싶진 않은데...)"
     },
     {
       "line": 1740,
@@ -6750,6 +6750,2706 @@
       "event": "cpollytoiletwine",
       "english_sha256": "58d40bc3ae85069ea9422f8702bbf3cbe445d4a115fefc3e4d5f4175f61b1df8",
       "ko": "‘식용 불가’에서 ‘흉측함’을 거쳐 ‘끔찍함’까지."
+    },
+    {
+      "line": 2315,
+      "event": "cpollytoiletwine",
+      "english_sha256": "2ebf6b5116af955b154073348e3c0db986c015a8b5fcf30288f2646b703e9b3b",
+      "ko": "아직도 기억나. 사람들이 “씨발, 맛이 진짜 이상한데” 같은 평을 하기 시작한 날 말이야."
+    },
+    {
+      "line": 2316,
+      "event": "cpollytoiletwine",
+      "english_sha256": "3ed70df770e32e4cf6428f0dc3dc6fd327c1a256d4d2d0c17a814991c8667941",
+      "ko": "좋네! “먹을 수 없음”, “흉측함”, “끔찍함”보다는 확실히 낫잖아."
+    },
+    {
+      "line": 2318,
+      "event": "cpollytoiletwine",
+      "english_sha256": "f2ccc797c11ac6bcbfdb97d81904cff5012beee3b3fd7ef604d09310ecf12d9e",
+      "ko": "예에에스! 오늘 내 와인의 평균 평가는 무려 “으... 잘 모르겠어... 그래도 더 나쁠 수도 있겠네” 정도야."
+    },
+    {
+      "line": 2319,
+      "event": "cpollytoiletwine",
+      "english_sha256": "25bcc9cccf3e3cf97f1e914fa983edc96f53206690af530b6d041907a928c76f",
+      "ko": "앞날엔 한계가 없어, 자기야!"
+    },
+    {
+      "line": 2320,
+      "event": "cpollytoiletwine",
+      "english_sha256": "837d3b895bcf32925c57565a2e03a1fd4cf8b25a86b9459a2c90bd80b8b6016e",
+      "ko": "언젠간 해낼 거야. 두고 봐. 폴리의 변기 와인이 전 세계 최고급 레스토랑에서 전문 소믈리에가 진미와 함께 내놓는 날이 올 거라고."
+    },
+    {
+      "line": 2321,
+      "event": "cpollytoiletwine",
+      "english_sha256": "4735ababd4c76f7d049459e7142d9da3323610327a5c0c1eac6b4a8a3a0291e1",
+      "ko": "그날을 위해 건배!"
+    },
+    {
+      "line": 2322,
+      "event": "cpollytoiletwine",
+      "english_sha256": "3968cd5f00ec1b00f6770c5ef02ec5397bd32658b5a882e59b7cc333ac6cf2ac",
+      "ko": "비밀 하나 알려 줄까? 요즘은 와인을 변기에서 만들지도 않아."
+    },
+    {
+      "line": 2323,
+      "event": "cpollytoiletwine",
+      "english_sha256": "22d9ed1dc347ede64bc2c9ce0a856ecdb5f6cde696a8d43c68e82baf3c5062f2",
+      "ko": "욕조에서 만들기 시작했어. 사실 그게 더 말이 되거든. 변기에서 빚을 때보다 맛이 좋으니까."
+    },
+    {
+      "line": 2324,
+      "event": "cpollytoiletwine",
+      "english_sha256": "98c051af7fb285dce976e626033d1c648cad71f2e4d6045761ff43ffc2ec5194",
+      "ko": "처음엔 브랜드의 정체성을 배신하는 건가 싶었지..."
+    },
+    {
+      "line": 2325,
+      "event": "cpollytoiletwine",
+      "english_sha256": "788e085039d4497d0375da12a39a27fe6dc0d0745e7e28bde525d70861e50cec",
+      "ko": "하지만 이제는 와인에 몸을 담그고 목욕까지 할 수 있어! 씨발, 진짜 편안하다니까."
+    },
+    {
+      "line": 2326,
+      "event": "cpollytoiletwine",
+      "english_sha256": "2d5bc44753f4bba72c73277e9f0bbcfd6c4b8dc6a077610c5825f512f2034f8e",
+      "ko": "사람들이 싫어하지 않았으면 좋겠네..."
+    },
+    {
+      "line": 2327,
+      "event": "cpollytoiletwine",
+      "english_sha256": "44619dec5b7768d38677554619690b32a2746311e8a3fb6817350f144f3ea702",
+      "ko": "응, 사람들도 별로 신경 안 쓸 거야."
+    },
+    {
+      "line": 2329,
+      "event": "cpollytoiletwine",
+      "english_sha256": "6a4a0247699cc38e7671b8223da30283ec830622d13d463b4f07705f602635b3",
+      "ko": "제발 그러길!"
+    },
+    {
+      "line": 2330,
+      "event": "cpollytoiletwine",
+      "english_sha256": "20d752545e16e923f7903c41cb5bbc6f420e4bab6d0f74e779568df7032e2126",
+      "ko": "아무튼 들어 줘서 고마워, 자기야. 언제 내 맛있는 변기 와인 한 잔 대접할게."
+    },
+    {
+      "line": 2331,
+      "event": "cpollytoiletwine",
+      "english_sha256": "959a3c7caf80550be95bde18ae321a2900a681607222613266cb63253385e77e",
+      "ko": "마시다 보면 “폴리의 엉덩이” 향도 느껴질지 몰라."
+    },
+    {
+      "line": 2332,
+      "event": "cpollytoiletwine",
+      "english_sha256": "ef55eceba2637c8dd800662b5368e3f76657903acd1c7f87bf5437cb28adbb73",
+      "ko": "난 괜찮아."
+    },
+    {
+      "line": 2341,
+      "event": "cpollyliterature",
+      "english_sha256": "aad0a16b497071ae278786f7b3bc5a07c230301423925fde0743791b2b533032",
+      "ko": "좋아하는 책"
+    },
+    {
+      "line": 2343,
+      "event": "cpollyliterature",
+      "english_sha256": "1e624dd2f6a28d85eb36b886c0845b8cef0cee35a009c84015e6474b6cba7d21",
+      "ko": "야아아, 정말 좋은 질문이야!"
+    },
+    {
+      "line": 2344,
+      "event": "cpollyliterature",
+      "english_sha256": "e6bbd68d1e90552a4051a1fd27037e49b44c9bc8a55fe42b9b68ea0ca8dbfd47",
+      "ko": "하지만 내가 문학을 좋아하는 이유를 몇 줄로 요약하긴 너무 어려울 것 같아..."
+    },
+    {
+      "line": 2345,
+      "event": "cpollyliterature",
+      "english_sha256": "b75e8d007d47d998a90d570f7ac8fc1278529e6f074acb62bda5305242fba435",
+      "ko": "난 강렬하고, 종잡을 수 없고, 날것 그대로인 작품을 좋아해."
+    },
+    {
+      "line": 2346,
+      "event": "cpollyliterature",
+      "english_sha256": "5173e88549af0d537d05d804e1c0f4ab44a2c0757c8f4158223500e969c66332",
+      "ko": "예를 들어 『마술사』를 봐. 갓 졸업한 젊은이가 그리스의 한 섬에 갔다가, 그곳에 사는 괴짜 노인이 벌이는 난해하고 심리적인 게임에 휘말리는 이야기야."
+    },
+    {
+      "line": 2347,
+      "event": "cpollyliterature",
+      "english_sha256": "988d92cd12d0e5ba057e552dec8e05384661b677685f581db552f15931b94885",
+      "ko": "처음엔 그 기묘한 연극 같은 장난이 등장인물에게도 독자에게도 재미있어 보이지만, 점점 더 어둡고 강렬해져."
+    },
+    {
+      "line": 2348,
+      "event": "cpollyliterature",
+      "english_sha256": "0341832bfdf4c6f77d9d00c80aa487bdd4b54213fd31aead71c9c062d741a72d",
+      "ko": "그러다 보면 마치 걸쭉한 물질 속에 잠긴 듯, 아니면 열병에 시달리며 꾸는 꿈속을 헤매는 듯한 기분으로 책을 읽게 돼."
+    },
+    {
+      "line": 2349,
+      "event": "cpollyliterature",
+      "english_sha256": "30a922a890851f61b2111eac49c2551561f5629e12f7a323ee89107c4bb6e164",
+      "ko": "우와... 흥미로운데!"
+    },
+    {
+      "line": 2350,
+      "event": "cpollyliterature",
+      "english_sha256": "7368669b72ad9fe18c7807d58c8c16a61e1c9cd904167616f3bc461d2140f28b",
+      "ko": "물론 내 조국 러시아 문학도 마음 한구석을 차지하고 있지."
+    },
+    {
+      "line": 2351,
+      "event": "cpollyliterature",
+      "english_sha256": "761d3b8b9d3d9d4835babe43b4a77375e19860ab06a994814a02a40edb703c09",
+      "ko": "현대 서양 문학의 기틀을 사실상 러시아 작가들이 세웠잖아. 이를테면... 도스토옙스키."
+    },
+    {
+      "line": 2352,
+      "event": "cpollyliterature",
+      "english_sha256": "bf620f1ec4b37527319eb9b60c5c85f395d7dd3dc3bf81df3ef4fb15249adbf6",
+      "ko": "그의 대표작들은 문학사의 정전에 올랐지만, 가볍게 읽히는 작품들도 정말 훌륭해... 『도박꾼』 같은 거."
+    },
+    {
+      "line": 2353,
+      "event": "cpollyliterature",
+      "english_sha256": "e1418558a51658c71801ba4d2a072b63487969ea42c7bd5302f165d3b3e36c00",
+      "ko": "내 이름도 그 소설에서 따온 거야!"
+    },
+    {
+      "line": 2354,
+      "event": "cpollyliterature",
+      "english_sha256": "aaf3eb3f529be9e4e202f93d250f958f9ed4272227fec153829258830b1a7252",
+      "ko": "그리고 덜 알려진 코미디 단편들도 있어! 공무원이 악어에게 잡아먹히는 풍자 소설도 썼다니까."
+    },
+    {
+      "line": 2355,
+      "event": "cpollyliterature",
+      "english_sha256": "02a0ee8e56dd4a229b1866f477ec246b1ae29d6f7db3778197a9e3c24c559a47",
+      "ko": "악어 주인이 배를 갈라 꺼내 주길 거부하자, 그 공무원은 악어 뱃속에서라도 어떻게든 평범한 일상을 이어 가기로 체념하지."
+    },
+    {
+      "line": 2356,
+      "event": "cpollyliterature",
+      "english_sha256": "3e15291bda9268a1f5dde785b3afd019d76798edbc19fe4e934e2f6b1e3c5b4b",
+      "ko": "당연하지!"
+    },
+    {
+      "line": 2358,
+      "event": "cpollyliterature",
+      "english_sha256": "34cea3670435b2854d36d8f069cc7fd772c30d0a836dd58dd16e7572466608f7",
+      "ko": "미안! 누가 문학 얘기만 꺼내면 나도 모르게 한참 수다를 떨게 돼!"
+    },
+    {
+      "line": 2359,
+      "event": "cpollyliterature",
+      "english_sha256": "08454522136ef0c4ecdac7059d1451328ff9754cbfe46173f420e9ca78a8eac5",
+      "ko": "아니야, 괜찮아. 네가 이렇게 열정적으로 말하는 모습이 좋아."
+    },
+    {
+      "line": 2360,
+      "event": "cpollyliterature",
+      "english_sha256": "a2cc609b9133c57dca7aac75ced1c4c410c8d7ce664049406de122536c639b01",
+      "ko": "좋아! 원하면 나중에 책 추천을 문자로 보내 줄게."
+    },
+    {
+      "line": 2361,
+      "event": "cpollyliterature",
+      "english_sha256": "75a69e2acf620916785d293a13ab595f0195a175a258d106f2eca295ca19e19a",
+      "ko": "완전 좋아."
+    },
+    {
+      "line": 2362,
+      "event": "cpollyliterature",
+      "english_sha256": "258dd462a25abfb3e154b747a22f70bf27bc5e4cb37363df602df8a18578776e",
+      "ko": "너희 둘은 남은 밤 동안 밤하늘을 바라본다."
+    },
+    {
+      "line": 2371,
+      "event": "cpollyafterparty",
+      "english_sha256": "257a9fc76f3cf1964074db13d913bf76b53c07a478b048df41d5b7368fd9ccf6",
+      "ko": "애프터파티 모험담"
+    },
+    {
+      "line": 2373,
+      "event": "cpollyafterparty",
+      "english_sha256": "43513af77f534a04f47f5ef3686563005deba63a4b44bd4faeddbf3554135e9c",
+      "ko": "예에에에스! 애프터파티는 진짜 끝내줘!"
+    },
+    {
+      "line": 2374,
+      "event": "cpollyafterparty",
+      "english_sha256": "e4cf77dabe428aab555af6d165722268215dd0e7f3197fcc71a3c53b06017abe",
+      "ko": "해가 떠오르기 시작하면, 우리 밤의 생명체들은 모두 몸을 숨길 곳을 찾아 나서지."
+    },
+    {
+      "line": 2375,
+      "event": "cpollyafterparty",
+      "english_sha256": "1f8122c1237a77d7c6b0797bdff9d702c3129d2282edc463e11b755f31de8e60",
+      "ko": "너는 엄청 취했거나, 약에 취했거나, 둘 다 아니거나, 둘 다거나... 애프터파티를 찾아 정처 없이 헤맨다."
+    },
+    {
+      "line": 2376,
+      "event": "cpollyafterparty",
+      "english_sha256": "562d0d81dff64287a1822dd5d7ee967b980b81a07d293ea911cdd7b1957c0b58",
+      "ko": "근데 애프터파티는 어떻게 찾아?"
+    },
+    {
+      "line": 2377,
+      "event": "cpollyafterparty",
+      "english_sha256": "3e92ccf1d612a11532b5bd0ce3d24e3963d87f60796f484067ce037409414956",
+      "ko": "비결 같은 건 없어! 장소를 가진 사람을 알거나, 그냥 흐름에 몸을 맡기면 돼."
+    },
+    {
+      "line": 2378,
+      "event": "cpollyafterparty",
+      "english_sha256": "7310d594aec42ec432e54d4fe019adbf990272165edddfc0c158c17332bcea36",
+      "ko": "말 그대로 말이야. 한번은 클럽에서 나와 걷고 있었는데, 아침 6시쯤이었고 꽤 취해 있었어. 앞에 보이는 것 말고는 아무것도 신경 쓰지 않았지."
+    },
+    {
+      "line": 2379,
+      "event": "cpollyafterparty",
+      "english_sha256": "d58b55873bb6d7fcf7d29144844e73dc92dcb69c1da1e0bae2e5f566fd769a1d",
+      "ko": "그때 갑자기 웬 문이 열렸어! 뭐 대단한 일은 아니었어. 내 앞에 있던 사람들이 자기 집으로 들어가고 있었거든. 그래서 나도 따라 들어갔지."
+    },
+    {
+      "line": 2380,
+      "event": "cpollyafterparty",
+      "english_sha256": "07a9f20345140280f5f2a97c513b9e949e16f730b28ce373c14c816af5e8e5b2",
+      "ko": "아무 계획도 없었어. 문이 열리는 걸 보고 나도 거기로 들어가야 하는 줄 알았지. 내가 그 사람들을 전혀 모른다는 사실도 깨닫지 못한 채!"
+    },
+    {
+      "line": 2381,
+      "event": "cpollyafterparty",
+      "english_sha256": "58aee05b4c7bab9e6d7d762cc2fc3099633354c1d00f54b93dbb865394b4c559",
+      "ko": "알고 보니 애프터파티였어. 내가 파티에 슬쩍 끼어든 불청객이라는 걸 알아차리더니... 그냥 반겨 주더라!"
+    },
+    {
+      "line": 2382,
+      "event": "cpollyafterparty",
+      "english_sha256": "41af1ad43d9180b27512e2fc7e3e4113f8b71688690ab6ddb09f1b9a5051d284",
+      "ko": "상상이나 돼?"
+    },
+    {
+      "line": 2383,
+      "event": "cpollyafterparty",
+      "english_sha256": "604ae213a45f9914e5ddd8c67e542311671878442e9ed2f5da5220397e5d63d7",
+      "ko": "물론 내가 한 짓은 존나 멍청했어... 모르는 사람 집에 불쑥 들어가는 건 절대 하면 안 되는 일이야."
+    },
+    {
+      "line": 2384,
+      "event": "cpollyafterparty",
+      "english_sha256": "cce479a26e04dd45bcc334c3ae9f0fdae296e73f841e7e1b587d22061269be80",
+      "ko": "그래도 가끔은 운이 좋아서 낯선 사람들이... 사실은 꽤 좋은 사람들일 때도 있나 봐?"
+    },
+    {
+      "line": 2385,
+      "event": "cpollyafterparty",
+      "english_sha256": "1ab0f66a31f0dcb769e1f6abf104a22243172385cd11ebc662394f65a7a1e7b0",
+      "ko": "우린 정오까지 파티를 즐겼고 진짜 오래갈 우정을 쌓았어... 그 낯선 사람들은 내 좋은 파티 친구인 서머, 마카레나, 치즈가 됐지."
+    },
+    {
+      "line": 2386,
+      "event": "cpollyafterparty",
+      "english_sha256": "b61503c8410b9cb2f977879407110b526c707b6c72a910082820831e30ec0d69",
+      "ko": "와아! 우정의 탄생 비화다!"
+    },
+    {
+      "line": 2387,
+      "event": "cpollyafterparty",
+      "english_sha256": "9c5864c13f2394df0736b22dee03db34f8ea9b70563ffa35624f20c18b02f4cc",
+      "ko": "그치? 정신 나간 파티 밤에는 정말 놀라운 일이 생기기도 해..."
+    },
+    {
+      "line": 2388,
+      "event": "cpollyafterparty",
+      "english_sha256": "224fbb50a4668da37cf486baa3a91048664c1d6dbc47410540648a053a34a08a",
+      "ko": "언제 같이 가자. 내가 보여 줄게."
+    },
+    {
+      "line": 2389,
+      "event": "cpollyafterparty",
+      "english_sha256": "f358855d9542844b261b6b178c36a9bdda4c98e120c891ec3b5bde7ded70d687",
+      "ko": "좋은데!"
+    },
+    {
+      "line": 2390,
+      "event": "cpollyafterparty",
+      "english_sha256": "ef8d52d6b892035bc6c52f89d09be600aaaf1ab9d02edf68cc7ea095585a638a",
+      "ko": "폴리는 남은 밤 동안 신나는 애프터파티 일화를 들려준다. 사후 세계를 누구보다 알차게 즐기고 있는 게 분명하다!"
+    },
+    {
+      "line": 2399,
+      "event": "cpollypartyetiquette",
+      "english_sha256": "8e1e69b2c7a71ed737c4becd70eb6231467b2a6dbeb65a879b4491f8231b3f35",
+      "ko": "파티 예절"
+    },
+    {
+      "line": 2401,
+      "event": "cpollypartyetiquette",
+      "english_sha256": "45251bc2086c650e356e7b9375e0072811fcc547b575b41ed05570a0cd051ebc",
+      "ko": "아, 맞아, 파티... 즉흥적이고 자유분방해 보이지만, 사실은 암묵적인 규칙이 가득하지..."
+    },
+    {
+      "line": 2402,
+      "event": "cpollypartyetiquette",
+      "english_sha256": "179a999a30830bf3089d196392df5ac64203be2798b5561cefea5a68235a7290",
+      "ko": "한꺼번에 다 나열하긴 어렵지만... 대부분은 상식만 지키면 해결돼."
+    },
+    {
+      "line": 2403,
+      "event": "cpollypartyetiquette",
+      "english_sha256": "57734e920f0aaef4e3efc53f3daf969a2c7b9596c18be992d0aec5c3ea386470",
+      "ko": "특히 네가 “특별 손님”이라면 그런 규칙이 정말 중요할 수 있어."
+    },
+    {
+      "line": 2404,
+      "event": "cpollypartyetiquette",
+      "english_sha256": "55c3e5daec20a64dcc70fbed694d58b7b529e567f03b0c43f0d6ac23630f7c4e",
+      "ko": "응?"
+    },
+    {
+      "line": 2405,
+      "event": "cpollypartyetiquette",
+      "english_sha256": "884461a6ca28061e46a5f867794f0ae1d36417a83eff665fde7ad9710e713b81",
+      "ko": "“특별 손님”은 파티광들과 밤의 생명체들이야. 대체 어떻게 파티에 왔는지 아무도 모르지..."
+    },
+    {
+      "line": 2406,
+      "event": "cpollypartyetiquette",
+      "english_sha256": "dc8043171877f053279697d30974cb2f0efd4ee4e5cc198e1339a7222e9a78b5",
+      "ko": "친구의 친구의 친구일 수도 있고... 파티에 없는 누군가에게서 파티 소식을 들은 사람일 수도 있어."
+    },
+    {
+      "line": 2407,
+      "event": "cpollypartyetiquette",
+      "english_sha256": "fc2a81d52ef01d420ea2938845a0443b287a7a0396276a327e745e6e202f73ea",
+      "ko": "가끔은 애프터파티에 가다가 얼떨결에 합류한 완전한 낯선 사람이 “특별 손님”이 되기도 해."
+    },
+    {
+      "line": 2408,
+      "event": "cpollypartyetiquette",
+      "english_sha256": "fe66c5cea739cb01033ae93e609ec01fa57cad0dcbe80bfcfde14736edee3e3a",
+      "ko": "기본적으로는 네가 집 문을 열어 들여보내기로 한 아무나라는 거지."
+    },
+    {
+      "line": 2409,
+      "event": "cpollypartyetiquette",
+      "english_sha256": "0d7ecf41170e0c06eb736dd1293f8506b4f0459e845c62b4d13b8d92a9905503",
+      "ko": "어느 날 남의 파티에서 네가 “특별 손님”이 된다면, 제발 얌전히 굴어."
+    },
+    {
+      "line": 2410,
+      "event": "cpollypartyetiquette",
+      "english_sha256": "c4bc1a347d725a80af2934a6c0cbfb31fca52c4da3d75e150d63d543fa90a818",
+      "ko": "“특별 손님” 중엔 평생 가는 친구가 되는 사람도 있고, 하룻밤 친구로 끝나는 사람도 있고... 골칫거리만 되는 사람도 있어."
+    },
+    {
+      "line": 2411,
+      "event": "cpollypartyetiquette",
+      "english_sha256": "de9ed45bd65321d0b1e6219e4792578cfe50b8463a985738141065d6beb4e074",
+      "ko": "한번은 애프터파티에 처음 보는 사람이 와서는 내 발을 핥아도 되냐고 묻더라. 적어도 예의는 바르게 물었지만... 그래도 소름 끼쳤어."
+    },
+    {
+      "line": 2412,
+      "event": "cpollypartyetiquette",
+      "english_sha256": "e6772aad099e5a672a362eb8e35cb061b4dc05f6ca77862e6772c5089aab50d4",
+      "ko": "그러다 어느 순간 그 사람이 발코니 밖으로 속옷을 던졌어. 지금까지도 대체 무슨 생각이었는지 모르겠어..."
+    },
+    {
+      "line": 2413,
+      "event": "cpollypartyetiquette",
+      "english_sha256": "7c0dc42b37be41e759a1928867d87872ed96040d417122c1bcb3ff7239529ca2",
+      "ko": "벌거벗은 채로 “이제 돌이킬 수 없어”라고 대담하게 선언하려던 걸까? 모르겠네."
+    },
+    {
+      "line": 2414,
+      "event": "cpollypartyetiquette",
+      "english_sha256": "562af0c546350c0bfb08b1ac217febbdaa879aee1cbb53b6c6311d17b7f9b1af",
+      "ko": "으, 진짜 끔찍하다..."
+    },
+    {
+      "line": 2415,
+      "event": "cpollypartyetiquette",
+      "english_sha256": "1c020eb1bf79a24ea91445a6fbc74378e986865e999257cf177686e7ed37a05d",
+      "ko": "그렇지! 사실 간단한 일이야. 낯선 사람이 자기 집에서 하는 애프터파티에 초대하면... 그냥 개새끼처럼 굴지 않으면 돼."
+    },
+    {
+      "line": 2416,
+      "event": "cpollypartyetiquette",
+      "english_sha256": "f0ce3258ecab9d28509933616bf66a9f03c412eb0053b913b10148cd513fd87a",
+      "ko": "그것만 지키면 이미 파티 예절은 다 지키고 있는 셈이지. 참 쉽잖아."
+    },
+    {
+      "line": 2417,
+      "event": "cpollypartyetiquette",
+      "english_sha256": "1b76118f4667f2b45156540e416f2349560ff42ed01a709e188a720d85121922",
+      "ko": "아무튼 걱정 마. 조만간 너랑 나도 파티하러 가자. 끝나고 나면 애프터파티 문화도 제대로 알려 줄게. 어때?"
+    },
+    {
+      "line": 2418,
+      "event": "cpollypartyetiquette",
+      "english_sha256": "322db23c6bbe86e920c88550e5897b352b4dd1895d5e01096b5a6b81005e0cac",
+      "ko": "데이트네!"
+    },
+    {
+      "line": 2419,
+      "event": "cpollypartyetiquette",
+      "english_sha256": "7177c2849ad587999bf367971952b096aa513324b745e2281eeb6fe6eed0e5bf",
+      "ko": "폴리는 남은 밤 동안 좋아하는 파티 규칙을 몇 가지 더 알려 준다. 당연한 것도 있고 꽤 놀라운 것도 있다! 이제 알아 둬서 다행이다!"
+    },
+    {
+      "line": 2428,
+      "event": "cscottastronomy",
+      "english_sha256": "41d18789593eff3a1f3fb9e49093724bfa01357b2ee17bfc59cd689dbf456add",
+      "ko": "밤하늘에 대한 그의 관심"
+    },
+    {
+      "line": 2430,
+      "event": "cscottastronomy",
+      "english_sha256": "0f89ecef280835f8908caf080ea9b09aaeff37904f7f0f22cb23c1e2b6a62003",
+      "ko": "별은 진짜 끝내주지, 브로! 난 별 보는 게 너무 좋아!"
+    },
+    {
+      "line": 2431,
+      "event": "cscottastronomy",
+      "english_sha256": "af2e93873a020bec378bed61f884a9e6b4f3ba607cada0f9d9171762acf8a8fa",
+      "ko": "예쁘네..."
+    },
+    {
+      "line": 2432,
+      "event": "cscottastronomy",
+      "english_sha256": "0ee20fba3f1ce6faff8d7361f867828287fded3f556716d987c390a1b9c52f00",
+      "ko": "별에 관한 모든 걸 알고 싶어! 별이 뭘로 이루어졌는지, 낮에는 어디로 가는지 같은 거 말이야."
+    },
+    {
+      "line": 2433,
+      "event": "cscottastronomy",
+      "english_sha256": "d04365ea772bdf7bc765bfef43cc8cf2bf869f0beaef952c106ffcfecf0dacfa",
+      "ko": "천문학 최대의 미스터리!"
+    },
+    {
+      "line": 2434,
+      "event": "cscottastronomy",
+      "english_sha256": "30dd2973a45109de85b9498fd21b44800d60c9d481c6b13855f0584069e63006",
+      "ko": "별들이 팀워크를 발휘하는 것도 좋아. 각자 밝게 빛나면서도 서로 모여 별자리를 이루잖아."
+    },
+    {
+      "line": 2435,
+      "event": "cscottastronomy",
+      "english_sha256": "3794c0dffa894c5544c741608cd994bdf8951398cf47e7506172c2a0673a820b",
+      "ko": "내 생일 별자리라는 게 하나 있는데, 작은 게자리야."
+    },
+    {
+      "line": 2436,
+      "event": "cscottastronomy",
+      "english_sha256": "cb2994535e4f136114e25b2ab40eadce5d588f5aec97b61ce69bcd7adb1b433f",
+      "ko": "그 별자리는 찾기 가장 어려운 축에 들어. 그래도 무시당한다고 느끼지 않도록 계속 살펴봐!"
+    },
+    {
+      "line": 2437,
+      "event": "cscottastronomy",
+      "english_sha256": "6c1fb1b900d61bace07cfabe5a9772dfa2b67cab15221f16abacea0f961a1016",
+      "ko": "가자, 작은 게자리!"
+    },
+    {
+      "line": 2438,
+      "event": "cscottastronomy",
+      "english_sha256": "3ecfbffcb2d06382fdfffeacf0269012114fe1de9daf496fbf26591fce67afba",
+      "ko": "모든 별자리를 배우려고 노력 중이야. 다 알게 될 때까지는 내가 직접 별자리 이름을 지어 보곤 해."
+    },
+    {
+      "line": 2439,
+      "event": "cscottastronomy",
+      "english_sha256": "91efa4a3cee4e2394693964acf27cf77edecf035ecddd80dacf86180432bf120",
+      "ko": "오, 그래... 그럼... 저 별자리는 뭐라고 부를 거야?"
+    },
+    {
+      "line": 2440,
+      "event": "cscottastronomy",
+      "english_sha256": "5d9cada689f1f3dbc7dccf4c85179bacc9af328624afa3fd2cde43b8c2f00f67",
+      "ko": "저건... 장난꾸러기 펠리컨자리야. 펠리컨을 나타내고, 아주 장난스럽다는 소문이 있지!"
+    },
+    {
+      "line": 2441,
+      "event": "cscottastronomy",
+      "english_sha256": "73066d33aeff6638fcd57992658c6d142591f3c886480c9135db95e6d98200f5",
+      "ko": "그럼... 저건?"
+    },
+    {
+      "line": 2442,
+      "event": "cscottastronomy",
+      "english_sha256": "68a2c0a704f05b39a833c98618eeaa0898b4af4ebc9f69133d8c0c0e60609387",
+      "ko": "저건... 음... 하늘 우산자리인 것 같아. 우산처럼 생겼잖아. 비가 오면 다른 별들이 젖지 않게 지켜 줄 거라고 생각하면 좋겠어."
+    },
+    {
+      "line": 2443,
+      "event": "cscottastronomy",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 2444,
+      "event": "cscottastronomy",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 2445,
+      "event": "cscottastronomy",
+      "english_sha256": "cfb8ed2dcd9fa8bae2b785072fc0bf8a02abaf12d778933e1ddfa5706069f39e",
+      "ko": "스콧..."
+    },
+    {
+      "line": 2446,
+      "event": "cscottastronomy",
+      "english_sha256": "b8b7cfdf4758ef90476310dd4bffc7be69cdefdf57c1b98935a2fdc474fab753",
+      "ko": "응?"
+    },
+    {
+      "line": 2447,
+      "event": "cscottastronomy",
+      "english_sha256": "8795323294b64cd3a37691e2321baf0f24ff2cc3eb00cce3cfb244b94970bef6",
+      "ko": "네가 지은 이름들 정말 멋진 것 같아."
+    },
+    {
+      "line": 2448,
+      "event": "cscottastronomy",
+      "english_sha256": "3eeabe7d3debb922151ee4b87af365c2afecf1a390c86219e6f7cb4c264325ea",
+      "ko": "아, 고마워, 브로."
+    },
+    {
+      "line": 2449,
+      "event": "cscottastronomy",
+      "english_sha256": "e72b745ac7a0fcea593d431dcd67e034caa97414cc54c274514de435bf6fc49f",
+      "ko": "스콧이 새로 지어낸 별자리들을 설명하는 동안 너는 계속 별을 바라본다. 포근하고 아늑한 밤이다."
+    },
+    {
+      "line": 2458,
+      "event": "cscottapt",
+      "english_sha256": "ab5958ff0b44709bedf29b4bf7b13da076228262d5dffa99e3b9df1f27eb5d5c",
+      "ko": "아파트 구하기"
+    },
+    {
+      "line": 2460,
+      "event": "cscottapt",
+      "english_sha256": "1054b3b07d8960d1b0097913e102903a1d5feb7eed09e2a7e64b345ca7206459",
+      "ko": "맞아, 브로! 폴리랑 같이 살 집을 알아보고 있어. 멋지지?"
+    },
+    {
+      "line": 2461,
+      "event": "cscottapt",
+      "english_sha256": "48ab62f276906dfdcfbebd8b079033d53946abf9a24e2989518f0823c96ad12d",
+      "ko": "요즘 아파트를 보러 다니는데, 완전 모험 같아!"
+    },
+    {
+      "line": 2462,
+      "event": "cscottapt",
+      "english_sha256": "df31d98fbb06e66621a0df8246a2f93afff0107fc7ccbbe63e725b6b75911977",
+      "ko": "전설의 보물을 찾는 기분이야... 그 보물이 뭐, 집이라는 점만 빼면!"
+    },
+    {
+      "line": 2463,
+      "event": "cscottapt",
+      "english_sha256": "7cba2ae4beaa42730812751a72b58cbbe56834b788bcf0ab0150ce84c740a558",
+      "ko": "근데 아직 어디로 정할지 엄청 고민 중이야. 보러 가는 아파트마다 정말 멋지고 우아하거든."
+    },
+    {
+      "line": 2464,
+      "event": "cscottapt",
+      "english_sha256": "d759d3ffda5868fb7d0b72f3006c46082c041f8dd80eadeee209789d1db80918",
+      "ko": "잘 들어 봐. 거의 모든 집에 실내 화장실이 있더라니까! 고급스럽지?"
+    },
+    {
+      "line": 2465,
+      "event": "cscottapt",
+      "english_sha256": "c62fbb5cb5f85e12d634860a9668b6121449e2837f998544ba990e0d20c0593d",
+      "ko": "오호라!"
+    },
+    {
+      "line": 2466,
+      "event": "cscottapt",
+      "english_sha256": "a51b2a0e271f0f6fc692489c9e4cb08176e4fd8a22fe259bc465e713c6144a7b",
+      "ko": "어떤 집주인은 자기 집을 빌리려면 레게 밴드에 가입해야 한다고 하더라. 아파트에 새 취미까지? 당장 계약할래!"
+    },
+    {
+      "line": 2467,
+      "event": "cscottapt",
+      "english_sha256": "7ad42845177828ba2217bb1aefc863e45775a453a6bf91be724d0d1d4c4e7300",
+      "ko": "또 어떤 집은 세 들어 사는 동안 케첩을 절대 먹으면 안 된다는 엄격한 규칙이 있었어. 이상한 규칙은 별로지만 건강한 습관은 좋잖아!"
+    },
+    {
+      "line": 2468,
+      "event": "cscottapt",
+      "english_sha256": "484a8cd40117c7c974b4314be90fe46842b7563f4d19ab52fbef004a56ec3f45",
+      "ko": "근데 폴리는 그게 “아주 나쁜 징조”라고 하더라. 이 일에선 폴리가 두뇌 담당이니까 난 무조건 믿어!"
+    },
+    {
+      "line": 2469,
+      "event": "cscottapt",
+      "english_sha256": "011005071b4c8c5ba68004e8ee82d2cd08575363370d57e2f0d5fe337ea5e39e",
+      "ko": "잘 판단했네."
+    },
+    {
+      "line": 2470,
+      "event": "cscottapt",
+      "english_sha256": "6508d334b214a3f1b080abd2930a07de9ac14eef340fb6b622bef179dbeb2d66",
+      "ko": "어떤 곳은 그냥 지하실이었는데, 폴리는 “어딘가 범죄와 연관돼 있을 것 같다”고 했어."
+    },
+    {
+      "line": 2471,
+      "event": "cscottapt",
+      "english_sha256": "3b92c3aabf7cf02ad2091a68aed1dcf111a8891967a5e8808ee5da1211fa5551",
+      "ko": "어... 그건 피하는 게 좋겠네."
+    },
+    {
+      "line": 2472,
+      "event": "cscottapt",
+      "english_sha256": "0917d965d8fdf6bc3f8324e38084ea0ec812f68219546ffc9d99efc997b75f67",
+      "ko": "화장실이 없는 곳도 있었는데, 집주인이 “똥통”이라는 걸 팔겠다고 하더라."
+    },
+    {
+      "line": 2473,
+      "event": "cscottapt",
+      "english_sha256": "f817cef6a005c50c54ea81b527548159554db606c989b3b3e3dfb5c7f2379621",
+      "ko": "그건 확실히 별로였겠네. 그 정도는 나도 알아."
+    },
+    {
+      "line": 2474,
+      "event": "cscottapt",
+      "english_sha256": "bd1d43ce5cb647e9c020142ad82b43be7d0aba595bcd3f339d773023e86b4ceb",
+      "ko": "맞아, 딱 그럴 것 같네."
+    },
+    {
+      "line": 2475,
+      "event": "cscottapt",
+      "english_sha256": "f8d4194917c73a7fc850bea7837ade0e893375905ecba1adce566588fc1a0e78",
+      "ko": "아무튼 난 이렇게 집을 찾아다니는 과정 자체를 즐거운 여정으로 생각해. 목적지와 여정에 관해 흔히 하는 말도 있잖아..."
+    },
+    {
+      "line": 2476,
+      "event": "cscottapt",
+      "english_sha256": "9bea4e068a867a9dcc5ad1d9815fea7fc80a77bcccd60df9675e48d22c1cd964",
+      "ko": "...뭔지 알지? 난 모르겠어. 그래도 여정이 즐겁다는 말이었던 것 같아."
+    },
+    {
+      "line": 2477,
+      "event": "cscottapt",
+      "english_sha256": "238be817570da3dfc647695a902fbe33973f404473b9074a87a1f630e7ddf709",
+      "ko": "네 여정은 정말 재밌어 보여... 언젠가는 딱 맞는 곳을 찾을 거야. 넌 할 수 있어!"
+    },
+    {
+      "line": 2478,
+      "event": "cscottapt",
+      "english_sha256": "53e847ecf7845e060c1a079ae103e382a7f66ee6fe6b478ea08be6a1814de0bc",
+      "ko": "고마워, 브로. 집을 찾으면 네가 놀러 왔으면 좋겠어!"
+    },
+    {
+      "line": 2479,
+      "event": "cscottapt",
+      "english_sha256": "a8513d383449287b236a3b303bd2551b40ff5d496d22b5a432d467db5436518a",
+      "ko": "너는 남은 밤 동안 스콧의 새집이 얼마나 완벽할지 상상한다. 즐겁고 귀여운 시간이었다. 스콧은 최고다."
+    },
+    {
+      "line": 2488,
+      "event": "cscottmuscles",
+      "english_sha256": "d6e7d39913c601ef106946b6b4ac31043112bacff380937210bf50b1910a767f",
+      "ko": "그의 크고 아름다운 근육"
+    },
+    {
+      "line": 2490,
+      "event": "cscottmuscles",
+      "english_sha256": "c099d163ef5cdcd02d5fb4b11d67020b6d1f0008158ff305186dce16079746a8",
+      "ko": "난 근육이 좋아, 브로!"
+    },
+    {
+      "line": 2491,
+      "event": "cscottmuscles",
+      "english_sha256": "30c069e7852d908ea12a574a7c21c8b89fd45b7842edfd50b2295c2430e6c2cd",
+      "ko": "근육은 늘 내 곁에 있는 작고 우람한 친구들이야."
+    },
+    {
+      "line": 2492,
+      "event": "cscottmuscles",
+      "english_sha256": "68587828a6d73f493e66be3e20fbe610f6737d3828d59114da84456c712d2546",
+      "ko": "그렇게 생각하니 좋네!"
+    },
+    {
+      "line": 2493,
+      "event": "cscottmuscles",
+      "english_sha256": "d6061b336c90b4e4534e7d7c6755b6d18fec64b0c04def8e6e709ec4d46489f2",
+      "ko": "이름도 지어 줬어."
+    },
+    {
+      "line": 2494,
+      "event": "cscottmuscles",
+      "english_sha256": "51735e48a441dd42d00fc9a08b8b07e77a0fc22d39bc354d22b92336ebf5a65a",
+      "ko": "얘는 허버트야."
+    },
+    {
+      "line": 2495,
+      "event": "cscottmuscles",
+      "english_sha256": "986aab9ababf9bb673ff70a63ac10cc56c4cca3d8a9cdc5b813f2d823530da76",
+      "ko": "얘는 루시 수."
+    },
+    {
+      "line": 2496,
+      "event": "cscottmuscles",
+      "english_sha256": "0bb18a5aa077eb7ca52202e36b66b76c2f3df0d4610e5c959864beffef78acec",
+      "ko": "얘는 크런치 대장."
+    },
+    {
+      "line": 2497,
+      "event": "cscottmuscles",
+      "english_sha256": "2df750f64c13ef3453bd11fd74c4f1c1c8cd91c5bcb47628f86a80c42cce83d5",
+      "ko": "나중에 알고 보니 근육에도 진짜 이름이 있더라고!"
+    },
+    {
+      "line": 2498,
+      "event": "cscottmuscles",
+      "english_sha256": "a27b0f5fa786253fa40d0a366d986fcbd5326516b3ea6f7df87c67d9a796211f",
+      "ko": "삼각근, 승모근, 봉공근 같은 거 말이야..."
+    },
+    {
+      "line": 2499,
+      "event": "cscottmuscles",
+      "english_sha256": "b6cfaf8931cc7bec02fc9e8f2d7cdddecbbdc381c84e29da16bf5252904ac4e1",
+      "ko": "...그래도 내가 지은 이름이 더 좋아!"
+    },
+    {
+      "line": 2500,
+      "event": "cscottmuscles",
+      "english_sha256": "d42420a7f91402684c466ce3ec3affe322291f8a5b437b13b85ed0fcd9d5f5eb",
+      "ko": "나도 그래!"
+    },
+    {
+      "line": 2501,
+      "event": "cscottmuscles",
+      "english_sha256": "1aa7b1c1d5fb1fd6d299eae251a665c7898baeb43d48fb6b8a5b76da6c6ef739",
+      "ko": "고마워!"
+    },
+    {
+      "line": 2502,
+      "event": "cscottmuscles",
+      "english_sha256": "cace64fa4a0be2e962a3cc70ea7e04fa0b3949013aaaa502104d0518e88eb770",
+      "ko": "운동할 때는 근육들을 크고 건강하고 행복하게 유지해 주면서 내가 녀석들을 돕고 있다고 생각해!"
+    },
+    {
+      "line": 2503,
+      "event": "cscottmuscles",
+      "english_sha256": "9679515c6d1ce31c75ca804129e48d05f16ef0a38f6f06f4db8dfb82588650ab",
+      "ko": "잘하고 있는 것 같은데. 확실히 그래."
+    },
+    {
+      "line": 2504,
+      "event": "cscottmuscles",
+      "english_sha256": "ba8ec4e2b2450bb8798fe40db179f683ebe1941abb03b209b524287a4172c300",
+      "ko": "하하하, 그렇지!"
+    },
+    {
+      "line": 2505,
+      "event": "cscottmuscles",
+      "english_sha256": "e436feb0eb1909ae51a5ce95b114b68548c3ebcfe45d95373d64b63022c2b951",
+      "ko": "그리고 웃지 마..."
+    },
+    {
+      "line": 2506,
+      "event": "cscottmuscles",
+      "english_sha256": "e1938c07b6c85243ecdeb12ced13b35b7c0cff40f3fee1b99ee0b55403e8e6a2",
+      "ko": "...가끔 근육에 작은 얼굴을 그려 놓고, 운동하는 동안 근육들이 날 응원해 준다고 상상하거든."
+    },
+    {
+      "line": 2507,
+      "event": "cscottmuscles",
+      "english_sha256": "ec41505b98650b454f3f33c31c8c5108f786e1b7cd3303c3f342af2dd5234dd7",
+      "ko": "“힘내, 스콧!”"
+    },
+    {
+      "line": 2508,
+      "event": "cscottmuscles",
+      "english_sha256": "32bed4088a4ae4378d59b76967184f3889f57a604814e53dc3ecb0707fe544b4",
+      "ko": "진짜 살아 있는 건 아닌 거 알아. 그래도 기분은 좋거든."
+    },
+    {
+      "line": 2509,
+      "event": "cscottmuscles",
+      "english_sha256": "8f5dca95160c19f96bb34a875bce3e8e83d90ea4d66de25348fafccc8d59326b",
+      "ko": "귀여운 생각이네."
+    },
+    {
+      "line": 2510,
+      "event": "cscottmuscles",
+      "english_sha256": "4cf9c6053b6d1bcbf370812fd65445676e8d37527c319cc7242b221089adcdb0",
+      "ko": "스콧은 별을 바라본다. 너는 스콧의 근육을 바라본다. 세상은 더할 나위 없이 완벽하다."
+    },
+    {
+      "line": 2519,
+      "event": "cscottjogging",
+      "english_sha256": "f174e34f93768fe0b0c13d660c8a18d3cd383f0a3442e9a672acc93e084bf175",
+      "ko": "그의 조깅 습관"
+    },
+    {
+      "line": 2521,
+      "event": "cscottjogging",
+      "english_sha256": "9b3016f930845ab30d88acc4486fc063f498ca10982ffd7446b2c5ec2416fe55",
+      "ko": "조깅은 멋져."
+    },
+    {
+      "line": 2522,
+      "event": "cscottjogging",
+      "english_sha256": "ad4d0d4a057ec0b024ece98ab966b422ee7c1bb9640656b0d529bbc2f43fb7fa",
+      "ko": "처음엔 왜 하는지 잘 몰랐어."
+    },
+    {
+      "line": 2523,
+      "event": "cscottjogging",
+      "english_sha256": "02b65847f8ddd5ce56f8dd3acb6d17611f8acf5d2b733d4fcd78032e93f8ae64",
+      "ko": "사람들이 길에서 달리는 걸 보고, 어디로 달려가는 건지, 뭘 피해 달아나는 건지 궁금했거든..."
+    },
+    {
+      "line": 2524,
+      "event": "cscottjogging",
+      "english_sha256": "c9838a64cdd0bc6e52b2c3824ab723e83d406d7003267c0dcd16fbda2b4eb26c",
+      "ko": "알고 보니 별 이유가 없더라고. 사람들은 그냥 달리는 거야!"
+    },
+    {
+      "line": 2525,
+      "event": "cscottjogging",
+      "english_sha256": "18c5f8a8847a4539875f3c9da9103864bff1c4047789195afa9406ccb8bfa610",
+      "ko": "그렇긴 하지?"
+    },
+    {
+      "line": 2526,
+      "event": "cscottjogging",
+      "english_sha256": "2a3524b08a3e54ba02e59b41ac8ebcbbeace6ac69030d75d5405a010f1eb5f0f",
+      "ko": "맞아, 브로. 그게 정말 멋진 점이야."
+    },
+    {
+      "line": 2527,
+      "event": "cscottjogging",
+      "english_sha256": "9f678d7e91a4f1b1eec19dad196ec18ea82da460878dead69baa4740ea946f00",
+      "ko": "그냥 달리는 거지."
+    },
+    {
+      "line": 2528,
+      "event": "cscottjogging",
+      "english_sha256": "04ccc17622b2c31fe2aa9fa3628d293795cc61f9ddeb1edd94da36cdee1a9ea6",
+      "ko": "무슨 말인지 알겠어?"
+    },
+    {
+      "line": 2529,
+      "event": "cscottjogging",
+      "english_sha256": "f19fef3bca79c0eca8927c638c27ce640883f687febdf7559b549ea3b5ee8f50",
+      "ko": "뭔가... 순수하지 않아?"
+    },
+    {
+      "line": 2530,
+      "event": "cscottjogging",
+      "english_sha256": "f95276a191343b36101139f8f8eccad37da69a7024cfb1624790e52e15db9b22",
+      "ko": "가끔은 베라랑 조깅도 해."
+    },
+    {
+      "line": 2531,
+      "event": "cscottjogging",
+      "english_sha256": "9216a48dfd5df758185a4f29b8b20c2956d6f6adee6da67eff79b59c27ab1e99",
+      "ko": "머릿속이 개운해져서 좋아."
+    },
+    {
+      "line": 2532,
+      "event": "cscottjogging",
+      "english_sha256": "364467c066bd8d5130fd62641fa400cb5888c599862495a46c7ec5537871cfef",
+      "ko": "평소엔 생각이 정말 많거든!"
+    },
+    {
+      "line": 2533,
+      "event": "cscottjogging",
+      "english_sha256": "b982843f32d1558db8e0d19dc2a67f45a05d08149fa26ecb3507a0150ecbe8b8",
+      "ko": "나무도 꿈을 꿀까?"
+    },
+    {
+      "line": 2534,
+      "event": "cscottjogging",
+      "english_sha256": "8536aad6d1bd5b9f300b84e12ad2ca9cac16c84a734faa157fcf29a25ec03685",
+      "ko": "파란색은 무슨 맛일까?"
+    },
+    {
+      "line": 2535,
+      "event": "cscottjogging",
+      "english_sha256": "a707e11a5faa3841c6641498fb33fdff98177ded3f13f0b2e64e3d7ccf6a2238",
+      "ko": "백삼 다음에도 숫자가 있을까?"
+    },
+    {
+      "line": 2536,
+      "event": "cscottjogging",
+      "english_sha256": "1e5df1b068de802110bd40b22ed33f554c3c3a01f98ad70d369c14cf8d7bd2ee",
+      "ko": "이런 생각들이 그다지 똑똑한 생각은 아니라는 거 알아..."
+    },
+    {
+      "line": 2537,
+      "event": "cscottjogging",
+      "english_sha256": "6f7b52e7df39d21749171a2d9b14bfc1e1b6c2d82589a2546275360749b61c27",
+      "ko": "그래도 이런 생각이 엄청 많아! 달리면서 그 생각들을 떨쳐 내고... 달리는 것 자체에만 집중하면 기분이 좋거든."
+    },
+    {
+      "line": 2538,
+      "event": "cscottjogging",
+      "english_sha256": "fb349adbb17a520e957d1279119ede1c733c8e4293750a1408130ead359beb16",
+      "ko": "아니, 완전 말이 돼. 무슨 말인지 알겠어."
+    },
+    {
+      "line": 2539,
+      "event": "cscottjogging",
+      "english_sha256": "39339c7e6bf7005347ed1b6ee2dbfc27d511aeadd2ebc25120185dc2504f5ccd",
+      "ko": "고마워, 브로! 우리 언젠가 꼭 같이 조깅하자. 너랑 나랑!"
+    },
+    {
+      "line": 2540,
+      "event": "cscottjogging",
+      "english_sha256": "2451548c0d1e569253042903f7b7c4c86375fbc63f39cc2c2c24d698ae50ad1b",
+      "ko": "그러자, 좋아!"
+    },
+    {
+      "line": 2541,
+      "event": "cscottjogging",
+      "english_sha256": "3199b0f52d3a3465d7e580970555bf7154a6e58b36cb469e141530877355c6e6",
+      "ko": "그리고 조금이라도 도움이 된다면 말인데, 백삼 다음에도 숫자가 있다는 건 장담할 수 있어."
+    },
+    {
+      "line": 2542,
+      "event": "cscottjogging",
+      "english_sha256": "9f82aa12b6167ada9731aeaa0dfefdb26987aab8028c47226ba7b9551edd3251",
+      "ko": "그럴 줄 알았어!"
+    },
+    {
+      "line": 2543,
+      "event": "cscottjogging",
+      "english_sha256": "098b2163cab090ce38a4cdce4da39e961d2562f4ac78acec41d4ede8ec5694d0",
+      "ko": "스콧은 새로운 사실을 알게 된 기쁨에 환하게 웃으며 그 자리에 남아 별을 바라본다."
+    },
+    {
+      "line": 2544,
+      "event": "cscottjogging",
+      "english_sha256": "3e4cdbcd29096b44b1e9f5e02e407c7beac62d13661a0aa0a6d23672bd707579",
+      "ko": "귀엽다."
+    },
+    {
+      "line": 2553,
+      "event": "cscottgrandma",
+      "english_sha256": "d74220a059c6a6568622a77206c570819506911d35a3e6dfe152cd6057171321",
+      "ko": "그의 할머니"
+    },
+    {
+      "line": 2555,
+      "event": "cscottgrandma",
+      "english_sha256": "0a2156319a1458bfb5554d15af04077a62b51aad66f7094111b7e05ec39ac2b2",
+      "ko": "우리 할머니는 최고야."
+    },
+    {
+      "line": 2556,
+      "event": "cscottgrandma",
+      "english_sha256": "30396dc412a56bcd0fcd27e791591e1ce940fe758cbb3356f285fb6b08b4cd12",
+      "ko": "부모님이 떠나셨을 때 할머니가 나랑 사촌들을 돌봐 주셨어."
+    },
+    {
+      "line": 2557,
+      "event": "cscottgrandma",
+      "english_sha256": "927a594776b56b1de4ece557cbf67afce5ccd2e2dbee4322e8744395b9b86c66",
+      "ko": "정말 강인한 분이셔. 늑대 무리 전체를 혼자 키운다고 상상해 봐!"
+    },
+    {
+      "line": 2558,
+      "event": "cscottgrandma",
+      "english_sha256": "989d1e7c9ce91aba2aa8bfadda8b4e5be7088f396bc76433213d4fc060d76011",
+      "ko": "다른 친척들도 있지만, 할머니는 모두를 하나로 이어 주는 접착제 같은 분이야."
+    },
+    {
+      "line": 2559,
+      "event": "cscottgrandma",
+      "english_sha256": "6baf50aed107a34b8d41b5668f8f84b90109b2f83e740385475f79a74693abe2",
+      "ko": "그러니까... 우리 모두 배불리 먹으라고 엄청나게 크고 맛있는 음식을 만들어 주셔."
+    },
+    {
+      "line": 2560,
+      "event": "cscottgrandma",
+      "english_sha256": "cd27ca501bb77e43080c2cfaeda927fb99ace7606b962f14f793565c883bb0cb",
+      "ko": "내가 제일 좋아하는 음식 중 하나는 '페스토 파스타'야. 정말 근사한 파스타 요리지. 핵심은 할머니의 비밀 소스야. 초록색이거든!"
+    },
+    {
+      "line": 2561,
+      "event": "cscottgrandma",
+      "english_sha256": "df297842715a487f9301555b4af1019d2f6d3c150cce0f82fbf346358d8e71ca",
+      "ko": "음... 그야말로 진정한 미스터리라고 할 수 있겠네."
+    },
+    {
+      "line": 2562,
+      "event": "cscottgrandma",
+      "english_sha256": "ae401ee78dd5b1b53d7cf4c7ed338944ce3c452a82b8837140988110b66338c8",
+      "ko": "할머니는 엄청 현명하시기도 해, 브로."
+    },
+    {
+      "line": 2563,
+      "event": "cscottgrandma",
+      "english_sha256": "4ba56d58e04903117bba1f86e9f4d3b193ad434371b90b2c3ac7a14de3ef5351",
+      "ko": "정말 기발한 격언과 속담을 많이 알려 주셔."
+    },
+    {
+      "line": 2564,
+      "event": "cscottgrandma",
+      "english_sha256": "87f0c98d3fded30a380a92eae8d171209b1441c239950da76d19a8f7980fda37",
+      "ko": "'겉모습만 보고 판단하지 마라' 같은 말이나, '스콧, 테니스공을 입에 넣지 마. 먹는 게 아니란다' 같은 말 말이야."
+    },
+    {
+      "line": 2565,
+      "event": "cscottgrandma",
+      "english_sha256": "72d995c0c37b7fb76d579d8f47c524624ac0516a861822c2231301f7703b29f5",
+      "ko": "정말 지혜로우셔!"
+    },
+    {
+      "line": 2566,
+      "event": "cscottgrandma",
+      "english_sha256": "7cf9b6705f4d8ccffb6fd947a790fadbb79c12a90d52ee3219fea08c3332be26",
+      "ko": "내가 아주 똑똑한 사람이 아니어도, 아주 착한 아이가 되려고 노력하면 괜찮다고 가르쳐 주신 분도 할머니야."
+    },
+    {
+      "line": 2567,
+      "event": "cscottgrandma",
+      "english_sha256": "0f7e8da8da728fc84d919d7e754e57d506a09306221d70943acc50e1fc9346f4",
+      "ko": "똑똑함이나 용기는 눈에 확 띄는 장점이지만, 정말 중요한 건 친절함이라고 하셔."
+    },
+    {
+      "line": 2568,
+      "event": "cscottgrandma",
+      "english_sha256": "5ca8d80d16c86cc8618a77e993ec6a25f308e90e063301150342e110d0234729",
+      "ko": "난 늘 착한 아이가 되려고 노력해. 그러니까 할머니도 날 자랑스러워하실 거야!"
+    },
+    {
+      "line": 2569,
+      "event": "cscottgrandma",
+      "english_sha256": "916dd5f1e1207be1fc277af52cd6547b11b01d87e316cccd8742a70d9a59a65b",
+      "ko": "할머니께서 분명 자랑스러워하실 거야, 스콧."
+    },
+    {
+      "line": 2570,
+      "event": "cscottgrandma",
+      "english_sha256": "1aa7b1c1d5fb1fd6d299eae251a665c7898baeb43d48fb6b8a5b76da6c6ef739",
+      "ko": "고마워!"
+    },
+    {
+      "line": 2571,
+      "event": "cscottgrandma",
+      "english_sha256": "2ad05b4620cd2e2e9ee40d8e1ff743daf5045001b5a044f3f2f0d809ed18a84e",
+      "ko": "너희 둘은 편안한 침묵 속에서 별을 바라보며 앉아 있다."
+    },
+    {
+      "line": 2580,
+      "event": "cscottcheerethics",
+      "english_sha256": "584d99e2364ebd5c758c7b7bf5c385a375e49005c20ff333d9188f13efb2dbdb",
+      "ko": "그의 친구들"
+    },
+    {
+      "line": 2582,
+      "event": "cscottcheerethics",
+      "english_sha256": "873d706ff86fd00be98116442999f69a25211431fdedf1e2bfb5a98a0949ddfe",
+      "ko": "내 친구들은 최고야!"
+    },
+    {
+      "line": 2583,
+      "event": "cscottcheerethics",
+      "english_sha256": "d3c9fe6954a2ccf11ee9785ea4552e11a32dd9bfe59d2d9c2459e005c7a4c900",
+      "ko": "난 친구들이 뭘 하든 응원해 주는 게 좋아."
+    },
+    {
+      "line": 2584,
+      "event": "cscottcheerethics",
+      "english_sha256": "e67e66b0cee04a0cd3dddc5ee96bd5dc551031d8299cf602efe8535b4f7aee95",
+      "ko": "데이미언이 방화 실력을 키우는 거라든가..."
+    },
+    {
+      "line": 2585,
+      "event": "cscottcheerethics",
+      "english_sha256": "74f9ed1befa33f0a145631d48b45c14b90f54d9bad46bd56d006f6de51864b70",
+      "ko": "베라가 범죄 실력을 키우는 거라든가..."
+    },
+    {
+      "line": 2586,
+      "event": "cscottcheerethics",
+      "english_sha256": "a487ccdbb6759e9562b76de3231ba75595daf1223f25834c3dfc2a5838da6b4f",
+      "ko": "리암이 아이러니를 더 잘 구사하게 되는 거라든가...."
+    },
+    {
+      "line": 2587,
+      "event": "cscottcheerethics",
+      "english_sha256": "07167eee55a9685e9b38996a5dde698cc795fafa512b5151067773802018e451",
+      "ko": "내가 스포츠 좋아하는 건 알잖아. 그래서 말인데, 치어리더는 스포츠의 최고 장점 중 하나라고 할 수 있어."
+    },
+    {
+      "line": 2588,
+      "event": "cscottcheerethics",
+      "english_sha256": "e9f7ea846d322d20ac2a1ee8a10cea206bfbd6725576d7ff31d1a37cf652e1bf",
+      "ko": "생각해 봐. 네 사기를 북돋우려고 온 힘을 다하는 사람들이 세상에 있다는 거잖아."
+    },
+    {
+      "line": 2589,
+      "event": "cscottcheerethics",
+      "english_sha256": "be0e8cc70b61b9c6ff281b89807ea97d309b07dcb88d5db4f0cf8411fc94a56c",
+      "ko": "그렇게 생각하니까 꽤 멋진데."
+    },
+    {
+      "line": 2590,
+      "event": "cscottcheerethics",
+      "english_sha256": "f76d62a0eb877346d73d0a574c1426a887e416a6052def652e401f652f283de6",
+      "ko": "맞아! 그게 날 정말 행복하게 해 줘서, 얼마 전부터 이런 생각이 들었어. 다른 모든 일에는 왜 치어리더가 없을까?"
+    },
+    {
+      "line": 2591,
+      "event": "cscottcheerethics",
+      "english_sha256": "62266345db8f9f005db9e65017bb7f0e07c6780738f970569353fbcdac91c1bc",
+      "ko": "그래서 친구들이 하는 다른 모든 일을 응원하는 치어리더가 되기로 했어!"
+    },
+    {
+      "line": 2592,
+      "event": "cscottcheerethics",
+      "english_sha256": "6803c7c17443d813ea00652d04b24286e149bb7dfe6dfa5e25542e235c2a618d",
+      "ko": "친구들도 경기 중에 내가 느끼는 것과 비슷한 기쁨을 느낄 수 있다면, 그게 최고야, 브로."
+    },
+    {
+      "line": 2593,
+      "event": "cscottcheerethics",
+      "english_sha256": "9f480cf8450cb125e1cda4b60f01e353fa2f3135a989999ac03b76dc79ee2131",
+      "ko": "정말 다정한 생각이네, 스콧."
+    },
+    {
+      "line": 2594,
+      "event": "cscottcheerethics",
+      "english_sha256": "2ec6f611ab955f52179a10d092f0bfdf28c19196f8fc11bfa3a83ccb0b07f9f9",
+      "ko": "응... 그런데 가끔은 그다지 좋은 일이 아닌 걸 응원하고 있다는 걸 깨닫게 돼. 아까 말한 방화나 범죄, 아이러니 같은 거 말이야..."
+    },
+    {
+      "line": 2595,
+      "event": "cscottcheerethics",
+      "english_sha256": "1d49bd7f1b87b5d3d3d337b15dbc787b5718032e94bf62668bd64999b8da96d6",
+      "ko": "그래서 친구들이 좀 더 좋은 일을 할 때 응원해 주기로 했어!"
+    },
+    {
+      "line": 2596,
+      "event": "cscottcheerethics",
+      "english_sha256": "35185c3d4e9f789e6b00a9b288efde789f5d122a2fcb7411b79ed77f5e3613f8",
+      "ko": "베라가 샐러드 먹기 대회에서 이기도록 응원하고, 데이미언이 화장하는 것도 응원하고, 리암이... 뭐랄까... 리암다운 일을 더 잘하도록 응원하는 거지!"
+    },
+    {
+      "line": 2597,
+      "event": "cscottcheerethics",
+      "english_sha256": "ca621037573b63eee99d488c399b755ef7b7395ffcf842e60d7075f21dce962f",
+      "ko": "그렇게 하면 친구들이 별로 좋지 않은 일 대신 좀 더 좋은 일에 집중하게 되지 않을까?"
+    },
+    {
+      "line": 2598,
+      "event": "cscottcheerethics",
+      "english_sha256": "1c03d4bb1776377cfd607938873e0df57cf7135b6ae660b98fe7022daf5d6a36",
+      "ko": "그럴지도!"
+    },
+    {
+      "line": 2599,
+      "event": "cscottcheerethics",
+      "english_sha256": "380799f37a96704d49d080b50d0245febedb1ed63b129b261a2e5b60c4adc261",
+      "ko": "할머니가 그러시는데, 최고가 되는 데 너무 집중하다 보면 더 나은 사람이 되는 걸 잊을 때가 있대."
+    },
+    {
+      "line": 2600,
+      "event": "cscottcheerethics",
+      "english_sha256": "1c239c3898bbf3dd37826691860072320f8deac6f22dcf7bb4ed83faf72acd05",
+      "ko": "친구들이 최고가 되어 행복해하는 것도 좋지만, 더 나은 사람이 되어 행복해한다면 난 그게 훨씬 더 좋아."
+    },
+    {
+      "line": 2601,
+      "event": "cscottcheerethics",
+      "english_sha256": "5fe5283ca56cc4818d0ffdd051f684db37bd2e745f6f433e89b3a684983b6726",
+      "ko": "말이 되는 것 같아?"
+    },
+    {
+      "line": 2602,
+      "event": "cscottcheerethics",
+      "english_sha256": "0e6c4912ed8c199cf20df8d26076b57af34ad5542b50442bbad2d1fada07bd2c",
+      "ko": "응, 정말 말이 돼."
+    },
+    {
+      "line": 2603,
+      "event": "cscottcheerethics",
+      "english_sha256": "c0b584f196791298e494b7bac681ac6beda7e1e6e8e9211991e800e8fd7a8a94",
+      "ko": "응, 나도 그렇게 생각해..."
+    },
+    {
+      "line": 2604,
+      "event": "cscottcheerethics",
+      "english_sha256": "e08124e4021e934a153399eda840c47d87530c3637cfab86b0515c65e4b3ac78",
+      "ko": "친구들은 모를 수도 있지만, 난 늘 몰래 친구들이 더 나은 사람이 되도록 응원하고 있어..."
+    },
+    {
+      "line": 2605,
+      "event": "cscottcheerethics",
+      "english_sha256": "9835bcf80b7d4d41c4d33750337fbfb37220fd58ba95bfe99efb58ceb52b523c",
+      "ko": "너희는 한동안 별을 바라보며 앉아 있다. 스콧이 이렇게 통찰력 있는 줄 누가 알았겠어?"
+    },
+    {
+      "line": 2614,
+      "event": "cscottsnacks",
+      "english_sha256": "c229f1fc35123cadc158997c2849f965f171ed87035c3324376390febff11887",
+      "ko": "스콧 스낵!"
+    },
+    {
+      "line": 2616,
+      "event": "cscottsnacks",
+      "english_sha256": "d54bd9eb0bce51de09d53b61df17589061c2c0871f89c97401bbe25239e0920a",
+      "ko": "아, 맞아. 스콧 스낵!"
+    },
+    {
+      "line": 2617,
+      "event": "cscottsnacks",
+      "english_sha256": "8bfa6d573215ca8aa1d56ed0322396ae23e9f433b103e04b52d0d507f8109eb4",
+      "ko": "어느 날 밤 완전히 늑대가 됐었는데, 기억은 거의 안 나. 그래도 한 가지는 확실해:"
+    },
+    {
+      "line": 2618,
+      "event": "cscottsnacks",
+      "english_sha256": "8795e3a90f58dedf3502a4161d4ed962a5142a9583232654569d4ea3b82bc3af",
+      "ko": "일본인 사업가들과 친구가 됐는데, 그 사람들이 날 간식으로 만들어 버렸어."
+    },
+    {
+      "line": 2619,
+      "event": "cscottsnacks",
+      "english_sha256": "a7f3bafaaa920228f980cfb220fb43a7d7bbd33334179dd4e1bdc7c8e0c75de3",
+      "ko": "그 사람들은 내 모습을 상품에 쓰는 대가로 로열티를 주겠다고 했어."
+    },
+    {
+      "line": 2620,
+      "event": "cscottsnacks",
+      "english_sha256": "71ecef73fa4088b54635b216857844cfae55b9195dd9829a4392a13be28c153b",
+      "ko": "하지만 초상 사용료(로열티)나 초상권이 뭔지 몰라서, 대신 스콧 스낵을 평생 먹을 만큼 달라고 했지."
+    },
+    {
+      "line": 2621,
+      "event": "cscottsnacks",
+      "english_sha256": "84af6f4d2a92c547f9a9561fe00b1d84d9147d145e35c82a145c795c73685248",
+      "ko": "그랬더니 그러겠대!"
+    },
+    {
+      "line": 2622,
+      "event": "cscottsnacks",
+      "english_sha256": "ba2c5968c5dea2d63a2c3a453ccebd884db62fb6177e8e9729a56a6725bf6a12",
+      "ko": "오, 완전 좋네."
+    },
+    {
+      "line": 2623,
+      "event": "cscottsnacks",
+      "english_sha256": "5fc7700b92a90a0f6db4d91d38a7f5cc3f1183111ef325c43bf91336fccb7b96",
+      "ko": "내 생각엔 협상에서 내가 이긴 것 같아."
+    },
+    {
+      "line": 2624,
+      "event": "cscottsnacks",
+      "english_sha256": "09851206153ec5be37ccd16e78a0edbd4749efdf02d8d6b14ff89946b0909fba",
+      "ko": "그래서 조금 미안한 마음에, 그 사람들을 도우려고 가끔 내 돈으로 스콧 스낵을 사 먹기도 해."
+    },
+    {
+      "line": 2625,
+      "event": "cscottsnacks",
+      "english_sha256": "40fbb33f7113e138b29f726ffa8cccaf5d1c599d6213ee532db63e2eacaf9298",
+      "ko": "어쨌든 내 브로들이잖아!"
+    },
+    {
+      "line": 2626,
+      "event": "cscottsnacks",
+      "english_sha256": "ed95bb7f477221af5bb9f86c7e116a2641b8f043888bb8b3e9e33c5715068f18",
+      "ko": "있잖아, 한동안은 이게 통과의례 같은 거라고 생각했어."
+    },
+    {
+      "line": 2627,
+      "event": "cscottsnacks",
+      "english_sha256": "48d1ecd393691c02fd5f04bf2e10ab1b6b94562ab45d0f326047c4b186b8c574",
+      "ko": "그러니까 누구나 언젠가는 소년에서 간식이 되고, 결국 남자가 되는 거지."
+    },
+    {
+      "line": 2628,
+      "event": "cscottsnacks",
+      "english_sha256": "fbb6b544aa77ae5c4facf44f3fa0c26df7bdb627e5b2521f6c67648d51e7ebae",
+      "ko": "알고 보니 사실이 아니더라고..."
+    },
+    {
+      "line": 2629,
+      "event": "cscottsnacks",
+      "english_sha256": "530a322b76a051061bc8d84cca17383d7d62847818e4388af28218f90770be86",
+      "ko": "그래... 그럴 줄 알았어."
+    },
+    {
+      "line": 2630,
+      "event": "cscottsnacks",
+      "english_sha256": "9c772913143a40dbbe4d33a13eb91bb051e8a55335b8f87b28337dd4d48f4f84",
+      "ko": "...그래도 친구들이라면 어떤 스낵이 될지 생각해 보긴 했어!"
+    },
+    {
+      "line": 2631,
+      "event": "cscottsnacks",
+      "english_sha256": "808eed72e89da6f6e8f24ae7ebbcad3946f70a0878b671732ad4667600d43f7f",
+      "ko": "몇 가지 들어 볼래?"
+    },
+    {
+      "line": 2632,
+      "event": "cscottsnacks",
+      "english_sha256": "2c8d8456de7f81461e7f386ed392d5a0d4d37a43751c254d79f04834834640c4",
+      "ko": "당연하지!"
+    },
+    {
+      "line": 2633,
+      "event": "cscottsnacks",
+      "english_sha256": "d0280d920b018aa94e09541d5130e6f314085371e72b92399821ae5fcf40ecb2",
+      "ko": "미란다 스낵: 캐비아나 트러플 같은 고급 재료로 만들었어."
+    },
+    {
+      "line": 2634,
+      "event": "cscottsnacks",
+      "english_sha256": "e725574e241141a75a1af3b17872094858f3287c6393874d84b369d76d283515",
+      "ko": "그야말로... 먹는 것 자체가 특권이지."
+    },
+    {
+      "line": 2635,
+      "event": "cscottsnacks",
+      "english_sha256": "6713958293c7a9f534338d436f9f2d5e0912f8666f65d1975a7fdc5f617341ae",
+      "ko": "베라 스낵: 뱀 독을 넣은 커피 맛 빵이야."
+    },
+    {
+      "line": 2636,
+      "event": "cscottsnacks",
+      "english_sha256": "1f967ef76908335ffeb7804711e51c3c649f2ae7985bfa0273a723d7937e26a1",
+      "ko": "겉도 강력하고... 속은 더 강력하지!"
+    },
+    {
+      "line": 2637,
+      "event": "cscottsnacks",
+      "english_sha256": "cc9912da7a4af6e562f4b8a534c9b48a2f4105bcc416ae6dd1927e8dadf2e71d",
+      "ko": "폴리 스낵: 폴리가 가장 좋아하는 간식 중 하나야. 밀가루처럼 생긴 걸 '코로 먹는 사탕'이라고 부르잖아."
+    },
+    {
+      "line": 2638,
+      "event": "cscottsnacks",
+      "english_sha256": "f9dc42189f4d0d6c4d6ebe85b6d02806ee63fba58a49faa90598477a86167c69",
+      "ko": "너무 맛있어서 중독될 정도라니까!"
+    },
+    {
+      "line": 2639,
+      "event": "cscottsnacks",
+      "english_sha256": "330ccaae6ae8da1650be05960baae3eb8866ab30ca3e8ccdf24883bb22072067",
+      "ko": "어때?"
+    },
+    {
+      "line": 2640,
+      "event": "cscottsnacks",
+      "english_sha256": "78fa768eb9e75777495bef25b75b0c0ec60c4fc0d55b04c581cd1d30d0555928",
+      "ko": "정말 잘 만들었네. 특징도 딱 맞고!"
+    },
+    {
+      "line": 2641,
+      "event": "cscottsnacks",
+      "english_sha256": "0286dac6223b2852fff5081e060d03bc6b65fdf55f3ba22361453a2117f3d916",
+      "ko": "재치 있는 문구는 리암이 같이 생각해 줬어. 정말 똑똑하다니까!"
+    },
+    {
+      "line": 2642,
+      "event": "cscottsnacks",
+      "english_sha256": "fa8d5d22b26bb16db60b4965b4882ec3e6cc40305164370439751fe458cc5c52",
+      "ko": "언젠가 너랑 내가 %CURRENTPLAYERNAME% 스낵은 어떤 걸지 같이 생각해 봐도 좋겠다. 어때?"
+    },
+    {
+      "line": 2643,
+      "event": "cscottsnacks",
+      "english_sha256": "446b6c5a78e51c397c373460854458aec2123581a58b11386137793d0b14f7a8",
+      "ko": "솔직히 그러면 정말 좋겠어."
+    },
+    {
+      "line": 2644,
+      "event": "cscottsnacks",
+      "english_sha256": "88811e4e6e9d1ecb504f98026871e68805700382d45253cb72d58ccb6f464101",
+      "ko": "야호!"
+    },
+    {
+      "line": 2645,
+      "event": "cscottsnacks",
+      "english_sha256": "5067ca31b462acac0a1c161b334324b8484680dadfaa9a0a128449d5e3d4478f",
+      "ko": "너희는 조금 더 말없이 앉아 별을 바라본다. 결국 스콧은 소년에서 '핫한 남자(snacc)'로 성장하는 데 성공한 것 같다고 생각한다."
+    },
+    {
+      "line": 2654,
+      "event": "cscottteam",
+      "english_sha256": "2adfe3eeb24d215bc82d18f8d6643f3e3a53ca0eadcb1503396f471f3b617189",
+      "ko": "그의 스포츠 팀"
+    },
+    {
+      "line": 2656,
+      "event": "cscottteam",
+      "english_sha256": "2310dd500ce9f6d1c36b7c0014895d95da543e4fedcc5871344724a142c2790e",
+      "ko": "난 우리 팀이 좋아!"
+    },
+    {
+      "line": 2657,
+      "event": "cscottteam",
+      "english_sha256": "5794abeffa7340147e9e088475627178eed13a5678632282a1e3ac4ace46cf41",
+      "ko": "언제나 내 편이 되어 줄 브로들이 있다는 걸 알면 인생이 훨씬 편해져."
+    },
+    {
+      "line": 2658,
+      "event": "cscottteam",
+      "english_sha256": "13e6fb3ea812be6be01af97918dbcff1b46a4bc78ab37a8a4d7fd151d335f7af",
+      "ko": "우리가 끊임없이 협력하면서 함께 성장한다는 점이 좋아."
+    },
+    {
+      "line": 2659,
+      "event": "cscottteam",
+      "english_sha256": "045d4820d6e525b37ac128a3be4075318a4d169253abf7fa6edb7376c7d0e134",
+      "ko": "팀워크를 너무 열심히 해서 지치면, 팀레저도 즐길 수 있지!"
+    },
+    {
+      "line": 2660,
+      "event": "cscottteam",
+      "english_sha256": "7c337e3fe2b9c67f05096a60332e10167f3ab696a7f45c8bd5754d419eb9f741",
+      "ko": "팀레저?"
+    },
+    {
+      "line": 2661,
+      "event": "cscottteam",
+      "english_sha256": "e9e6c1643a98f77c58af6a8fbc7cd8ef4190bbf2e3d97e0e6632c59b771be646",
+      "ko": "응! 경기장 밖에서 팀원끼리 함께 할 수 있는 온갖 재밌는 일을 하는 거야!"
+    },
+    {
+      "line": 2662,
+      "event": "cscottteam",
+      "english_sha256": "603e22e7e9dbd124a0a276f72f1f4b12470170d8f65428173a82105df0aed6e5",
+      "ko": "재밌는 말이네. 잠깐 섹스를 뜻하는 은어인 줄 알았어."
+    },
+    {
+      "line": 2663,
+      "event": "cscottteam",
+      "english_sha256": "b17ab9eaddfb88d4b48050dc96419266e44fe54bf848233c9a162cdf380d606e",
+      "ko": "아, 섹스도 가끔 하긴 해!"
+    },
+    {
+      "line": 2664,
+      "event": "cscottteam",
+      "english_sha256": "c1fb26d451ee523101749636d1151b32e8f53903156e4ef96b934beef1bc25e5",
+      "ko": "...뭐?"
+    },
+    {
+      "line": 2665,
+      "event": "cscottteam",
+      "english_sha256": "dcbd398f0cce25f8560575878c18d86f2d4393b44f47a117616a3b18dad11f36",
+      "ko": "응, 섹스는 재밌잖아! 운동도 되고!"
+    },
+    {
+      "line": 2666,
+      "event": "cscottteam",
+      "english_sha256": "58832ba7365e94f64472ad7ab32a1b745fc068b921d4e70526244835443fa0f1",
+      "ko": "그럼... 그러니까... 팀 단체 난교 같은 거야?"
+    },
+    {
+      "line": 2667,
+      "event": "cscottteam",
+      "english_sha256": "e418778cfb07885daf9a97bf9618fdc30b0e029f96f7f689a711f0f1d5fb2ecd",
+      "ko": "아니, 브로. 팀 전체가 그러는 건 아니야! 그래도 팀원 둘 이상이 아주 친밀해지기도 하고, 스포츠는 몸을 많이 부딪치는 활동이잖아. 그러다 보면... 가끔 섹스도 하는 거지!"
+    },
+    {
+      "line": 2668,
+      "event": "cscottteam",
+      "english_sha256": "29330390fbc29c627426b2fd4891480556847b8ba2e5a8284e6f7ee511b547c1",
+      "ko": "와, 그래도 일이 복잡해지지 않아?"
+    },
+    {
+      "line": 2669,
+      "event": "cscottteam",
+      "english_sha256": "86b1dd958d769d63fec1bd8a2c40a6eafa8a2225a5cdbe9dace6c003a1f01840",
+      "ko": "전혀 아니야, 브로!"
+    },
+    {
+      "line": 2670,
+      "event": "cscottteam",
+      "english_sha256": "70fc4e8423fc3de4cf9d679867168dbcaba42d45ea89c9b4ead075194cdb205b",
+      "ko": "그냥... 뭐라고 하더라? 더 '감정적으로 책임감 있게' 행동하면 돼!"
+    },
+    {
+      "line": 2671,
+      "event": "cscottteam",
+      "english_sha256": "97c96ee15a062fa426e73cc2254fa06e136981699b2c6bac8431279109f4a6c9",
+      "ko": "그러니까... 서로 소통하고, 관계된 사람들을 배려하고, 다 같이 즐거운 시간을 보내는 데 집중하는 거지!"
+    },
+    {
+      "line": 2672,
+      "event": "cscottteam",
+      "english_sha256": "e869db23ea04bfac274aaf4bb71b71dd09b40e2e5f0c3cf7108d640100ac4d0a",
+      "ko": "그건 정말... 엄청 현명한 말인데, 스콧."
+    },
+    {
+      "line": 2673,
+      "event": "cscottteam",
+      "english_sha256": "b56ab0f3da85a29df2eb8ece50bca4dd6172812f60a72a96fd91366f5c6ad049",
+      "ko": "아, 고마워, 브로!"
+    },
+    {
+      "line": 2674,
+      "event": "cscottteam",
+      "english_sha256": "bf1ddd4979e6165163c3f48cf408944d1e6c2edd37023013e0a729b8d969605d",
+      "ko": "너희는 남은 밤 동안 스포츠 이야기를 계속 나눈다. 결국 너는 팀에 들어가는 걸 진지하게 고민하게 된다."
+    },
+    {
+      "line": 2683,
+      "event": "cscottchasingcars",
+      "english_sha256": "96580cf080094169c543675df41cdd5b5cc677f59148a5e681a7ea81b9213e2f",
+      "ko": "그의 자동차 추격 사랑"
+    },
+    {
+      "line": 2685,
+      "event": "cscottchasingcars",
+      "english_sha256": "3e71a6e46d2bbd0fec3e272d4ade5e60eef393b188cc8ae1e1298664bc4dfce6",
+      "ko": "오, 난 자동차를 쫓는 게 정말 좋아, 브로!"
+    },
+    {
+      "line": 2686,
+      "event": "cscottchasingcars",
+      "english_sha256": "046487cdd82c99004c23f2a749c3d395bd36b6f9a9e725c3c468907b394357b1",
+      "ko": "자동차는 빠르지만, 스콧은 더 빠를 수 있어."
+    },
+    {
+      "line": 2687,
+      "event": "cscottchasingcars",
+      "english_sha256": "a97d672456e51ad725df154e7e72a810823fb86cdfd45d3401b2259613527c97",
+      "ko": "그러니까... 솔직히 아직 자동차보다 빠르진 않아..."
+    },
+    {
+      "line": 2688,
+      "event": "cscottchasingcars",
+      "english_sha256": "d24b84e2183e9e69c84e40c722d564535bf1b4da362ac4e46bfb38b0f53815a3",
+      "ko": "하지만 충분히 연습하면 언젠간 따라잡을 수 있을 거야!"
+    },
+    {
+      "line": 2689,
+      "event": "cscottchasingcars",
+      "english_sha256": "9a5593bc49f5528b0a1f655ff3daf7ebbf7b73ec246cd33a6ec124286843789f",
+      "ko": "난 널 믿어!"
+    },
+    {
+      "line": 2690,
+      "event": "cscottchasingcars",
+      "english_sha256": "884328136d04962d74c65c828b066f6ca044aaeab86348afdd5a53756b9bb3f4",
+      "ko": "난 아주 어릴 때부터 자동차를 쫓아다녔어. 사촌들이랑 늘 그랬지!"
+    },
+    {
+      "line": 2691,
+      "event": "cscottchasingcars",
+      "english_sha256": "17af8e65d49d470d5eff3fdf95b482fa1b9ded1423fb6c76e10ff2731b9b93ca",
+      "ko": "그때는 규칙도 있었어. 그것도 아주 제대로 된 규칙!"
+    },
+    {
+      "line": 2692,
+      "event": "cscottchasingcars",
+      "english_sha256": "6b2bfd5325bf89df712ecc53ecb08ffac704ef9eb3ffad1e653f6e2f9b569f85",
+      "ko": "예를 들면...?"
+    },
+    {
+      "line": 2693,
+      "event": "cscottchasingcars",
+      "english_sha256": "bbfff19a3a25911df4222018a39f5627c9c6ad00e8d896b4d226ad2ffcddf7ff",
+      "ko": "쫓는 자동차의 색깔에 따라 점수가 달라졌어!"
+    },
+    {
+      "line": 2694,
+      "event": "cscottchasingcars",
+      "english_sha256": "a6fb6ff20dcef25dde047a42579716c88bf72d34cac3e5df0b446a968b5e7dd8",
+      "ko": "당연하지. 주황색 자동차는 엄청 빠르고, 노란색 자동차는 별로 안 빠르다는 건 누구나 알잖아!"
+    },
+    {
+      "line": 2695,
+      "event": "cscottchasingcars",
+      "english_sha256": "61508bf70486195c1686e8989e86a219937c73ac3f2d21a0bc8276a8693cd648",
+      "ko": "그런 차 본 적 있어? 노란 차는 대체로 엄청 크고 작은 사람들을 잔뜩 태우고 다녀. 그러니 느릴 수밖에!"
+    },
+    {
+      "line": 2696,
+      "event": "cscottchasingcars",
+      "english_sha256": "a4319d613077ee49c39e4c9c0e0062077012b187a66ddf4e7f12ad31971136e9",
+      "ko": "노란색... 크고... 작은 사람들이 가득 타고 있다고...? 설마...?"
+    },
+    {
+      "line": 2697,
+      "event": "cscottchasingcars",
+      "english_sha256": "115de7b97aedd7b6f23bc55430ba6ab9e1e48ebff8d5271cd9d8626839e012a1",
+      "ko": "재미있는 번호판을 단 차를 쫓으면 특별 보너스 점수도 받을 수 있었어!"
+    },
+    {
+      "line": 2698,
+      "event": "cscottchasingcars",
+      "english_sha256": "f0f29b68ef66642b0cfe5f1a46b4d26a3b9d5e028365d7eea213418e8a065b07",
+      "ko": "사촌들이랑 차를 쫓아다니던 때는 정말 즐거웠어..."
+    },
+    {
+      "line": 2699,
+      "event": "cscottchasingcars",
+      "english_sha256": "c993c358560f588fbf75c0d66fc7c0b39a259e5abd8b3054d1db47457da38bb4",
+      "ko": "사촌들도 가끔은 재미있고 친절해. ...못되게 굴지만 않으면 말이야."
+    },
+    {
+      "line": 2700,
+      "event": "cscottchasingcars",
+      "english_sha256": "4c75406ac818a6339c24a5a95402167230e0d1775f9a284c50983c31b692dd71",
+      "ko": "자동차 회사를 찾아가 후원해 달라고 해서, 자동차 추격을 정식 스포츠로 만들자고도 했어!"
+    },
+    {
+      "line": 2701,
+      "event": "cscottchasingcars",
+      "english_sha256": "619c56f70cc8a633ffa119a64983bebc7f765ccee08cb654a643083217483eb0",
+      "ko": "내가 결국 자동차를 타고 여행을 떠나게 될 줄 누가 알았겠어... 그것도 자동차를 타고 말이야!"
+    },
+    {
+      "line": 2702,
+      "event": "cscottchasingcars",
+      "english_sha256": "ef7cc07533bbb98afa76365638bd92d4f4cf06e1614fc6ce710c10f0dd24c27a",
+      "ko": "인생은 참 이상하게 흘러가기도 하지, 안 그래?"
+    },
+    {
+      "line": 2703,
+      "event": "cscottchasingcars",
+      "english_sha256": "96fdbfb3e2416f7ffff89b662d350a55414109170458f11776d0bc26a21a5425",
+      "ko": "완전 그렇지!"
+    },
+    {
+      "line": 2704,
+      "event": "cscottchasingcars",
+      "english_sha256": "17a05151e65de9146b2292c5dab9c1ee86e715c75f3b8b365d879da565c1623e",
+      "ko": "평생 대부분을 자동차 쫓는 데 쓰다가, 다음 날엔 자동차 안에 앉아... 인생을 쫓고 있네."
+    },
+    {
+      "line": 2705,
+      "event": "cscottchasingcars",
+      "english_sha256": "8d8d4de59b0fcd73e5f4d9f5826e452046b2728cbb928dc6a913ed05e9fc0c63",
+      "ko": "코치님이 말하는 '어른이 되는 과정'이 이런 건가 봐."
+    },
+    {
+      "line": 2706,
+      "event": "cscottchasingcars",
+      "english_sha256": "df92a086ef62633a353e45d902dae424ea505e8ca5973183be2609bac072890b",
+      "ko": "하하... 그럴지도..."
+    },
+    {
+      "line": 2715,
+      "event": "cliamcoven",
+      "english_sha256": "c62b968ced2b7d333edb2d78bf3618a5bf5b7d6564b70c9706eb02707b8c0b1d",
+      "ko": "그가 마녀회에서 보낸 시간"
+    },
+    {
+      "line": 2717,
+      "event": "cliamcoven",
+      "english_sha256": "c32c4f8dcda71300678ca70bbeae2535a4a491adbc0b9012351ed6ee729108a1",
+      "ko": "아, 그래. 예전에 마녀회에 속해 있었지."
+    },
+    {
+      "line": 2718,
+      "event": "cliamcoven",
+      "english_sha256": "da10dca7c4d8b95cf1d7854e48208417066464f9829beb2f9c0fae7f3ab3823e",
+      "ko": "세상을 뒤흔드는 리암 드 리옹쿠르인 내가 마법 소녀 무리의 초자연적 조력자라는 뻔한 클리셰에 빠질 줄 누가 알았겠어!"
+    },
+    {
+      "line": 2719,
+      "event": "cliamcoven",
+      "english_sha256": "fc079131ed648016b3466158d6f153964e086ec29bf11f873b350bbb4c5e6ae6",
+      "ko": "하지만 생각해 보면, 내가 마녀회에 들어간 건 공평한 일이었어."
+    },
+    {
+      "line": 2720,
+      "event": "cliamcoven",
+      "english_sha256": "03e1d33ec4a7f6e822ed17d6bc287c7ece9f34429cd86cb3a709de1adac07048",
+      "ko": "왜?"
+    },
+    {
+      "line": 2721,
+      "event": "cliamcoven",
+      "english_sha256": "80ee5179f15233dc7cf66450fe167526b289ad70111464d6dfa60809ebf10820",
+      "ko": "마녀회에 들어가기 전에는 어둠의 세력 군대를 지휘했거든. 현실 세계를 끝장내는 게 내 사명이었지. 긴 이야기야."
+    },
+    {
+      "line": 2722,
+      "event": "cliamcoven",
+      "english_sha256": "c12b37dff69b9a05283cb43d0eceaa332a808fb85a443e8edcb1e82535cdf215",
+      "ko": "세상에..."
+    },
+    {
+      "line": 2723,
+      "event": "cliamcoven",
+      "english_sha256": "9bd7d637e0c1251cd51c41e35fd6e2753f9d9c19a206182ef61af9fd0bfa3688",
+      "ko": "그래. ...좋은 일은 아니었지."
+    },
+    {
+      "line": 2724,
+      "event": "cliamcoven",
+      "english_sha256": "76d447b79abdcbcf98a56c6d3d5b306c8a93cdf8e4b1ef59fa41f949b53ebb4e",
+      "ko": "누구나 실수는 해. 스트레스받아서 친구에게 모진 말을 내뱉는 사람도 있고, 사악한 군대를 지휘하는 사람도 있는 거지."
+    },
+    {
+      "line": 2725,
+      "event": "cliamcoven",
+      "english_sha256": "343834dfc36a714476094b7224a7be786e78d903a821dcacda27720a20f7504f",
+      "ko": "그럼 그다음엔 어떻게 해야 할까?"
+    },
+    {
+      "line": 2726,
+      "event": "cliamcoven",
+      "english_sha256": "8a5b03d80c3c576aaa169135fb904822e5883033a12ed8832fc4729e3683573f",
+      "ko": "물론 사과할 수 있지. 거기서 배울 수도 있고. 둘 다 해야 해."
+    },
+    {
+      "line": 2727,
+      "event": "cliamcoven",
+      "english_sha256": "a1e815b1db0cd1707569828416a311efa419581839f52c3407c689c60770f796",
+      "ko": "하지만 저지른 잘못을 되돌릴 순 없으니... 그다음으로 할 수 있는 최선은 더 나은 사람이 되고, 더 나은 일을 하는 거야."
+    },
+    {
+      "line": 2728,
+      "event": "cliamcoven",
+      "english_sha256": "6f1e98d88b4639fc186ace02f275304ff06c1e7eb402089a44d3cad210b51624",
+      "ko": "그래서 내가 수백 년간 쌓은 지식과 힘을 마녀회에 보태기로 한 거지."
+    },
+    {
+      "line": 2729,
+      "event": "cliamcoven",
+      "english_sha256": "5b20488aaf4ba6f39d0a059893cec7acb683f17487d217a1c646800a7a94ee26",
+      "ko": "마녀회에서 지내는 건 어땠어?"
+    },
+    {
+      "line": 2730,
+      "event": "cliamcoven",
+      "english_sha256": "f84211f5f7ae4de840c650b9c26e8f50bcd2a97d941f9bc771a57f1513381b12",
+      "ko": "진부한 클리셰 투성이였지. 그들이 상대하는 악당 중 절반은 성장통과 어른이 되는 과정의 어려움을 노골적으로 비유한 존재라는 걸 마녀들이 알고나 있었을까?"
+    },
+    {
+      "line": 2731,
+      "event": "cliamcoven",
+      "english_sha256": "1f57d8ac76354efec1792d6df4daa318023e1aef9518c7926859909ff5a37bfb",
+      "ko": "그래도 보람 있었단 건 인정하겠어. 그 마녀들은 존중받아 마땅해. 지독하게 성가실 때도 있지만, 인간과 괴물 모두를 지키기 위해서라면 무슨 일이든 할 사람들이거든."
+    },
+    {
+      "line": 2732,
+      "event": "cliamcoven",
+      "english_sha256": "2f7b43f11894a71db8a5d4bb70ba501a5c3678e5e63dfcca545486921ea9fdad",
+      "ko": "그래, 정말 대단한 사람들이긴 하지."
+    },
+    {
+      "line": 2733,
+      "event": "cliamcoven",
+      "english_sha256": "bd7d62fd96bdbd0f7d328454f9de047677f09a423efeaf815de14f89fbcc55e4",
+      "ko": "우린 셀 수도 없이 세상을 구했어. 그러다 어느 순간 그 방식이 더는 우리에게 통하지 않게 돼서 마녀회를 떠났지. 뭐, 그런 거야."
+    },
+    {
+      "line": 2734,
+      "event": "cliamcoven",
+      "english_sha256": "0c63a8edcf4d2881f3290969da317e8902c702d522f28f4b07c4161741aeddff",
+      "ko": "새로운 일에 집중할 필요가 있었어. 난 사후 세계가 제공하는 모든 걸 탐험하는 게 좋아. 예술가도, 선원도, 연금술사도, 어둠의 군주도 되어 봤고... 영웅도 해 봤지."
+    },
+    {
+      "line": 2735,
+      "event": "cliamcoven",
+      "english_sha256": "00c8185cd9e85e1c2c0d29fda1006ece075218df232f33016f6d6dcb3d1296d2",
+      "ko": "하지만 그것마저도 결국 끝이 왔어. 괜찮다고 생각해."
+    },
+    {
+      "line": 2736,
+      "event": "cliamcoven",
+      "english_sha256": "771540dd8529185a21aa79e60e70d0eb5cd794153307b07b432f92641d1a59e9",
+      "ko": "이제 어떤 모습으로 변하든, 다음에 어떤 일을 겪든, 더 나은 사람이 되는 데 집중해야 한다는 걸 기억하면 돼."
+    },
+    {
+      "line": 2737,
+      "event": "cliamcoven",
+      "english_sha256": "f9d43b062b12fae8ef303d82a78117a0e08f065aff9c614baf085411f172e905",
+      "ko": "있잖아, 리암? 이제 중요한 건 아마 그거일 거야."
+    },
+    {
+      "line": 2738,
+      "event": "cliamcoven",
+      "english_sha256": "39c706a1517e5b7b48c812846d66b45965d2be5861aa8d8d7a35a0cba64fb29a",
+      "ko": "그래... 나도 그렇게 생각해."
+    },
+    {
+      "line": 2739,
+      "event": "cliamcoven",
+      "english_sha256": "d7198aeb1eb9c50e3cb30465375cf6b60aaae270ee2eed770a7c8a2dc4a37f3d",
+      "ko": "너희 둘은 생각에 잠긴 채 별을 바라보며 말없이 앉아 있다."
+    },
+    {
+      "line": 2748,
+      "event": "cliamdarklord",
+      "english_sha256": "ba11ff197f47f995cd984649d306a369aa69dda2b95752979e500a622cd962ea",
+      "ko": "그가 어둠의 세력에서 보낸 시간"
+    },
+    {
+      "line": 2750,
+      "event": "cliamdarklord",
+      "english_sha256": "61344a1d40f4c8d0b25100faa98505f8d16536e299260e3ecb43c40a69ab45a9",
+      "ko": "으... 그래..."
+    },
+    {
+      "line": 2751,
+      "event": "cliamdarklord",
+      "english_sha256": "2247629108fbf148e0eb9e92390e95bf4dfe6c368945549f4a8c7db764522af1",
+      "ko": "난 어둠의 군주였던 시절에 관해선 좀처럼 얘기하지 않아."
+    },
+    {
+      "line": 2752,
+      "event": "cliamdarklord",
+      "english_sha256": "1395e994997fdf790a2883af244204ee3126eeb4231a376a111822cf9ef5f34d",
+      "ko": "아, 그럼 신경 쓰지 마. 선을 넘으려던 건 아니었어..."
+    },
+    {
+      "line": 2753,
+      "event": "cliamdarklord",
+      "english_sha256": "89da41f3f32dcec285bf8c79d141ddcb00dc4883952a7e502199a583a99bc211",
+      "ko": "아니, 괜찮아. 내 이야기가 다른 사람들이 같은 실수를 하지 않게 도울 수 있다면 말해 보는 것도 쓸모 있겠지."
+    },
+    {
+      "line": 2754,
+      "event": "cliamdarklord",
+      "english_sha256": "59f12fe6b59f70c3c1837310d65eb56e629c9a8ffd4c5d0f65741db45421b996",
+      "ko": "난 뱀파이어로 태어난 게 아니야. 죽은 뒤 뱀파이어가 됐지. 그러니까 한때는 인간이었어. 인간이 그런 상황에 놓이면 사후 세계는 위험할 수 있어."
+    },
+    {
+      "line": 2755,
+      "event": "cliamdarklord",
+      "english_sha256": "ec6d2287fc8886e1c0b88e05f121823fb21a91564a8688be01e4f7c2fdc0f8f2",
+      "ko": "누군가 내가 젊은 나이에 죽는 걸 막으려고 뱀파이어의 힘을 선물해 줬어. 내가 삶을 경험하길 바랐고, 난 그러겠다고 약속했지."
+    },
+    {
+      "line": 2756,
+      "event": "cliamdarklord",
+      "english_sha256": "61d3be04448ccfb10d58e0fb35e0511a20a5bdb0ca6ff38f39dc7555836f48ad",
+      "ko": "세계를 여행하면서 수많은 일을 했어. 순회극단에 들어가기도 하고, 북쪽의 척박한 바다에서 몇 년씩 어선 일을 하기도 했지."
+    },
+    {
+      "line": 2757,
+      "event": "cliamdarklord",
+      "english_sha256": "580bc19cef833c32b8248d8cae2d332b6ee031afdef14106fa6fab09811d1c80",
+      "ko": "난 한곳에서 같은 일을 하며 오래 머무는 법이 없는 것 같아."
+    },
+    {
+      "line": 2758,
+      "event": "cliamdarklord",
+      "english_sha256": "0e86ee3f9097b9f732f006ed4b848f51cf17ad0bf439a2a62720fc7baccd085b",
+      "ko": "하지만 뱀파이어의 저주는 바로 거기에 숨어 있어. 어둠 속에서 말이야. 수백 년이 지나면 자기도 모르는 사이 삶의 기운을 모조리 빨아들이게 되거든."
+    },
+    {
+      "line": 2759,
+      "event": "cliamdarklord",
+      "english_sha256": "bec9ec63bc696e832a89be127d13ee8fb639d3934aca5f3cacab5293f62542b9",
+      "ko": "모든 걸 할 시간이 생기면... 끝없이 탐욕스러운 무기력, 잔혹한 무감각에 빠질 위험이 있어."
+    },
+    {
+      "line": 2760,
+      "event": "cliamdarklord",
+      "english_sha256": "3f83fbe700e1d782b031d48aa2381993e3fb98149a555239ecdb51ef91f4c4ae",
+      "ko": "으, 듣기만 해도 힘들겠다."
+    },
+    {
+      "line": 2761,
+      "event": "cliamdarklord",
+      "english_sha256": "a09e472251b9bdd0bf58d494c1dd859c75c442318ef47948ae52d5871978fa15",
+      "ko": "그래. 삶이라는 단어를 너무 오래 되풀이해서 의미마저 잃어버리면, 아주 어두운 곳에 빠질 수 있어."
+    },
+    {
+      "line": 2762,
+      "event": "cliamdarklord",
+      "english_sha256": "46d8e0307cd6ee9d6178b0a6267080fff8acd6558ac1523a0a8d5744ef890dd4",
+      "ko": "난 엔트로피를 또 하나 배울 거리로 받아들였고, 악을 삶의 새로운 측면으로 탐험하기 시작했어."
+    },
+    {
+      "line": 2763,
+      "event": "cliamdarklord",
+      "english_sha256": "7cbde0a499910a2037adbd5e5adac0d4116111c91261198ad8b5e06a04b5e67f",
+      "ko": "어둠의 세력에서 고위 지휘관 중 하나가 됐지. 영원이 자연스러운 존재 방식인 강력하고 오래된 존재들과 맹약도 맺었어."
+    },
+    {
+      "line": 2764,
+      "event": "cliamdarklord",
+      "english_sha256": "15ef436f63d98f359f664514dd90206e6f40e2dbf96d831016465eaa676c8913",
+      "ko": "끔찍했고, 나도 끔찍한 짓을 했어. 유일한 장점이라면 객관적으로 봐도 내가 터무니없이 섹시했다는 거지."
+    },
+    {
+      "line": 2765,
+      "event": "cliamdarklord",
+      "english_sha256": "906300e0d7edba46c6e425a47f973771497ea96dbb73c24c5fe30da4ae0eca38",
+      "ko": "날 그 어두운 곳에서 꺼내 준 조이와 마녀회에는 평생 갚아도 모자랄 만큼 빚을 졌어."
+    },
+    {
+      "line": 2766,
+      "event": "cliamdarklord",
+      "english_sha256": "8681cddfd2c7798628d0fb980d0ee3062fdb18f3033cca81bc943e17993c91bc",
+      "ko": "하지만 어떤 밤에는 아직도 식은땀을 흘리며 깨어나. 안전하지 않다는 생각, 언젠가 다시 그 어두운 곳에 빠질지도 모른다는 두려움에 시달리지."
+    },
+    {
+      "line": 2767,
+      "event": "cliamdarklord",
+      "english_sha256": "265c3ef80949c1deaac4145166019da5bfc19c2dd3ba9eb271834f46e7290f2e",
+      "ko": "젠장, 그런 일을 겪었다니 안타깝다..."
+    },
+    {
+      "line": 2768,
+      "event": "cliamdarklord",
+      "english_sha256": "b8e6a38ee73f7ae8203567a31dbafe59ded454a684e529aa956285454ef35bf4",
+      "ko": "교훈은 배웠고, 다시 삶의 새로운 면을 경험하며 삶을 받아들이고 있지만... 그래도 내 안의 악마들이 날뛰지 않게 계속 경계해야 해."
+    },
+    {
+      "line": 2769,
+      "event": "cliamdarklord",
+      "english_sha256": "847c8055ed9243e03676871de63f0bd6906d5c344ba1a3125cf83bb79d21a82a",
+      "ko": "심리 치료가 확실히 도움이 돼."
+    },
+    {
+      "line": 2770,
+      "event": "cliamdarklord",
+      "english_sha256": "ebe50d141438dcf7a6ea5408ef287e973bad93b0fe4eb7690e83bc5c52935fd9",
+      "ko": "괜찮아. 다 잘될 거야, 리암."
+    },
+    {
+      "line": 2771,
+      "event": "cliamdarklord",
+      "english_sha256": "bdc0bb148db47599214ab4da266de544eacf23f6526bd701935e6ce13a78ca78",
+      "ko": "너는 그의 손을 꼭 잡는다. 자기 안의 악마를 다스리는 건 스스로 배워야 하지만, 곁에서 함께해 주는 사람이 있으면 언제나 도움이 된다."
+    },
+    {
+      "line": 2780,
+      "event": "cliamyaoi",
+      "english_sha256": "f60161af113b88725b6390be62daad01d5e74fe643834b2a019e8ba52c8f37a5",
+      "ko": "야오이에 대한 그의 열정"
+    },
+    {
+      "line": 2782,
+      "event": "cliamyaoi",
+      "english_sha256": "02a77bc0f5c73c3fe78b109d438748d5c1f3e006301c19501ed8574b24f9c039",
+      "ko": "아, 그래. 심오하고도 유서 깊은 야오이의 예술..."
+    },
+    {
+      "line": 2783,
+      "event": "cliamyaoi",
+      "english_sha256": "b81e1fe9a0d28c8b92e31b4601b170df84734564de3050e83d2ec25d6c15f7e3",
+      "ko": "진정한 아름다움을 찾으려고 그 안의 모든 미묘한 요소를 탐구했지."
+    },
+    {
+      "line": 2784,
+      "event": "cliamyaoi",
+      "english_sha256": "f74986ff9d2f5b55e87719cd80f16af9e781f5c0e83b7abc514a438f454d47ec",
+      "ko": "한번은 문명과 멀리 떨어진 눈 덮인 산봉우리까지 갔어... 오직 야오이 때문이었지."
+    },
+    {
+      "line": 2785,
+      "event": "cliamyaoi",
+      "english_sha256": "efe0b5d7c4664576693a6558e8d26f3dbec5030c97e11dc756d83b97b92f0398",
+      "ko": "어쩌다?"
+    },
+    {
+      "line": 2786,
+      "event": "cliamyaoi",
+      "english_sha256": "6ba063edbeb6c7dc042fa4a5e8a9ff93985c53f42c19e9899d225f8b4e452fa2",
+      "ko": "그곳에는 세상과 단절하고 사는 승려가 있었어."
+    },
+    {
+      "line": 2787,
+      "event": "cliamyaoi",
+      "english_sha256": "d492907d281e4e349eabecab5c2278aafa0b0a2919f154370655d887196d844b",
+      "ko": "그는 숨 막힐 만큼 아름다운 입맞춤을 나눈 뒤 세상을 버렸고, 평생 그 순간을 음미하며 되새겼지..."
+    },
+    {
+      "line": 2788,
+      "event": "cliamyaoi",
+      "english_sha256": "3709eeac23b6da9ecb561adb4e7cc1ac05f45f19a326279af8ab31e22324cd9c",
+      "ko": "……그러다 그의 존재 전체가 그 입맞춤의 연장선이자 메아리가 되어 버렸어."
+    },
+    {
+      "line": 2789,
+      "event": "cliamyaoi",
+      "english_sha256": "0f3013ff178d6ee7dcf9079611a3e32604c44c8521f3ab6e1a14655b8de05af3",
+      "ko": "난 그 승려와 오랫동안 세상과 떨어져 지냈어. 매일 해 뜰 때부터 질 때까지, 그는 내게 그 입맞춤을 묘사해 줬지."
+    },
+    {
+      "line": 2790,
+      "event": "cliamyaoi",
+      "english_sha256": "3bf5699f2db94f9151e95d91bba882970f02db99f1fd0d73bcea7d79613a8630",
+      "ko": "찰나의 황홀한 순간 하나가 평생으로 이어졌다고 상상해 봐."
+    },
+    {
+      "line": 2791,
+      "event": "cliamyaoi",
+      "english_sha256": "792caca544e7004e29100d6d14b4c97c42f0c505bc90690009fc784a21179f45",
+      "ko": "듣기만 해도... 강렬하네."
+    },
+    {
+      "line": 2792,
+      "event": "cliamyaoi",
+      "english_sha256": "bbbd463d0af09266e2684d479ec292742568ec15c17eacea332122112b8b7480",
+      "ko": "그랬지. 그 감정이 넘쳐흘러서 입맞춤이라는 예술을 보는 내 시야가 훨씬 넓어졌어."
+    },
+    {
+      "line": 2793,
+      "event": "cliamyaoi",
+      "english_sha256": "02e7753e75227403732ca3d503663e8475408ab78261fe8245803da31d9931b5",
+      "ko": "내가 야오이를 좋아하는 걸 유치하다거나 그저 농담이라고 여기는 사람도 있겠지. 그 사람들 좋을 대로 하라지."
+    },
+    {
+      "line": 2794,
+      "event": "cliamyaoi",
+      "english_sha256": "480433e095971030ac0b81b8537ce5f18c4b67c1f97f36c17cfcfd1acf875fef",
+      "ko": "하지만 난 잘 알아, %CURRENTPLAYERNAME%. 난 지금까지 사백 년을 살아왔고, 삶은 아름답고도 덧없는 순간들로 가득할 수 있다는 걸 알아."
+    },
+    {
+      "line": 2795,
+      "event": "cliamyaoi",
+      "english_sha256": "8912b997ee1ed7182dd712a966c79c3ea6b28191262825b7e6c6d255fe3a8200",
+      "ko": "흠... 평범한 순간들이 가득한 한 세기 속에 묻힌, 단 한 번뿐인 특별한 순간 같은 거?"
+    },
+    {
+      "line": 2796,
+      "event": "cliamyaoi",
+      "english_sha256": "ebc96bbb3659dcbc52638dbbaab6b5c81728dc59d314abe20bd2e372b1bc746d",
+      "ko": "바로 그거야! 예술은 그런 찰나를 붙잡아 영원히 남기는 방법이 될 수 있어."
+    },
+    {
+      "line": 2797,
+      "event": "cliamyaoi",
+      "english_sha256": "1bf87120402cd0e014788b0275753cefe907f8da6c06cee629755dd9466c6535",
+      "ko": "'진짜 별나다!'라고 하는 사람들도 있지. 하지만 그런 사람들은 그저 심술궂은 거야."
+    },
+    {
+      "line": 2798,
+      "event": "cliamyaoi",
+      "english_sha256": "693c7fb32e1d57ad6545b28328062e79a1e0b8f5dbce35c0f90806ceb3033a82",
+      "ko": "그들은 평생 나를 비웃을 수도 있겠지. 하지만 난 평생 매 순간을 음미할 거야. 그러면 진짜 웃음거리는 누구겠어?"
+    },
+    {
+      "line": 2799,
+      "event": "cliamyaoi",
+      "english_sha256": "b31406e3f01f418b0392aaefd03f24d1082d5928f293b109ebd0ce8223dc1f07",
+      "ko": "너는 별을 바라보며 말없이 앉아 있다. 리암의 열정이 환하게 타오르는 게 느껴진다. 조금 별나긴 해도 존경스럽다."
+    },
+    {
+      "line": 2808,
+      "event": "cliamart",
+      "english_sha256": "40ff764814c686c7f2dd27dcc31a96667a0e8b678e52a6a6af6f5de72b8e42bc",
+      "ko": "그의 예술을 갈고닦기"
+    },
+    {
+      "line": 2810,
+      "event": "cliamart",
+      "english_sha256": "114bc2f4ffb3e05f02cdab0c00b38205c324db916a12f492fd5f4008ae08fd0b",
+      "ko": "아, 그래... 내 예술은... 대가의 경지라고 해도 되겠지."
+    },
+    {
+      "line": 2811,
+      "event": "cliamart",
+      "english_sha256": "7331181c619a95c687ba68cbad3997ae17b86b95e852492ddd7aafdb937abf40",
+      "ko": "예술은 내게 가장 진지한 관계일지도 몰라. 진정한 헌신을 요구하는 연인 같은 존재지."
+    },
+    {
+      "line": 2812,
+      "event": "cliamart",
+      "english_sha256": "da80c3e14a7e27466351d9725c2c6a315b78683e07f06f21305e6a853810a9dd",
+      "ko": "실력을 높이고 싶다면 엄청난 노력을 감수할 각오가 있어야 해."
+    },
+    {
+      "line": 2813,
+      "event": "cliamart",
+      "english_sha256": "e072c83de4402a480008f5f160cd14383ada66fff47b65d1ecc7b1329918921b",
+      "ko": "괴물의 해부학 지식을 더 쌓고 싶었던 적이 있어. 야오이를 완성하는 데 꼭 필요한 단계였거든."
+    },
+    {
+      "line": 2814,
+      "event": "cliamart",
+      "english_sha256": "3ab8ea8914e7d5e15ee9733ace456adcb6b4bb67585c8ab6230d362246d2f671",
+      "ko": "그래서 먼 길을 떠나, 강인하고 근육질인 남자들이 몸을 단련하고 싸우는 그리스의 한 섬에 갔어."
+    },
+    {
+      "line": 2815,
+      "event": "cliamart",
+      "english_sha256": "24ab736a5fe168fa791e6a2188f3b1118833efa0a61080069474f2a147608bd5",
+      "ko": "그곳에서 그들이 몸에 올리브유를 바르는 모습을 관찰하며 많은 걸 배웠지."
+    },
+    {
+      "line": 2816,
+      "event": "cliamart",
+      "english_sha256": "cb001be63afe8d7b2c1630365bf8edd3faa46c982bdefe5db85c89f3f126e8da",
+      "ko": "나도 그들과 조금 씨름했을지도 모르겠지만, 그건 다음에 들려줄 이야기야."
+    },
+    {
+      "line": 2817,
+      "event": "cliamart",
+      "english_sha256": "2a3af15ae1616a9ce1162c81094f63c79c5be6c56545ba1f9a385d01d271f3ac",
+      "ko": "헉!"
+    },
+    {
+      "line": 2818,
+      "event": "cliamart",
+      "english_sha256": "b0310c6c85c349bf6c53ba11f68177be8a86547a63a5c7dc08abaaa041d87526",
+      "ko": "그런데도... 내 실력은 완벽하지 않았어. 아직 파악하지 못한 신체 부위가 있었거든... 엉덩이!"
+    },
+    {
+      "line": 2819,
+      "event": "cliamart",
+      "english_sha256": "ebb2ebdcfd85bba7292532436c3fb917219769e064752d35d96be05b58f087b8",
+      "ko": "안 돼, 엉덩이라니!"
+    },
+    {
+      "line": 2820,
+      "event": "cliamart",
+      "english_sha256": "8e10ee32ad717b1b59e0a05400a1f018a70720fbefaa821c552cc5c841d167f4",
+      "ko": "그래서 이 세상에서 엉덩이가 가장 훌륭하다고 전해지는 일곱 남자를 찾아 나섰지."
+    },
+    {
+      "line": 2821,
+      "event": "cliamart",
+      "english_sha256": "061276f7227854596e3f4b0ff5ec0ae81e82617ca664989c5e4c7e0c3ec30c15",
+      "ko": "그중 하나가 죽으면, 그 사람의 최고 엉덩이를 물려받은 아기가 태어난대. 그렇게 최고의 엉덩이는 세월이 흘러도 대를 이어 살아남는 거지."
+    },
+    {
+      "line": 2822,
+      "event": "cliamart",
+      "english_sha256": "00d8b222c85eae5574ae86f7c36c54c5a030d3c5a235f7e5ad62e925f80512a0",
+      "ko": "괴물 사회를 위해 그들의 정체는 비밀로 지켜져. 그래서 소문과 전설, 할머니들이 전하는 이야기를 뒤쫓아야 했어."
+    },
+    {
+      "line": 2823,
+      "event": "cliamart",
+      "english_sha256": "9d9ca3e62909c40ad20d75c18d5579b32ccc3352a76d20a3c927010f8935b3f6",
+      "ko": "확실하게 붙잡을 만한 단서는 없었어. 그래도 포기하지 않았지."
+    },
+    {
+      "line": 2824,
+      "event": "cliamart",
+      "english_sha256": "8e5b5f1b84a97604c6a9d6cc977395695d778d410a0b41b749d31f102d15d7a2",
+      "ko": "찾았어?"
+    },
+    {
+      "line": 2825,
+      "event": "cliamart",
+      "english_sha256": "16ae2fa4cea693db26627f292f924014654d789723e61e67f77856c71d5a2f58",
+      "ko": "응. 단서 몇 개만으로 한 명씩 찾아냈어. 확증할 방법은 없었지만... 그 엉덩이를 직접 만져 보면 알 수 있었지."
+    },
+    {
+      "line": 2826,
+      "event": "cliamart",
+      "english_sha256": "8acca2e76df098b44b2b07b00f03ab9e8d5a5f90d50f2d65a501e7fb004b0ada",
+      "ko": "그들이 누구인지, 어디서 찾을 수 있는지는... 무덤까지 가져갈 비밀이야. 하지만 마침내 무엇이 엉덩이를... 최고의 엉덩이로 만드는지 이해했어."
+    },
+    {
+      "line": 2827,
+      "event": "cliamart",
+      "english_sha256": "e82d581f93cffd3da300e2cf31bca5f5efcabbf82e1dc2e0a659829f4ffb0c0a",
+      "ko": "리암, 솔직히 말하면 좀 유치한데... 동시에 엄청 멋진 이야기야."
+    },
+    {
+      "line": 2828,
+      "event": "cliamart",
+      "english_sha256": "115a594296d632fd2734b843b226cd37ecc8b8eb6ef2932ac9470f731474d8d5",
+      "ko": "그래... 있잖아, %CURRENTPLAYERNAME%. 무엇이든 진정한 열정을 가져야 통달할 수 있어."
+    },
+    {
+      "line": 2829,
+      "event": "cliamart",
+      "english_sha256": "53d8beab70c4a8dbc784876f4cf6632cdc37a8ef34d499421273f389175a6f00",
+      "ko": "열정을 품고 살아갈 때에야 비로소 정말로 사는 거지."
+    },
+    {
+      "line": 2830,
+      "event": "cliamart",
+      "english_sha256": "44b04db33e733557e261c8e6d30b1a3010244c08fa23e6b34765572ecda746e4",
+      "ko": "사후 세계에서 주어진 삶을 마음껏 누리는 걸 두려워하지 않는 리암은 존경할 만하다."
+    },
+    {
+      "line": 2831,
+      "event": "cliamart",
+      "english_sha256": "2eb15488241eefdfdef122d3909a07d53cb66916a47ccbb3537bc7531c1ee40c",
+      "ko": "너는 밤이 끝날 때까지 그의 엉덩이 모델이 되어 준다. 그의 엉덩이 스케치는 실로 대가의 솜씨다."
+    },
+    {
+      "line": 2840,
+      "event": "cdamientattoo",
+      "english_sha256": "defe834dd580559cec270e6643403390b4533e212fd5d6d849ee71d59ff2e5e6",
+      "ko": "올해의 목표"
+    },
+    {
+      "line": 2842,
+      "event": "cdamientattoo",
+      "english_sha256": "32f5c0b41386f7979251d71a2abf190ba5a6a4af217242c0fdf79802a75c9fcf",
+      "ko": "야, 그 질문 좀 시시하다... 그래도 올해 목표가 한두 개 있긴 해."
+    },
+    {
+      "line": 2843,
+      "event": "cdamientattoo",
+      "english_sha256": "66b84a7d6410c06536bdf9abf12353f8d46efe8f13757b57226875102308d18a",
+      "ko": "문신을 새기고 싶어. 꽤 메탈스럽지 않냐?"
+    },
+    {
+      "line": 2844,
+      "event": "cdamientattoo",
+      "english_sha256": "987af8b5be405cdbd2da44bc0c2060715db6fe0efe3ee192e2f140dd12202b51",
+      "ko": "내가 뭐라는 거야? 씨발 당연히 존나 메탈이지!"
+    },
+    {
+      "line": 2845,
+      "event": "cdamientattoo",
+      "english_sha256": "c5e602b770c33855c7b9f5be9758fc0e47675e1f1453e777ce1783d5fa7c6677",
+      "ko": "문제는... 뭘 새겨야 할지 잘 모르겠다는 거야..."
+    },
+    {
+      "line": 2846,
+      "event": "cdamientattoo",
+      "english_sha256": "b64b4952b61704f2215ff6c9074f50e3f9568e368d4df184afad68a4dbe8d581",
+      "ko": "생각해 둔 거 있어?"
+    },
+    {
+      "line": 2847,
+      "event": "cdamientattoo",
+      "english_sha256": "92b9eead008553af157c013aa4fbc114d262f87195dab7c97d41b1c9ddad3dc2",
+      "ko": "있지! 칼이나, 다른 칼을 찌르는 칼... 근데 총도 같이 있는 거야."
+    },
+    {
+      "line": 2848,
+      "event": "cdamientattoo",
+      "english_sha256": "e011c9b0fb92ea04e4bb36f0f6ee934c7b88ce26bc70feae1ccfd028508a4147",
+      "ko": "이렇게 말이야, 봐 봐. 어떻게 생겼을지 내가 스케치해 봤어."
+    },
+    {
+      "line": 2849,
+      "event": "cdamientattoo",
+      "english_sha256": "58a31a14773e6889c6560a2d8eb31908f9513f0278bc774d76bc2c2e9b0fc8c1",
+      "ko": "오..."
+    },
+    {
+      "line": 2850,
+      "event": "cdamientattoo",
+      "english_sha256": "5118b007c9522a7b86a7952a55022321083452c45a7c32d0032e452d7b830b5d",
+      "ko": "아니면 멋진 문구도 괜찮겠지..."
+    },
+    {
+      "line": 2851,
+      "event": "cdamientattoo",
+      "english_sha256": "71b8db72071c31781449b13ead22dbb3f3e96cab5f256a9bfa3ea6f9bda5d2d2",
+      "ko": "'태어날 때부터 메탈'이라든가."
+    },
+    {
+      "line": 2852,
+      "event": "cdamientattoo",
+      "english_sha256": "78004303fee574a6c5faec9efaacd53a774cfce8046cb066f6333274bafb22d3",
+      "ko": "아니면 '사납고 화려하게' 같은 거."
+    },
+    {
+      "line": 2853,
+      "event": "cdamientattoo",
+      "english_sha256": "dd62b2218a5cfb95c17beab64ef6590135f6ae512b49f4f10df8672eea62bde6",
+      "ko": "다 멋진데!"
+    },
+    {
+      "line": 2854,
+      "event": "cdamientattoo",
+      "english_sha256": "f8745aeeb34dfb4c40614faa8d555801d4714199f4041e4eca72702d2dfaeb49",
+      "ko": "그치?"
+    },
+    {
+      "line": 2855,
+      "event": "cdamientattoo",
+      "english_sha256": "03782400bbc7e08ff9c91a89a5ce5003ebd92bda347eddcbd31726b821ab1b7e",
+      "ko": "그럼 이건 어때...?"
+    },
+    {
+      "line": 2856,
+      "event": "cdamientattoo",
+      "english_sha256": "d873cfd2f0640fcc44943b5319214c704a21fbff45d2c248f2db3240a071e51a",
+      "ko": "너는 '화끈한 빨간 어른'이라고 적힌 문신을 재빨리 끄적여 보여 준다."
+    },
+    {
+      "line": 2857,
+      "event": "cdamientattoo",
+      "english_sha256": "3f946b01d9f830acf90f70007bdb770623c69128f82480afea76bbfa70ed2eed",
+      "ko": "풉..."
+    },
+    {
+      "line": 2858,
+      "event": "cdamientattoo",
+      "english_sha256": "34e7002ea73b1aad79380f7a567ce785929e0a1328740b8016c69a30a96a3fc4",
+      "ko": "솔직히 말할게. 꽤 괜찮은데!"
+    },
+    {
+      "line": 2859,
+      "event": "cdamientattoo",
+      "english_sha256": "d1658d09aea7f2dd8ca1c4d28c87221fdce80f7c6940c6049ec08562f29272b1",
+      "ko": "두고 보자. 네가 괜찮다면... 나중에 어떻게 됐는지 알려 줄 수도 있고!"
+    },
+    {
+      "line": 2860,
+      "event": "cdamientattoo",
+      "english_sha256": "1976e7477a26b6802bad7bcaa8915ab5ac8cd493ee46a065ae282e58ac75015d",
+      "ko": "좋아!"
+    },
+    {
+      "line": 2861,
+      "event": "cdamientattoo",
+      "english_sha256": "1c59329762ba9a32ffd83309172991fbac8fecccff845792d22829a12aaa5bf1",
+      "ko": "좋아, 좋아..."
+    },
+    {
+      "line": 2862,
+      "event": "cdamientattoo",
+      "english_sha256": "c0a68a20356bb4185c92e1af6c95876557b00e02656f37a32bbee3cdee079a8b",
+      "ko": "그렇게 너희 둘은 밤늦도록 잡담하며 별을 바라본다..."
+    },
+    {
+      "line": 2871,
+      "event": "cdamienhell",
+      "english_sha256": "c65d82aee23af2e86ac25a7c7129f5d5a62a3877b7bd1bb20af300676b0d18ce",
+      "ko": "지옥!"
+    },
+    {
+      "line": 2873,
+      "event": "cdamienhell",
+      "english_sha256": "58868af619bc2b9d4f8320d5bbe0aaab0c8f2108f580613e4bda62db31e5c31b",
+      "ko": "씨발, 지옥이라니..."
+    },
+    {
+      "line": 2874,
+      "event": "cdamienhell",
+      "english_sha256": "bc65cc640605382100bd003b347b5a3db71da45aa830a125ad0ab7cfa311a401",
+      "ko": "먹이사슬 꼭대기쯤에 있어도 정말 복잡한 곳이야."
+    },
+    {
+      "line": 2875,
+      "event": "cdamienhell",
+      "english_sha256": "5e106a7f09118d85f200347c9a0621a8f4ea6e3c6bfd7a77db2cf26ec42e53e8",
+      "ko": "끝없는 전쟁과 쿠데타, 피바다가 끊이지 않는 개판이지..."
+    },
+    {
+      "line": 2876,
+      "event": "cdamienhell",
+      "english_sha256": "ec8aa284ce72a90674129965d12b4e30f2315bb55018bf5d27b6e373d9a620f3",
+      "ko": "대부분의 권역이 케이크에서 더 큰 조각을 차지하려고 서로 전쟁을 벌여."
+    },
+    {
+      "line": 2877,
+      "event": "cdamienhell",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 2878,
+      "event": "cdamienhell",
+      "english_sha256": "424e86a565d8d8c4c375b0e0d74ba7080ae55be2d3eb023eb8c582b4dc3d40b1",
+      "ko": "그 케이크가 지옥이라는 뜻이지, 알겠어?"
+    },
+    {
+      "line": 2879,
+      "event": "cdamienhell",
+      "english_sha256": "5f9a2b795615ba6a3d5455fd5624d773fbca5bcd16249c421fd37411dc9837da",
+      "ko": "응."
+    },
+    {
+      "line": 2880,
+      "event": "cdamienhell",
+      "english_sha256": "d98f994a027cdbdfc34869e528b6df8591b14b26e37de88fb209d82f51874473",
+      "ko": "리암이 늘 말하는 비유 중 하나였어."
+    },
+    {
+      "line": 2881,
+      "event": "cdamienhell",
+      "english_sha256": "74946ecaa1bd3ef557352e03ff478a4757df7ffa0f6b90fd565a7277e506001c",
+      "ko": "응, 무슨 뜻인지 알아."
+    },
+    {
+      "line": 2882,
+      "event": "cdamienhell",
+      "english_sha256": "942472231ae89c0c0faefb45723267c076b7f5b8fada1869c618f1996cfef98b",
+      "ko": "요즘은 좀 더... 뭐랄까... 어떻게 말하지? 씨발..."
+    },
+    {
+      "line": 2883,
+      "event": "cdamienhell",
+      "english_sha256": "3421b992f3fa67e313fed89717e3c196c99679ecc729df8dc013e138bd91fa9f",
+      "ko": "……레즈련됐달까?"
+    },
+    {
+      "line": 2884,
+      "event": "cdamienhell",
+      "english_sha256": "5f94afc29f7c1bcbdcbf60f2d7209e996ed8476781dae2b67f4119966f0eb120",
+      "ko": "……그렇구나."
+    },
+    {
+      "line": 2886,
+      "event": "cdamienhell",
+      "english_sha256": "a4c5698c694c1c8efb5775930c0de41b46302e3900e403b755887b114ce84b0f",
+      "ko": "어쨌든 전면전이야. 오해는 마, 존나 메탈스럽긴 하지."
+    },
+    {
+      "line": 2887,
+      "event": "cdamienhell",
+      "english_sha256": "e8d62a89e7e0a9ac6d0ee28b3b01ca66270c4e80b0569d00340b52a399fe4eb3",
+      "ko": "그것도 모자라 각 권역마다 엉덩이가 터질 만큼 많은 씨족, 부족, 동맹이 있고, 저마다 그곳의 지배자보다 우위에 서려고 무슨 짓이든 해."
+    },
+    {
+      "line": 2888,
+      "event": "cdamienhell",
+      "english_sha256": "2b886c6e2837128ec41c1a8196a4b3be8a90c3388284c84ad9a3b4a35c8c22c1",
+      "ko": "그놈들이 맨날 온갖 배신을 일삼느라 지들끼리 자멸하지만 않았어도, 그중 몇몇은 실제로 성공했을지도 몰라."
+    },
+    {
+      "line": 2889,
+      "event": "cdamienhell",
+      "english_sha256": "d69ff6c8980f8166f221ab2aa314b0a3ed82f9863613215f179c0ba17ec32704",
+      "ko": "악마들은 신뢰의 진정한 의미를 배우느니 엉덩이부터 서로 잡아먹을 놈들이야."
+    },
+    {
+      "line": 2890,
+      "event": "cdamienhell",
+      "english_sha256": "dd6a44ef9718bb73dbeb73eae01b130ee9212daaa90ffaef5387a82612aaf9c8",
+      "ko": "하지만 우리 아빠들은 다르지. 그래서 존경해야 해. 서로를 그렇게 깊고 맹목적으로 믿는 게 남들과 다른 강점이거든."
+    },
+    {
+      "line": 2891,
+      "event": "cdamienhell",
+      "english_sha256": "4a749b7ce4ff281cb67ea1a1de82a54a5a0e8a7d0cbcdb5bf8b02f523507fb58",
+      "ko": "(물론 서로 엉덩이부터 잡아먹는 취향이 있을 수도 있지만...)"
+    },
+    {
+      "line": 2892,
+      "event": "cdamienhell",
+      "english_sha256": "8e3e959b70760666b8abf060a3938809bb4ea67b106c924bdd48dc3a6bc5a26b",
+      "ko": "(하지만 그런 생각은 하고 싶지 않아, 씨발!)"
+    },
+    {
+      "line": 2893,
+      "event": "cdamienhell",
+      "english_sha256": "1011d625cd1eb8ba673241b60ea8c17c59359b2cdd9e15d6bb9a6d85b833fdc0",
+      "ko": "데이미언!"
+    },
+    {
+      "line": 2894,
+      "event": "cdamienhell",
+      "english_sha256": "0808322e81d805da1fe4b23153dee4d39a59fefa94726cb938a9f581f1fd71bd",
+      "ko": "알아, 역겹지. 그래도 너무 좋은 농담이라 그냥 넘길 수가 없었어... 젠장."
+    },
+    {
+      "line": 2895,
+      "event": "cdamienhell",
+      "english_sha256": "a499fc9cc0da790cde4f06332e246ef9e1ce74c1dd8cd207ec1531415fd20ba0",
+      "ko": "아무튼, 결론은 말이지(헤헤, 엉덩이 결론):"
+    },
+    {
+      "line": 2896,
+      "event": "cdamienhell",
+      "english_sha256": "81ecd5cc31d53c1964aadc848a8bcbb8ba3d5b9b3b0c83e3c0abcd4f313bd611",
+      "ko": "라베이 가족을 건드리려면 제정신이 아니어야 해."
+    },
+    {
+      "line": 2897,
+      "event": "cdamienhell",
+      "english_sha256": "aaccf1d3dad0f4148a532248e37457ef9c78c1e6229a23d585c30252ca9509e8",
+      "ko": "물론... 이건 별로 메탈스럽지 않은 말이지만... 나도... 있잖아... 가끔 걱정이 돼."
+    },
+    {
+      "line": 2898,
+      "event": "cdamienhell",
+      "english_sha256": "6b2310c96415b613f7ffdf32de82a78a4cf867b3c3bc21458075082278e94251",
+      "ko": "진지하게 걱정하는 건 아니야, 알지? 전쟁이나 뒤통수 치기, 앞통수 치기가 아무리 과격해도... 아빠들이 무사했으면 좋겠어."
+    },
+    {
+      "line": 2899,
+      "event": "cdamienhell",
+      "english_sha256": "ebc6c3c3797cdd6472d72282ecc1aa010e3dd5b6f86d7fece4d45a8853b1edc9",
+      "ko": "아니야, 데이미언. 사랑하는 사람을 걱정하는 건 정말 메탈스러운 일이야."
+    },
+    {
+      "line": 2900,
+      "event": "cdamienhell",
+      "english_sha256": "0acb1e94f6872c66d8069f169ba384881ea741275be59ad078ea481b320217af",
+      "ko": "헤... 그럴지도 모르겠네. 고마워..."
+    },
+    {
+      "line": 2901,
+      "event": "cdamienhell",
+      "english_sha256": "7a6dff0920a2b48fe75fd208263f492d6b55c10c7d9ac4e3691b00dd4c1e2cc9",
+      "ko": "데이미언이 아직 조금 불안해하는 것 같아, 너는 함께 별을 바라보며 그의 손을 잡는다. 기분 좋은 순간이다."
+    },
+    {
+      "line": 2910,
+      "event": "cdamienbigote",
+      "english_sha256": "a027eb5949130f6e4b5ccd1297308c46b285d7942d834ce8bed4d5f7bb635f2c",
+      "ko": "그의 은밀한 약점"
+    },
+    {
+      "line": 2912,
+      "event": "cdamienbigote",
+      "english_sha256": "240ff2eccdc1db05b6b2ce27aca0be5d9b6c531761007beda4067a014a5d9526",
+      "ko": "약점? 하! 난 그런 거 없어, 뉴비!"
+    },
+    {
+      "line": 2913,
+      "event": "cdamienbigote",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 2914,
+      "event": "cdamienbigote",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 2915,
+      "event": "cdamienbigote",
+      "english_sha256": "c9d2632dd184c8f5e9aa72b44d32e6555f4c0a091579adda01b43b488d5409dc",
+      "ko": "씨발, 알았어! 하나쯤은 있을지도 몰라... 하지만 아무한테도 말하지 마, 알겠어?!"
+    },
+    {
+      "line": 2916,
+      "event": "cdamienbigote",
+      "english_sha256": "ed9a73edbe216f288ee88032817c6123e748fdea7761c5a363778d09c2484e97",
+      "ko": "약속할게!"
+    },
+    {
+      "line": 2917,
+      "event": "cdamienbigote",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 2918,
+      "event": "cdamienbigote",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 2919,
+      "event": "cdamienbigote",
+      "english_sha256": "6a806f77d9a86f086563df05fe283d96c8ad74fc13f27747c7a7d82e2819d67b",
+      "ko": "난 콧수염이 안 자라."
+    },
+    {
+      "line": 2920,
+      "event": "cdamienbigote",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 2921,
+      "event": "cdamienbigote",
+      "english_sha256": "b6b7a7ece48016c8cda3fd5c49770105b602b9b156adebb1f0dd51f6d38d94fb",
+      "ko": "그런 눈으로 보지 마!"
+    },
+    {
+      "line": 2922,
+      "event": "cdamienbigote",
+      "english_sha256": "cc585347d8746b135dc756616e443b2bbbae182791552387689536c6862784a3",
+      "ko": "씨발, 최악이야."
+    },
+    {
+      "line": 2923,
+      "event": "cdamienbigote",
+      "english_sha256": "3f9fefbe36e6f47484c0a4c90c86aec8f1805e5a50867a817e6c8ea89db61e77",
+      "ko": "온갖 수염 스타일을 멋지게 소화하는 상상을 정말 많이 했어."
+    },
+    {
+      "line": 2924,
+      "event": "cdamienbigote",
+      "english_sha256": "08333865f45ba743dd16c326fecb5325d00239364fa38d7d7abb9f46229ab7a2",
+      "ko": "진짜 멋지잖아, 씨발. 수염은... 얼굴에 자연스럽게 하는 화장 같은 거라고!"
+    },
+    {
+      "line": 2925,
+      "event": "cdamienbigote",
+      "english_sha256": "dd3b3cb79b92344ad63a6f5dc24a4a7a527363c9c321f3ec254bd64902b1dbf1",
+      "ko": "그런데 난 절대 못 해."
+    },
+    {
+      "line": 2926,
+      "event": "cdamienbigote",
+      "english_sha256": "932197fd0593678f36f07f6c82cac3fcb523f99f22a11bb8e1f9c2dc8b03c9cc",
+      "ko": "로션도 써 보고, 흑마법도 써 보고, 얼굴을 엄청 세게 때려 보기도 했어. 할 수 있는 건 다 해 봤다고..."
+    },
+    {
+      "line": 2927,
+      "event": "cdamienbigote",
+      "english_sha256": "218a0de54314c8ee84e33305fa2723ca63137969332464582e19d9af1e013bd8",
+      "ko": "...그래도 안 돼."
+    },
+    {
+      "line": 2928,
+      "event": "cdamienbigote",
+      "english_sha256": "a37627b34a9306eaf6a7fbe85b151a1bd51947259c27850512199945b7d737cf",
+      "ko": "영원히 애 같은 얼굴로 살아야 하는 저주에 걸린 거야!"
+    },
+    {
+      "line": 2929,
+      "event": "cdamienbigote",
+      "english_sha256": "304f6f690633bb3aca2293b68ca04e9df2ffedd542432457f1c1c3c8bcb210c9",
+      "ko": "그러니까 가짜 수염이라도 붙여 보면 되잖아?"
+    },
+    {
+      "line": 2930,
+      "event": "cdamienbigote",
+      "english_sha256": "8f1d8519d91401f856129b95664da71d95d825b4e8fd2410335125a2782fcaaa",
+      "ko": "아, 맞아, 그렇지. 거울 앞에서 가짜 콧수염을 붙이고 수염이 더 수북한 얼굴로 살면 어떨지 꿈꾸곤 해... 안 한다고는 안 했어."
+    },
+    {
+      "line": 2931,
+      "event": "cdamienbigote",
+      "english_sha256": "5e4cfaac3b22e96d8415e4327f311ddd47d633aab76f4ff5ec97da7e6003c845",
+      "ko": "그 얘기 누구한테 했다간 존나게 찔러 버릴 줄 알아, 알겠어?"
+    },
+    {
+      "line": 2932,
+      "event": "cdamienbigote",
+      "english_sha256": "80460f2be6a87dc32810d7799f1d22572cfe50b429bbf30aa4c63769fdeab672",
+      "ko": "알았어, 알았어!"
+    },
+    {
+      "line": 2933,
+      "event": "cdamienbigote",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 2934,
+      "event": "cdamienbigote",
+      "english_sha256": "322776b4553d876540cfce97a76e74f6e42bc0da903f90693b4df3fd27a30069",
+      "ko": "있잖아, 원한다면 가짜 콧수염을 붙여 보고 어떤 수염 스타일이 어울리는지 나한테 보여 줘도 돼."
+    },
+    {
+      "line": 2935,
+      "event": "cdamienbigote",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 2936,
+      "event": "cdamienbigote",
+      "english_sha256": "75a69e2acf620916785d293a13ab595f0195a175a258d106f2eca295ca19e19a",
+      "ko": "그러면 좋겠어."
+    },
+    {
+      "line": 2937,
+      "event": "cdamienbigote",
+      "english_sha256": "08b78109d7d0ad954ec4a86a6f83f93c609d5a60c41fc62b370bda492c2534cd",
+      "ko": "너희는 남은 밤 동안 데이미언이 좋아하는 콧수염 스타일을 이것저것 살펴본다. 함께 귀엽고 즐거운 시간을 보낸다."
+    },
+    {
+      "line": 2946,
+      "event": "cdamienscars",
+      "english_sha256": "b0119175f0aff7b782fd68ec45b9aadaf71b60ac8fafc28a2367a2e7119e9b6d",
+      "ko": "그의 흉터"
+    },
+    {
+      "line": 2948,
+      "event": "cdamienscars",
+      "english_sha256": "2d6699483534ab3b5b533c12a6f0de1e97362cc4c2075ab03bd0f25883399ce5",
+      "ko": "흉터? 난 존나 많아!"
     }
   ]
 }

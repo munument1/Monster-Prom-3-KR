@@ -5676,6 +5676,2166 @@
       "event": "outlawteam",
       "english_sha256": "d71fa8bc488b8da92735a876ebd30da08fda8372c70fd227ccf26cff2f5f096b",
       "ko": "둘 다 만족시킬 방법이 있을 거야. 카우보이 몇 명은 데드아이와 함께 가고, 나머지는 여기 남아서 포커를 치면 되잖아."
+    },
+    {
+      "line": 1353,
+      "event": "outlawteam",
+      "english_sha256": "bddee14759b850d67799c01c2e8ff311d5cb2142101335c459bdab2aaf501494",
+      "ko": "교대로 팀을 고를 수도 있잖아! 체육 시간 같겠네. 목숨이 걸려 있다는 점만 빼면!"
+    },
+    {
+      "line": 1354,
+      "event": "outlawteam",
+      "english_sha256": "9991d4af2beae8fab10441047fe348d3eb25fa07966f1513d50ec948e5bd0c18",
+      "ko": "좋아, 대신 %CURRENTPLAYERNAME%는 내가 먼저 찜할래. 이런 어려운 결정 내리는 건 %HISHER% 특기잖아."
+    },
+    {
+      "line": 1355,
+      "event": "outlawteam",
+      "english_sha256": "aba20985a8af5320ac5b87c2922be5d11be12ade39af7cfa5ef4796f3d5df9f5",
+      "ko": "팀 뽑기가 시작된다! 데드아이는 컬리 ‘에임봇’ 애덤스를 고른다. 폴리는 베티 ‘허벅지’ 크래커배럴을 고른다."
+    },
+    {
+      "line": 1356,
+      "event": "outlawteam",
+      "english_sha256": "906e0c33fdb8c551aa9105805614e6531dc97e3c22c55e0535a9e6e970c40fd6",
+      "ko": "데드아이는 스콧을 고른다. 폴리는 베티 두 명과 희귀 홀로그램 카드인 행크 ‘러브보이’ 데커드를 내주고 스콧을 데려온다."
+    },
+    {
+      "line": 1357,
+      "event": "outlawteam",
+      "english_sha256": "95b1842dd0c5f04ee8f44e53410b571316c61d31435b5a44dc4e6edef38975fe",
+      "ko": "고마워, 폴리. 네 덕분에 역사의 잘못된 편에 설 뻔한 걸 피했어."
+    },
+    {
+      "line": 1358,
+      "event": "outlawteam",
+      "english_sha256": "021192a01a72be81b5998093d01ffc2eec0377e365036febd26e42e8f4c0e87f",
+      "ko": "좋아, %CURRENTPLAYERNAME%. 내가 널 뽑은 게 헛수고였는지 이제 확인해 보자. 포커 테이블의 마지막 자리는 누구로 채울까?"
+    },
+    {
+      "line": 1361,
+      "event": "outlawteam",
+      "english_sha256": "bbcd6d673177e7127c009d9b4fe6005ffe393ecf064647a7351ac7fc76a792c3",
+      "ko": "찰리 ‘치즈 손가락’ 체스터턴"
+    },
+    {
+      "line": 1362,
+      "event": "outlawteam",
+      "english_sha256": "2cd331a01cf3f00019041c33c583400528c9a60af0bd7ed0118cc9b2331f7d8a",
+      "ko": "레지널드 ‘도박 진짜 못하는 놈’ 로시노"
+    },
+    {
+      "line": 1366,
+      "event": "outlawteam",
+      "english_sha256": "0bfb24750539142e9fa5be2ab7b475328b3179e8f9054f0bd10d59d04ad047de",
+      "ko": "정말 괜찮겠어? 찰리는 늘 치즈 범벅인 손가락으로 카드를 표시하는 무시무시한 무법자라던데!"
+    },
+    {
+      "line": 1367,
+      "event": "outlawteam",
+      "english_sha256": "29811ea4c66e76f7477718c1020218f5751faf965a9c9c30586614000f48b244",
+      "ko": "사실 ‘치즈 손가락’은 아주 심각한 의학적 질환이거든..."
+    },
+    {
+      "line": 1368,
+      "event": "outlawteam",
+      "english_sha256": "ab83e22a6637bd13aea9a2ba37c6768be685cfcd84cdfea859be3b558e581bb2",
+      "ko": "모공에서 끈적하고 기름진 체더 치즈가 새어 나오는 건 불편하지만 치료도 불가능해. 그래서 아무도 나랑 포커를 안 쳐 주지..."
+    },
+    {
+      "line": 1369,
+      "event": "outlawteam",
+      "english_sha256": "0e2be79081aa25d7d8940e91baa8b8f9a7b55e05f934238a35f8d9c2b53ff163",
+      "ko": "아이고, 걱정 마! 우리랑 치면 되지. 널 보증해 준 %CURRENTPLAYERNAME%의 의리를 봐서라도 환영이야."
+    },
+    {
+      "line": 1370,
+      "event": "outlawteam",
+      "english_sha256": "ec7146ba7b57420bdea5f6ed215e73ae75020fd6a7b635f8cd0b495146cb62a6",
+      "ko": "고마워, %CURRENTPLAYERNAME%! 너무 ‘치즈스러운’ 말장난 같겠지만, 이 늙은 ‘먼스터’에게 그렇게 큰 믿음을 보여 주다니 정말 ‘고다’한 마음씨야!"
+    },
+    {
+      "line": 1371,
+      "event": "outlawteam",
+      "english_sha256": "c00121be365d76fcaa208732a68fc506a4e3e6d779d8d373c994b6669070ae66",
+      "ko": "좋아, 몸을 망가뜨리는 질환이 있다고 해서 형편없는 말장난까지 봐줘야 하는 건 아니거든."
+    },
+    {
+      "line": 1372,
+      "event": "outlawteam",
+      "english_sha256": "54158587edfa927c42e361cebf068bba236bc823dc4149c28add63fc50b0de32",
+      "ko": "알았어... 말장난은 적당히 굴려 넣어 볼게. 윙크!"
+    },
+    {
+      "line": 1373,
+      "event": "outlawteam",
+      "english_sha256": "65721a5296d7b9f5674b386b734dec55680df58f216a7462e4230f4a523e4f49",
+      "ko": "너희는 신나게 도박을 한다. 돈을 좀 따지만, 결국 찰리에게 전부 잃는다."
+    },
+    {
+      "line": 1374,
+      "event": "outlawteam",
+      "english_sha256": "4e59136a0dd12e80fed58204bf6e8e31fab066f64011291fc90d4bfff88cfef9",
+      "ko": "솔직히 그 ‘질환’이 진짜든 아니든, 필요한 카드에 체더 치즈 얼룩을 묻혀 두는 덕에 연승 행진에 큰 도움이 되고 있다."
+    },
+    {
+      "line": 1375,
+      "event": "outlawteam",
+      "english_sha256": "6469616e023e77110813231f92f06c705f5601c76f44f7e2f4533273832f3618",
+      "ko": "그래도 치즈 간식을 나눠 줬으니 불만은 없다! 맛있는 나초와 무한 리필 퐁뒤 덕분에 +N2 STAMINA를 얻는다."
+    },
+    {
+      "line": 1376,
+      "event": "outlawteam",
+      "english_sha256": "459e8d8a6c3f5455a6ca912aa8712e352034aaf06733e3dbd02b67b3ab80b081",
+      "ko": "하지만 데드아이를 돕는 대신 포커를 쳤으니 -N2 SOUL을 잃는다. 농장이 불타 버린 뒤 데드아이의 엄마가 집을 담보로 두 번째 대출까지 받았다더라."
+    },
+    {
+      "line": 1380,
+      "event": "outlawteam",
+      "english_sha256": "d3ed879682e4f732e314ed9e03d44d0c9edfdd90a42f352d4721a40c99f05fa0",
+      "ko": "하! 이제 큰일 났네. 다들 날 레지널드 ‘도박 진짜 못하는 놈’ 로시노라고 부르지만, 오늘 밤엔 그 편견을 깨 주겠어!"
+    },
+    {
+      "line": 1381,
+      "event": "outlawteam",
+      "english_sha256": "2f49957323f2eef49beacfaa9a1dbad923a410cd01a70773afdfb63ed699d37b",
+      "ko": "봐! 벌써 운이 트이고 있잖아! 스페이드 사가 두 장이나 들어간 스트레이트를 보라고!"
+    },
+    {
+      "line": 1382,
+      "event": "outlawteam",
+      "english_sha256": "69b620cbe46d38c3ce73b2a16a4ffb2546fb0ebf48b04b67b8baa7ad68fdd552",
+      "ko": "그러니까... 속임수를 썼네."
+    },
+    {
+      "line": 1383,
+      "event": "outlawteam",
+      "english_sha256": "b7e289ce12ef3a162e64d2e66f624a7404cae56b9e4ec9433c09aef2a73caa7d",
+      "ko": "아니거든! 무슨 소리야?! 사기라는 건 애초에 존재하지 않아! 네가 미친 거야!"
+    },
+    {
+      "line": 1384,
+      "event": "outlawteam",
+      "english_sha256": "67d0beade9ddd5bc2c38a32f79b5c91ef1b2d0d0cfc575e793c35645f27460e9",
+      "ko": "그만 연기해, 이 뻔뻔한 자식아. 포커 덱에 스페이드 사가 두 장 있을 리 없잖아."
+    },
+    {
+      "line": 1385,
+      "event": "outlawteam",
+      "english_sha256": "58eb12124de2ee3d06c0b62209a8495230f921728745b12e57331167152e91c0",
+      "ko": "게다가 사 카드는 어차피 별 쓸모도 없어. 속임수조차 제대로 못 썼네."
+    },
+    {
+      "line": 1386,
+      "event": "outlawteam",
+      "english_sha256": "29d5dd79d23a3d88e32f9e473389bc08002e4aa8820aa0236333bcb245d323f1",
+      "ko": "그리고 어차피 내가 로열 플러시를 잡았거든. 이제 날 폴리 ‘포커 천재’ 가이스트라고 불러!"
+    },
+    {
+      "line": 1387,
+      "event": "outlawteam",
+      "english_sha256": "014b497bf03394dcd1688294b58339445d9fb900b0409df8fdda7a1c5d72f404",
+      "ko": "오, 이제 우리도 별명을 직접 정할 수 있는 거야? 난 “스콧 ‘스콧 하울’ 하울”이 되고 싶어!"
+    },
+    {
+      "line": 1388,
+      "event": "outlawteam",
+      "english_sha256": "4702442dcfa8e566a7766245db7e8929e96f78a864e0ba1102097424a82c825d",
+      "ko": "몇 판 더 한다. 폴리는 이름값을 톡톡히 한다. (스콧도 나름 그렇고.)"
+    },
+    {
+      "line": 1389,
+      "event": "outlawteam",
+      "english_sha256": "b78c1ca67902a7905b7b374893112407a16227044c2bc93198562cbe2f3d52eb",
+      "ko": "레지널드도 이름값을 한다. 2를 다섯 장 내고, UNO 와일드 카드와 블랙잭 한 판까지 꺼내더니, 웬일인지 밤새 20면체 주사위까지 굴린다."
+    },
+    {
+      "line": 1390,
+      "event": "outlawteam",
+      "english_sha256": "421f5e84333d09895c20aedff140c805fbd5d12f60141c90994a1d2da72e3eb1",
+      "ko": "너는 곧 그의 버릇도 알아챈다. 블러핑을 하고 나면 꼭 윙크한다."
+    },
+    {
+      "line": 1391,
+      "event": "outlawteam",
+      "english_sha256": "175db0c8d3916841593d0c64d85f7c852e9d9fccce1a00d9468b378b6bddf66b",
+      "ko": "술을 잔뜩 먹이면 더 알아보기 쉽다. 그냥 큰 소리로 ‘윙크!’라고 외치기 시작하거든."
+    },
+    {
+      "line": 1392,
+      "event": "outlawteam",
+      "english_sha256": "dda424109caf50b2f2ff1c2ff5c1179e9a7aba61f7ec7447f6288f959e2aabd4",
+      "ko": "너는 레지널드의 돈을 싹 털어 +N2 MONEY를 얻는다. 나이스!"
+    },
+    {
+      "line": 1393,
+      "event": "outlawteam",
+      "english_sha256": "459e8d8a6c3f5455a6ca912aa8712e352034aaf06733e3dbd02b67b3ab80b081",
+      "ko": "하지만 데드아이를 돕는 대신 포커를 쳤으니 -N2 SOUL을 잃는다. 농장이 불타 버린 뒤 데드아이의 엄마가 집을 담보로 두 번째 대출까지 받았다더라."
+    },
+    {
+      "line": 1401,
+      "event": "dueltype",
+      "english_sha256": "b0a90318f18b229a15cdd1644e21c424f9973b0e718ac3b5a106307427e1e390",
+      "ko": "정오의 결투"
+    },
+    {
+      "line": 1406,
+      "event": "dueltype",
+      "english_sha256": "0b6b3e194f7fbe3025fead41307f015f8b28e8b68345d76a8c1281a9f3d03907",
+      "ko": "이 마을은 허리에 찬 큼지막한 총을 뽐내며 정오의 총격전을 애타게 기다리는 카우보이들로 가득하다."
+    },
+    {
+      "line": 1407,
+      "event": "dueltype",
+      "english_sha256": "d9e50fa3b4462965a6603e6f44f03f3dcc13625571a13aaac58a9d5360578a29",
+      "ko": "하지만 더 중요한 건 귀여운 말이 가득하다는 사실! 갈색 말, 검은 말, 점박이 말... 폴리와 스콧이 마력을 빨아들이는 말도 있는데... 잠깐."
+    },
+    {
+      "line": 1412,
+      "event": "dueltype",
+      "english_sha256": "4a3756b341283e5bffbfeedb35880795053f160c942d05512413deabf7737b51",
+      "ko": "설명할 수 있어!"
+    },
+    {
+      "line": 1413,
+      "event": "dueltype",
+      "english_sha256": "695e85f9f92bc2fdb8cbe79b106b5ea4474d25cc8aabc16ce5e499ea803fbab2",
+      "ko": "아, 너였구나. 미안, %CURRENTPLAYERNAME%. 네가 말한테 개수작을 부린다고 생각했어."
+    },
+    {
+      "line": 1414,
+      "event": "dueltype",
+      "english_sha256": "8eba7255b7b1920aff32560dd32e77aafaf79fed4f4caa85c8116f7fa7c76d08",
+      "ko": "그렇다면 폴리와 스콧은 대체 왜 카우보이의 말에 개수작을 부리고 있는 걸까?"
+    },
+    {
+      "line": 1415,
+      "event": "dueltype",
+      "english_sha256": "94964b7bb4b5736bd0548704ce837242c5d9cf96a0e9523103206e5cf07a6450",
+      "ko": "기름이 거의 떨어졌는데, 아무도 가장 가까운 주유소로 가는 길을 알려 주지 않았거든."
+    },
+    {
+      "line": 1416,
+      "event": "dueltype",
+      "english_sha256": "88aac9ce5e07cdc453a095e3b89de5062fc7708c8b389b1a32bce812a94a386b",
+      "ko": "그런데 자동차에는 마력이 있잖아? 그럼 말한테서 직접 자동차 동력을 얻으면 되겠다고 생각했지!"
+    },
+    {
+      "line": 1417,
+      "event": "dueltype",
+      "english_sha256": "81bf894edb239980d7fe8c3199a4f680d2178eaafdeafde4f1b7eacd87879ee2",
+      "ko": "이게 진짜 통했다니까? 아무런 대가도 없이 +N2 MAGIC을 공짜로 얻었어!"
+    },
+    {
+      "line": 1418,
+      "event": "dueltype",
+      "english_sha256": "96422e3d81d6043ab63966f130b7befff857a25a8232452b1fab548f6c57fd97",
+      "ko": "‘이봐!’ 카우보이가 외치는 소리가 들린다. ‘내 체더 비스킷한테 대체 무슨 짓을 하는 거야?!’"
+    },
+    {
+      "line": 1419,
+      "event": "dueltype",
+      "english_sha256": "3f8dbe677069ffaeba29294150786bacf653bcf10a2e43ff753ccdd259d0cf2f",
+      "ko": "어라, 말이 씨가 됐네."
+    },
+    {
+      "line": 1420,
+      "event": "dueltype",
+      "english_sha256": "51d3aee9e672736015561d533089fea4c182c1758959d617ee8dfb979984035a",
+      "ko": "저 사람 화난 것 같은데! 폴리, 어떡하지?"
+    },
+    {
+      "line": 1421,
+      "event": "dueltype",
+      "english_sha256": "17e2de4cb79768e5ea32c5de6ed5d5ac27cc5d098975e55c012b597cd6c80f7d",
+      "ko": "늘 하던 대로지. 남 탓을 해."
+    },
+    {
+      "line": 1422,
+      "event": "dueltype",
+      "english_sha256": "785d5c027584c275c435c123cd813ce34a759952759cb6e0c8911760c4c5cabb",
+      "ko": "%CURRENTPLAYERNAMECAPS%가 했어요! 제가 전부 봤다고요!"
+    },
+    {
+      "line": 1423,
+      "event": "dueltype",
+      "english_sha256": "03683b578882afff01aedeeb00a12a07061ffcfc80c065b17c7aebb1c6a3fddb",
+      "ko": "그럼 우리 사이에 문제가 생겼군, %CURRENTPLAYERNAME%. 총을 뽑고 정오에 결투하자고, 겁쟁이가 아니라면 말이야!"
+    },
+    {
+      "line": 1424,
+      "event": "dueltype",
+      "english_sha256": "30df74b9066d94eda26bb167b55c2a1047b6c0faab95596a921c2bdb89a9acee",
+      "ko": "좋아, 결투 없이 빠져나가긴 글렀나 봐... 그럼 이길 가능성이 있는 결투 방식을 제안해야겠다!"
+    },
+    {
+      "line": 1425,
+      "event": "dueltype",
+      "english_sha256": "6c028388b912041faaf833023205928608150549763d3a49f98e6d352b9a96a7",
+      "ko": "서로 등을 돌리고 열 걸음 걸어가... 그냥 계속 걸어. 새 삶을 시작하는 거야. 뒤돌아보지 마."
+    },
+    {
+      "line": 1426,
+      "event": "dueltype",
+      "english_sha256": "caa09eb3f1e0fac4d85eb76dd42b7981df5f55727a18f9152aad79f33e291d3c",
+      "ko": "죽을 때까지 결투하는 고전적인 방식인데, ‘죽을 때까지 결투’를 ‘진실 혹은 도전 대결’로 바꾸는 거야."
+    },
+    {
+      "line": 1428,
+      "event": "dueltype",
+      "english_sha256": "26da3c0155e8643e35e2e98f0703950b2b1aae123ee1fab03d8cb68987e32f1e",
+      "ko": "뭐? 그게 대체 어떻게 결투야?"
+    },
+    {
+      "line": 1429,
+      "event": "dueltype",
+      "english_sha256": "6c2863498e74392f39c0d6f88a573309b248b483f07a850bf0a3ecf0450f7d3c",
+      "ko": "이봐, 결투가 뭔지 내가 설명해 줘야 할 정도라면 여기서 더 할 얘기도 없겠네."
+    },
+    {
+      "line": 1430,
+      "event": "dueltype",
+      "english_sha256": "2df4028da7c9f45730522413972c2ea2b09d7e1ce28ccd2e02e303cd51da1f80",
+      "ko": "아니, 내 말은 그게 아니잖아! 좋아, 지금 당장 해 보자!"
+    },
+    {
+      "line": 1431,
+      "event": "dueltype",
+      "english_sha256": "b0161cd10bb024e5e201dacd7908269b3515c5a195fca752b232fd72cf9b6821",
+      "ko": "너는 그와 마주 선다. 그도 너를 마주 본다. 서로 등을 돌리고 열 걸음 걸어간 뒤... 그대로 계속 걸어간다."
+    },
+    {
+      "line": 1433,
+      "event": "dueltype",
+      "english_sha256": "834f53b220fb9a19c3586b9b718397c92fe6810e17d2908ffdaa8879ff1605df",
+      "ko": "한참을 걷는다. 덥고 땀이 줄줄 흐른다. 오늘 양말도 없이 구두를 신기로 한 선택이 후회된다."
+    },
+    {
+      "line": 1434,
+      "event": "dueltype",
+      "english_sha256": "814631d4cae284202cc7d17f5c36cc56da44881cd7615c6755869980c22e635a",
+      "ko": "-N2 STAMINA를 소모하지만, 마침내 충분히 멀리 걸었다... 폴리와 스콧이 기다리는 차에 곧장 올라탄다."
+    },
+    {
+      "line": 1436,
+      "event": "dueltype",
+      "english_sha256": "9bf019f56b16e4526e03b6b47f92bce654ccc71adb5b712b0367b5095a5b0310",
+      "ko": "하! 네 장난 천재성에 감탄했어, %CURRENTPLAYERNAME%. 그 녀석을 완전히 속여서 걷게 만들다니!"
+    },
+    {
+      "line": 1437,
+      "event": "dueltype",
+      "english_sha256": "883a04bfaa65a187e779b0fa3f4953f80f367f53c8507c597596846bc88ccbe8",
+      "ko": "저 카우보이가 얼마나 오래 걸을까? 영영 알 수 없겠네..."
+    },
+    {
+      "line": 1439,
+      "event": "dueltype",
+      "english_sha256": "4b73ee15830d65801f285ba9c14a0b4ca53c7372ea9750805f64db88149c016e",
+      "ko": "아니, 내가 알려 줄게. 그 카우보이는 몇 마일이고 몇 마일이고 쉬지 않고 계속 걷는다."
+    },
+    {
+      "line": 1440,
+      "event": "dueltype",
+      "english_sha256": "03e2a7a97d45fc5d5608e0cfc4f54e68129b05dc96677ed06285c2794f0a6455",
+      "ko": "조깅하던 교외의 한 엄마가 그를 앞질러 가다가, 나란히 뛰며 이웃들 뒷담화를 하기로 한다."
+    },
+    {
+      "line": 1441,
+      "event": "dueltype",
+      "english_sha256": "8e9995da16f88a29b5037caa93012d0e4747c91a54ba10617104a41352a4aa01",
+      "ko": "다음으로 탈옥수가 합류한다. 경찰을 따돌린 뒤, 카우보이의 끈기에 감명받아 범죄를 그만두고 그와 함께 걷기로 한다."
+    },
+    {
+      "line": 1442,
+      "event": "dueltype",
+      "english_sha256": "085fce63dbccc43ab85af70cc4ba6531fb0d6a3213b0e9e2ab95e90cd082baac",
+      "ko": "카우보이는 계속 걸으며 추종자를 모은다. 대도시와 작은 마을의 감시자들은 ‘외로운 도보 레인저’를 찾아 눈을 부릅뜬다."
+    },
+    {
+      "line": 1443,
+      "event": "dueltype",
+      "english_sha256": "2b675b3dabbd8a39802e3aa1c58b9bd3857f97dd2729d4633438856be7aabc24",
+      "ko": "잡지들은 ‘그는 우리 마음속 외로운 도보 레인저의 은유다’라고 쓴다. 그는 곳곳의 영성주의자들에게 영감을 준다. 심지어 도보 레인저 펀코 팝 피규어까지 나온다."
+    },
+    {
+      "line": 1444,
+      "event": "dueltype",
+      "english_sha256": "e6282265ef664bf3407866e93439c61c83d5f529d6c704d69678120f23cb168d",
+      "ko": "카우보이와 추종자들은 석양 속으로 평온하게 걸어가고, 다시는 모습을 드러내지 않는다..."
+    },
+    {
+      "line": 1445,
+      "event": "dueltype",
+      "english_sha256": "16bc3f99c76faef59a123d1c25b13380efc20b1e59efa3a249a8095ab9372144",
+      "ko": "호구들아아아!"
+    },
+    {
+      "line": 1447,
+      "event": "dueltype",
+      "english_sha256": "23146977d4184bed4e4ff2a580869ecf8fa277ffebccc71dd3fe25cd27241d66",
+      "ko": "뭐라고?! 진실 혹은 도전은 평범한 목숨 건 결투만큼 짜릿하지 않잖아! 그건 결투라고 할 수도 없어!"
+    },
+    {
+      "line": 1448,
+      "event": "dueltype",
+      "english_sha256": "2cb3eb026aa230cddea12c8f0256d05ddeb706200dd92e3581a75ece019dbc80",
+      "ko": "진실 혹은 도전이 사막에서 카우보이 둘이 재빨리 총을 뽑는 것만큼 -N2 HYPE를 주진 않는다는 건 인정해..."
+    },
+    {
+      "line": 1449,
+      "event": "dueltype",
+      "english_sha256": "d5b8380a4a57c33c7c4bda6350f3a9cc1808853bd145299af1dc19c69d841ddd",
+      "ko": "하지만 %CURRENTPLAYERNAME%가 이름에 ‘고전적인’이라는 말을 넣었으니, 법적으로는 둘이 같은 거야."
+    },
+    {
+      "line": 1450,
+      "event": "dueltype",
+      "english_sha256": "8da3c3f0a5fb5bdb4a827ffda79df0955a27efc90a18031e831c1e481c6de15b",
+      "ko": "이제 진실 혹은 도전 결투를 시작하자!"
+    },
+    {
+      "line": 1451,
+      "event": "dueltype",
+      "english_sha256": "5c7f3717b322c2993b97e750c02d9e4f02e21b9061d66e09e86f329367285cf6",
+      "ko": "첫 라운드에서 카우보이는 네가 열세 살까지 밤에 오줌을 쌌다고 실토하게 만든다. 시작부터 제대로 망했네."
+    },
+    {
+      "line": 1452,
+      "event": "dueltype",
+      "english_sha256": "14e24968dda0904d34f518a62485c3cbf60c55a669faae1fc9db563aa237b7ec",
+      "ko": "너는 메스칼린 선인장을 핥으라고 도전한다. 그러자 카우보이는 자기 머리 주변을 날아다니는 보라색 요정들과 맨주먹으로 싸우라고 도전한다."
+    },
+    {
+      "line": 1453,
+      "event": "dueltype",
+      "english_sha256": "02ea4cf67fcae06dd0964929ebde8f47028aae37bae06d439175561eaf88ae60",
+      "ko": "그 요정들은 네가 아니라 카우보이의 환각이니 그럴 수 없다고 지적하지만, 그래도 점수는 깎인다."
+    },
+    {
+      "line": 1454,
+      "event": "dueltype",
+      "english_sha256": "b1c30f814e4c85392c45d731654f3dfc8d69dce3dddf20c6f1717229e91a09d3",
+      "ko": "이대로는 가망이 없어 보이지만, 문득 기발한 생각이 떠오른다. 카우보이에게 자기 다리를 쏘라고 도전하는 거야!"
+    },
+    {
+      "line": 1455,
+      "event": "dueltype",
+      "english_sha256": "8df6defcd58a46c7213df22ada10bc1e266243c9f76a6a40a90243126f43cd84",
+      "ko": "흠, 보통이라면 자기 다리를 쏘는 건 꽤 멍청한 짓이라고 생각하겠지만..."
+    },
+    {
+      "line": 1456,
+      "event": "dueltype",
+      "english_sha256": "d2b91ae13a7c95b0f50cecfa2380a309bf03207eafbd91af07b71429c4116e89",
+      "ko": "져서는 안 되잖아. 아까는 총 한 번 쏴 보지도 못했으니... 뭐, 해 보지!"
+    },
+    {
+      "line": 1457,
+      "event": "dueltype",
+      "english_sha256": "45c4ccf6d9f55b08be2897f992e812a58a1b1d4edece2c73a683e3192530fcdd",
+      "ko": "카우보이는 자기 다리를 쏜 뒤에야 왜 그러면 안 되는지 깨닫는다. 치명적인 출혈 때문이다."
+    },
+    {
+      "line": 1458,
+      "event": "dueltype",
+      "english_sha256": "b76167b2a6882ec64da37a00b1362add772a42ab2c5929c80d46ccdf349a9dd8",
+      "ko": "잘했어, 형제! 오늘도 살아남았네!"
+    },
+    {
+      "line": 1459,
+      "event": "dueltype",
+      "english_sha256": "44e1ccbf2cdc968d9f18d38be03be37fbe480055c0073289f4ff88656d90fee1",
+      "ko": "적어도 스콧이나 내가 또 무슨 짓을 벌여 네 목숨을 위태롭게 하기 전까진 말이지."
+    },
+    {
+      "line": 1460,
+      "event": "dueltype",
+      "english_sha256": "b49be4bd5e51ce0c884a80bef9e453563661b9f548ac178e9a4d753297de423a",
+      "ko": "그러게... 그냥 생각인데, 너랑 스콧이 그런 짓을 안 하려고 최선을 다하면 안 돼?"
+    },
+    {
+      "line": 1461,
+      "event": "dueltype",
+      "english_sha256": "aeb6d4a83f6046a87d4dc39fb12a2e0a361c4b844e1dcf8f3f542d1571ecad28",
+      "ko": "그럴 리가! 자, 가자. 이 자동차 여행에서 살아남아야 하잖아!"
+    },
+    {
+      "line": 1469,
+      "event": "wildwesthorsie",
+      "english_sha256": "4d61bd7701b88de69dfc489ca6434ed7c9a7a0292b8467a9140282d74c516089",
+      "ko": "말 친구들 만나기"
+    },
+    {
+      "line": 1471,
+      "event": "wildwesthorsie",
+      "english_sha256": "a937ce3647dcd07d69175e19fe13a84271d1aadf93dec1ef8a517913e9a042ec",
+      "ko": "마구간에 가 보기로 한다. 귀여운 동물을 보는 건 언제나 좋고, 마음속 말 덕후 기질도 마음껏 발산할 수 있으니까."
+    },
+    {
+      "line": 1476,
+      "event": "wildwesthorsie",
+      "english_sha256": "97fed0f7be4a8787ff758f696f739ca936ff1f03d91db5712498d36f7ab1b128",
+      "ko": "폴리, 봐! 얘가 날 좋아하나 봐! 눈만 봐도 내가 머리를 쓰다듬어 주는 걸 정말 좋아한다는 게 보여."
+    },
+    {
+      "line": 1477,
+      "event": "wildwesthorsie",
+      "english_sha256": "4925bd6b01bff99a850c05bbfe0a3eb4263fc3e34f6aa613264f590477d13ba3",
+      "ko": "완전 그렇지! 말의 눈을 들여다보면 무슨 생각을 하는지 알 수 있어. 크고 멍청해 보이는 영혼의 창이잖아."
+    },
+    {
+      "line": 1478,
+      "event": "wildwesthorsie",
+      "english_sha256": "791501c65117a9f89bf36a4ade7e00d8d36f41cd7eb890744dc3f489819e3ea9",
+      "ko": "예를 들면 얘는 내 주머니를 한입 베어 물고 싶어 해. 이 안에 든 케타민 쿠키 냄새가 나니, 덩치 큰 친구야?"
+    },
+    {
+      "line": 1479,
+      "event": "wildwesthorsie",
+      "english_sha256": "272f4f9095f4651892d09a33772344a6de2fff7fcc4ee1e06ff6d514e2352e1a",
+      "ko": "%CURRENTPLAYERNAME%, 네 말은 무슨 생각을 하고 있을까?"
+    },
+    {
+      "line": 1482,
+      "event": "wildwesthorsie",
+      "english_sha256": "1db6b1e1272e1bccabc3ea47b50b569d3228fedd8df07c4f690736a82066df94",
+      "ko": "쓰다듬고 있는 말의 눈을 들여다본다. 처음엔 아무것도 보이지 않아 눈을 정말 있는 힘껏 찡그린다. 그러자..."
+    },
+    {
+      "line": 1484,
+      "event": "wildwesthorsie",
+      "english_sha256": "f71db9a90b6444e3967d269b564d73f6cc065df2488c640db710d549d4dd19b4",
+      "ko": "말이 원하는 게 보이기 시작한다. 그 욕망, 세상에서 가장 간절히 바라는 것들."
+    },
+    {
+      "line": 1486,
+      "event": "wildwesthorsie",
+      "english_sha256": "02bc13cd87903a10981b95674a77676f2d5c1dc258149965008414257060cbac",
+      "ko": "그리고 그 말이 갈망하는 건... 폭력. 방화. 유혈 사태. 엄청난 유혈 사태."
+    },
+    {
+      "line": 1488,
+      "event": "wildwesthorsie",
+      "english_sha256": "69fb4acadf6659356b3f17fdafddd35c8b0dcb7e7d2ad77cbde4514689a23877",
+      "ko": "말의 눈이 이렇게 말한다. ‘저질러어어, %CURRENTPLAYERNAME%! 세상을 불태워! 세금 사기를 쳐! 이게 우리의 운명이라고!’"
+    },
+    {
+      "line": 1491,
+      "event": "wildwesthorsie",
+      "english_sha256": "d4464243e531d81514ca02f4df05fc7f1ff27e1400c35087a42e7c9beda41f75",
+      "ko": "그래서? 네 말이 뭐라고 하던데, 형?"
+    },
+    {
+      "line": 1492,
+      "event": "wildwesthorsie",
+      "english_sha256": "fc404e6adec08ba5b959e79c41e4896a8c0ffc7113725f9d26b07399c13465da",
+      "ko": "말의 눈이 재촉한다. ‘왜 아직도 거기 서 있어? 왜 아직 세금 사기를 안 쳤어?! 네 말의 지배자로서 명령한다!’"
+    },
+    {
+      "line": 1493,
+      "event": "wildwesthorsie",
+      "english_sha256": "e95124f0af89085422a3cfae596b48a761647cd64c48f5987e0b60c55eca2bf9",
+      "ko": "왜 그래, %CURRENTPLAYERNAME%? 가만히 있어서 이 귀여운 말의 순수하고 사랑스러운 소원을 거절할 셈은 아니지?"
+    },
+    {
+      "line": 1494,
+      "event": "wildwesthorsie",
+      "english_sha256": "046aa97d3128ff729ffe695be4d1c3c18194ea1a314785a55de400c21ec02143",
+      "ko": "젠장! 친구들을 실망시키고 싶진 않지만, 그렇다고 말이 시키는 대로 해야 할까? 너는..."
+    },
+    {
+      "line": 1495,
+      "event": "wildwesthorsie",
+      "english_sha256": "5279cd476a16b2caf685383c0c42349aac223fb11e033db5d64832d5f5bee4de",
+      "ko": "말의 섬뜩한 요구는 네 머릿속에 떠오른 이상하고 불쑥 끼어드는 생각 탓으로 돌리고, 멍청한 머리나 쓰다듬는다."
+    },
+    {
+      "line": 1496,
+      "event": "wildwesthorsie",
+      "english_sha256": "f53a1c8d334ef844359e4e86aeb2200cd6f8546d288aa30dccfbe68e3e03b08d",
+      "ko": "말이 시키는 대로 한다."
+    },
+    {
+      "line": 1497,
+      "event": "wildwesthorsie",
+      "english_sha256": "0677ad520fa446e00bcf2db734c28533313fe423a7e178f9a166074091151178",
+      "ko": "새로운 말의 지배자에게 충성을 맹세하고, 남은 평생 그가 시키는 대로 한다."
+    },
+    {
+      "line": 1499,
+      "event": "wildwesthorsie",
+      "english_sha256": "b968a1578e8f1f113be01a0cc106ae101206461ae06f4681d65bd365093843ac",
+      "ko": "모르는 척한다. (아니면 진짜 멍청한 걸지도. 누가 알겠어?) 그리고 말의 머리를 다정하게 쓰다듬는다."
+    },
+    {
+      "line": 1500,
+      "event": "wildwesthorsie",
+      "english_sha256": "cc162d0f5dea98d0c72abe7e64766739a2b5b2ed07c8331e9751d234da780f66",
+      "ko": "말이 눈으로 절규한다. ‘아니이이! 세금 사기는 어쩌고?! 세금 사기를 치라고 분명히 말했잖아!’"
+    },
+    {
+      "line": 1501,
+      "event": "wildwesthorsie",
+      "english_sha256": "6037bd11c33026615cbead002a6de8e2eab81eb36a7982e023d4a61effc68dc6",
+      "ko": "그런데 꼭 세금 사기여야 해? 이런 불쑥 끼어드는 생각이 머릿속에 떠오를 거라면, 적어도 네가 방향을 정할 순 없을까?"
+    },
+    {
+      "line": 1502,
+      "event": "wildwesthorsie",
+      "english_sha256": "1ff94100087158ec77f8b73a96b2bf01f1f8a8450561fcabb795fa7bf82f5528",
+      "ko": "좋아, 세금 사기는 관두자. 대신 고아원을 불태우자! 재는 재로, 먼지는 먼지로!"
+    },
+    {
+      "line": 1503,
+      "event": "wildwesthorsie",
+      "english_sha256": "585dbe8b4301758ca9149b98761e4aaa8d40a561fddd31679d642ca743602490",
+      "ko": "음, 그래도 조금은 수위를 낮춰야겠어."
+    },
+    {
+      "line": 1504,
+      "event": "wildwesthorsie",
+      "english_sha256": "e7ff856142e4ddf90f8e3a68a133f70fdca3af2e721ed6d0bf97b6ceecccfaaa",
+      "ko": "으, 좋아. 그럼 귀를 긁어 줄래?"
+    },
+    {
+      "line": 1505,
+      "event": "wildwesthorsie",
+      "english_sha256": "f1779c691b2be0c4eec6c6a3188de3f3fb03fba6521b5838732deee59cc3ce28",
+      "ko": "좋아! 드디어 말이 통하네."
+    },
+    {
+      "line": 1506,
+      "event": "wildwesthorsie",
+      "english_sha256": "8565dac5e77dad6dbf83e266aa6a9a1c791bed12992fe002ebc44a2c92e4d515",
+      "ko": "좋아... 이제 쓰다듬어 줬으니 함께 고아원을 불태울 만큼 가까워졌어! 우리의 우정은 불길 속에서 완성될 거야!"
+    },
+    {
+      "line": 1507,
+      "event": "wildwesthorsie",
+      "english_sha256": "39becf85dbc4afc2f22d8208aa5a98f6ec3b8e0cf832e89187c463dd8e222cb0",
+      "ko": "아아아, 다시 원점이네."
+    },
+    {
+      "line": 1508,
+      "event": "wildwesthorsie",
+      "english_sha256": "a0bc30bb58660215d2752e39a1ef1f217004389808917b1d80ea123bdbc251b0",
+      "ko": "그냥 말에게 사과를 주기로 한다. 결국 멍청한 말일 뿐이잖아. 이 살인 충동 가득한 요구는 전부 네 뒤틀린 정신이 만들어 낸 거겠지?"
+    },
+    {
+      "line": 1509,
+      "event": "wildwesthorsie",
+      "english_sha256": "7e39dd3410e906131bf166570486275fb1aba9afdea1b525feca14657c115462",
+      "ko": "에이, 너 정말 말과 교감하는 데 소질이 없구나. 눈을 보면 사과를 원하지 않는다는 게 안 보여?"
+    },
+    {
+      "line": 1510,
+      "event": "wildwesthorsie",
+      "english_sha256": "bd89f67018694481a52be661b2e1519fcfaeab1474e23445b83f9d41a0987760",
+      "ko": "맞아. 네 말이 ‘고아원을 불태우고 세금 사기를 쳐’라고 분명히 말하는 게 보였어. 왜 그 소원을 존중하지 않은 거야?"
+    },
+    {
+      "line": 1511,
+      "event": "wildwesthorsie",
+      "english_sha256": "9da785a167233228936a0a176d41e637ad7613482441be13f4dd17ee3c135915",
+      "ko": "어린 고아들의 목숨을 아껴 +N2 SOUL을 얻지만, 범죄를 저지르지 않는 지독하게 재미없는 녀석이라 -N2 HYPE를 잃는다."
+    },
+    {
+      "line": 1514,
+      "event": "wildwesthorsie",
+      "english_sha256": "356a7cc5cf7ae5d73533d5ce8f593b511416f7fa274daaa0cb12752b9d52eeb0",
+      "ko": "에라, 씨발. 어차피 자기 인생과 결정을 직접 책임지는 게 싫었잖아. 빌어먹을 말에게 자율권을 넘겨 버리는 게 낫겠다."
+    },
+    {
+      "line": 1515,
+      "event": "wildwesthorsie",
+      "english_sha256": "b377a0723d3853998cd94346fe390a5f7cf84e7a1012875d49e800963840fe30",
+      "ko": "우선 세금 사기를 쳐서 말에게 수천 달러를 안겨 준다. 위험한 짓이지만 새 친구를 만족시키기엔 충분하길 바란다."
+    },
+    {
+      "line": 1517,
+      "event": "wildwesthorsie",
+      "english_sha256": "df4d4b02de4c4fc19047c9c3a5a3764b522093a88aaaa737b270940626e62e64",
+      "ko": "……"
+    },
+    {
+      "line": 1518,
+      "event": "wildwesthorsie",
+      "english_sha256": "360d4ab2914db09f6c18b30ce13b40c6a415423d5aaf4510904ee944ca65c101",
+      "ko": "아니, 이 쥐꼬리만 한 돈으로는 부족하다. 말은 은행을 털라고 명령한다. 좋아, 복면 쓰고 은행 강도짓을 하자."
+    },
+    {
+      "line": 1519,
+      "event": "wildwesthorsie",
+      "english_sha256": "471d6a52f4f978ff76f64abd0524cb263afb39c323ebef9b2788513961a7725c",
+      "ko": "은행을 턴다. 직원이 가방을 채우는 속도가 너무 느리다. 말이 점점 참을성을 잃는 게 느껴진다..."
+    },
+    {
+      "line": 1521,
+      "event": "wildwesthorsie",
+      "english_sha256": "df4d4b02de4c4fc19047c9c3a5a3764b522093a88aaaa737b270940626e62e64",
+      "ko": "……"
+    },
+    {
+      "line": 1522,
+      "event": "wildwesthorsie",
+      "english_sha256": "eb46ee7b413394fdd03685393ca17882b1475782a8ee9d4eb40e06cf1a5eb559",
+      "ko": "하지만... 은행 직원을 다치게 하고 싶진 않아! 있는 힘껏 빨리 가방을 채우고 있잖아! 이럴 필요는 없다고!!"
+    },
+    {
+      "line": 1524,
+      "event": "wildwesthorsie",
+      "english_sha256": "a179903c74e4b5a8cdaa30df497b6eddcf798a429050326e12a292ab4985c04b",
+      "ko": "……"
+    },
+    {
+      "line": 1525,
+      "event": "wildwesthorsie",
+      "english_sha256": "38949fb65b4c828605af36a98c841b3163f4d1079ff7ce530a9002f97f8ca7eb",
+      "ko": "한숨... 저 눈을 보고 어떻게 거절하겠어?"
+    },
+    {
+      "line": 1526,
+      "event": "wildwesthorsie",
+      "english_sha256": "d3f93de4fcee0333ed4630b0e6a9d02160eea6c981d20a565f42c544f083ad8a",
+      "ko": "은행 직원의 머리를 쏘고 돈을 챙겨 달아난다. 물론 조금 지리기도 했다."
+    },
+    {
+      "line": 1527,
+      "event": "wildwesthorsie",
+      "english_sha256": "ea9f72136f9873f618d3bb6da0a7ff9980ec335039132022b3203e0f78f69fa6",
+      "ko": "나중에 뉴스에서 강도 사건을 보도하며 너희 범죄 조직을 ‘히힝과 똥’이라고 부른다."
+    },
+    {
+      "line": 1528,
+      "event": "wildwesthorsie",
+      "english_sha256": "ea9f41b9ff2046c31082c708d1822049679a8162011e75c8b2ee6267efb22d63",
+      "ko": "말에게 헌신한 덕에 +N2 HYPE를 얻지만, 살인을 저질렀으니 -N2 SOUL을 잃는다. 아쉽네."
+    },
+    {
+      "line": 1530,
+      "event": "wildwesthorsie",
+      "english_sha256": "356a7cc5cf7ae5d73533d5ce8f593b511416f7fa274daaa0cb12752b9d52eeb0",
+      "ko": "에라, 씨발. 어차피 자기 인생과 결정을 직접 책임지는 게 싫었잖아. 빌어먹을 말에게 자율권을 넘겨 버리는 게 낫겠다."
+    },
+    {
+      "line": 1531,
+      "event": "wildwesthorsie",
+      "english_sha256": "60d077b1505a10698d18114f1984bb096ed0a0242b87b6fbaaf454e88f5af0cb",
+      "ko": "말 한마디 없이도 계약은 완성된다. 말의 눈을 바라보며 정신과 몸과 영혼을 전부 말에게 바친다."
+    },
+    {
+      "line": 1534,
+      "event": "wildwesthorsie",
+      "english_sha256": "7bb3840d0d7220cfaab50ef876054ab7f1c34873a807a63cc056338015e229fe",
+      "ko": "어... 폴리? %CURRENTPLAYERNAME%가 %HISHER%의 예전 모습에서 껍데기만 남은 것처럼 보이지 않아?"
+    },
+    {
+      "line": 1535,
+      "event": "wildwesthorsie",
+      "english_sha256": "4568cb67ed43cbfc2ae15b7e05c9483fd0cf6a636e0f15987060d6e9bde86077",
+      "ko": "%HESHE%%VERB_'S_'RE% 원래 늘 그런 표정이잖아."
+    },
+    {
+      "line": 1536,
+      "event": "wildwesthorsie",
+      "english_sha256": "45ddd1065d54ab6370098b8e410261eb387f33078e039b1ee8561889b18449ef",
+      "ko": "%HESHE% 말이 기뻐할 만한 엄청난 일을 했나 봐. 잘했어, 자기야!"
+    },
+    {
+      "line": 1538,
+      "event": "wildwesthorsie",
+      "english_sha256": "433dc0220882eef6f833d42c6e5e3ec56af37a1e3fa134fc1326c473032dd500",
+      "ko": "그 뒤로도 대체로 평소처럼 살아간다."
+    },
+    {
+      "line": 1539,
+      "event": "wildwesthorsie",
+      "english_sha256": "6ffd8e95ffe10e4104b43d68b1393f49a2209651fb219d0b7f6bf786435dc52e",
+      "ko": "하지만 가끔 길에서 낯선 사람과 스쳐 지나갈 때면, 그들의 눈도 네 눈처럼 텅 비고 영혼이 없어 보인다."
+    },
+    {
+      "line": 1540,
+      "event": "wildwesthorsie",
+      "english_sha256": "99a12eab654e0b1889de5d9f79104bebad598aefa2ef079e66412931da78e3a2",
+      "ko": "어떤 면에서는 위안이 된다. 말들의 집단정신에서 누가 네 편인지 알 수 있으니 말이다."
+    },
+    {
+      "line": 1541,
+      "event": "wildwesthorsie",
+      "english_sha256": "1b6cba8093b0e542d9919c36eda05c915a9083e039908d4dfcf7d41b35e4a010",
+      "ko": "물론 말은 네 충성심에 보답한다. 말의 편에 서면 수익성 높은 신비한 힘 덕분에 +N2 HYPE, +N2 MONEY, +N2 MAGIC을 얻는다."
+    },
+    {
+      "line": 1542,
+      "event": "wildwesthorsie",
+      "english_sha256": "6e5864fe53efba26277b388b8253c9573a26b1c16ef17830aa8870c226f15359",
+      "ko": "하지만 말 대신 온갖 잔혹한 짓도 저질러야 한다. 절도, 방화, 세금 사기, 웃자고 자기 다리를 찌르는 짓까지..."
+    },
+    {
+      "line": 1543,
+      "event": "wildwesthorsie",
+      "english_sha256": "557c3941c6d0981949e8fc462139c7cc115073cc9c60459b1b125b6b112b42ed",
+      "ko": "말과 함께하는 범죄자의 새 삶은 너를 갉아먹고, -N3 MIND와 -N3 SOUL을 잃게 한다."
+    },
+    {
+      "line": 1551,
+      "event": "chooseart",
+      "english_sha256": "92c956f13433046b5cafafd40282514066567ec7dcd2707e8260330ac8d8e465",
+      "ko": "직접 만든 작품 전시하기"
+    },
+    {
+      "line": 1555,
+      "event": "chooseart",
+      "english_sha256": "1ae078c9016e11bd7cdd1e73b4d08418f153ecec8e66ca0bcf0628c1043e1bff",
+      "ko": "전시회에 직접 만든 작품을 내걸겠다고 친구들에게 말한다."
+    },
+    {
+      "line": 1557,
+      "event": "chooseart",
+      "english_sha256": "a96d5897dc6bc61ff6a755566faed25cdedae972f9bfe2dc6cb278b83d49bd24",
+      "ko": "재밌겠다! 저기 봐, 사람들 마음대로 그림을 그릴 수 있게 빈 캔버스도 걸어 놨어!"
+    },
+    {
+      "line": 1559,
+      "event": "chooseart",
+      "english_sha256": "acf89dbf6ab74a11bfee872297b81d51912db0636152dd94cdb78b5616753cf7",
+      "ko": "안녕, 친구들. 빈첸초 스피넬리의 작품 ‘Bianco e Nient'altro’를 감상 중인가? 온통 하얀 이 초상화는 그가 죽기 전 남긴 마지막 걸작이지."
+    },
+    {
+      "line": 1560,
+      "event": "chooseart",
+      "english_sha256": "046500ece234f68bbc65c15f2361aef33b892accd2b63ce496a73efe00e4c56e",
+      "ko": "뭘로 죽었대? 지루해서?"
+    },
+    {
+      "line": 1561,
+      "event": "chooseart",
+      "english_sha256": "504e8916a46507543dbd6c4ca26522b4a0ab30862d428cdee2c52dc7b8c9706b",
+      "ko": "좋아, 이제 폴리와 친구들이 미술 작품에 ‘트월크!’를 넣어 줄 차례네!"
+    },
+    {
+      "line": 1562,
+      "event": "chooseart",
+      "english_sha256": "c61daeeb2edf0512f8964a95322c103e48d4666108d063376e2a648b9daa5a2b",
+      "ko": "그래! 저 지루한 캔버스에 재밌는 걸 그려 보자!"
+    },
+    {
+      "line": 1563,
+      "event": "chooseart",
+      "english_sha256": "db6a7c537244101afc89899454f3bf5e55febe0c9921ca5e770ea90c7c96def8",
+      "ko": "뭐라고?! 스피넬리의 걸작에 그림을 그리면 안 돼! 예술에 대한 모독이야! 실제 법에도 어긋나고!"
+    },
+    {
+      "line": 1564,
+      "event": "chooseart",
+      "english_sha256": "09bf4c9ff40fed702c46494925359868e6772ef54c536a2b81c8799b071dd0f5",
+      "ko": "걱정 마, 리암. 우리 작품은 완전 제대로일 테니까. 종이에 먼저 그려 보고 제일 나은 걸 고를 거야."
+    },
+    {
+      "line": 1565,
+      "event": "chooseart",
+      "english_sha256": "944b0f3543587691d93bbe143fd1d85c95c320f3d3e0ee9428498809bd90a20f",
+      "ko": "예술 작품을 훼손하는 걸 가만히 보고만 있을 순 없어... 적어도 내 의견은 반영해야지. 마커 줘!"
+    },
+    {
+      "line": 1566,
+      "event": "chooseart",
+      "english_sha256": "885ba85379b1fc6eba10581a56d4ab063ad8432866b646d40ea21119a4b02eb2",
+      "ko": "너희는 잠시 그림을 그린 뒤 차례로 서로의 작품을 자랑한다."
+    },
+    {
+      "line": 1567,
+      "event": "chooseart",
+      "english_sha256": "67c8d8edbb97e176abdb6a0a9206d7f31af06dcb4db02d806d74ba7be31d5017",
+      "ko": "눈 크게 뜨고 봐라, 평민들아. 빈 종이다! ‘Bianco e Nient'altro’에서 영감을 받아, 갈수록 소비주의에 물드는 사회 속 권태를 표현했지--"
+    },
+    {
+      "line": 1568,
+      "event": "chooseart",
+      "english_sha256": "cf9f61b4e25a411dcf84f3fc29bb8f68d936df9000e4aa2158a63b1959f324aa",
+      "ko": "으, 리암은 재미없어서 실격이야. %CURRENTPLAYERNAME%, 넌 뭘 그렸어?"
+    },
+    {
+      "line": 1569,
+      "event": "chooseart",
+      "english_sha256": "2c8720f2cf3fe3d040b5ceb46fe1dde0bf97b20bfd725a33cd4cdd38237900d8",
+      "ko": "네가 그린 건 네 워리어 캣츠 오리지널 캐릭터, 키스 블러드클로였다... 복근이 너무 많다는 이유로 곧바로 실격된다."
+    },
+    {
+      "line": 1570,
+      "event": "chooseart",
+      "english_sha256": "893b1e96be37568ee9914aca23d34081cbae5c8bd734952d4afda531f76d69e7",
+      "ko": "괜찮아, 자기야! 그래도 미술계에 한 획을 그을 수 있어... 스콧 작품과 내 작품 중 어느 걸 전시할지 고르면 되거든!"
+    },
+    {
+      "line": 1574,
+      "event": "chooseart",
+      "english_sha256": "c176c51a60d5b052bb67c1566a1467cbdf4d0c0066c96ef0c4ea5b1f70fbec69",
+      "ko": "스콧의 작품"
+    },
+    {
+      "line": 1575,
+      "event": "chooseart",
+      "english_sha256": "4cc57da5c2b14d3a406dfdb5acf72108e228d7e3d672328cb26f2b8a7246aff0",
+      "ko": "폴리의 작품"
+    },
+    {
+      "line": 1580,
+      "event": "chooseart",
+      "english_sha256": "1e6edf8ff22d4f0f92d288f0ef7c9f1e12658b495d50c425ce2e84ee80690621",
+      "ko": "스콧은 자기 그림을 미술관 벽에 옮겨 그린다. 곧바로 예술 허세꾼들이 몰려와 ‘상상력 넘치는 붓질’과 ‘명확한 행동 촉구’를 논하기 시작한다."
+    },
+    {
+      "line": 1581,
+      "event": "chooseart",
+      "english_sha256": "f1b22d395a7089b16ca07a6e1128c648a213a971be89207f4350c9e6b50e1d4d",
+      "ko": "한 미술 평론가가 말한다. ‘하울 씨! 걸작의 액자로 익히지 않은 마카로니를 선택한 영감은 무엇인가요?’"
+    },
+    {
+      "line": 1582,
+      "event": "chooseart",
+      "english_sha256": "e688ca8c3e79161f48a631286f7d66f7eef237b5871bebaf8fa4eb185fe8a534",
+      "ko": "간단해요. 마카로니를 정말 좋아하는데, 이제 혼자 물을 끓이면 안 되거든요. 그래서 그냥 생면을 먹어요."
+    },
+    {
+      "line": 1583,
+      "event": "chooseart",
+      "english_sha256": "6311c5c24c641bccbf6869e7cc65b21e19aabd5f783b3314dd7fb476630c935b",
+      "ko": "작업하다 그림 위에 몇 개를 쏟았길래 그냥 그걸 살려 봤어요!"
+    },
+    {
+      "line": 1584,
+      "event": "chooseart",
+      "english_sha256": "11a979368b71d8ed8e691e9d1617748f565c37344fcd0fa642e43330078aea2b",
+      "ko": "으, 빈첸초 스피넬리에 대한 모욕이잖아! 네 형편없는 마카로니 그림으로 그 사람의 걸작을 망쳐 버렸어!"
+    },
+    {
+      "line": 1585,
+      "event": "chooseart",
+      "english_sha256": "1aa677dcefc553cfd443cbac51e115bc902a9f965f76ec0078c26dac4fc55c03",
+      "ko": "‘망쳤다고는 할 수 없겠군요. 사실 하울 씨는 누구보다 제 예술을 잘 이해했어요!’"
+    },
+    {
+      "line": 1586,
+      "event": "chooseart",
+      "english_sha256": "d7a60892f6bb300f8a502a7d566466ec2657bd9dda7486a52fe1c4a56a69466c",
+      "ko": "미술 평론가는 가짜 콧수염과 거대한 베레모를 벗는다. 그 정체는..."
+    },
+    {
+      "line": 1587,
+      "event": "chooseart",
+      "english_sha256": "5793ca20b792dfe7cde8c6b9d30aed612e0eeb7b89f76aed399df813bf586d76",
+      "ko": "빈첸초 스피넬리?! 죽은 줄 알았는데!"
+    },
+    {
+      "line": 1588,
+      "event": "chooseart",
+      "english_sha256": "190b8a354add6b52d285ce3b048b042816d9385f15bb66a1f7c13f0714f3de17",
+      "ko": "‘아니, 세금을 탈루하려고 죽음을 위장했을 뿐이라네! 비밀리에 내 작품 ‘Bianco e Nient'altro’를 지켜보며, 진정한 예술가가 나타나 그 뜻을 제대로 읽어 내길 기다렸지... 빈 캔버스라는 뜻 말일세!’"
+    },
+    {
+      "line": 1589,
+      "event": "chooseart",
+      "english_sha256": "8299cee386fb6f47ec184820dd03a27715090eefc83d084d327c7648b9ccd63e",
+      "ko": "‘근육질에 털이 복슬복슬한 상냥한 예술가여, 내 꿈을 이뤄 줘서 고맙네. 자네는 진정한 예술가일세.’"
+    },
+    {
+      "line": 1590,
+      "event": "chooseart",
+      "english_sha256": "78c731ccb8ca3a8f7e644f6556f271b7e4bdc0645f9d6ac3b00b39f920a274aa",
+      "ko": "‘자네가 말이야. 내 예술을 전혀 이해하지 못한 게 뻔한 보라색 뱀파이어가 아니라!’"
+    },
+    {
+      "line": 1591,
+      "event": "chooseart",
+      "english_sha256": "6c5cec9e1a55fb0b51226296da5cce7528202e7b9441953f1d5579404401a064",
+      "ko": "아이고, 알았어..."
+    },
+    {
+      "line": 1592,
+      "event": "chooseart",
+      "english_sha256": "4a19fe2e5361ecedb5b26867d7e9712b14023d02cb755f76761671e380c98b47",
+      "ko": "훈훈한 메시지가 담긴 작품을 골라 +N2 SOUL을 얻는다! 하지만 마카로니가 자동차 여행 식량에서 빠져나갔으니 -N2 STAMINA를 잃는다."
+    },
+    {
+      "line": 1597,
+      "event": "chooseart",
+      "english_sha256": "ca4f89439e48477a17c08925392b42acc47842011e33a060e20e266c6cbcd0dc",
+      "ko": "폴리는 자기 그림을 미술관 벽에 옮겨 그린다. 예술 허세꾼들이 몰려와 ‘우울한 색채 구성’과 ‘압도적으로 거대한 엉덩이’를 극찬한다."
+    },
+    {
+      "line": 1598,
+      "event": "chooseart",
+      "english_sha256": "b84c278a70d2dde066b6914cda5630335c0bdf171a0eb7a5a05576dfeae05cea",
+      "ko": "한 미술 평론가가 묻는다. ‘가이스트 양! 이 작품의 중심 주제로 엉덩이를 선택한 영감은 무엇인가요?’"
+    },
+    {
+      "line": 1599,
+      "event": "chooseart",
+      "english_sha256": "4d20aaa2034e5afcd52282eab6d26831334df50294bb75622c5061c596b02a0d",
+      "ko": "원래는 T. S. 엘리엇의 ‘황무지’를 바탕으로, 그 시가 자아내는 억압과 고립의 감정을 표현하려고 했어..."
+    },
+    {
+      "line": 1600,
+      "event": "chooseart",
+      "english_sha256": "67a92ef62ac01787e8a0dd9ba559185efaf3446efb3364912bfd48cedab72054",
+      "ko": "그런데 지루해져서 엉덩이 생각을 하기 시작했고, 나머지는 뭐... 보면 알잖아."
+    },
+    {
+      "line": 1601,
+      "event": "chooseart",
+      "english_sha256": "5d88da3d2955d9138bf469575e3f1f045e2dcaf09625f335b411ee1036338039",
+      "ko": "멍청한 엉덩이 하나로 걸작을 망치다니 믿을 수가 없군. 빈첸초 스피넬리가 무덤에서 벌떡 일어나겠어."
+    },
+    {
+      "line": 1602,
+      "event": "chooseart",
+      "english_sha256": "0de6f64c5492ff0153d9394e9649ade2ff314d24f65b17c9748e329a985328c4",
+      "ko": "‘망쳤다고는 할 수 없겠군요. 사실 가이스트 양이 누구보다 제 예술을 잘 이해했어요!’"
+    },
+    {
+      "line": 1603,
+      "event": "chooseart",
+      "english_sha256": "d7a60892f6bb300f8a502a7d566466ec2657bd9dda7486a52fe1c4a56a69466c",
+      "ko": "미술 평론가는 가짜 콧수염과 거대한 베레모를 벗는다. 그 정체는..."
+    },
+    {
+      "line": 1604,
+      "event": "chooseart",
+      "english_sha256": "5793ca20b792dfe7cde8c6b9d30aed612e0eeb7b89f76aed399df813bf586d76",
+      "ko": "빈첸초 스피넬리?! 죽은 줄 알았는데!"
+    },
+    {
+      "line": 1605,
+      "event": "chooseart",
+      "english_sha256": "2cdd2242845bb30694f737f5d04bcb865119fda8aa621e6647e1f6eab9228636",
+      "ko": "‘아니, 세금 탈루를 위해 죽음을 위장했을 뿐이라네! 옛 작품을 보러 왔는데, 어느새 경쟁 예술가가 이미 작품을 차지했더군.’"
+    },
+    {
+      "line": 1606,
+      "event": "chooseart",
+      "english_sha256": "e302dfe11a561e35b287de690ed4542011d50cce9a1764b79182f97760a598b2",
+      "ko": "‘그리고 고급 예술 규칙에 따르면, 경쟁 예술가가 더 뛰어난 작품으로 기존 작품을 덮으면 패배를 인정하고 전시를 허락해야 한다네. 잘했소, 부인.’"
+    },
+    {
+      "line": 1607,
+      "event": "chooseart",
+      "english_sha256": "66dc628a1ed4d72226f9d7b6f3cbbc95d902eb0bd86f5e247ce86e6580b68227",
+      "ko": "말도 안 돼! 그런 ‘고급 예술 규칙’이 있다면 왜 난 한 번도 들어 본 적이 없지?!"
+    },
+    {
+      "line": 1608,
+      "event": "chooseart",
+      "english_sha256": "8877d7f39089c307953afae02062d588b4eb0ac7c1d907fc320b324b7f730d02",
+      "ko": "‘그렇다면 자네는 친구처럼 진정한 예술가가 아니라는 증거일 뿐이지!’"
+    },
+    {
+      "line": 1609,
+      "event": "chooseart",
+      "english_sha256": "ebdcddf9ad96c793afc07ec1b0c8119ad0ab7fcd2cc9c4df18b7b5853ff5dfb5",
+      "ko": "와, 그런가 봐. 폴리, 이런 말을 하게 될 줄은 몰랐는데... 내가 틀렸어. 미술에 관해서 말이야. 미안해."
+    },
+    {
+      "line": 1610,
+      "event": "chooseart",
+      "english_sha256": "fec456a3f1a04fd109ebcbe44bb2c76fb80efbfe913ce5d528466149be2ec35f",
+      "ko": "...뭐라고? 미안, 제대로 듣고 있지 않았어. 또 엉덩이 생각을 하고 있었거든."
+    },
+    {
+      "line": 1611,
+      "event": "chooseart",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 1612,
+      "event": "chooseart",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 1613,
+      "event": "chooseart",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 1614,
+      "event": "chooseart",
+      "english_sha256": "1239fe0b4d2a84837141f57c3e2930f3e53891ce3ebda3fb0193474f4aec8e3c",
+      "ko": "…… 엉덩이."
+    },
+    {
+      "line": 1615,
+      "event": "chooseart",
+      "english_sha256": "9f36cb8119a6367b0bc7af2492b31701efca0ddb2fd7e7a75eb7ecfd9e6a91b4",
+      "ko": "오, 폴리! 네가 그녀의 엉덩이 논평 작품을 감상하자, 탐스러운 곡선 덕분에 +N2 HYPE를 얻는다. 하지만 그림 나머지 부분의 으스스한 분위기 때문에 -N2 MIND를 잃는다."
+    },
+    {
+      "line": 1623,
+      "event": "fmkart",
+      "english_sha256": "4104056cf42fba95fbf8bfbd80fae840d8e7b9481c67c30b9e6860e890ec83c8",
+      "ko": "예술 작품 해석하기"
+    },
+    {
+      "line": 1628,
+      "event": "fmkart",
+      "english_sha256": "33348093a80172f90977cabfc4477d72bc048c956dbadb8e0baf09195a9c29c9",
+      "ko": "안녕하십니까, 친구들이여! 예술 작품을 해석하러 왔다고 들었는데, 맞나?"
+    },
+    {
+      "line": 1629,
+      "event": "fmkart",
+      "english_sha256": "ab4d711eb5387af138462fc564caf2f0941e6f8d4903659d4edfd7dea338211c",
+      "ko": "맞아, 제대로 들었어. 여기서 예술 해석법을 아는 사람이 있다면 바로 리암이지!"
+    },
+    {
+      "line": 1630,
+      "event": "fmkart",
+      "english_sha256": "f7177ce3946853cbce9713c3e4ffd0135979854f492fdcc028e89f6198e31bff",
+      "ko": "다르게 말하자면, 남들에게 예술을 어떻게 해석해야 하는지 훈수 둘 만큼 잘난 척하는 사람은 리암이지."
+    },
+    {
+      "line": 1631,
+      "event": "fmkart",
+      "english_sha256": "02a1335290f0b0778a9164ab8da7d0590bec04c29a1936cccdd311a40930aa91",
+      "ko": "순수 예술을 해석하려면 섬세한 영혼과 날카롭게 훈련된 눈, 그리고 여러 예술 사조를 수백 년간 공부한 지식이 필요해."
+    },
+    {
+      "line": 1632,
+      "event": "fmkart",
+      "english_sha256": "e099a87e8e8062c06a95ad2e2ebfc2e2faaa5782276ea0ea5a2f467a1d1c1452",
+      "ko": "아니, 예술 감상은 간단해. 작품을 상대로 '박을까, 결혼할까, 죽일까' 게임을 하면 돼!"
+    },
+    {
+      "line": 1633,
+      "event": "fmkart",
+      "english_sha256": "ae9afcee073613518610bb2f002c0336b41a25349e2aa93c7755a3861c6251fb",
+      "ko": "고른 이유를 가장 잘 설명하면 점수를 얻어. 예술과 스포츠가 똑같다는 건 누구나 알잖아!"
+    },
+    {
+      "line": 1634,
+      "event": "fmkart",
+      "english_sha256": "0cfcb5ef56df08f558709062395105e3fc50b6c76b101312444642c3e2881b27",
+      "ko": "농담이지? 예술 해석은 '박을까, 결혼할까, 죽일까' 따위보다 훨씬 복잡해!"
+    },
+    {
+      "line": 1635,
+      "event": "fmkart",
+      "english_sha256": "ed4d6d7f6d0e05310c536353781f948c64a9671799d901a13653c250eb948f15",
+      "ko": "그래? 그럼 왜 유명한 예술 작품 중에 섹스와 살인을 다룬 게 그렇게 많을까? 체크메이트."
+    },
+    {
+      "line": 1636,
+      "event": "fmkart",
+      "english_sha256": "7003af7570e8979392226b4d21ebc2f5698e7fe87444f7fbab68cba407ae0e6b",
+      "ko": "리암이 입을 열어 더 반박하려는 순간, 낯선 사람이 네 어깨를 톡톡 친다."
+    },
+    {
+      "line": 1637,
+      "event": "fmkart",
+      "english_sha256": "9a8ead9c72a2b25f0774f01f693e68b7b3ac02b7681219b9ef3427ec5f130771",
+      "ko": "실례지만 방해 좀 하겠습니다. 조언이 절실해서요. 그림을 사러 온 괴짜 억만장자인데, 뭘 골라야 할지 도무지 모르겠군요!"
+    },
+    {
+      "line": 1638,
+      "event": "fmkart",
+      "english_sha256": "3017e5635b1d00a6deb912d51e0141d9bb727dc53a54f1ac09ae01edc7f790fd",
+      "ko": "여러분은 예술 해석 전문가 같군요. 뭘 살지 결정하는 걸 도와주시겠습니까?"
+    },
+    {
+      "line": 1639,
+      "event": "fmkart",
+      "english_sha256": "50a9b713a2376d448834145a2880e18726a9ebf439d4e0eb35a5fa60d813c7f8",
+      "ko": "잘 찾아오셨습니다, 손님! 바로 이 뱀파이어가 도와드리죠. 어떤 작품을 사야 할지 30페이지짜리 논문을 친절히 써 드리겠습니다!"
+    },
+    {
+      "line": 1640,
+      "event": "fmkart",
+      "english_sha256": "1de1c5e958ab54f6b876b44c9eb2ac85d3cb259da74433abd00b02728226d2d3",
+      "ko": "아, 죄송합니다. 오해하신 것 같은데요. 이 그림을 보고 박을지, 결혼할지, 죽일지 골라 주실 수 있냐고 여쭌 겁니다."
+    },
+    {
+      "line": 1644,
+      "event": "fmkart",
+      "english_sha256": "29c9bd5f7a0c783b5bddab877cbaa17a3891c6c461bf73e67949875a4ba3fa14",
+      "ko": "이건 네가 해낼 수 있어, 씨발! 그림을 잘 살펴보고 하나를 골라..."
+    },
+    {
+      "line": 1645,
+      "event": "fmkart",
+      "english_sha256": "7bb47b4277abb9d2bb0d954204d30e5467d98425ee994054974242ccfd16a191",
+      "ko": "박기"
+    },
+    {
+      "line": 1646,
+      "event": "fmkart",
+      "english_sha256": "74864862b595f60b217502fa43299ac5f72ee8617c195565b11f69e87154662a",
+      "ko": "결혼하기"
+    },
+    {
+      "line": 1647,
+      "event": "fmkart",
+      "english_sha256": "ee72959b9b18e87f5e8ddd219c617c82229d62d640b425b10d2a7b3270a98331",
+      "ko": "죽이기"
+    },
+    {
+      "line": 1650,
+      "event": "fmkart",
+      "english_sha256": "56ba52d4ee515b7349b338fdbed46671e857245c335bdf531929c47259826fe4",
+      "ko": "%CURRENTPLAYERNAME% 말이 맞아. 이건 누가 봐도 '박을' 작품이지."
+    },
+    {
+      "line": 1651,
+      "event": "fmkart",
+      "english_sha256": "d6bf91c9999967a4153a826208e582465c096b179ea93864b46d699d3eca1231",
+      "ko": "%CURRENTPLAYERNAME%에게 열 점! 예술 게임에서 완전 날아다니는구나, 친구!"
+    },
+    {
+      "line": 1652,
+      "event": "fmkart",
+      "english_sha256": "4cdeeaf4e1ec4bfb35edfca130ce96c1dd086a092a8246267eaae283faa2633b",
+      "ko": "'물론이죠!' 억만장자가 말한다. '예술은 감상받기 위해 만들어지는 법이죠. 예술가의 가장 원초적이고 육체적인 표현을 승화한 결과물이니, 당연히 박아 줘야 합니다.'"
+    },
+    {
+      "line": 1653,
+      "event": "fmkart",
+      "english_sha256": "64acf4fee97db651bb720f25dba939f00ba4c33b0c054870cc77113e5e13676b",
+      "ko": "으, 말도 안 되게 일리가 있어서 더 싫네."
+    },
+    {
+      "line": 1654,
+      "event": "fmkart",
+      "english_sha256": "76d2c45220d35a59aa6e5332d72c165285dc1a17abb15c4a0b9725dff99e3eb1",
+      "ko": "'%CURRENTPLAYERNAME%, 선구자시여, 도움의 대가로 +N2 MONEY를 드리겠습니다. 혹시 우리 함께 이 작품의 목적을 실현해 보시겠습니까?'"
+    },
+    {
+      "line": 1655,
+      "event": "fmkart",
+      "english_sha256": "d3d78a06248d2f4ead440336214be335b19c3b492a2ab10ad05c6101d6b0b445",
+      "ko": "잠깐, 억만장자가 %CURRENTPLAYERNAME%랑 그림을 둘이서 '한 팀'으로 박아 보자는 거야? 끝내주잖아!"
+    },
+    {
+      "line": 1657,
+      "event": "fmkart",
+      "english_sha256": "8501ba7247dbf2016c279a177d99854bacc9b895bf3057df72770ed49b1bdd96",
+      "ko": "억만장자는 미술관 직원에게 말하고, 직원들은 너희 둘과 그림을 '그림 섹스방'이라 불리는 검은 문으로 안내한다. 그래서 이런 방이 있었구나!"
+    },
+    {
+      "line": 1658,
+      "event": "fmkart",
+      "english_sha256": "f58dea7df48f697ab96a591ba8ebff2538da19fb5b5bc7dd21e6ee4845fe6114",
+      "ko": "이게 바로 부자의 삶인가 보다. 터무니없는 돈을 하찮은 물건에 쏟아붓고, 아름다움을 상품화하고, 미술관에서 이상한 섹스 짓을 하는 것."
+    },
+    {
+      "line": 1659,
+      "event": "fmkart",
+      "english_sha256": "0623e29edde31836d90ebc92a075ab1ce4ba92efe0c9efb2c30a6cd446a3b27f",
+      "ko": "확실히 기묘하지만, 너도 별별 야하고 이상한 일을 많이 겪어 봤잖아. 부자랑 그림을 상대로 몸을 부딪쳐 보는 건 어떨까?"
+    },
+    {
+      "line": 1660,
+      "event": "fmkart",
+      "english_sha256": "1d169d68ad8198a57eedb9fe934ab3d601ac2827204b6faad41f1a62b8acf7d3",
+      "ko": "의외로 꽤 재밌다. 다만 -N2 STAMINA를 잃는다."
+    },
+    {
+      "line": 1663,
+      "event": "fmkart",
+      "english_sha256": "d4129c53271eb9baec71aa6c739c390bfd63d2f48ba90bdfe7d146d0399fa82b",
+      "ko": "으, 왜 넌 항상 '결혼하기'를 고르는 거야? 제일 무난하잖아. 소울메이트와 평생 약속을 하는 게 뭐가 흥분되고 야하다는 거야?"
+    },
+    {
+      "line": 1664,
+      "event": "fmkart",
+      "english_sha256": "c9a4169401f1620631ed50170e2e5d2eb50318f19aff7a44d294f667c84f1655",
+      "ko": "사람들이 결혼하는 이유가 그거야? 난 멋진 하이픈 붙인 성을 얻으려고 하는 줄 알았는데."
+    },
+    {
+      "line": 1665,
+      "event": "fmkart",
+      "english_sha256": "82a94e494374a4877bc88c74f467334362cc5b17f28595f2c7a1cb992fe4193f",
+      "ko": "아니면 내기에서 졌기 때문이거나. 경험상 잘 알지..."
+    },
+    {
+      "line": 1666,
+      "event": "fmkart",
+      "english_sha256": "746ac7ece67df1fd7feb9781ff038a3ff67bc2e22f457644d979180b94d6d756",
+      "ko": "아니. 결혼은 유력 가문들이 부와 정치적 영향력을 서로 키우려고 시작한 제도야."
+    },
+    {
+      "line": 1667,
+      "event": "fmkart",
+      "english_sha256": "d6aba406402145201711b7f00b7f2f49e94409701da0f43459dce71eb85ab77e",
+      "ko": "난 결혼 제도의 자본주의적 본질에 항의하려고 요즘 결혼을 거부하고 있어."
+    },
+    {
+      "line": 1668,
+      "event": "fmkart",
+      "english_sha256": "1928be40f1a886092dd8f66ad2f577ea05baa3513979e5791ebf07ff92972220",
+      "ko": "그래. 바로 그 이유겠지."
+    },
+    {
+      "line": 1669,
+      "event": "fmkart",
+      "english_sha256": "72683baac7a05c4ef779b2eb6ea58e022e571c06a26df3d973bbcf29cd3a3d5b",
+      "ko": "'잠깐만요.' 억만장자가 말한다. '그럼 이 그림을 사는 대신 결혼하면 돈을 쓰는 게 아니라 부를 더 늘릴 수 있다는 말씀이신가요?'"
+    },
+    {
+      "line": 1670,
+      "event": "fmkart",
+      "english_sha256": "e3e7fcda172403f5f433344287c79bfc89ecc69a6f793138cf884a20ea9f47e0",
+      "ko": "음, 사실 전 그런 말은 전혀 안 했는데요."
+    },
+    {
+      "line": 1671,
+      "event": "fmkart",
+      "english_sha256": "db9d41697eed724af14a6d87ffd27bba88dc376bba4d1110f70c7b0bc15fb0e8",
+      "ko": "하지만 예술가 결혼식에 참석하는 건 늘 꿈이었으니, 말리지는 않을게."
+    },
+    {
+      "line": 1673,
+      "event": "fmkart",
+      "english_sha256": "b9120be64c209cb8dd025397d3dd2b3cd50839d8cc79134035fbe8d376814603",
+      "ko": "부자는 자문료로 +N2 MONEY를 주고, +1 WEDDING INVITATION도 건넨다! 야호!"
+    },
+    {
+      "line": 1674,
+      "event": "fmkart",
+      "english_sha256": "5045432e99afc3fdf8de6fd3cfc3189098546343a74016bfd6f2f6cdf256a277",
+      "ko": "하지만 안타깝게도 결혼식은 최악이다. 신랑 쪽은 거만한 부자 새끼들뿐이라 대화가 재미없다."
+    },
+    {
+      "line": 1675,
+      "event": "fmkart",
+      "english_sha256": "32fc6129c48ec19d6ca72b6b5572ffbcf4200122621de55e4f66b6ea5db3dac2",
+      "ko": "한편 신부 쪽은 다른 그림들뿐인데, 말을 전혀 못 한다."
+    },
+    {
+      "line": 1676,
+      "event": "fmkart",
+      "english_sha256": "11a14e9ea07c501ff4ef6ac7b7d7f644a6995210135af19536378beb0b32b27d",
+      "ko": "폴리 말이 맞았다. 세 가지 중 가장 무난한 선택을 한 대가다. -N2 HYPE를 만끽하자."
+    },
+    {
+      "line": 1679,
+      "event": "fmkart",
+      "english_sha256": "294ea1e2bac93c3f0242f04e16214abdb430b47fc75049a368a947b05769bb69",
+      "ko": "'네, 맞는 것 같군요. 이 작품은 아름답고 대체 불가능하죠. 부자로서 희귀하고 아름다운 걸 수집하는 건 당연히 좋아합니다.'"
+    },
+    {
+      "line": 1680,
+      "event": "fmkart",
+      "english_sha256": "9873c6d311091af1eea105d92f3efbf4641d2549d764ece8051fb611d1a83461",
+      "ko": "'하지만 저는 그냥 부자가 아니라, 존나게 부자입니다. 비싼 물건을 모으는 건 지겨워졌어요. 이제는 남들도 못 갖게 비싼 물건을 부숴 버리고 싶습니다!'"
+    },
+    {
+      "line": 1681,
+      "event": "fmkart",
+      "english_sha256": "47c954b06d93ef0b304669b49b28335e3449db606fcc9896038a4062d4e9731e",
+      "ko": "와! 억만장자는 별로 좋은 사람이 아닐지도 모른다는 생각이 들기 시작했어!"
+    },
+    {
+      "line": 1682,
+      "event": "fmkart",
+      "english_sha256": "9677fca7642a95a7a452d03d4fdd389e153277768b0be31e7dac1f31eef70ed4",
+      "ko": "억만장자는 자문료로 +N2 MONEY를 준다. 그러고는 칼을 꺼내 그림을 여러 차례 잔인하게 찌른다."
+    },
+    {
+      "line": 1683,
+      "event": "fmkart",
+      "english_sha256": "a2fd1963c34c8d84c2d539dcd6c9e4ce0f37d9593b8069085ca473f6ff79ed60",
+      "ko": "'그래! 이 그림을 망가뜨리니 좆나게 흥분되는 부자 전용 발기감이 드는군!'"
+    },
+    {
+      "line": 1686,
+      "event": "fmkart",
+      "english_sha256": "e459c838f400dce7cdc78b883ea58cd87f7a5259e51d26a8757dd7f1e9ff9a3e",
+      "ko": "미술관 큐레이터는 절망에 빠진다. 이 전시회는 값비싼 그림을 노숙 고아들에게 보내기 위한 모금 행사였다고 한다."
+    },
+    {
+      "line": 1687,
+      "event": "fmkart",
+      "english_sha256": "d5613e1802fa7d264e9680581fe9f7758cce6887fba4c614d295ad382f9b7152",
+      "ko": "좋아. 이제 수십 명의 굶주린 아이들이 이 귀중한 그림을 가질 기회를 잃겠군. %CURRENTPLAYERNAME%가 부자에게 그림을 망치게 했으니까."
+    },
+    {
+      "line": 1688,
+      "event": "fmkart",
+      "english_sha256": "ed19d9f18c86fef1f3b4d9c59507c04877e176ac0cca6c2c2496dab986ac4eb9",
+      "ko": "젠장, 이 속이 찝찝한 기분은 뭐지? 설마... 내가 한 짓의 결과?"
+    },
+    {
+      "line": 1689,
+      "event": "fmkart",
+      "english_sha256": "de5391cbe6684de3a268ee5cdebeae6351a802d1c6357beb3a164b910552bb72",
+      "ko": "멍청한 질문일지 모르지만, 굶주린 아이들에게 그림 말고 음식을 보내면 안 되나요?"
+    },
+    {
+      "line": 1690,
+      "event": "fmkart",
+      "english_sha256": "691875fd225aab23504f8c9044516354a30b03740ff0188926506c30a9f250c5",
+      "ko": "예술은 값을 매길 수 없고 영혼을 풍요롭게 해 주니까, 스콧! 영혼은 예술로 먹이는 거야! 밥 따위 누가 필요해?!"
+    },
+    {
+      "line": 1691,
+      "event": "fmkart",
+      "english_sha256": "438d7509947d2f11e960cb073ee5acd56599d73c5310beb80a15572ed745f768",
+      "ko": "가난한 아이가 비싼 그림을 바라볼 유일한 기회를 망쳤으니, 네 영혼도 좀 풍요롭게 해 봐. -N2 SOUL을 잃는다. 부끄러운 줄 알아!"
+    },
+    {
+      "line": 1699,
+      "event": "prankliam",
+      "english_sha256": "4fd2f82e778469eeb4acab0baf9d439c6839711534f64ab5683cba8a05da9d78",
+      "ko": "작가와의 질의응답 참석하기"
+    },
+    {
+      "line": 1705,
+      "event": "prankliam",
+      "english_sha256": "03171505f10448f3ce737fca9d0aa19c8d820779ad3d9f5874ccff9cc8527c59",
+      "ko": "패널 토론은 재밌지! 오늘 질의응답을 진행하는 작가들을 확인하던 중, 뜻밖에도..."
+    },
+    {
+      "line": 1707,
+      "event": "prankliam",
+      "english_sha256": "cf49b026a8118977273645f68f20af003baf76f9e3867f893fa87a41cf23268b",
+      "ko": "맞아, 바로 나야. 네 친구이자 무심한 뱀파이어, 리암."
+    },
+    {
+      "line": 1708,
+      "event": "prankliam",
+      "english_sha256": "39091a8dbb7bc0fdc23c6835f3fbc32cd8a2002b6814b6f398a295b8bad24777",
+      "ko": "이제는 무심한 뱀파이어이자 명성 높은 예술가이기도 하지. 뱀파이어인 나와 예술가인 나는 영원히 결혼한 사이니까!"
+    },
+    {
+      "line": 1709,
+      "event": "prankliam",
+      "english_sha256": "14ccb143a90b46e5fe61f55632eb9c3312694e1fbb0805ade2227523354fed4b",
+      "ko": "와, 미술관에 작품도 걸고 관객 앞에서 짜증 나게 굴 수도 있다니? 올해는 리암의 해가 틀림없네!"
+    },
+    {
+      "line": 1710,
+      "event": "prankliam",
+      "english_sha256": "3c18482a926c7c71298e931fa9738f44f8932488c09f5e3aa2c108b81a998ee1",
+      "ko": "그래도 긴장되진 않아? 그러니까... 많은 사람 앞에서 말하는 거 말이야."
+    },
+    {
+      "line": 1711,
+      "event": "prankliam",
+      "english_sha256": "3ef3078a7f859285b197f942ef89ea8b6f1960799c581756503dfdb9047a6974",
+      "ko": "농담해? 난 수십 년 동안 웅변 기술과 화법을 갈고닦았다고!"
+    },
+    {
+      "line": 1712,
+      "event": "prankliam",
+      "english_sha256": "82f4c14178ab535a86f270707669850b582482f1c2439a6d6194951b5f4b9966",
+      "ko": "치명적인 두운법부터 승리감 넘치는 안티스트로페까지 전부 마스터했지!"
+    },
+    {
+      "line": 1713,
+      "event": "prankliam",
+      "english_sha256": "450c6b08f0fb3c1c95d17b29a1faf3e5f833314c5ce4712bc225b5c2be944487",
+      "ko": "그리고 비언어적 소통의 요령도 익혔어. 말하는 도중 발표 자료를 절대 돌아보지 않는 것 같은 거지."
+    },
+    {
+      "line": 1714,
+      "event": "prankliam",
+      "english_sha256": "397fc202f73d448754ca4efc1ae06b6a09bd3883a9d5396faed7ca1b05535e01",
+      "ko": "그럼 준비 안 됐거나 애처럼 보이거든. 예술 평론가들은 자비가 없어서, 약한 모습을 보이며 등을 보이면 열 배로 찔러 댈 거야!"
+    },
+    {
+      "line": 1715,
+      "event": "prankliam",
+      "english_sha256": "675393f699676560e24bf8210c792c08d22d1529d5e28dba8e8695f2db61ab39",
+      "ko": "아무튼 음향 점검을 하러 발표실에 가야겠어. 끝나고 만나서 커피 마시며 모르는 사람들 평가나 하자."
+    },
+    {
+      "line": 1717,
+      "event": "prankliam",
+      "english_sha256": "774de07a9aaf997c1f42f7e59eeec3674d02a859a5fad909b7e2aa208928f4b5",
+      "ko": "리암은 휙 가 버린다. 너는 발표 전에 팝콘을 사러 갔다가 자리에 앉으며 폴리와 스콧을 다시 만난다."
+    },
+    {
+      "line": 1718,
+      "event": "prankliam",
+      "english_sha256": "5c7aa48e743ba1479f8bc1f0a16d34755b78c5145be211cc179713cfa308713d",
+      "ko": "둘은 서로를 보며 계속 낄낄댄다. 수상한데..."
+    },
+    {
+      "line": 1720,
+      "event": "prankliam",
+      "english_sha256": "eec6ef9ea7f474337133466ea34a6af2efeca025a9db0e64f252b124da5568ff",
+      "ko": "예술 애호가 여러분, 반갑습니다. 질의응답에 와 주셔서 감사합니다. 시작하기 전에 제 작품의 배경부터 설명하겠습니다."
+    },
+    {
+      "line": 1723,
+      "event": "prankliam",
+      "english_sha256": "9a64d115f02fccdc56f53331592f47abd65f99231b1b1889c90c2ca06a51e39e",
+      "ko": "제 그림 제목은 '생각글에 대한 생각글'입니다. 타깃 광고의 위험성에서 영감을 받은 포스트모던 추상 아크릴화죠."
+    },
+    {
+      "line": 1725,
+      "event": "prankliam",
+      "english_sha256": "64bcc89f04ac4892799bc5afcb6f268089ecdae97d6719e7b53b041a69a3741f",
+      "ko": "하하하! 작품 바꿔치기라니, 고전적인 장난이지! 친구를 놀려 -N2 SOUL을 잃을 만한 가치가 있었어!"
+    },
+    {
+      "line": 1727,
+      "event": "prankliam",
+      "english_sha256": "01caa51cb7c8cfb4a3af482f5bd52d7527857267a87a87ab9351838c87baccc8",
+      "ko": "리암은 그 낙서를 앞에 두고 연설을 끝까지 한다. 방 안의 누구도 눈 하나 깜짝하지 않는다. 뭐든 '현대 미술'이라고 믿게 만들 수 있긴 한가 봐."
+    },
+    {
+      "line": 1728,
+      "event": "prankliam",
+      "english_sha256": "62556f68b1a10f6b06c9419a9f6956c1ac7b3ed467a0981c905a9014c4c5d217",
+      "ko": "이제 질문을 받겠습니다. 어떤 질문이든 사양하지 않고 답하겠습니다!"
+    },
+    {
+      "line": 1730,
+      "event": "prankliam",
+      "english_sha256": "add67240646874f926f23bc9f548a91b126104358e23791989253fd8f58c6e97",
+      "ko": "쉿—우리 장난은 끝났어, %CURRENTPLAYERNAME%. 이제 네 차례야. 리암을 당황하게 할 웃긴 질문을 해 봐!"
+    },
+    {
+      "line": 1731,
+      "event": "prankliam",
+      "english_sha256": "7352f8a5f6941545526d432c1026ebaec01b7b813f453ae7a9e65346135f2c93",
+      "ko": "작품 바꿔치기 장난만큼 강력하진 않겠지만, 자, 여기..."
+    },
+    {
+      "line": 1732,
+      "event": "prankliam",
+      "english_sha256": "caaf0667b6bf55d7f4e95d39ea08074f4834a8840f9c8ae931da5a06255acbde",
+      "ko": "'잭슨 폴록이랑 빈센트 반 고흐 중 누구랑 하고 싶으세요?'"
+    },
+    {
+      "line": 1733,
+      "event": "prankliam",
+      "english_sha256": "3bbd0668f2348eac1e9e29c78066ff2f4fa923c9a3e6a7859f0bb8f459850182",
+      "ko": "'내가 지금 생각하는 숫자는?'"
+    },
+    {
+      "line": 1736,
+      "event": "prankliam",
+      "english_sha256": "31240c7c35b15cf3bac8dd20233f00f12047d7392cd2bc5c891b389bd2179e85",
+      "ko": "어... 제 작품과 실제로 관련 있는 질문은 없나요?"
+    },
+    {
+      "line": 1738,
+      "event": "prankliam",
+      "english_sha256": "2facf6a34f38ee1e17da8c5bde075f1f5f115913f967782023cb090b6d154cc3",
+      "ko": "왜 질문을 피하는 거야? 폴록이나 반 고흐랑 하는 게 싫어? 예술가도 성욕이 있는 사람이거든!"
+    },
+    {
+      "line": 1740,
+      "event": "prankliam",
+      "english_sha256": "1b8a8faa441963459bc578010c5d0a0448af113838635e469c0660b3f21b3bcc",
+      "ko": "나도 알아! 하지만 내 작품의 메시지에 담긴 미묘함을 색채로 어떻게 표현했는지 같은 질문은 없나?"
+    },
+    {
+      "line": 1741,
+      "event": "prankliam",
+      "english_sha256": "913eb27ef0361e2017d85847a1da2096c6a0fefe9010f798a93699a4ae1bcf97",
+      "ko": "'드 리옹쿠르 씨, 폴록은 매력적인 미소를 지녔지만 반 고흐는 더 좋은 차를 몬다고 해 보죠. 그럼 누구와 잘지 결정하는 데 어떤 영향을 미칠까요?' 한 평론가가 묻는다."
+    },
+    {
+      "line": 1742,
+      "event": "prankliam",
+      "english_sha256": "bc164e409854f12783b2376e379bcc5c43dbb2ce7cfe63453f1eca29bb99319e",
+      "ko": "아니면 내 독창적인 붓질 기법에 관해 물어봐도 좋고! 몇 시간이고 이야기할 수 있어!"
+    },
+    {
+      "line": 1743,
+      "event": "prankliam",
+      "english_sha256": "41ce3266188686b22dbd816bc619ad31b835ea1d2862b3176fac3828ea025bdb",
+      "ko": "'내가 리암이라면 반 고흐랑 할래.' 한 예술 평론가가 다른 평론가에게 속삭인다. '여자친구한테 주려고 자기 귀를 잘랐잖아. 난 그런 괴짜 짓이 좋더라!'"
+    },
+    {
+      "line": 1744,
+      "event": "prankliam",
+      "english_sha256": "47d6de3e35f2179c99a586c93f7051015144c381b0d702afa9da7cbfa3c407af",
+      "ko": "'진심이야? 난 언제든 폴록이지. 무슨 뜻인지 알지? 지저분해지는 걸 두려워하지 않았잖아.'"
+    },
+    {
+      "line": 1745,
+      "event": "prankliam",
+      "english_sha256": "6b9c2d3e42195a5f709066456833597c0b18ec78539ce3851b3a7e8c0151c779",
+      "ko": "좋아! 다들 그 얘길 놓아주질 않으니... 폴록이랑 하겠어."
+    },
+    {
+      "line": 1746,
+      "event": "prankliam",
+      "english_sha256": "5e6fd3c543572d28850b6b53bc05be25e7c2c8b4882208b8d0f791222470b4b6",
+      "ko": "사실 30년대에 그와 진짜로 잤고, 점수는 6/10 정도야. 대공황 시절에 할 수 있는 섹스치곤 최고였지."
+    },
+    {
+      "line": 1747,
+      "event": "prankliam",
+      "english_sha256": "a31533c4bb3aac569bb16ca6f235fa813c0c661536a2836799e92ce48e95e8b3",
+      "ko": "그 기억까지 끄집어냈으니, 이제 내 작품 얘기로 돌아가면 안 되겠나?"
+    },
+    {
+      "line": 1748,
+      "event": "prankliam",
+      "english_sha256": "438dce45d57463ed9bfc87ad69a1ce6d28a94ef76bed91a4d7a9cacd2cf1cf40",
+      "ko": "절대 안 되지. 예술 평론가들은 이 흥미진진한 미술사 뒷얘기에 완전히 뒤집어진다. 전시회 최고의 화제가 됐다."
+    },
+    {
+      "line": 1750,
+      "event": "prankliam",
+      "english_sha256": "b982813190b8f2a74443140ab5aac15aef04ea47eb8e4cb7795a1875f70583db",
+      "ko": "봐, #deLionlock이 벌써 예술 트위터에서 실시간 인기야! 훌륭한 장난이었어, %CURRENTPLAYERNAME%. 적어도 +N2 HYPE는 받을 만해!"
+    },
+    {
+      "line": 1751,
+      "event": "prankliam",
+      "english_sha256": "244a40422caf852fc53fdeb32757adb976406238910341d2a062a159cff273ac",
+      "ko": "리암도 질의응답을 훨씬 재밌게 만들어 줘서 고마워하겠지! 팀워크가 훌륭했어!"
+    },
+    {
+      "line": 1753,
+      "event": "prankliam",
+      "english_sha256": "40b30cf085966b551ef4d17b258030288dd6906a489c9607efc1d8261e2ba28c",
+      "ko": "놀랍게도 난 너희에게 전혀 고맙지 않거든. 으, 그래도 아름다운 그림이 날 위로해 주겠지..."
+    },
+    {
+      "line": 1755,
+      "event": "prankliam",
+      "english_sha256": "b75466a292a14f216534856578cf3f450e593021f0bc7e9f2373ff820ba5c897",
+      "ko": "잠깐... 뭐라고?! 이건 내 그림이 아니잖아! 너희 대체 무슨 짓을 한 거야?!"
+    },
+    {
+      "line": 1758,
+      "event": "prankliam",
+      "english_sha256": "b2a2e19d496eefe269a65a331a44bb89894796801f786f02908a7ab84c27051e",
+      "ko": "어... 색채를 파격적으로 쓴 방식이나 독특한 붓질 기법처럼, 내 작품과 실제로 관련 있는 질문은 없나요?"
+    },
+    {
+      "line": 1760,
+      "event": "prankliam",
+      "english_sha256": "56768e61d63eaac0b2a0e4391ad229bff9b538d2ef7ec6189f7a7c2fcca1e67a",
+      "ko": "왜 질문을 피하는 거야? 뭐든 답하겠다고 했잖아."
+    },
+    {
+      "line": 1761,
+      "event": "prankliam",
+      "english_sha256": "efa5491d3cb64fb5aeec5bbe1dd31e494773a62b14ce65f58de309a8bec0c8ff",
+      "ko": "진정한 예술가가 아닌가 보네?"
+    },
+    {
+      "line": 1762,
+      "event": "prankliam",
+      "english_sha256": "317927d5e9c103b6e24a6df769ee511a1a84486c7d75e43b6c0e96b301b8ae52",
+      "ko": "'저분 말도 일리가 있네요.' 관객 한 명이 말한다. '마크 로스코를 만난 적 있는데, 누가 생각하는 숫자든 정확히 맞히더라고요.'"
+    },
+    {
+      "line": 1763,
+      "event": "prankliam",
+      "english_sha256": "0f286132e93b93bdc9da173816b0134bff71349dca065a9069e5e1d0cd7ad791",
+      "ko": "'맞아요. 훌륭한 예술가라면 상대가 생각하는 숫자를 늘 맞힐 수 있죠.' 다른 사람이 맞장구친다. '분명 직접적인 상관관계가 있어요.'"
+    },
+    {
+      "line": 1765,
+      "event": "prankliam",
+      "english_sha256": "d22ea17d947fa1b18fdb5cb5582834280796d4e145a0884ea80391fec787640a",
+      "ko": "좋아! 그게 그렇게 중요하다면, 그 빌어먹을 숫자를 맞혀 주지!"
+    },
+    {
+      "line": 1766,
+      "event": "prankliam",
+      "english_sha256": "92eedb19053ab8c896fd97b77aba1d82eef46cbce27c880212272eeab67edc65",
+      "ko": "리암은 네 눈을 깊이 들여다본다. 설마... 뱀파이어의 마안?! +N2 MAGIC이 몸속을 흐르는 게 느껴진다!"
+    },
+    {
+      "line": 1767,
+      "event": "prankliam",
+      "english_sha256": "e87099028a30225fa34114c762ebba0254167e2404736ed2a85ffb5956e7e662",
+      "ko": "리암은 네 안팎을 샅샅이 살핀다... 그리고 한숨을 쉬며 콧등을 집는다."
+    },
+    {
+      "line": 1768,
+      "event": "prankliam",
+      "english_sha256": "6fa5db4460b473e078053e7781de14678bef7c67b691fa2d24d980613ca3a5f2",
+      "ko": "씨발, 믿을 수가 없군. %CURRENTPLAYERNAME%가 생각하는 숫자는 69야."
+    },
+    {
+      "line": 1770,
+      "event": "prankliam",
+      "english_sha256": "21ada676afe46c144a90872b713e80f0179167cb2a4a1cc6087e5e27c7ee9cbd",
+      "ko": "하하, 좋았어!"
+    },
+    {
+      "line": 1771,
+      "event": "prankliam",
+      "english_sha256": "3d80b9048fbb24e54be4a04ebd97dc16e56ed5440714faa5fd59164db023ce58",
+      "ko": "폴리가 너와 하이파이브한다."
+    },
+    {
+      "line": 1773,
+      "event": "prankliam",
+      "english_sha256": "0338704160afdf71ae945f4fef07c9440c8b1e645de4dc1bf3d80ed1eff661d2",
+      "ko": "예술 평론가들이 완전히 뒤집어진다. '정말 맞혔어! 역시 진짜 예술가였어!'"
+    },
+    {
+      "line": 1774,
+      "event": "prankliam",
+      "english_sha256": "557456ebf08eb072dea036e8464af52805084da26e86197581773dbaa9acb809",
+      "ko": "내 진짜 작품으로도 증명할 수 있었어! %CURRENTPLAYERNAME%가 내 귀한 질의응답을 저질스러운 농담판으로 만들 필요는 없었잖아!"
+    },
+    {
+      "line": 1776,
+      "event": "prankliam",
+      "english_sha256": "d14a57dbbe35898f6e5d7ec85cc7fe4b9cae4c5e4fc172537677e16f62e55316",
+      "ko": "69는 그냥 농담이 아니야! 인간의 성욕을 육체적으로 증명하는, 서로 동의한 성인 2명이 서로에게 구강 성교를 하는 모습을 예술적으로 묘사한 시대를 초월한 상형문자라고."
+    },
+    {
+      "line": 1777,
+      "event": "prankliam",
+      "english_sha256": "ef846d7297ec242257c7126ed0b6cbf4809d9c3e0571bf909f5a438c5fb48651",
+      "ko": "'저분 말이 맞아요!' 다른 평론가가 말한다. '전엔 몰랐는데 숫자 69가 두 사람이 구강 성교를 하는 모습처럼 보이네요. 정말 재밌는 발견이에요!'"
+    },
+    {
+      "line": 1779,
+      "event": "prankliam",
+      "english_sha256": "a34f2f1b5da5111fa942e72ebd2620039643778e3120b5e069aad4191bc528fa",
+      "ko": "으, 너희 정말 최악이야. 그래도 아름다운 작품이 날 위로해 주겠지..."
+    },
+    {
+      "line": 1781,
+      "event": "prankliam",
+      "english_sha256": "b75466a292a14f216534856578cf3f450e593021f0bc7e9f2373ff820ba5c897",
+      "ko": "잠깐... 뭐라고?! 이건 내 그림이 아니잖아! 너희 대체 무슨 짓을 한 거야?!"
+    },
+    {
+      "line": 1789,
+      "event": "lakesafety",
+      "english_sha256": "112ff41cd69bd51d574aea8c065179c049fed3a1da12eb4ca59f4ff4f5d26ab8",
+      "ko": "수영하러 가기"
+    },
+    {
+      "line": 1794,
+      "event": "lakesafety",
+      "english_sha256": "fe503ad88eefcef6939c68e19d891848851c2fe6f8b84b4be5f254126d698c54",
+      "ko": "물에 들어가려는 순간, 큰 호루라기 소리가 너를 멈춰 세운다. 인명 구조원들이다!"
+    },
+    {
+      "line": 1799,
+      "event": "lakesafety",
+      "english_sha256": "9a7f39a088afce24031ce8adc2828d81160a7677f3a4f5e2f709f14829a657dd",
+      "ko": "이야아, 오랜만이네! 여기 호수엔 어쩐 일이야?"
+    },
+    {
+      "line": 1800,
+      "event": "lakesafety",
+      "english_sha256": "a5c697544f2eb56f2e78a37cb24611192cd1c240412233f87a9b1dd192bf9197",
+      "ko": "수영하러 왔어! 호수에서 수영할 수 있지?"
+    },
+    {
+      "line": 1801,
+      "event": "lakesafety",
+      "english_sha256": "8faeb343335b24f6355cf75f7edd5f99f917796b5be3edf86dd84575f51f7f8e",
+      "ko": "당연하지, 친구. 하지만 안전하게 수영하는 법을 알아야 해."
+    },
+    {
+      "line": 1802,
+      "event": "lakesafety",
+      "english_sha256": "92754d0e86aa2c1e60e144407c6400b38e0a46be80d7f077d4dfb618fc73c014",
+      "ko": "좋아, 어떻게 하는데?"
+    },
+    {
+      "line": 1803,
+      "event": "lakesafety",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 1804,
+      "event": "lakesafety",
+      "english_sha256": "ab0a7e29c7e41b82a09c1817b5aea7dca8edd0abca2570739a9789209f1c44c3",
+      "ko": "어..."
+    },
+    {
+      "line": 1805,
+      "event": "lakesafety",
+      "english_sha256": "c040bedf2b65056549792b7e09f8be2ba62b7a483ff5dab789458abe6affecaf",
+      "ko": "젠장, 완전히 까먹었네. 누구 아이디어 있는 사람?"
+    },
+    {
+      "line": 1806,
+      "event": "lakesafety",
+      "english_sha256": "f6ddda3b5a8fa027d901ef7ec2d9dab5c794e8968c3da769b39fd41c5de9dc2d",
+      "ko": "음... 들어가기 전에 먹으면 안 되고... 팔과 다리를 움직이고... 금속이나 돌처럼 몸을 가라앉힐 무거운 건 입지 말아야 해..."
+    },
+    {
+      "line": 1807,
+      "event": "lakesafety",
+      "english_sha256": "4ed7ce5e152a8d60562af12eca5d528ce2e75ba2798241d40f4414df730cb9eb",
+      "ko": "아, 젠장, 난 몸이 돌로 돼 있잖아! 지난번에 인명 구조원 일에서 잘린 것도 그 때문일까?"
+    },
+    {
+      "line": 1808,
+      "event": "lakesafety",
+      "english_sha256": "4f298c49e33c26032894da89bc08f0ab1d32d9f095c6444fe37f3fcb527d492f",
+      "ko": "그럴 만하네. 나도 그 때문에 잘렸겠군. 평소에도 꽤 '돌에 취해' 있거든."
+    },
+    {
+      "line": 1809,
+      "event": "lakesafety",
+      "english_sha256": "ccf3d3490504da65f22ccec9bafdd53b7e2597273d91bf9587ab7dcb1b0c3417",
+      "ko": "그래도 너희는 돌이나 금속으로 된 몸이 아니니까 안전할 거야. 아마도. 즐겁게 놀다 와!"
+    },
+    {
+      "line": 1810,
+      "event": "lakesafety",
+      "english_sha256": "be0003397d209a877e91c6dc1c6b648b4cc24695bff92615a9336138eb9e3797",
+      "ko": "정말 그게 다야? 아직 안전하게 수영하는 법은 하나도 안 알려 줬잖아..."
+    },
+    {
+      "line": 1811,
+      "event": "lakesafety",
+      "english_sha256": "0e9e9fb33f1bbb11b5da766d7a27139991569096b82514568445a89bca1eb293",
+      "ko": "음, 그 말도 맞네. 불안하면 구조원 가방에 수영에 도움이 될 만한 게 있을 거야."
+    },
+    {
+      "line": 1812,
+      "event": "lakesafety",
+      "english_sha256": "de326a06a0051e03282c926c64141a1371aab516a0fe0be43b8d80f8a4ffabb6",
+      "ko": "그런데 이 안에는 쓸데없는 잡동사니도 잔뜩 있어. 여기서 수영에 도움 될 만한 게 있나, %CURRENTPLAYERNAME%?"
+    },
+    {
+      "line": 1815,
+      "event": "lakesafety",
+      "english_sha256": "a0106cd01fffb3e9c064611aa7cf30e9aecd879e1b9b4b88252da06d8dc93d62",
+      "ko": "아주 작고 혹독한 수영 강사. 귀여운 외모만큼이나 매섭다."
+    },
+    {
+      "line": 1816,
+      "event": "lakesafety",
+      "english_sha256": "e0c6782aaf6c9fa5eefb14986366e583f9a4a28312a0154535924fbb174ffddd",
+      "ko": "혹시 모르니 생명보험."
+    },
+    {
+      "line": 1817,
+      "event": "lakesafety",
+      "english_sha256": "765c72507a0b154f4222aba19b939911d1a9a98a5f1aea42a812699096f12374",
+      "ko": "금지된 부유 주문을 쓸 수 있게 해 주는 밝고 신비로운 암밴드 한 쌍."
+    },
+    {
+      "line": 1821,
+      "event": "lakesafety",
+      "english_sha256": "675868dbbee34f220c6cb99bec2e5b77d685052fbc81faf2c28f21345532c145",
+      "ko": "아아, 귀여워라! 조그만 수달이 얼마나 무섭겠어?"
+    },
+    {
+      "line": 1822,
+      "event": "lakesafety",
+      "english_sha256": "910bea918105a3de829034e3d5c0cbd5d2528a219f99dabb7826f008a7375fef",
+      "ko": "'내가 귀엽다고 혹독해질 수 없을 줄 알아?!' 강사가 으르렁거린다. '난 여러 면모를 지닌 존재라고, 신참! 내가 얼마나 강한지 보여 주마!'"
+    },
+    {
+      "line": 1823,
+      "event": "lakesafety",
+      "english_sha256": "710e7245f9814f2490292effd934fda271c5811c66d3d637577b9f1ea1ba94c4",
+      "ko": "수영 수업은 혹독하다. 발차기, 물장구, 잠수, 사범의 차 세차, 감자 껍질 벗기기까지..."
+    },
+    {
+      "line": 1824,
+      "event": "lakesafety",
+      "english_sha256": "c1d21e8d47d78ba5376ac84f4a91d19ebffc3c6678a1b65ebeed09c098c929e8",
+      "ko": "이런 말 하긴 좀 그렇지만, 점심 준비가 수영에 무슨 도움이 되는지 모르겠는데."
+    },
+    {
+      "line": 1825,
+      "event": "lakesafety",
+      "english_sha256": "471c577a8d86c164586355068d9ad60a19d4e0ee2a36ab6191fe55361428a5ce",
+      "ko": "'신참, 토 달지 마! 감자 껍질 벗기기는 물속에서 몸을 단련하는 최고의 방법이다!'"
+    },
+    {
+      "line": 1826,
+      "event": "lakesafety",
+      "english_sha256": "37b80ef58236901a912ea4309a2fa8295270ed416703d868496b47a53c4002ae",
+      "ko": "'반복해서 껍질을 벗기면 손바닥과 손가락뼈가 단련돼서 가장 거센 역류도 헤치고 나갈 수 있지!'"
+    },
+    {
+      "line": 1827,
+      "event": "lakesafety",
+      "english_sha256": "ce17f33e334d241eb9c21707317a1c39c93203fd2984b7c672d063c7b210476e",
+      "ko": "그렇다 쳐도, 차 세차는요? 그건 수영에 어떻게 도움이 되죠?"
+    },
+    {
+      "line": 1828,
+      "event": "lakesafety",
+      "english_sha256": "a5e516cc9ef3b82700342b820e2aeba1215bf3e906851e6d04da1656512c325d",
+      "ko": "'음... 좋아, 사실 그건 그냥 너희를 부려 먹은 거야.'"
+    },
+    {
+      "line": 1829,
+      "event": "lakesafety",
+      "english_sha256": "8234de82393ee54ce8a7b6b382bef90c9503a1d902f623e68b5c5fe2e654c80b",
+      "ko": "'하지만 키가 두 피트밖에 안 되는 내가 네 더러운 차를 세차하는 게 얼마나 힘든지 알아?!'"
+    },
+    {
+      "line": 1830,
+      "event": "lakesafety",
+      "english_sha256": "5efa7870aef7051f3df70a770c7943a626141a089a45a3197ae93d3d500f9144",
+      "ko": "훈련 때문에 -N2 STAMINA를 잃지만, 막상 수영을 시작하니 엄청 쉽다!"
+    },
+    {
+      "line": 1831,
+      "event": "lakesafety",
+      "english_sha256": "d2d2ba0c102e216a2af500e65a7d35ac5a802f735ff82c994239b88ef797e788",
+      "ko": "감자 껍질 벗기기가 수영과 이렇게 비슷한 줄 누가 알았겠어? 아무도 모르겠지. 말도 안 되지만, 어쨌든 잘됐네!"
+    },
+    {
+      "line": 1832,
+      "event": "lakesafety",
+      "english_sha256": "7489e6d8f3def9328be5c8b695ab8adc09e47be1d7def897ba3f3daa4dbf5f93",
+      "ko": "'훌륭하다, 제자들이여!' 강사가 말한다. '이 한심한 녀석들을 훌륭한 수영 선수로 길러 냈으니, 이제 안심하고 은퇴할 수 있겠구나!'"
+    },
+    {
+      "line": 1833,
+      "event": "lakesafety",
+      "english_sha256": "88d7ee62a146f49a9c96e8f4640073875776c5c119d99b09ef219b322d8dc682",
+      "ko": "정말 고마워, 꼬마야. 낮잠 자러 여행용 우리에 넣기 전에 간식 먹을래?"
+    },
+    {
+      "line": 1834,
+      "event": "lakesafety",
+      "english_sha256": "991316aeca20c81c97c3dd38405a8dcbefcd525827336339c17cb7c0fe89132e",
+      "ko": "'예! 잠자리에 들기 전에 따뜻한 우유 한 컵과 자장 이야기를 들려주십시오.'"
+    },
+    {
+      "line": 1835,
+      "event": "lakesafety",
+      "english_sha256": "e39a880333b4fc9c48242c055bc247465a74ff36692a99c0b1b1649820b83641",
+      "ko": "알았어. 강사를 재워 주고 호수에서 수영하며 +N2 HYPE를 얻는다!"
+    },
+    {
+      "line": 1839,
+      "event": "lakesafety",
+      "english_sha256": "8ec72c8a5ca5e2cd4f30cdf624220910773cd8395b908307237d86b2a7f17a84",
+      "ko": "맞아. 수영은 꽤 위험할 수 있으니 물에 뛰어들기 전에 생명보험을 준비해 두는 게 현명하지."
+    },
+    {
+      "line": 1840,
+      "event": "lakesafety",
+      "english_sha256": "1a92ba6f479599d8f6ac6c0b1e65a9309bcfff4cc3e3bea10b76cd7c4d0b662b",
+      "ko": "인명 구조원들의 생명보험 약관을 살펴본다. '수영 중 마주칠 수 있는 모든 위험'을 보장한다고 적혀 있다..."
+    },
+    {
+      "line": 1841,
+      "event": "lakesafety",
+      "english_sha256": "f1f63ea3c42feba16feed8de4d6f7065e5220737723fd6313e888909323ec32c",
+      "ko": "...그런데 익사는 보장 안 된다고?"
+    },
+    {
+      "line": 1842,
+      "event": "lakesafety",
+      "english_sha256": "77e8424cc1821bc9a07aca9478d6b2e80b3c990a19961f60298f99199f7601ff",
+      "ko": "그렇지. 모든 걸 다 가질 순 없잖아. 그래도 이 보험은 수영 중 일어날 수 있는 다른 치명적인 상황은 많이 보장해."
+    },
+    {
+      "line": 1843,
+      "event": "lakesafety",
+      "english_sha256": "b1d886a4ea1d22243712ddd5ec7c0400706f1ba2ccba6edfc678e065179fc36e",
+      "ko": "예를 들면 업무 관련 수영 사고로 죽는 경우!"
+    },
+    {
+      "line": 1844,
+      "event": "lakesafety",
+      "english_sha256": "0a4243db454b2607a912aa6440c874205b59025be9d64281e62dc3c7ba1e4e8c",
+      "ko": "물곰한테 죽는 경우도 있지. 그건 정말 최악일 거야."
+    },
+    {
+      "line": 1845,
+      "event": "lakesafety",
+      "english_sha256": "6c2d0589dccd6e57163bbbb56274dfc1a67de9a7366830f585961dbdc3ccc064",
+      "ko": "물곰은 어차피 현미경으로 봐야 할 정도로 작잖아?"
+    },
+    {
+      "line": 1846,
+      "event": "lakesafety",
+      "english_sha256": "a7360670657b5ff6a37c711a9ec5cfb60a50154319b7935946c0173451cdde93",
+      "ko": "그래도 호수에 수백만 마리가 살고 있다고. 우린 수적으로 완전히 밀려!"
+    },
+    {
+      "line": 1847,
+      "event": "lakesafety",
+      "english_sha256": "5822493edcbc992dfe8bd78fac56f1ab03380771aa9d5a0d66dcb10d43a73e79",
+      "ko": "맞아. 물곰 백만 마리 대 %CURRENTPLAYERNAME% 한 명? 네가 이길 거라곤 생각 안 해."
+    },
+    {
+      "line": 1848,
+      "event": "lakesafety",
+      "english_sha256": "2d6bbd051c728c1c887fdf74d400e538257e7c8fb3ae7cafead8a2579dcf745d",
+      "ko": "그런데 왜 '화재로 인한 사망'이 이 보험에 보장돼?"
+    },
+    {
+      "line": 1849,
+      "event": "lakesafety",
+      "english_sha256": "efee062914dae30e94e6763460f42b68c9aef0981d35b912232634b7c03baade",
+      "ko": "친구, 산 채로 불타는 게 얼마나 위험한지도 모른다면 널 수영하게 두는 게 무책임한 일 아닐까..."
+    },
+    {
+      "line": 1850,
+      "event": "lakesafety",
+      "english_sha256": "0b5bae80912cef83ee9524b108fc07454549aa546a5c6e958b73be79d7e53a26",
+      "ko": "어서, %CURRENTPLAYERNAME%. 너무 깊게 생각하지 마. 수영하기 전에 추가 안전조치를 취하면 폴리와 내가 훨씬 안심할 수 있을 거야."
+    },
+    {
+      "line": 1851,
+      "event": "lakesafety",
+      "english_sha256": "b7ffdf1a315dbaca1e7ae1ecf03507fc0511f7397acdc94a2b33acadc8ad8a17",
+      "ko": "좋지. 네 장례식에서 부를 스트리퍼도 이미 골라 놨으니, 일이 잘못되면 보험금이 필요할 거야."
+    },
+    {
+      "line": 1852,
+      "event": "lakesafety",
+      "english_sha256": "ba1942fe6e961a6ef285e12aaed9ac99c824067e85726eda5ee16875d8167412",
+      "ko": "좋아, 그렇게 중요하다면야. 말도 안 되는 생명보험을 사느라 -N2 MONEY를 잃는다."
+    },
+    {
+      "line": 1853,
+      "event": "lakesafety",
+      "english_sha256": "3ddf727ff6461525139c33c030803eed66e7698bc1e963c711ec76ba9e334e80",
+      "ko": "좋은 소식은 호수에서 멋진 하루를 보내게 된다는 거야! 물곰이나 호수 화재로 죽는 사람도 없고, +N2 HYPE를 얻는다."
+    },
+    {
+      "line": 1857,
+      "event": "lakesafety",
+      "english_sha256": "006d3358e1ac0eab7b502d2f04625bd8a7791b786c53ae3234b4d7d62ff5369e",
+      "ko": "와, 대단한데. 부양의 비전 암밴드는 엄청 강력한 마법 아이템이야."
+    },
+    {
+      "line": 1858,
+      "event": "lakesafety",
+      "english_sha256": "e2daa9a0ce6f774fd784800befa56aee21379e2e55f40d3e00698b3ee655e7ea",
+      "ko": "정말? 그냥 평범한 물놀이용 튜브처럼 보이는데."
+    },
+    {
+      "line": 1859,
+      "event": "lakesafety",
+      "english_sha256": "beea31fbd9cd5a78fde1c0dd89ae4b69f70353a9d3dbb878d43686539a4c7288",
+      "ko": "그건 네게 '마법의 손길'이 없어서 그래. 완다랑 나는 Fill It에 사는 마법사한테서 받았어."
+    },
+    {
+      "line": 1860,
+      "event": "lakesafety",
+      "english_sha256": "8b72dce5d1657e90b2f15a3a8d6bd2f4cb35fc4bb8cf6c3a8c3e240f9ed92905",
+      "ko": "Fill It... 주유소 말이야?"
+    },
+    {
+      "line": 1861,
+      "event": "lakesafety",
+      "english_sha256": "cfdaa751a650b0a690684de7d902f05dafde564715cffc03a5e7bae1e99f00e5",
+      "ko": "그건 그들이 네게 믿게 하려는 것일 뿐이지. Fill It 주차장에 사는 마법사가 그곳은 사실 마법의 포켓 차원이라고 했어!"
+    },
+    {
+      "line": 1862,
+      "event": "lakesafety",
+      "english_sha256": "2c71c3d30e6320a9358f25fd1f345a1c560181af3f66eacafe96301339414b0c",
+      "ko": "우리도 처음엔 의심했지만, 마법사가 우주 브라우니를 줘서 눈이 확 뜨였지!"
+    },
+    {
+      "line": 1863,
+      "event": "lakesafety",
+      "english_sha256": "473c1bd612f04f49d1789290fa46da3e604850e25ea04fa301cabecefe693a74",
+      "ko": "완다와 내가 마법에 취해 정신이 몽롱할 때, 마법사가 부양 암밴드를 줬어. '다음에 뭘 하든 난 씨발 알 바 아니야'라는 말과 함께."
+    },
+    {
+      "line": 1864,
+      "event": "lakesafety",
+      "english_sha256": "f716fbb7264586b5f99cbb35ee61b1d5f9ae49a7694ccb552eaf628ec8745e68",
+      "ko": "대신 팔찌가 작동하도록 마법을 쏟아부어야 한다는 조건이 있었지."
+    },
+    {
+      "line": 1865,
+      "event": "lakesafety",
+      "english_sha256": "48559d29dfbda2900ade6ced70524788483c02fe728efe480c8646a440208376",
+      "ko": "그때는 Fill It의 마법 금속 코끼리 코를 이용해 마법을 얻었는데, 여기까지 와서 마법을 어디서 구할지는 모르겠네..."
+    },
+    {
+      "line": 1866,
+      "event": "lakesafety",
+      "english_sha256": "d24a49c28bc5a07a338fd1be87b562586ad548c2e2c4ee211fb963e3ee47e7f5",
+      "ko": "잠깐, 우린 차에 마법을 채우고 있잖아! 그걸 좀 쓰면 되겠네!"
+    },
+    {
+      "line": 1867,
+      "event": "lakesafety",
+      "english_sha256": "edb458e2ba8ecc8964d04050da6dcf836ce4d96ea898506f22766d226b4b4ae5",
+      "ko": "힘들게 번 연료를 이 물놀이 튜브에 쏟아붓는 건 끔찍한 생각 같은데."
+    },
+    {
+      "line": 1868,
+      "event": "lakesafety",
+      "english_sha256": "671227af94002360df8ce23f9f1e515f166bd68a1d8db1cd2d3015a6a1ecd51f",
+      "ko": "풋. '마법의 손길'이 전혀 없는 사람이 하는 말이네."
+    },
+    {
+      "line": 1869,
+      "event": "lakesafety",
+      "english_sha256": "0896aae03f605d4ee0a211c5860eb618176ae8b2a161d06e70df81637df25ce7",
+      "ko": "어서, %CURRENTPLAYERNAME%, 해야 해! 그러지 않으면 부유 주문이 작동하지 않는다고!"
+    },
+    {
+      "line": 1870,
+      "event": "lakesafety",
+      "english_sha256": "63684253d00fd0c8ff41408b705c88b022ad91b41145b5f2a12091839cb98d68",
+      "ko": "으, 알았어. 물놀이 튜브를 휘발유에 담그느라 -N2 MAGIC을 잃는다."
+    },
+    {
+      "line": 1871,
+      "event": "lakesafety",
+      "english_sha256": "c0a78b00972f1f9443343f366ffa3e7cf7aeb52d57cbe62e383f1b2560ae6c07",
+      "ko": "그래도 호수에서 신나게 놀 수 있고, 친구들과 물장구를 치며 +N2 HYPE를 얻는다!"
+    },
+    {
+      "line": 1879,
+      "event": "sandcastlesafety",
+      "english_sha256": "53048c37255ee2d01fd76be54a7c7ca067604a8eb609298b45be8fba92c7b890",
+      "ko": "모래성 쌓기"
+    },
+    {
+      "line": 1884,
+      "event": "sandcastlesafety",
+      "english_sha256": "5046e0fa233a4c16cc615aff88045b2369eeeb5fd9cc84bd35b4b478def1c261",
+      "ko": "모래성을 쌓으며 즐겁게 놀다가, 모래집에 새 입주자들이 들어온 걸 발견한다."
+    },
+    {
+      "line": 1889,
+      "event": "sandcastlesafety",
+      "english_sha256": "32d150e20eb05d319fcd789648c459040afa625ff15e09b7d4ef21a6fe0bca5d",
+      "ko": "친구들, 봐! 소라게들이 우리 모래성으로 이사 왔어."
+    },
+    {
+      "line": 1891,
+      "event": "sandcastlesafety",
+      "english_sha256": "2aa9f546ccbecdcab5503cc30f766f50bdd97d736fa171d74e2bba900ee81745",
+      "ko": "쩐다. 이제 게 왕과 여왕이 생겼네. 너희는 이 호수의 왕을 만드는 자들이야."
+    },
+    {
+      "line": 1892,
+      "event": "sandcastlesafety",
+      "english_sha256": "a4f601203a111f104893dbe16689dae0ac5d8f97087856ce5d10ec8babf4edb8",
+      "ko": "맞아! 그리고 왕의 형제가 조개껍데기 조각을 창으로 갈고 있네. 왕살해가 일어나겠는데!"
+    },
+    {
+      "line": 1893,
+      "event": "sandcastlesafety",
+      "english_sha256": "bf389cfeae8abb8a0c738661a9750c51729f9120c49d54d0ca8b587d88107284",
+      "ko": "완다, 안녕! 스튜, 안녕! 호수엔 어쩐 일이야?"
+    },
+    {
+      "line": 1894,
+      "event": "sandcastlesafety",
+      "english_sha256": "0eed96f69b28221f5a41e246df973ea124ca5a2595e2ea4543347f6c70eabffe",
+      "ko": "어... 씨발... 우리 여기서 뭐 하고 있었지?"
     }
   ]
 }

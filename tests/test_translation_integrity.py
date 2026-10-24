@@ -62,6 +62,12 @@ class TranslationIntegrity(unittest.TestCase):
     def test_tokens_and_numbers_preserved(self):
         verify_line("Hello, %PLAYER%! [n] +2 SMARTS", "안녕, %PLAYER%! [n] +2 SMARTS", "example")
         verify_line("...", "……", "silent-reaction")
+        verify_line('"..."', "……", "quoted-silent-reaction")
+        verify_line("[0] of [1]", "[0] / [1]", "UI:RES_NEX")
+        with self.assertRaisesRegex(ValueError, "translation missing Hangul"):
+            verify_line("[0] of [1]", "[0] / [1]", "UI:OTHER")
+        with self.assertRaisesRegex(ValueError, "translation missing Hangul"):
+            verify_line("[0] of [1] items", "[0] / [1]", "UI:RES_NEX")
         with self.assertRaisesRegex(ValueError, "translation missing Hangul"):
             verify_line("You failed!", "……", "not-a-silent-reaction")
         with self.assertRaisesRegex(ValueError, "token mismatch"):

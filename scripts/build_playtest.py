@@ -21,17 +21,36 @@ TOKEN = re.compile(r"%[^%\r\n]+%|\[[^\[\]\r\n]+\]|<[^<>\r\n]+>")
 # Variable/control tokens are independently checked by TOKEN.
 NUMBER = re.compile(r"(?<!\d)[+-]?\d+(?:\.\d+)?")
 
+# A source-reviewed UI counter format has no prose to localize. Keep this
+# exception exact so ordinary untranslated English cannot bypass Hangul QA.
+FORMAT_ONLY_UI = {
+    ("UI:RES_NEX", "[0] of [1]", "[0] / [1]"),
+    ("RES_NEX", "[0] of [1]", "[0] / [1]"),
+}
+
 
 def verify_line(english: str, korean: str, ident: str) -> None:
     # An ellipsis-only reaction is a *complete*, legitimate dialogue line in
     # this game. Its Korean localization remains punctuation-only (……), so do
     # not force invented words into a silent character's reaction. No other
-    # Hangul-free translation is accepted.
-    ellipsis_only = bool(
-        re.fullmatch(r"(?:\.{3,}|…+)", english)
-        and re.fullmatch(r"…+", korean)
+    # Hangul-free text is accepted only for the explicit format-only UI
+    # exception below.
+    source_ellipsis = english.strip()
+    # Some source dialogue wraps a silent ellipsis in literal quotation marks,
+    # e.g. `"..."`. It is still a punctuation-only reaction, not untranslated
+    # prose; Korean may render it as the conventional Unicode ellipsis `……`.
+    for left, right in (("\"", "\""), ("“", "”"), ("'", "'")):
+        if source_ellipsis.startswith(left) and source_ellipsis.endswith(right) and len(source_ellipsis) >= 2:
+            source_ellipsis = source_ellipsis[1:-1].strip()
+            break
+    source_is_ellipsis = (
+        (len(source_ellipsis) >= 3 and all(ch == "." for ch in source_ellipsis))
+        or (len(source_ellipsis) >= 1 and all(ch == "…" for ch in source_ellipsis))
     )
-    if not korean or (not re.search("[가-힣]", korean) and not ellipsis_only):
+    korean_is_ellipsis = len(korean) >= 1 and all(ch == "…" for ch in korean)
+    ellipsis_only = source_is_ellipsis and korean_is_ellipsis
+    format_only_ui = (ident, english, korean) in FORMAT_ONLY_UI
+    if not korean or (not re.search("[가-힣]", korean) and not ellipsis_only and not format_only_ui):
         raise ValueError(f"translation missing Hangul: {ident}")
     if korean == english or "\t" in korean or "\r" in korean or "\n" in korean or "\ufffd" in korean or "???" in korean:
         raise ValueError(f"invalid Korean translation: {ident}")
