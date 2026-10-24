@@ -704,7 +704,7 @@
     {"line": 1189, "event": "ending_mvp_music_festival_glitch", "english_sha256": "192c409b333339efe8b17987cdf319738d2c34954deedb8fbcad76b5d29ef33c", "ko": "페스티벌 전체가 비명에 잠긴다. 귀에서 피를 흘리는 사람도 보인다."},
     {"line": 1190, "event": "ending_mvp_music_festival_glitch", "english_sha256": "2f2c4d2f1a5b959dcc0d0f303d36b3ad9873c8936b2bc1d09541544d70413bdb", "ko": "폴리와 스콧은 눈 하나 깜짝하지 않는다. 관객석에서 존경의 표시로 엄지를 치켜드는 모습까지 보인다."},
     {"line": 1191, "event": "ending_mvp_music_festival_glitch", "english_sha256": "2b6652f1c437c9f2d3fb3725f4e4bd67cfff1c4d512927fc281ff828348833f3", "ko": "그들의 눈빛만 봐도 알 수 있다. 너는 공식적으로..."},
-    {"line": 1192, "event": "ending_mvp_music_festival_glitch", "english_sha256": "38c5e747ce60fd8e3b6f2e77bf243c4b9d36d1ca4e6abbb0b2a39a98d28cc4f4", "ko": "장난 마스터즈의 일원이 되었다!"},
-    {"line": 1193, "event": "ending_mvp_music_festival_glitch", "english_sha256": "3cf1b325f4be8b51459fe5795ab5e480564b033a708a0319056f4d847915f337", "ko": "Z를 쓰는 마스터즈다!"}
+    {"line": 1192, "event": "ending_mvp_music_festival_glitch", "english_sha256": "38c5e747ce60fd8e3b6f2e77bf243c4b9d36d1ca4e6abbb0b2a39a98d28cc4f4", "ko": "장난 마스터Z의 일원이 되었다!"},
+    {"line": 1193, "event": "ending_mvp_music_festival_glitch", "english_sha256": "3cf1b325f4be8b51459fe5795ab5e480564b033a708a0319056f4d847915f337", "ko": "끝에 Z를 붙인다고!"}
   ]
 }
