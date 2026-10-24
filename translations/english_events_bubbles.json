@@ -3647,7 +3647,7 @@
       "line": 2051,
       "event": "bubble_low_money1",
       "english_sha256": "3c1ce5f148a97848886c20025ba896c223ed8ce8f49067dc13362d873a1fdc15",
-      "ko": "나한테 묻지 마! 여기 돈 펑펑 쓰는 사람은 %CURRENTPLAYERNAME%잖아!"
+      "ko": "나한테 묻지 마! 여기 돈 펑펑 쓰는 사람은 %CURRENTPLAYERNAME%이잖아!"
     },
     {
       "line": 2057,

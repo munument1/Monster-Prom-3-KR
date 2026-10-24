@@ -26,6 +26,18 @@ NUMBER = re.compile(r"(?<!\d)[+-]?\d+(?:\.\d+)?")
 FORMAT_ONLY_UI = {
     ("UI:RES_NEX", "[0] of [1]", "[0] / [1]"),
     ("RES_NEX", "[0] of [1]", "[0] / [1]"),
+    # This radio preset is literally named `???` in the English source; it is
+    # not encoding damage. Keep this exact UI key/source/value tuple unchanged.
+    ("PSE_RAD_RADIONOISE", "???", "???"),
+    ("UI:PSE_RAD_RADIONOISE", "???", "???"),
+}
+
+# This source row is a wordless shocked reaction written as `...!`.
+# Preserve the user's exact bare Unicode ellipsis without inventing an interjection.
+# Keep the exception tied to this exact asset/line/source/translation tuple.
+SILENT_REACTION_EXCEPTIONS = {
+    ("english_events_pitstop:4512", "...!", "……"),
+    ("english_events_pitstop:4797", "...?", "……"),
 }
 
 
@@ -48,11 +60,20 @@ def verify_line(english: str, korean: str, ident: str) -> None:
         or (len(source_ellipsis) >= 1 and all(ch == "…" for ch in source_ellipsis))
     )
     korean_is_ellipsis = len(korean) >= 1 and all(ch == "…" for ch in korean)
-    ellipsis_only = source_is_ellipsis and korean_is_ellipsis
+    ellipsis_only = (source_is_ellipsis and korean_is_ellipsis) or (
+        (ident, english.strip(), korean) in SILENT_REACTION_EXCEPTIONS
+    )
     format_only_ui = (ident, english, korean) in FORMAT_ONLY_UI
     if not korean or (not re.search("[가-힣]", korean) and not ellipsis_only and not format_only_ui):
         raise ValueError(f"translation missing Hangul: {ident}")
-    if korean == english or "\t" in korean or "\r" in korean or "\n" in korean or "\ufffd" in korean or "???" in korean:
+    if (
+        (korean == english and not format_only_ui)
+        or "\t" in korean
+        or "\r" in korean
+        or "\n" in korean
+        or "\ufffd" in korean
+        or ("???" in korean and not format_only_ui)
+    ):
         raise ValueError(f"invalid Korean translation: {ident}")
     if Counter(TOKEN.findall(korean)) != Counter(TOKEN.findall(english)):
         raise ValueError(f"token mismatch: {ident} {TOKEN.findall(english)} != {TOKEN.findall(korean)}")

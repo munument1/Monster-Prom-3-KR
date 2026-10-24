@@ -29,6 +29,11 @@ ROOT = Path(__file__).resolve().parents[1]
 # Each exception is narrow: the old Korean value, new Korean value, and row
 # identity must all match. This does not permit arbitrary edits to old rows.
 APPROVED_EVENT_CORRECTIONS = {
+    ("english_events_bubbles", 2051): {
+        "old": "나한테 묻지 마! 여기 돈 펑펑 쓰는 사람은 %CURRENTPLAYERNAME%잖아!",
+        "new": "나한테 묻지 마! 여기 돈 펑펑 쓰는 사람은 %CURRENTPLAYERNAME%이잖아!",
+        "reason": "All protagonist color names end in a consonant, so the copula before 잖아 must be 이잖아.",
+    },
     ("english_events_pitstop", 1739): {
         "old": "(하지만 %CURRENTPLAYERNAME%를 거절해서 %HIMHER%에게 상처를 주면 어떡하지? 못되게 보이고 싶진 않은데...)",
         "new": "(하지만 %HIMHER%를 거절해서 %CURRENTPLAYERNAME%의 마음에 상처를 주면 어떡하지? 못되게 보이고 싶진 않은데...)",

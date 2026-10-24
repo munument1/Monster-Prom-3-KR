@@ -41,6 +41,18 @@ class DeltaIntegrity(unittest.TestCase):
         new = {**old, "ko": "(하지만 %HIMHER%를 거절해서 %CURRENTPLAYERNAME%의 마음에 상처를 주면 어떡하지? 못되게 보이고 싶진 않은데...)"}
         self.assertTrue(is_approved_event_correction("english_events_pitstop", old, new))
 
+    def test_exact_protagonist_jana_correction_is_allowed(self):
+        old = {
+            "line": 2051,
+            "event": "bubble_low_money1",
+            "english_sha256": "3c1ce5f148a97848886c20025ba896c223ed8ce8f49067dc13362d873a1fdc15",
+            "ko": "나한테 묻지 마! 여기 돈 펑펑 쓰는 사람은 %CURRENTPLAYERNAME%잖아!",
+        }
+        new = {**old, "ko": "나한테 묻지 마! 여기 돈 펑펑 쓰는 사람은 %CURRENTPLAYERNAME%이잖아!"}
+        self.assertTrue(is_approved_event_correction("english_events_bubbles", old, new))
+        with self.assertRaisesRegex(ValueError, "approved correction value mismatch"):
+            is_approved_event_correction("english_events_bubbles", old, {**new, "ko": new["ko"] + "!"})
+
     def test_only_exact_reviewed_ending_correction_is_allowed(self):
         old = {
             "line": 685,

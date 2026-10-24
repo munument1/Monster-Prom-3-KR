@@ -63,9 +63,19 @@ class TranslationIntegrity(unittest.TestCase):
         verify_line("Hello, %PLAYER%! [n] +2 SMARTS", "안녕, %PLAYER%! [n] +2 SMARTS", "example")
         verify_line("...", "……", "silent-reaction")
         verify_line('"..."', "……", "quoted-silent-reaction")
+        verify_line("...!", "……", "english_events_pitstop:4512")
+        with self.assertRaisesRegex(ValueError, "translation missing Hangul"):
+            verify_line("...!", "……", "other-silent-reaction")
+        verify_line("...?", "……", "english_events_pitstop:4797")
+        with self.assertRaisesRegex(ValueError, "translation missing Hangul"):
+            verify_line("...?", "……", "other-question-reaction")
         verify_line("[0] of [1]", "[0] / [1]", "UI:RES_NEX")
+        verify_line("???", "???", "PSE_RAD_RADIONOISE")
+        verify_line("???", "???", "UI:PSE_RAD_RADIONOISE")
         with self.assertRaisesRegex(ValueError, "translation missing Hangul"):
             verify_line("[0] of [1]", "[0] / [1]", "UI:OTHER")
+        with self.assertRaisesRegex(ValueError, "translation missing Hangul"):
+            verify_line("???", "???", "OTHER_RADIO_PRESET")
         with self.assertRaisesRegex(ValueError, "translation missing Hangul"):
             verify_line("[0] of [1] items", "[0] / [1]", "UI:RES_NEX")
         with self.assertRaisesRegex(ValueError, "translation missing Hangul"):
