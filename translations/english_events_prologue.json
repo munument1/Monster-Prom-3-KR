@@ -1,0 +1,161 @@
+{
+  "source_sha256": "0f9ef7cb462a0125f3983008e4c8b29a4d8e7d967d586a51fbdf97ca52b84bcf",
+  "entries": [
+    {
+      "line": 7,
+      "event": "tutorial_prologue_missions",
+      "english_sha256": "06f596a1afd12c852032c46c19f9a75887ef81616a44fc993052f4f989e311e3",
+      "ko": "아, 잠깐! 깜빡할 뻔했네! 이 모드에는 '장난 도전'이라는 새로운 핵심 시스템이 있어."
+    },
+    {
+      "line": 8,
+      "event": "tutorial_prologue_missions",
+      "english_sha256": "e9b707f8a6a33314b2361cb96c3c2f61f8608b4d707f4845beee4fd2acc12bb8",
+      "ko": "개인 점수를 쌓아 더 좋은 결말을 볼 수 있게 해 주는 미션 같은 거야."
+    },
+    {
+      "line": 9,
+      "event": "tutorial_prologue_missions",
+      "english_sha256": "8dd6e774402bd3c7d30ae93000a7159844cc74c890d2bd179ea0d3a7f91a7dab",
+      "ko": "자세한 설명은 잠시 후에 해 줄게."
+    },
+    {
+      "line": 10,
+      "event": "tutorial_prologue_missions",
+      "english_sha256": "0daa12717b41eb349d3c6f3b9501b5d6ccea0e73b2e3a04da9e54903f778b916",
+      "ko": "우선 '장난 도전' 하나를 골라 봐!"
+    },
+    {
+      "line": 18,
+      "event": "prologue_1",
+      "english_sha256": "e99d35c39a5b839eacf0f920a4bb76440b23ea8291820e678d25ba09f0896107",
+      "ko": "아아, 도로여... 아스팔트로 이루어진 전설 속 야수여..."
+    },
+    {
+      "line": 19,
+      "event": "prologue_1",
+      "english_sha256": "f654f03fee8c5878f3ae5a2385edfc1893431d1515be05f58490cab20e738abe",
+      "ko": "우리는 한때 그 야수를 길들였고, 그 여정은 우리 인생에서 가장 기묘하고도 근사한 여행 중 하나가 되었지..."
+    },
+    {
+      "line": 20,
+      "event": "prologue_1",
+      "english_sha256": "e81b592fe8bed39e9b9d77b559cee49c0f1ec4c801d1d395fc4e9ce66cd5a2d6",
+      "ko": "...우리가 젊었고, 아무것도 두려워하지 않던 그 시절 말이야."
+    },
+    {
+      "line": 21,
+      "event": "prologue_1",
+      "english_sha256": "19c5288b1e2996d68ad15beae510e3aa7d6a54c23d7b5837dfca5e5539e7e5fe",
+      "ko": "여름이 저물어 갈 무렵, 폴리와 스콧은 자동차 여행을 계획했어."
+    },
+    {
+      "line": 22,
+      "event": "prologue_1",
+      "english_sha256": "8e9d957b8a5dfee9d4b38674dce1f357eee161f54335392d26720dcaf391aee2",
+      "ko": "처음부터 일이 엉망진창으로 흘러갈 게 뻔했지. 무려 '장난 마스터즈'의 여행이었으니까:"
+    },
+    {
+      "line": 23,
+      "event": "prologue_1",
+      "english_sha256": "8f709485a1e0d03fcaed2eefb1214134628ebeca74be37dc3c7cb90db79d15ac",
+      "ko": "스콧 하울(22세). 머리는 좀 모자라도 마음만은 터무니없이 넓은 늑대인간 운동선수."
+    },
+    {
+      "line": 24,
+      "event": "prologue_1",
+      "english_sha256": "f2c6c594c356768884f787f0bec2871802f3d6f641f9af6c428be8cdc8c98e90",
+      "ko": "그리고 폴리 가이스트(23세?). 하면 안 될 짓이라면 뭐든 끝없이 탐하는 파티광 유령."
+    },
+    {
+      "line": 25,
+      "event": "prologue_1",
+      "english_sha256": "601babf49cfdf27e0ddf6767701854e865858da044b36dde4a0ce436fc6d7269",
+      "ko": "둘 다 혼자만 있어도 혼돈을 몰고 다니는 녀석들이었지만..."
+    },
+    {
+      "line": 26,
+      "event": "prologue_1",
+      "english_sha256": "9675e9d5dc3a2f2cb8c55ea1668f800bf22a40556da98f305ce57999c4d9a3a7",
+      "ko": "...둘이 뭉치면? 온갖 말썽을 일으키기에 이보다 완벽한 조합은 없었지."
+    },
+    {
+      "line": 27,
+      "event": "prologue_1",
+      "english_sha256": "c95662c0d04c3ced9db3e83941f39dac6ad4e0a9d39f3fa1aae17ab0a8ce7a6f",
+      "ko": "제정신인 사람이라면 대체 누가 이런 여행에 동참하겠어?"
+    },
+    {
+      "line": 36,
+      "event": "prologue_2_missions",
+      "english_sha256": "1b8fb5918a83f14ca3dba832dd46d6b52cfdd8c1285ab33833a8bc949be1e356",
+      "ko": "그 자동차 여행은 위험한 발상이었나? 물론."
+    },
+    {
+      "line": 37,
+      "event": "prologue_2_missions",
+      "english_sha256": "6c12d7f48190816b1a76902118368c99356156753fd12c09f90a6bae1cd27161",
+      "ko": "계획도 엉성했나? 물론."
+    },
+    {
+      "line": 38,
+      "event": "prologue_2_missions",
+      "english_sha256": "4e01454d913517551da5f3b0f0bce3da6ecd1aad9c73bf04ec46b6919c4fd882",
+      "ko": "그런데도 우린 떠났나? 씨발, 당연하지."
+    },
+    {
+      "line": 39,
+      "event": "prologue_2_missions",
+      "english_sha256": "2357b9e9c5fbd2a9af0d0bf7ccedc5239abf9768832df26db731ba5dee195359",
+      "ko": "왜냐하면 결국..."
+    },
+    {
+      "line": 40,
+      "event": "prologue_2_missions",
+      "english_sha256": "da451683ef59c828adf5dabb7608984507e441eafad9d2a9864a9129d2ff171d",
+      "ko": "...우린 젊었고, 두려울 게 없었고..."
+    },
+    {
+      "line": 41,
+      "event": "prologue_2_missions",
+      "english_sha256": "ee8ce0931cce6f0740b184442492dec45c968b235c220e2a87f1034034637f62",
+      "ko": "...모험을 시작할 준비가 되어 있었으니까."
+    },
+    {
+      "line": 50,
+      "event": "prologue_2_nomissions",
+      "english_sha256": "1b8fb5918a83f14ca3dba832dd46d6b52cfdd8c1285ab33833a8bc949be1e356",
+      "ko": "그 자동차 여행은 위험한 발상이었나? 물론."
+    },
+    {
+      "line": 51,
+      "event": "prologue_2_nomissions",
+      "english_sha256": "6c12d7f48190816b1a76902118368c99356156753fd12c09f90a6bae1cd27161",
+      "ko": "계획도 엉성했나? 물론."
+    },
+    {
+      "line": 52,
+      "event": "prologue_2_nomissions",
+      "english_sha256": "4e01454d913517551da5f3b0f0bce3da6ecd1aad9c73bf04ec46b6919c4fd882",
+      "ko": "그런데도 우린 떠났나? 씨발, 당연하지."
+    },
+    {
+      "line": 53,
+      "event": "prologue_2_nomissions",
+      "english_sha256": "2357b9e9c5fbd2a9af0d0bf7ccedc5239abf9768832df26db731ba5dee195359",
+      "ko": "왜냐하면 결국..."
+    },
+    {
+      "line": 54,
+      "event": "prologue_2_nomissions",
+      "english_sha256": "da451683ef59c828adf5dabb7608984507e441eafad9d2a9864a9129d2ff171d",
+      "ko": "...우린 젊었고, 두려울 게 없었고..."
+    },
+    {
+      "line": 55,
+      "event": "prologue_2_nomissions",
+      "english_sha256": "ee8ce0931cce6f0740b184442492dec45c968b235c220e2a87f1034034637f62",
+      "ko": "...모험을 시작할 준비가 되어 있었으니까."
+    }
+  ]
+}

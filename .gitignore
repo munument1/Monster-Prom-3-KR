@@ -1,0 +1,11 @@
+# English game-owned assets are never committed/distributed.
+work/
+build/
+backups/
+*.bundle
+*.assets
+*.dll
+*.exe
+__pycache__/
+*.pyc
+.venv/

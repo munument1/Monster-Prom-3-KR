@@ -1,0 +1,185 @@
+{
+  "source_sha256": "84e1fce8a93060bf1b08dfa3b014f27f6c73d14be2e182b1bdd6d8f1da9044ac",
+  "entries": [
+    {
+      "line": 6,
+      "event": "gachashop_tutorial",
+      "english_sha256": "24b552ac53930aea5e727aa1aa095248bbe4ee8df36020bafc3e5b81b620d751",
+      "ko": "어이, 플레이어! 나야, 내레... 아니, 메타 상점 주인이지!"
+    },
+    {
+      "line": 7,
+      "event": "gachashop_tutorial",
+      "english_sha256": "ec541362d92ce2ca64fe23ffb18e96d7c193f3def7a58f30e627be6c14a0329c",
+      "ko": "내 조그만 가게는 처음이지? 걱정 마. 어떻게 돌아가는지 설명해 줄게."
+    },
+    {
+      "line": 8,
+      "event": "gachashop_tutorial",
+      "english_sha256": "1ff22a788918655c2de6a3a1ebe42cb0663d0caf1e3493f7750a83c4fe9f3313",
+      "ko": "여기선 위대하고 영광스러운 가챠로 운을 시험해 볼 수 있어!"
+    },
+    {
+      "line": 9,
+      "event": "gachashop_tutorial",
+      "english_sha256": "c0eea4d8be0e0da1e976a4cec32d665601ee641aa74df6b063319c1f9e414e18",
+      "ko": "근데 이건 돈을 받지 않는 특별한 가챠 기계야... 오직 장난 토큰만 받지!"
+    },
+    {
+      "line": 10,
+      "event": "gachashop_tutorial",
+      "english_sha256": "c03867ca7306ebb4ac42a001dc5f9234d5742ecd188f98d17db49c6dd993e34f",
+      "ko": "몬스터 로드트립을 플레이하면 장난 토큰을 벌 수 있어. 한 번도 본 적 없는 새로운 콘텐츠를 만나면 더 많이 얻을 수 있고!"
+    },
+    {
+      "line": 11,
+      "event": "gachashop_tutorial",
+      "english_sha256": "e900e02539b33f1f58876d8d4ffd51c36173741fd92a675c43a4576bed40c629",
+      "ko": "위대하고 영광스러운 가챠가 갤러리에 넣을 멋진 콘텐츠를 잔뜩 쏟아부어 줄 거야."
+    },
+    {
+      "line": 12,
+      "event": "gachashop_tutorial",
+      "english_sha256": "16de58a861217183f42f07fe7664bb3882ca247836c0abf8e60cfa5e62d8ca94",
+      "ko": "아, 가챠 기계가 진짜 돈을 내놓으라고 안 하니까 얼마나 즐거워?"
+    },
+    {
+      "line": 13,
+      "event": "gachashop_tutorial",
+      "english_sha256": "fec8263d503681585ec42787ca082be5cbc71dbeeb47995011bd3fb8486934b5",
+      "ko": "아, 그리고 이미 몬스터 로드트립을 플레이했다면, 지금까지 이룬 업적에 대한 장난 토큰도 소급해서 지급해 줄 거야!"
+    },
+    {
+      "line": 14,
+      "event": "gachashop_tutorial",
+      "english_sha256": "4d48b221269932bd183ae786db10528958a02b1ba93a294d74f7898cb9ea6ae0",
+      "ko": "그럼 뭘 기다려? 가챠를 신나게 돌려 보자고!"
+    },
+    {
+      "line": 22,
+      "event": "gachashop_intro1",
+      "english_sha256": "4fa9129b0eba5a173c0d39616422b980022b74945f5e046713cc9cb2fd2dc516",
+      "ko": "안녕하신가, 플레이어! 메타 상점에 다시 온 걸 환영해."
+    },
+    {
+      "line": 23,
+      "event": "gachashop_intro1",
+      "english_sha256": "febc7ef67ef3371a36ae733fd82075b9b29949cb67f40bda4d228a08d0af2511",
+      "ko": "위대하고 영광스러운 가챠를 마음껏 즐겨. 말든가. 난 실존하지도 않으니까 네가 뭘 하든 사실 별 관심 없어."
+    },
+    {
+      "line": 31,
+      "event": "gachashop_intro2",
+      "english_sha256": "9ff5d5af04a06894586dca0cd2ba52babc6e9e76116f295db457f5a088cfdb8d",
+      "ko": "또 만났네, 플레이어! 오늘은 운이 좀 따를 것 같아?"
+    },
+    {
+      "line": 32,
+      "event": "gachashop_intro2",
+      "english_sha256": "0737c1526738be794fe322e196e03049a7fffb90cdb5caef68b242670d47ec15",
+      "ko": "가서 위대하고 영광스러운 가챠한테 먹이를 줘!"
+    },
+    {
+      "line": 40,
+      "event": "gachashop_intro3",
+      "english_sha256": "dc606ba1954357f23ce6f8aedce7c3fda5f502c79c9aec9e92c237e0b2909208",
+      "ko": "반가워, 플레이어! 메타 상점에 다시 온 걸 환영해."
+    },
+    {
+      "line": 41,
+      "event": "gachashop_intro3",
+      "english_sha256": "130c94f5e4fdccbd02cceb3be617ab9fda5b8f1927c215ac2e1498cf711e5322",
+      "ko": "주머니 속 장난 토큰이 쓰고 싶어서 근질근질하지? 어서 팍팍 써 버려!"
+    },
+    {
+      "line": 49,
+      "event": "gachashop_intro4",
+      "english_sha256": "7551f776cfd5e8879f4864e1e1189d0fcd37fea44a63f677cd07e22c6669261d",
+      "ko": "어! 어, 안녕, 플레이어! 이렇게 빨리 또 올 줄은 몰랐는데... 아, 씨발, 대사를 완전히 까먹었잖아."
+    },
+    {
+      "line": 50,
+      "event": "gachashop_intro4",
+      "english_sha256": "f1fc2513eff6e304127a8f042127eef4a02d296c8fcae5a9a4f9c3174dbda2b1",
+      "ko": "으음, 어쩌고저쩌고 메타 상점에 온 걸 환영하고... 내가 대사 좀 떠올리는 동안 알아서 둘러보든가 해. 알겠지?"
+    },
+    {
+      "line": 57,
+      "event": "insufficient_memories1",
+      "english_sha256": "5392a157fede16995b47a19c1289208d5d665bb80df0a27fc78fd846ba911ecf",
+      "ko": "아, 그렇군... 장난 토큰이 없으면 위대하고 영광스러운 가챠도 못 돌리지."
+    },
+    {
+      "line": 64,
+      "event": "no_items_left1",
+      "english_sha256": "1f3eae5d9dab1069ba7c0e6f82e96b36bd95caab308171af53e1a6f44acf4268",
+      "ko": "미안해, 플레이어. 지금은 위대하고 영광스러운 가챠에서 줄 수 있는 게 아무것도 없어."
+    },
+    {
+      "line": 65,
+      "event": "no_items_left1",
+      "english_sha256": "4af640e3d16c5c74da8b434b1ef03b862320223f948ca713adf2825a3cc4922d",
+      "ko": "나중에 다시 와 보는 게 어때?"
+    },
+    {
+      "line": 73,
+      "event": "gachashop_purchase1",
+      "english_sha256": "db513d0bc142d92670db1308237893a96fbd3876b29953661467493c6599d03b",
+      "ko": "위대하고 영광스러운 가챠가 너에게 어마어마한 보물을 안겨 주길!"
+    },
+    {
+      "line": 81,
+      "event": "gachashop_purchase2",
+      "english_sha256": "78c8f2a9d402b2ff09e59f6da9f5a75219e7dd595a36600a090ea70cd60993a1",
+      "ko": "음, 그거라면 꽤 재미있게 즐길 수 있겠는데?"
+    },
+    {
+      "line": 89,
+      "event": "gachashop_purchase3",
+      "english_sha256": "c9248cd4c3ddaec877e0e93384f7587a6feee5bd742925674bd890ca8e356157",
+      "ko": "잊지 마, 환불은 안 돼!"
+    },
+    {
+      "line": 97,
+      "event": "gachashop_purchase4",
+      "english_sha256": "3607edd835d4b4b9ac26e95446a796b8768ac60e2a9524900076f2ad88d1e6a5",
+      "ko": "오오, 그거 괜찮은데!"
+    },
+    {
+      "line": 105,
+      "event": "gachashop_purchase5",
+      "english_sha256": "cb81ca29531396dff1989533220c60f5630a1f4ee8331c76945dfa95d076db94",
+      "ko": "그건 네 침실 벽에 걸어 놔도 되겠다!"
+    },
+    {
+      "line": 113,
+      "event": "gachashop_exit1",
+      "english_sha256": "46ff52e9f2a3ec24fbe25cc59c47e93bf26848ba797ebb515e7cb487a541cb88",
+      "ko": "다음에 또 보자!"
+    },
+    {
+      "line": 121,
+      "event": "gachashop_exit2",
+      "english_sha256": "2a44aefdca70d862c411f765cff66e97204c15755dec6cd73040ff08bacf7053",
+      "ko": "여행길에서도 신나게 놀아!"
+    },
+    {
+      "line": 129,
+      "event": "gachashop_exit3",
+      "english_sha256": "0c6ca399bb0ac03eb97d9df1251a90d14b561863e680a7b0a5f7cdb523557d96",
+      "ko": "언제든 또 들러."
+    },
+    {
+      "line": 137,
+      "event": "gachashop_exit4",
+      "english_sha256": "768d038c1b9889acc2f28a9ebd1ab4f9f16c5740aae24c90471f1650468a113a",
+      "ko": "밖에선 조심하고!"
+    },
+    {
+      "line": 145,
+      "event": "gachashop_exit5",
+      "english_sha256": "b4b90606c52bb8c5c4f5b8241df8783036ee26594cc8b07774a39e86e8a5a320",
+      "ko": "잘 가, 플레이어!"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "source_sha256": "21c47009f0193f7f2b62d38611b0857376ff214e2276ab7d4f0a11c46e9bf091",
+  "entries": [
+    {
+      "line": 5,
+      "event": "epilogue",
+      "english_sha256": "ede7c078d9ddd52d712dea2d5918f2479952c44f3ed118846565d7c24a6aec52",
+      "ko": "그리고 그렇게, 우리의 로드 트립은 막을 내렸다."
+    },
+    {
+      "line": 6,
+      "event": "epilogue",
+      "english_sha256": "4b3c78eb1c2a3c01e31bc08f534b362705b955b20ffe29fa0b999e963ae91999",
+      "ko": "위험과 즐거움, 그리고 온갖 개소리로 빈틈없이 꽉 찬 여행이었다."
+    },
+    {
+      "line": 7,
+      "event": "epilogue",
+      "english_sha256": "3211033c386925719083542e8f66b1f76b034f3550dfd200e02bf23fe7660736",
+      "ko": "폴리와 스콧이 함께하는 여행에서 기대할 만한 일은 죄다 벌어졌다... 아니, 그 이상이었다."
+    },
+    {
+      "line": 8,
+      "event": "epilogue",
+      "english_sha256": "10e81594bd16cf845976993d6b6f512b065abdd82034201269935aa63ebc0251",
+      "ko": "우린 이 모든 일을 살아남았을 뿐 아니라 멋지게 이겨냈고, 이전과는 다른 사람이 되어 돌아왔다."
+    },
+    {
+      "line": 9,
+      "event": "epilogue",
+      "english_sha256": "5d8ee2df422975f836c145a645611728955bee24d0e78405377d18cd8ce93d49",
+      "ko": "결국 이 여행은 자아를 찾아가는 순례이자 성인이 되는 통과의례, 성장의 여정이었다..."
+    },
+    {
+      "line": 10,
+      "event": "epilogue",
+      "english_sha256": "cfe8adfbd3f94ecfa9ad375352af9a8edd83a7b32e54e0fecab36742f8aa5780",
+      "ko": "...그러니까, 씨발 존나 끝내주는 로드 트립이었다는 소리다."
+    },
+    {
+      "line": 11,
+      "event": "epilogue",
+      "english_sha256": "c0195f53553ea258463c8a1ba67dc0045afee7f24383515b3dc978b4f1d881d2",
+      "ko": "집으로 돌아가는 길에 문득 생각했다. 이 모든 건 그저 첫 번째 경유지들 중 하나에 불과하다고..."
+    },
+    {
+      "line": 12,
+      "event": "epilogue",
+      "english_sha256": "6a0c93bd99f7ad5698a98279bf0b39a3f4064b70c228fbdac648115c8042e988",
+      "ko": "...이제 막 시작된, 훨씬 더 큰 여정에서 말이다."
+    }
+  ]
+}
