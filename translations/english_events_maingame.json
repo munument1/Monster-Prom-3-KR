@@ -4596,6 +4596,1086 @@
       "event": "eulogy",
       "english_sha256": "46b9d7b0cf801c321c3021e96e25222f7a4af506f9b1ce3f869eade209e622b9",
       "ko": "‘내가 그랬다!’ 목사가 총을 꺼내 들며 외친다."
+    },
+    {
+      "line": 1104,
+      "event": "eulogy",
+      "english_sha256": "ec13468cb11b2fe346b4dee160421dc5ca0ced64a26507737a6b50c0e464d73f",
+      "ko": "게리, 네 장례식을 집전할 날을 얼마나 고대했는지 몰라. 너무 기대한 나머지 내가 널 죽였지. 필요하다면 또 죽일 거야!"
+    },
+    {
+      "line": 1105,
+      "event": "eulogy",
+      "english_sha256": "1f7491558afc805fd9a2fc0d945c6426d338d918e02bc4436585bc59fb6b5992",
+      "ko": "목사의 총이 발사된다. 모두가 비명을 지른다. 너는 가슴의 총상을 움켜쥔 채 쓰러진다."
+    },
+    {
+      "line": 1106,
+      "event": "eulogy",
+      "english_sha256": "b60e6e33bf9355c948f3c678b0f8b7e6c496a663d86562f5b0e291e10306b91a",
+      "ko": "생명이 꺼져 가는 게 느껴진다... 하지만 마지막 손재주 마술로 다시 한번 얼굴을 벗겨 낸다. “목사님, 저를 쏠 수는 있겠죠. 하지만... 자기 자신도 쏠 수 있겠어요?!”"
+    },
+    {
+      "line": 1107,
+      "event": "eulogy",
+      "english_sha256": "7c984349808e29834df80bd15b8c41b1355ecafe940b2b6e840a49fa0918f4fe",
+      "ko": "세상에, 씨발! 반전에 반전이잖아!"
+    },
+    {
+      "line": 1108,
+      "event": "eulogy",
+      "english_sha256": "4e212d3af344efd244d8adab57311b7423745a0bd900f3fa37e3fa2c8886febb",
+      "ko": "잠깐, %CURRENTPLAYERNAME%가 사실 게리였고 그 게리는 줄곧 목사였던 거라면... 그럼 %CURRENTPLAYERNAME%는 어디 있지?!"
+    },
+    {
+      "line": 1109,
+      "event": "eulogy",
+      "english_sha256": "e78d1669b79f2da91fc7ebf460d3cec95d4d8350cabc13d37323f1a99a06314c",
+      "ko": "당연히 네 의자에 앉아 있지! 처음부터 줄곧 거기 있었잖아! 너는 미소 지으며 슈크림을 먹고, 스콧은 완전히 충격에 빠진다."
+    },
+    {
+      "line": 1110,
+      "event": "eulogy",
+      "english_sha256": "7cbca44be2709299846d059fa633d2d27b5d9cb9f0a15da2fb49b4ab6572838b",
+      "ko": "목사는 엄밀히 따지면 자초한 총상으로 사망한다. 정신을 뒤흔드는 장난으로 +N4 흥과 +N2 마력을 얻지만, -N3 영혼과 -N3 정신을 잃는다."
+    },
+    {
+      "line": 1118,
+      "event": "skincare",
+      "english_sha256": "ad224eaac11beea4670a456a27dc0c0acf8733ccd23648c3d314576616cda5d9",
+      "ko": "잠자리에 들 준비하기"
+    },
+    {
+      "line": 1120,
+      "event": "skincare",
+      "english_sha256": "f62ca138f76efccd14eb0d69ddce06a693ec3036ca99d037294d50ea660bd97e",
+      "ko": "너는 매트리스 자리를 차지하고 잠자리에 들 준비를 시작한다."
+    },
+    {
+      "line": 1121,
+      "event": "skincare",
+      "english_sha256": "1bee4b7f38e1675aaaea102d1d472f4daa4b81ab06750c8c0ef71e985ab04dbe",
+      "ko": "어떤 동물 잠옷을 입어야 제일 따먹고 싶게 보일지 고민하던 중, 욕실에서 스콧과 폴리가 킥킥대는 소리가 들린다. 무슨 일인지 확인하러 간다."
+    },
+    {
+      "line": 1123,
+      "event": "skincare",
+      "english_sha256": "cb3c147a49d36d2356bd56327d89160f54bd7f9a5b38e152212915d9cb5610b6",
+      "ko": "안녕, %CURRENTPLAYERNAME%! 나랑 스콧은 매일 밤 피부 관리 루틴을 하고 있어. 같이할래?"
+    },
+    {
+      "line": 1124,
+      "event": "skincare",
+      "english_sha256": "935c471072ba00bf9887ad9b844b6648c15d4f2f1b1c27b82090ea5ce40b97dd",
+      "ko": "아, 당연히!"
+    },
+    {
+      "line": 1125,
+      "event": "skincare",
+      "english_sha256": "c2bb29dee21681f72c20e0c34d6c7e3006eac0c9bbe4ff4c1c558fc37f95ad78",
+      "ko": "하지만 이 둘이 드디어 평범한 일을 하는구나 하고 반가워하기도 전에, 둘이 옆으로 비키고 세면대 위에서 살덩어리 하나가 꿈틀거리는 게 보인다."
+    },
+    {
+      "line": 1126,
+      "event": "skincare",
+      "english_sha256": "c540463cbc06d5a807f5daa82371edb3f6b11be31b5fa95c2cff3e536ea244ec",
+      "ko": "이게 대체 씨발 뭐야."
+    },
+    {
+      "line": 1127,
+      "event": "skincare",
+      "english_sha256": "2e7b7436d896274f1c009769c1af59fbb9a08b9ea5b23e167df756d1edbaacaa",
+      "ko": "우리 피부야, 바보야! 피부 관리가 엄청 중요하다고 들었거든. 그런데 폴리는 이제 자기 피부가 없잖아. 그래서 돌봐 줄 이 작은 친구를 구해 줬어."
+    },
+    {
+      "line": 1128,
+      "event": "skincare",
+      "english_sha256": "a400386437dc552c241c77c58e7336d3ad72c1d9066e63719b09c351ec4a1f5d",
+      "ko": "이름은 로드리게스라고 지었어."
+    },
+    {
+      "line": 1129,
+      "event": "skincare",
+      "english_sha256": "8481e5aa1b2135a1707c9006987e37a537ad64a1b4d3746f1e1a9c9a3ee1e278",
+      "ko": "그래, 그런데 스콧은 대체 이 러브크래프트풍 피부 괴물을 어디서 구한 거야?"
+    },
+    {
+      "line": 1130,
+      "event": "skincare",
+      "english_sha256": "05a83f8ce815cbc703da1426305d2ce6379cbbbc9b3491de3fd8ea2b5d825580",
+      "ko": "에이, 질문이 너무 많아."
+    },
+    {
+      "line": 1131,
+      "event": "skincare",
+      "english_sha256": "0a0985062cd536272454c8f5ed063eaef3799cd5014f905a37468b95b3b731c0",
+      "ko": "질문은 좋은 피부 관리 루틴에 포함되지 않거든. 윙크!"
+    },
+    {
+      "line": 1132,
+      "event": "skincare",
+      "english_sha256": "e26b8119914ac4a42e2db24f7db8dc76964504406360c8de5a58f092b8238953",
+      "ko": "그래서 로드리게스한테 로션 발라 줄 거야, 말 거야?"
+    },
+    {
+      "line": 1133,
+      "event": "skincare",
+      "english_sha256": "3592b2c98c3ae7811c6833d0e4bd4924a815590c40edc1a98fd422c763f9fdf9",
+      "ko": "눈도 없는데 어쩐지 그 피부가 너를 빤히 쳐다본다. 어쩌면 네 속까지 꿰뚫어 보는지도."
+    },
+    {
+      "line": 1134,
+      "event": "skincare",
+      "english_sha256": "76b0346e065abb3e84737274b7f484d883bc143006b26ec22d188dcdb976b275",
+      "ko": "안 돼. 안 돼. 난 이런 일 하겠다고 한 적 없어."
+    },
+    {
+      "line": 1135,
+      "event": "skincare",
+      "english_sha256": "aeb6d1e17e8a5cab1874a0fb1ec6e4bcd3d88623d4d17ffdb213ff3b89b13004",
+      "ko": "사실 네가 하겠다고 했어. 로드리게스에게 보습제를 발라 주는 게 자동차 여행 계약서에 들어 있거든."
+    },
+    {
+      "line": 1136,
+      "event": "skincare",
+      "english_sha256": "7996c877c3eda79a67c6f2af9968ca1473d925076ed4b8c3eb6648785354c287",
+      "ko": "아, 젠장. 내기 때문에 그 계약서에 서명한 날을 저주하리라!"
+    },
+    {
+      "line": 1137,
+      "event": "skincare",
+      "english_sha256": "ab6b94daf3c317b65a130c9540b3148377c89e6ee98fbaa233000499f77e6404",
+      "ko": "이 괴물에게 로션을 발라 줘야 하는 모양이다. 얼마나 오래 버틸 수 있을까?"
+    },
+    {
+      "line": 1138,
+      "event": "skincare",
+      "english_sha256": "3170543ce47c2f0baa50254b13b82b58b0962675647c39a20643690168f572d7",
+      "ko": "5분"
+    },
+    {
+      "line": 1139,
+      "event": "skincare",
+      "english_sha256": "f8b8883f0c9d8d823a8df096ebde57ec04abe9f9cbc4eea1cbc3454c5025c484",
+      "ko": "1시간"
+    },
+    {
+      "line": 1140,
+      "event": "skincare",
+      "english_sha256": "d9bc137ed33823079bd93667a7919f2d5c933efd55b0998819dca263d0db5c80",
+      "ko": "밤새도록"
+    },
+    {
+      "line": 1142,
+      "event": "skincare",
+      "english_sha256": "f0e37140829c3c9e05c5d4211d4a6a7c93e781d217c2a07145f4f308df36e7db",
+      "ko": "너는 피부에 로션을 조금 발라 보지만 5분 만에 멈춘다. 점액처럼 느껴지고 따뜻하고 꿈틀거리기까지 해서 도저히 못 하겠다."
+    },
+    {
+      "line": 1143,
+      "event": "skincare",
+      "english_sha256": "9556967a5abc9f9e930e82ed55629879d27c6b1d25fcff3f488daf6af192c2f0",
+      "ko": "왜 멈췄어? 우리 피부에 더 신경 써야 하는 거 안 보여? 약속했잖아!"
+    },
+    {
+      "line": 1144,
+      "event": "skincare",
+      "english_sha256": "703cf05b8abd48c749d299922db11e28ec64dfa7e174bf565490e99fc905eebf",
+      "ko": "피부가 다친 동물처럼 애처롭게 울부짖기 시작한다. 씨발, 이건 못 해 먹겠다."
+    },
+    {
+      "line": 1145,
+      "event": "skincare",
+      "english_sha256": "57e93ec097f87d94436bea8f07af2fafd95720a43f910723d449cbb326916214",
+      "ko": "그래도 돌봐 줘야지, %CURRENTPLAYERNAME%. 로드리게스는 제대로 피부 관리를 받아야 해!"
+    },
+    {
+      "line": 1146,
+      "event": "skincare",
+      "english_sha256": "bd9190e4733c758fc795387521d6d1cbda06728592d26679cba79e71862001c6",
+      "ko": "그리고 피부과에도 일 년에 한 번은 가야 해. 피부과 의사가 왜 우리가 로드리게스한테 이런 짓을 하는지 계속 묻더라도 말이야."
+    },
+    {
+      "line": 1147,
+      "event": "skincare",
+      "english_sha256": "2275252a7a5e041bff3d0a56549b5c721f84789455502ae0d745c50be077cdd1",
+      "ko": "게다가 제대로 보습해 주지 않으면 로드리게스가 오늘 밤 우리 발가락을 먹어 버릴지도 몰라."
+    },
+    {
+      "line": 1148,
+      "event": "skincare",
+      "english_sha256": "0016dc0a285fcc52ed4e2419df0fb5f06aac3f1ac041eb9d573d7e77cd9b95f8",
+      "ko": "이제 우리 모두 신발 신고 자야 하잖아. 진짜 최악이야!"
+    },
+    {
+      "line": 1149,
+      "event": "skincare",
+      "english_sha256": "5bacfa995b07bab0da02332c10d70bec726983c5879b7b0dc695a6ed444d41d1",
+      "ko": "잘했다, 이 개자식아. 피부 괴물과 접촉한 시간이 짧아서 +N2 정신을 유지하지만, 친구 노릇을 못 해서 -N2 흥을 잃는다."
+    },
+    {
+      "line": 1151,
+      "event": "skincare",
+      "english_sha256": "f0419c9a6c2e7c878e2d39d302bbdbb4f53bc5481847573a8d7b40d1ff633770",
+      "ko": "피부에 로션을 조금 발라 본다. 점액 같긴 하지만 따뜻하고 꿈틀거리고, 골골거리는 것 같기도 하다...?"
+    },
+    {
+      "line": 1152,
+      "event": "skincare",
+      "english_sha256": "92f4f0ffd0c127c6ef621f9dac8b995eab82f20e8d00f9d70dadcf2f86ea5774",
+      "ko": "잘했어! 요즘 로드리게스가 좀 스트레스받는 것 같아. 등 근육 뭉친 걸 풀어 주게 시아츠 마사지하듯 로션을 문질러 줄 수 있겠어?"
+    },
+    {
+      "line": 1153,
+      "event": "skincare",
+      "english_sha256": "0295e80523bf2131a34e32942a9891fce42c0db38fa48a1a360b8fcf40d920cd",
+      "ko": "이 녀석 척추도 있다고?!?"
+    },
+    {
+      "line": 1154,
+      "event": "skincare",
+      "english_sha256": "67020a8abdbe47a3dc4d89d592a44d90de2c6a67eee09e3648325a5dd713a248",
+      "ko": "그... 그런 것 같아?"
+    },
+    {
+      "line": 1155,
+      "event": "skincare",
+      "english_sha256": "9fa6a6d9d67b36df27af5dce0702480d37246eda91c2a459e78f9f16f0087f46",
+      "ko": "하면서 노래도 불러 줘. 제일 좋아하는 노래는 ‘벽에 걸린 로션 99병’이랑 프랭크 시나트라의 ‘내 피부 아래’야."
+    },
+    {
+      "line": 1156,
+      "event": "skincare",
+      "english_sha256": "90c8a62cd9843efe0119bc5f4aeefa179bd6ab00be49f7edff67605e617aad62",
+      "ko": "아, 그리고 로드리게스는 돌봐 줄 때 덴마크에서 휴가를 보내는 상상을 하면 정말 좋아해."
+    },
+    {
+      "line": 1157,
+      "event": "skincare",
+      "english_sha256": "7740eb44089114b6f45186896c62234c46b35f88231e2d63811ef9b02b0dc7d6",
+      "ko": "어... 알았어. 그럼... 덴마크에 가는 상상을 소리 내서 중계해야 해?"
+    },
+    {
+      "line": 1158,
+      "event": "skincare",
+      "english_sha256": "160418c2da069d26c3a05c59c9a8fc4860c7f3ed3ab1f1a74113d340b5c36f9f",
+      "ko": "아니, 그냥 생각만 하면 돼. 피부는 다 알아."
+    },
+    {
+      "line": 1159,
+      "event": "skincare",
+      "english_sha256": "abe58cea186860da089a2905e587b18f521129c8a0c9ac690d8318e7a87e48da",
+      "ko": "덴마크에 있는 상상을 한다. 적어도 그 환상 덕분에 이 고역을 견딜 수 있다. -N2 정신을 잃지만, 피부 관리에 신경 쓰는 친구라서 +N2 흥을 얻는다."
+    },
+    {
+      "line": 1161,
+      "event": "skincare",
+      "english_sha256": "05a25eae64f52282d1e3efa009dc9f2cbea9533e00005ef4ebbb67892347af96",
+      "ko": "에라, 모르겠다. 할 거면 제대로 하는 거지. 따뜻하고 꿈틀거리는 피부에 로션을 힘껏 문지르기 시작한다."
+    },
+    {
+      "line": 1163,
+      "event": "skincare",
+      "english_sha256": "fefa4e088e91a1023809b846d67fd7fff223ce50a5a5f70ae74806c4dbf6e6a5",
+      "ko": "몇 분이 몇 시간으로 바뀐다. 너는 벗겨진 피부에 팔꿈치까지 파묻혔다. 로션이 다 떨어지자 자기 피로 로드리게스에게 보습제를 발라 주기 시작한다."
+    },
+    {
+      "line": 1164,
+      "event": "skincare",
+      "english_sha256": "fcf38a95cc1e1ff380217dc670a310eb26797fb8af9695ed5d1f10660c8e02ac",
+      "ko": "피부는 피의 제물을 반긴다. 너는 금지된 언어로 노래하는 천사들의 합창과 알아볼 수 없는 색채의 폭포 같은 환영을 보기 시작한다."
+    },
+    {
+      "line": 1165,
+      "event": "skincare",
+      "english_sha256": "9e1a67bbe91a40bac0077047bb58f52cafabbb8056b267d2e6069167815e5a7c",
+      "ko": "정신이 확장된다. 피부는 몸에서 가장 큰 기관이다. 피부는 어디에나 있다. 세상 전체가 얇은 피부막으로 덮여 있다."
+    },
+    {
+      "line": 1166,
+      "event": "skincare",
+      "english_sha256": "dbb440303c57e6285b6737969c6a25ef8256f079b3ce837a61dcbe2c452c952b",
+      "ko": "어느 순간 신이 나타나 말한다. “내 피조물들을 그토록 아껴 줘서 고맙다, %CURRENTPLAYERNAME%. 내가 술에 취했을 때 만든 못생기고 소름 끼치는 녀석들까지도 말이야.”"
+    },
+    {
+      "line": 1167,
+      "event": "skincare",
+      "english_sha256": "2f3e8614353fddb472102d3312102ca32e95f812531b6c68e8e3cb350d323321",
+      "ko": "피부는 사랑이다. 피부는 생명이다. 네가 이 피부를 돌보면, 이 피부도 널 돌봐 줄 것이다... 영원히."
+    },
+    {
+      "line": 1169,
+      "event": "skincare",
+      "english_sha256": "4b0c4d74a14f9fee3e8ce7512b947664b1c8f29b2e6577da9a661fe6b697713e",
+      "ko": "좋은 아침, %CURRENTPLAYERNAME%! 아직도 로드리게스를 돌보고 있어? 멋진데!"
+    },
+    {
+      "line": 1170,
+      "event": "skincare",
+      "english_sha256": "78dd1e9da2779caf1680c86c38c5919613031d06d8327481d03b2ab5748a4dcc",
+      "ko": "그동안 아침 똥 좀 싸도 될까?"
+    },
+    {
+      "line": 1171,
+      "event": "skincare",
+      "english_sha256": "530a1d5f8659bcc3174bb03f5cf18915b6187a7a296e1246fed78e4903b62c89",
+      "ko": "좋아, 상관없어. 사생활 같은 건 없어. 우리는 모두 피부로 연결되어 있으니까."
+    },
+    {
+      "line": 1172,
+      "event": "skincare",
+      "english_sha256": "d27320a46a5ca57d6f9f0bbeec69f8d5389aaab6ea3d481fefd4508f13fa26e4",
+      "ko": "밤새 이 짓을 하느라 -N6 정신을 잃었지만, 친구들의 인정 덕분에 +N2 흥을 얻고, 오늘 좋은 일을 했으니(적어도 네 생각엔) +N2 영혼도 얻는다."
+    },
+    {
+      "line": 1173,
+      "event": "skincare",
+      "english_sha256": "d8c9f22bfe8433407b34bce344156e1a7af872861f29f64f5426e56b4f125eef",
+      "ko": "피부 관리 중 신을 만나서 +N2 마력도 얻는다... 아니면 신을 만났다고 믿을 정도로 엄청나게 환각에 빠져서 얻는 걸지도."
+    },
+    {
+      "line": 1174,
+      "event": "skincare",
+      "english_sha256": "6d87bf5566a8860c60b352b2f67bf10cecd1a1a15d89c30d9a131fd32322e7c2",
+      "ko": "피부는 언제나 필요한 걸 내어 준다!"
+    },
+    {
+      "line": 1182,
+      "event": "garbagetv",
+      "english_sha256": "4eec7f4d39144f57c38eb85bd568aa5a7f75bf71f2b230e20191dc7f1c36f32c",
+      "ko": "TV 좀 보기"
+    },
+    {
+      "line": 1185,
+      "event": "garbagetv",
+      "english_sha256": "53b475e2f529875a93a5919f39b7dcc6049534d981430da652773fc242ec3f85",
+      "ko": "아직 잠자리에 들 준비가 되지 않아 TV를 보기로 한다."
+    },
+    {
+      "line": 1186,
+      "event": "garbagetv",
+      "english_sha256": "3ae22a9575584c46ae60edb746f65bcbaad74cd82fcd9a0a8ad66b036bd81eff",
+      "ko": "아쉽게도 모텔엔 스트리밍 서비스가 없어서 18세기 농노처럼 케이블 TV를 봐야 한다."
+    },
+    {
+      "line": 1190,
+      "event": "garbagetv",
+      "english_sha256": "4a4580a61f77e6bbf229451825ae7a2e7fe011dbe2d86e4437943cc0c91c0204",
+      "ko": "한 채널에서는 TV 안에 말 그대로 갇혀 있는 작은 사람들이 출연하는 리얼리티 쇼가 방영 중이다."
+    },
+    {
+      "line": 1191,
+      "event": "garbagetv",
+      "english_sha256": "dbac70a46abbea400d4a38f0e79a156f8000d3847b5c8b8ed9edb62f2a672a42",
+      "ko": "“채널 돌리지 마세요!” 그들이 애원한다. “너무 배고파요! 저희는 계속 기다렸어요—”"
+    },
+    {
+      "line": 1192,
+      "event": "garbagetv",
+      "english_sha256": "bc39aa8aeb2633f96ca35f2d3c68ce9f5fbe48bb58965452f80bf8763a353bdd",
+      "ko": "으, 지루해 죽겠네. 다른 건 뭐 해?"
+    },
+    {
+      "line": 1194,
+      "event": "garbagetv",
+      "english_sha256": "2d959d0bb2a7fc12647cd8e1cd302467e91360af3b3e9847e76b91debc9f30c4",
+      "ko": "채널을 ‘뱀과 사다리’ TV판으로 돌린다."
+    },
+    {
+      "line": 1195,
+      "event": "garbagetv",
+      "english_sha256": "6102bcdcba7ee8e85f18efd179a1e78c5b94b74ab596c162edd4a6728be3c60d",
+      "ko": "무심한 남자가 다른 남자에게 말한다. “혼돈은 사다리야, 오랜 친구. 어쩌면 저 밖에 있는 유일한 사다리일지도. 아, 그리고 사다리는... 사다리이기도 하지.”"
+    },
+    {
+      "line": 1196,
+      "event": "garbagetv",
+      "english_sha256": "47e575046457646d56523dcc8f6e3eb1c6d8cd79f12d2254407312d986f11d1f",
+      "ko": "다른 엄청 진지한 사람이 대답한다. “그렇지... 우리의 꿈과 희망이 꼭대기에 놓여 있지. 너무 가까우면서도 너무 멀어.”"
+    },
+    {
+      "line": 1197,
+      "event": "garbagetv",
+      "english_sha256": "f27db871087f2af37cd26c6f7f4d89ac4fc2bfee526be8ef34f04326f6d5951a",
+      "ko": "“우릴 배신하고 미끄러운 몸통을 타고 내려가게 만드는 뱀들로 가득한 잔혹한 세상이로군...”"
+    },
+    {
+      "line": 1198,
+      "event": "garbagetv",
+      "english_sha256": "cb8e3f2c91e0908c4ab0df635f93ccc80ae39e634f9bd30e355c3ede874ae625",
+      "ko": "“이 세상은 바로... 뱀과 사다리의 세상이니까.”"
+    },
+    {
+      "line": 1199,
+      "event": "garbagetv",
+      "english_sha256": "04b48afccd156840c575c50ca042005e7198031e83808db8c800ab11c28195f8",
+      "ko": "방금 그 대사 나왔어!"
+    },
+    {
+      "line": 1200,
+      "event": "garbagetv",
+      "english_sha256": "ee3a55674fe7deba002fa895ae390fd3b1ecb59be58012c11f5e77233b86fb79",
+      "ko": "이 쇼는 너무 복잡한 것 같아. 다른 거 볼 수 있을까?"
+    },
+    {
+      "line": 1202,
+      "event": "garbagetv",
+      "english_sha256": "b71169d1165d5bf46bfb33e062d05687668857be1c7d943cc1e75bf36ade5233",
+      "ko": "다음 채널은 인어 왕국의 ‘완전히 객관적인 뉴스’ 방송이다."
+    },
+    {
+      "line": 1203,
+      "event": "garbagetv",
+      "english_sha256": "a0d7734aaa1c6b9d73fec25563df7b1ef83b41d52f38a450fce0405fa492e852",
+      "ko": "“오늘 뉴스입니다. 수면 위로 올라오는 모든 무단 침입자는 참수됩니다. 돌고래와 범고래를 비롯한 포유류는 임시 수면 거주 허가증을 신청해야 합니다.”"
+    },
+    {
+      "line": 1204,
+      "event": "garbagetv",
+      "english_sha256": "bc851e2ba40c49ef6cfa6eadedba981d082ce6de4f740b353eb48e43283dd31c",
+      "ko": "젠장, 관료주의라니. %CURRENTPLAYERNAME%, 좀 덜 지루한 채널 찾아줄래?"
+    },
+    {
+      "line": 1207,
+      "event": "garbagetv",
+      "english_sha256": "9a00d433f63c8d98cdf41523ae4283a98f25528e549dc84dbda5eb7c516e7e91",
+      "ko": "‘썩어 가는 주머니쥐 사체’라는 프로그램이야. 요즘 가장 인기 있는 미니시리즈지. 말도 안 되는데 반전은 끝내줘!"
+    },
+    {
+      "line": 1208,
+      "event": "garbagetv",
+      "english_sha256": "fdb126f8e1db025fafd70876333fcd93e613bf7f5b67e683736f23acf956aaa0",
+      "ko": "아주 기괴한 일본판 ‘스콧 스낵’ 광고만 연속으로 틀어 주는 마라톤이야. 분명 먹고 싶어질걸!"
+    },
+    {
+      "line": 1209,
+      "event": "garbagetv",
+      "english_sha256": "aa759921ecf212f361bab1e6f6cad6582de105a61d890c854c08ea89483c89ba",
+      "ko": "‘고대의 멜코르와 꼬맹이들의 흑마법 공작 시간!’"
+    },
+    {
+      "line": 1214,
+      "event": "garbagetv",
+      "english_sha256": "283bf87e26be9a13b797d66b6a970504fb3b4e21d9e1621133a783c61c3b52db",
+      "ko": "아, 이 쇼 얘기 들었어. 평론가들이 ‘죽여준다’고 하더라."
+    },
+    {
+      "line": 1215,
+      "event": "garbagetv",
+      "english_sha256": "70761d3a4718c933929158ebbb7926904f56be344fbb2ab22c735a6c781c7670",
+      "ko": "우와. 진짜 역겹지만 눈을 뗄 수가 없어."
+    },
+    {
+      "line": 1216,
+      "event": "garbagetv",
+      "english_sha256": "6982f3e78a5c9d8782364e21460288f51dea881a828cc60a763fc51d9b232eb3",
+      "ko": "그치? 팔이 떨어질까? 주머니쥐 몸의 어느 부위를 어떤 곤충이 가져갈까?"
+    },
+    {
+      "line": 1217,
+      "event": "garbagetv",
+      "english_sha256": "6014b7265755575926be1f6625ea9842b72f4d6f8d849a1d83835eecdf083adf",
+      "ko": "그리고 제일 중요한 건, 생김새만 보고 냄새까지 상상할 수 있느냐는 거지?"
+    },
+    {
+      "line": 1218,
+      "event": "garbagetv",
+      "english_sha256": "2e3c88b1511c8cad40f0e5ba75817aa679c9c305492fbb00f6956bd74980c22e",
+      "ko": "원한다 해도 이 아름답고 역겨운 자연의 힘에서 눈을 뗄 수 없을 것이다."
+    },
+    {
+      "line": 1219,
+      "event": "garbagetv",
+      "english_sha256": "7b82cf3a682a92aa031ef31caddbdda0bff4567486e74b9fdacc85f4a5b9dbee",
+      "ko": "말 그대로. 밤새 그 쇼를 보게 된다."
+    },
+    {
+      "line": 1220,
+      "event": "garbagetv",
+      "english_sha256": "800b4ecab778be6007df255ad347fcde7da789857000b4e2b8c1b8f3c982e9dc",
+      "ko": "정말 좋았어! 자연의 순환이 지닌 아름다움에 관한 숨은 메시지가 마음에 들었어."
+    },
+    {
+      "line": 1221,
+      "event": "garbagetv",
+      "english_sha256": "b174a40fe8a77183dfa7f62931b956580262267c37092ba93bf30d8666ad8b63",
+      "ko": "우리는 지구에서 살고 먹으며, 죽으면 다시 지구로 돌아가지... 고품질 TV 콘텐츠로 말이야."
+    },
+    {
+      "line": 1222,
+      "event": "garbagetv",
+      "english_sha256": "8d4ec2489149a909573f9967ecac50dd3ed66e5ee81aa714956c822847a52596",
+      "ko": "형... 주머니쥐가 살아남을까?"
+    },
+    {
+      "line": 1223,
+      "event": "garbagetv",
+      "english_sha256": "b41e2a96fffa1370254a295dabb2b053a575219f9237d37e4f11a9b7218404d0",
+      "ko": "글쎄..."
+    },
+    {
+      "line": 1224,
+      "event": "garbagetv",
+      "english_sha256": "2db7605a1490474f1ac703d0540585aec334fc392552da78695d89166e6b5e31",
+      "ko": "...그럴지도, 스콧."
+    },
+    {
+      "line": 1225,
+      "event": "garbagetv",
+      "english_sha256": "dcbe3c83500fd87d682f9a99fa1765085d3e5176b437dc3f206c13ea07c6c562",
+      "ko": "삶과 죽음의 무의미함을 마주하고 -N2 정신을 잃는다."
+    },
+    {
+      "line": 1226,
+      "event": "garbagetv",
+      "english_sha256": "08c2c4cdf9307fa91105d3b7458c7c1fad1105abbc508beaa574f2cb9e0c12d2",
+      "ko": "하지만 @DecomposingPossumPosse를 팔로우해 다른 팬들을 만나고 다음 에피소드의 전개를 토론하게 되어 +N2 흥을 얻는다!"
+    },
+    {
+      "line": 1231,
+      "event": "garbagetv",
+      "english_sha256": "698d31b40bd92dd3acca4a1840181f29edf9758cb00334ba3f556ae6f9607670",
+      "ko": "광고는 밍밍한 식이섬유 시리얼을 먹으며 우는 아이 둘로 시작한다."
+    },
+    {
+      "line": 1232,
+      "event": "garbagetv",
+      "english_sha256": "7818c621a0097fa8afcd614dc7ea4f7fa2c0c6329c9fee8da233e7c334bd3ea5",
+      "ko": "갑자기 스콧 탈인형이라고밖에 설명할 수 없는 옷을 입은 사람이 스콧 스낵 봉지를 들고 나타난다!"
+    },
+    {
+      "line": 1233,
+      "event": "garbagetv",
+      "english_sha256": "f39e197b6528fd4279c94d8a92a255e9e872394f26c90e0cb1fbb4122974c689",
+      "ko": "그는 ‘착한 멍멍이들!’이라고 외치며 아이들에게 과자를 던지고, 아이들은 노출 심한 수영복을 입은 근육질 보디빌더로 변한다."
+    },
+    {
+      "line": 1234,
+      "event": "garbagetv",
+      "english_sha256": "b7d8fd809cbca301fe233b30feaadead8792b887c0bf435eaca46d0f769cd4da",
+      "ko": "그는 지나가는 차에 과자를 던지며 ‘착한 멍멍이!’라고 외친다. 그러자 차는 노출 심한 수영복을 입은 근육질 로봇으로 변한다."
+    },
+    {
+      "line": 1235,
+      "event": "garbagetv",
+      "english_sha256": "99114c5166f89850a804d17d192f8a674004d882f378c834aa568ab8b6524b5f",
+      "ko": "부모가 나타나 아이들에게 무슨 일이 생겼냐고 묻는다. 스콧은 부모에게도 과자를 던지지만, ‘착한 멍멍이들!’이라고 하지는 않는다."
+    },
+    {
+      "line": 1236,
+      "event": "garbagetv",
+      "english_sha256": "4ea2b66a26d5defc6e15f7d6d8ed3f2f6dec2167d387614a83bbc98347b84a82",
+      "ko": "부모는 밍밍한 식이섬유 시리얼 그릇으로 변한다."
+    },
+    {
+      "line": 1237,
+      "event": "garbagetv",
+      "english_sha256": "5856a91a825a495918a08cbd814a8d7957a340677f934276d550db32e8b7a794",
+      "ko": "가족의 개가 짖기 시작한다. 형이상학적으로 보면 주인들이 사라졌고, 어쩌면 영영 돌아오지 않을 테니까."
+    },
+    {
+      "line": 1238,
+      "event": "garbagetv",
+      "english_sha256": "6682d112c5e85b752baf84cf5c1d5bb74684a31ec3b1d9a93212d1a7b6054616",
+      "ko": "스콧은 개에게 과자를 던지며 ‘착한 멍멍이!’라고 외친다. 개는 노출 심한 수영복을 입은 근육질 늑대인간으로 변한다."
+    },
+    {
+      "line": 1239,
+      "event": "garbagetv",
+      "english_sha256": "4400147a6d6025b407f49fa6bfb85f57eeda7ad1cc9121a39d79d54dae476b74",
+      "ko": "스콧은 카메라를 보며 외친다. ‘언제나 착한 멍멍이가 되자! 절대 착하지 않은 멍멍이는 되지 말자! 스콧 스낵: 착한 멍멍이의 맛!’"
+    },
+    {
+      "line": 1240,
+      "event": "garbagetv",
+      "english_sha256": "6aa445426c53dea8a097d6cc9785bb4ecdac5352e7158f5b5cd4b854c90a00db",
+      "ko": "정말 좋은 광고네! 그런데 내가 녹화한 기억은 없는데."
+    },
+    {
+      "line": 1241,
+      "event": "garbagetv",
+      "english_sha256": "9cbf484509a5c47cdeea12702769b189e49474eaac35ea9be04b0766e3442967",
+      "ko": "잠깐... 부모가 식이섬유 시리얼 그릇으로 변했다면, 저 아이들은 사람에서 변한 시리얼을 억지로 먹어야 했다는 거야? 그래서 울고 있었던 거야?"
+    },
+    {
+      "line": 1242,
+      "event": "garbagetv",
+      "english_sha256": "c5bafd9f37bcef35c4a703918721d5ba46f8b4f55e3f08bb74562f487c49986f",
+      "ko": "광고는 정말 기괴했지만 효과는 있었다. 스콧 스낵이 미친 듯이 당긴다. 온라인으로 몇 봉지 주문해서 -N2 돈을 잃지만 +N2 체력을 얻는다."
+    },
+    {
+      "line": 1243,
+      "event": "garbagetv",
+      "english_sha256": "27c5e285b9ca32e043953b95af40a59872f6b4f5a8074859d152747e627ecdb0",
+      "ko": "착한 멍멍이!"
+    },
+    {
+      "line": 1248,
+      "event": "garbagetv",
+      "english_sha256": "6555b997070980e91de6a9cb623e8ee535fa192793016b77fb83c5cbd94f1fdc",
+      "ko": "화면 속 흑마법사가 말한다. “안녕, 꼬맹이들. 우리 세계 말로는 ‘대악마들에게 영광을, 동지들이여!’라고 하지.”"
+    },
+    {
+      "line": 1249,
+      "event": "garbagetv",
+      "english_sha256": "c8853cc27209e350e965ebeabe79521e6228f8a30517b45b772dbb1d64f2781b",
+      "ko": "“친구 멜코르와 함께하는 흑마법 공작 시간 할 준비됐니?”"
+    },
+    {
+      "line": 1250,
+      "event": "garbagetv",
+      "english_sha256": "d02950db3878cb649ead7ed5e354a156b082057d15fd78f231e4d3e86ee6d304",
+      "ko": "저요! 저요! 준비됐어요! 저를 뽑아 주세요!"
+    },
+    {
+      "line": 1251,
+      "event": "garbagetv",
+      "english_sha256": "0167676bf82a6665a84c87e8adf239530776c79dc61e9bf59ee764c56ac28448",
+      "ko": "“준비됐어요!” 꼬맹이들이 섬뜩하게 한목소리로 말한다. “오늘은 뭘 만들 건가요, 멜코르?”"
+    },
+    {
+      "line": 1252,
+      "event": "garbagetv",
+      "english_sha256": "e5c458cf2830a17fcbbc4137aaf9db4567d2eb79c0f1607d9150c1cd7c7d805e",
+      "ko": "뭘 만들 건가요, 멜코르?! 꼭 알아야겠어요!!!"
+    },
+    {
+      "line": 1253,
+      "event": "garbagetv",
+      "english_sha256": "a0328670b279a28f27832fbb4a03da5426a93b82064b58ca0b2feb3bade880f6",
+      "ko": "“부두교 종이 인형을 만들 거란다! 풀과 색지, 그리고 파괴하고 싶은 사람의 DNA가 필요하지.”"
+    },
+    {
+      "line": 1254,
+      "event": "garbagetv",
+      "english_sha256": "5581e708c879c67a0117b7122281132dfb710fd2a5f1fec809a35c5e6eda86d4",
+      "ko": "“그런데 공예를 시작하기 전에, 꼬맹이들아 지금이 몇 시인지 아니?”"
+    },
+    {
+      "line": 1255,
+      "event": "garbagetv",
+      "english_sha256": "91918cbe3e1a046cfbd0b1e5dc463fbbeb9d0b735eec81ffa6472780f4996937",
+      "ko": "“제물 바칠 시간!” 꼬맹이들이 환호한다."
+    },
+    {
+      "line": 1256,
+      "event": "garbagetv",
+      "english_sha256": "5fd95eb907c1b681f847cab2cc7087666cd68b333b9c67ef5f99253d6ca69bac",
+      "ko": "“맞아! 모두 아이스크림 막대 하나씩 뽑아. 가장 짧은 막대를 뽑은 사람이 오늘 크래프터로스의 대악마들에게 바칠 제물이 되는 거야!”"
+    },
+    {
+      "line": 1257,
+      "event": "garbagetv",
+      "english_sha256": "c29f013fa4e7f10200c2290338c239fefbb24d2d73eb4f0966b025d2f01a1fef",
+      "ko": "어린 토비가 짧은 막대를 뽑는다. 꼬맹이들은 인도에 분필로 오각별을 그리며 노래한다."
+    },
+    {
+      "line": 1258,
+      "event": "garbagetv",
+      "english_sha256": "f900bf71672ec13accea96895bf1550a93e5a559d68ceb9b07416ac167353477",
+      "ko": "그런 다음 토비를 계속 찔러 달콤한 제물의 피를 흘리게 한다. 모두 웃으며 피 웅덩이에서 첨벙거린다. 즐거워라!"
+    },
+    {
+      "line": 1259,
+      "event": "garbagetv",
+      "english_sha256": "80eadeb1bf98beed9b57cd6811e4898d9c673a920a766950bc1aacbd1b9ad8bd",
+      "ko": "“정말 잘했어, 꼬맹이들! 대악마들이 만족했으니 이제 공작을 시작하자! 너희는 커서 훌륭한 흑마법사가 되겠구나.”"
+    },
+    {
+      "line": 1260,
+      "event": "garbagetv",
+      "english_sha256": "0172917c7ee79622fd16ac77aa75c9a4532907d819a6b75b5e6e5b2c3646038b",
+      "ko": "%CURRENTPLAYERNAME%, 우리도 여기서 공작하면 안 돼? 제발!"
+    },
+    {
+      "line": 1261,
+      "event": "garbagetv",
+      "english_sha256": "c741db9bb6ef280f9c19aa7b33c923d194e5dd968fbba1f71617ee6b272f6245",
+      "ko": "음... 이런 흑마법 공작은 네 영혼을 갉아먹을 게 뻔하지만, 저 강아지 같은 눈망울을 보면 거절할 수가 없다!"
+    },
+    {
+      "line": 1262,
+      "event": "garbagetv",
+      "english_sha256": "83f633639922489bb90447a5a1237dbf355c9950b056be74644d111cc2b5a584",
+      "ko": "가위와 반짝이 풀로 형언할 수 없는 짓을 저지른 탓에 -N2 영혼을 잃는다..."
+    },
+    {
+      "line": 1263,
+      "event": "garbagetv",
+      "english_sha256": "2a543224631793db82d06194349c314173be1aa843f1b93f72e6da2fc882f79c",
+      "ko": "하지만 우정의 마법 덕분에 +N2 마력을 얻는다! (네가 부리는 흑마법 덕분이기도 하지만.)"
+    },
+    {
+      "line": 1271,
+      "event": "wrongpizza",
+      "english_sha256": "69c51f7aeee858e846182873aecbbd8b874763c622d96b43b720361b11cdb7b8",
+      "ko": "피자 주문하기"
+    },
+    {
+      "line": 1274,
+      "event": "wrongpizza",
+      "english_sha256": "5180569e326628dbe243ed6ef411a271c6bb9d1b5d6c681739a6a6e8fa96928e",
+      "ko": "배를 비운 채 잠들 수는 없지! 피자를 주문하기로 한다. 문제는 여기 주변의 현지 식당을 아는 사람이 아무도 없다는 것이다."
+    },
+    {
+      "line": 1276,
+      "event": "wrongpizza",
+      "english_sha256": "3fff676b72edd36221b95078d1de679fd56e9d6a368623c3e4bd0b64f3258f14",
+      "ko": "피자를 먹으려면 전화로 주문하면 돼. 아무 번호나 걸어서 피자집인지 확인해 보자."
+    },
+    {
+      "line": 1277,
+      "event": "wrongpizza",
+      "english_sha256": "41e2272e76e3e1c2bfc56bcfecee041c673dcc595346a341730a95edc729d7a1",
+      "ko": "스콧, 아무 전화번호나 걸었는데 진짜 피자집이 나올 확률은 엄청나게 낮아."
+    },
+    {
+      "line": 1278,
+      "event": "wrongpizza",
+      "english_sha256": "ce54b60642983b4b281735a202cfa70c87d0b178ab07636949b968eb33f0da3c",
+      "ko": "그럼 확률을 높이려고 아무 번호나 잔뜩 걸자!"
+    },
+    {
+      "line": 1279,
+      "event": "wrongpizza",
+      "english_sha256": "a176ce64cc47bc7ab3bf00976556c31f5b43d1438501c4635e4aa4c567d433df",
+      "ko": "삐뽀 삐뽀 삐!"
+    },
+    {
+      "line": 1280,
+      "event": "wrongpizza",
+      "english_sha256": "f847da6bd602d7bb2ccd2e1b737ef5c779eeaf82caac6774f80e09d9dce48c89",
+      "ko": "여보세요, 피자집인가요? ...음, 그 정도면 비슷하네!"
+    },
+    {
+      "line": 1281,
+      "event": "wrongpizza",
+      "english_sha256": "58491a6bf3276338d1f555e8e08ea5e93c1150a2476611a2945b6f4b3710f31e",
+      "ko": "소시지와 페퍼로니를 듬뿍 올리고 치즈 크러스트를 채운 라지 사이즈 하나 주세요. 감사합니다!"
+    },
+    {
+      "line": 1282,
+      "event": "wrongpizza",
+      "english_sha256": "bedb6d3ad6f7baec23648bb604d42c79e81775f05bde2645171e3b392ab8b99e",
+      "ko": "우와, 첫 통화에 피자집을 찾았다고? 두 번째에도 또 피자집이 나올 확률은 얼마나 될까?"
+    },
+    {
+      "line": 1283,
+      "event": "wrongpizza",
+      "english_sha256": "e672efa3b102f612b4c7cdede88382dcb60f39bb6844562e0eca5e5c0d02320e",
+      "ko": "확률이 꽤 높을 것 같은데! 적어도 3번 중 5번은 성공할걸!"
+    },
+    {
+      "line": 1284,
+      "event": "wrongpizza",
+      "english_sha256": "a9202aba2185af4004831d403c0d9bb772192d2b258f2a599e48d3c157134e68",
+      "ko": "한번 알아보자."
+    },
+    {
+      "line": 1285,
+      "event": "wrongpizza",
+      "english_sha256": "d7be7cae257cd69680624352f347f2f8a798cc9a3b2ff5cc7388b655f205ef1f",
+      "ko": "안녕하세요, 피자 식당인가요?"
+    },
+    {
+      "line": 1286,
+      "event": "wrongpizza",
+      "english_sha256": "6c79232556a927ca58bad9591dac3d6552d735943b3b138d272e1583fdd9733d",
+      "ko": "...죽여주는 피자를 만든다고요? 딱 좋네요, 하나 주세요!"
+    },
+    {
+      "line": 1287,
+      "event": "wrongpizza",
+      "english_sha256": "4f6007eec225015a607cbd0fb3f285ac5acf97f45834093295c8a63c18b0eafd",
+      "ko": "...네, 물론이죠. 끊고 나면 이 전화기 부숴도 돼요. 끊을게요!"
+    },
+    {
+      "line": 1288,
+      "event": "wrongpizza",
+      "english_sha256": "1a4d2a006a6a8eff3f6c28d6da03af38a1abaee7ebc113bed2c05d2efdcfd8f7",
+      "ko": "폴리는 말한 대로 한다. 다행히 모텔 유선전화였다."
+    },
+    {
+      "line": 1289,
+      "event": "wrongpizza",
+      "english_sha256": "4a0e8f9d1c751d776d7d1a0f9aeb9c67635e9c1e8bb70a1b07fbd523ac5103ae",
+      "ko": "삼십 분 뒤, 문을 두드리는 소리가 한 번이 아니라 두 번 들린다."
+    },
+    {
+      "line": 1290,
+      "event": "wrongpizza",
+      "english_sha256": "97eed621dee34b3bdc194ba683a7154fc748147a48b376bdd9950e4681eb12c2",
+      "ko": "“스콧 하울 씨에게 뜨겁고 김이 모락모락 나는 소시지 하나 배달 왔습니다.” 사타구니에 피자 상자를 얹은 나체 남자가 말한다. “크러스트는 속을 꽉 채워 드릴게요, 큰형님.”"
+    },
+    {
+      "line": 1291,
+      "event": "wrongpizza",
+      "english_sha256": "aa1c555cc2446917678c616be5ca45883279517f061fe67a5d49b99b0e0cfd86",
+      "ko": "“폴리 가이스트 씨가 주문한 ‘피자’ 왔습니다.” 트렌치코트를 입은 수상한 남자가 말한다. “가명 좋네요. 빨리 끝냅시다.”"
+    },
+    {
+      "line": 1292,
+      "event": "wrongpizza",
+      "english_sha256": "4c2e1c42d9fdb60fd30755835dc4145e32e0cd10c16b7dc02480d5f249e8d729",
+      "ko": "이야, 재밌는 문제가 생겼네! 피자는 두 판인데 돈은 한 판 값밖에 없어!"
+    },
+    {
+      "line": 1293,
+      "event": "wrongpizza",
+      "english_sha256": "95874b4ad793c4bedab36683e050af6b24cf38f0c41d3ee8b5f982be7fec2bdf",
+      "ko": "%CURRENTPLAYERNAME%, 넌 이런 결정 잘하잖아. 뭐, 그런 거 있잖아. 어느 피자를 고를래?"
+    },
+    {
+      "line": 1294,
+      "event": "wrongpizza",
+      "english_sha256": "7aa08a861b79a96919e430290ed9b5f925e0cdd82f17f65837561bd83610e8ec",
+      "ko": "스트리퍼의 특대 소시지. 상자 안에 피자는 없을 것 같지만, 적어도 구경거리는 생기겠지!"
+    },
+    {
+      "line": 1295,
+      "event": "wrongpizza",
+      "english_sha256": "7c4b01fd1fcbc28e4df1d39b718c419d2a9fff23b23cf172e9c2bc3ec402b1d2",
+      "ko": "수상한 남자의 ‘피자’. 손가락 따옴표를 치는 게 수상하지만, 진짜 피자를 받을 확률은 그쪽이 더 높을지도 몰라."
+    },
+    {
+      "line": 1297,
+      "event": "wrongpizza",
+      "english_sha256": "0faa74b0b6e07ff63339270da2dedeeab48f82ef17d6463b2506c1d0dbe68e2f",
+      "ko": "너는 나체 남자를 안으로 들인다. 그는 곧장 스콧의 무릎 위에 앉는다."
+    },
+    {
+      "line": 1298,
+      "event": "wrongpizza",
+      "english_sha256": "1bb14df79c164aa5e4f21a42de1b6170e3bdabff8d0c4417dcb1cca546e8458d",
+      "ko": "우와! 뭐 하는 거야, 피자 형씨?"
+    },
+    {
+      "line": 1299,
+      "event": "wrongpizza",
+      "english_sha256": "e8165c354ba193ed191de733032703772d51b14399e8fbcb09323d83513ac002",
+      "ko": "“피자 배달이지, 당연히. 큰형님, 먹여 드릴까?”"
+    },
+    {
+      "line": 1300,
+      "event": "wrongpizza",
+      "english_sha256": "844eba7138e0de2bcc77b89a3ce3b3c8a5e1e7a109193fcd4dda243bce7ecb2c",
+      "ko": "좋아! 이야, 배달 서비스가 참 철저하네!"
+    },
+    {
+      "line": 1301,
+      "event": "wrongpizza",
+      "english_sha256": "a224c05fcfea0251f34950ffb3e94734a5489e1947f8aafd9b438167462db28a",
+      "ko": "스콧은 피자를 받지 못한다. 대신 스트리퍼가 이탈리아 국가를 트랩 리믹스로 튼 채 스콧에게 무릎춤을 춘다."
+    },
+    {
+      "line": 1302,
+      "event": "wrongpizza",
+      "english_sha256": "b050b205136f48302636ff09f5c71347a28807a568bd75dc00cced4ecff5db69",
+      "ko": "어... 춤은 멋졌는데, 아직 피자는 안 줬잖아. 언제 주는 거야?"
+    },
+    {
+      "line": 1303,
+      "event": "wrongpizza",
+      "english_sha256": "f7d098e96fb1a06df74172b7f9674397c8086af4b3444eefe63499587ec71355",
+      "ko": "“아, 더 원한다는 거야? 맛있는 감자튀김도 곁들여 줄까?”"
+    },
+    {
+      "line": 1304,
+      "event": "wrongpizza",
+      "english_sha256": "e4ec01c64994960becb1e8441fa87ba88e2f6a3db8452a6acc4e2c3365063376",
+      "ko": "그래, 감자튀김도 좀 먹을까 싶네."
+    },
+    {
+      "line": 1305,
+      "event": "wrongpizza",
+      "english_sha256": "e977b0fab68e60a90830c6a519c50f425e605e8b25f4bb976a271fb19a01c223",
+      "ko": "스트리퍼가 문을 열자, 감자튀김 모양의 유두 장식을 단 다른 스트리퍼가 들어온다!"
+    },
+    {
+      "line": 1306,
+      "event": "wrongpizza",
+      "english_sha256": "632febc5bcbcb60f087fc0d94d06b0a281a97ef4e9db8b9a57cd4083f32cad3f",
+      "ko": "있잖아, 나도 감자튀김이 당기네. 여기로 가져와, 자기."
+    },
+    {
+      "line": 1307,
+      "event": "wrongpizza",
+      "english_sha256": "d8a6f85f88370aae5edc0d4b475141408941c0bbc478c4de87bcdb59b617b2c5",
+      "ko": "폴리, 넌 원래 아무것도 안 먹잖아. 무슨 일이야?"
+    },
+    {
+      "line": 1308,
+      "event": "wrongpizza",
+      "english_sha256": "926359da6860f572663d2641c45ae9479328d6c94704a96b4d0555abdb6b8439",
+      "ko": "스콧, 난 이 사람들이 피자 배달원이 아니라는 걸 정확히 추리해 냈어. 스트리퍼들이야. 무릎춤을 배달하지."
+    },
+    {
+      "line": 1309,
+      "event": "wrongpizza",
+      "english_sha256": "21e9965a8f9e5b55047b733356bdf82a114cf914a74d042ab4eb97cd728409a8",
+      "ko": "아! 그래서 옷 벗는 건 엄청 잘하는데 음식 배달은 형편없었구나."
+    },
+    {
+      "line": 1310,
+      "event": "wrongpizza",
+      "english_sha256": "c7ea6eb828368370869df282d29c202694cdd36667f71779519d9a985bf2466d",
+      "ko": "스트리퍼들이 너희 모두에게 전신 밀착 배달을 해 준다. 여전히 배가 고파 -N2 체력을 잃지만 +N2 흥을 얻는다!"
+    },
+    {
+      "line": 1312,
+      "event": "wrongpizza",
+      "english_sha256": "04c9c65ef05b8c7ace2f46f70d194d66a6b807d8ef5cbfc7af6a1630422a0750",
+      "ko": "너는 수상한 남자를 안으로 들인다. 그가 말한다. “좋아, 빨리 끝내자고. 네가 물건을 주면 내가 ‘피자’를 줄게.”"
+    },
+    {
+      "line": 1313,
+      "event": "wrongpizza",
+      "english_sha256": "bb965f4622d4f5dd13d48e5968568c7750a220db68be397c6aa03c09ab52c252",
+      "ko": "그런데 왜 계속 손가락 따옴표를 쓰는 거야?"
+    },
+    {
+      "line": 1314,
+      "event": "wrongpizza",
+      "english_sha256": "7d0d32d27a3da2e810cdae5e392d2257b3fb3f014b244ef637cc1000b8708660",
+      "ko": "‘피자’가 마약이나 불법 페럿 같은 다른 걸 뜻하는 암호일 수 있으니까."
+    },
+    {
+      "line": 1315,
+      "event": "wrongpizza",
+      "english_sha256": "435e11393451d11201984dc4faee30508cd2c96cfee1e3cc6deb288ddc0286be",
+      "ko": "남자가 트렌치코트를 풀어 열고 안을 보여 준다. 주머니마다 들어 있는 것은..."
+    },
+    {
+      "line": 1316,
+      "event": "wrongpizza",
+      "english_sha256": "769ecb0a22b7c76ebdd3f77daf62561e8de9468277b2da0e05440b370137966b",
+      "ko": "피자 조각이다. 상자에 담긴 것도 아니다. 그냥 피자 조각이 주머니에 들어 있다."
+    },
+    {
+      "line": 1317,
+      "event": "wrongpizza",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 1318,
+      "event": "wrongpizza",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 1319,
+      "event": "wrongpizza",
+      "english_sha256": "3728d671f1a9fe6a0bc42e29e26db786be852161073f56de2d436aedad82107f",
+      "ko": "“살 거야, 말 거야?”"
+    },
+    {
+      "line": 1320,
+      "event": "wrongpizza",
+      "english_sha256": "1976e7477a26b6802bad7bcaa8915ab5ac8cd493ee46a065ae282e58ac75015d",
+      "ko": "좋아!"
+    },
+    {
+      "line": 1321,
+      "event": "wrongpizza",
+      "english_sha256": "a4cde00c89de2191c8e4110f0f5809e949de77ae863fbf366624faaeb73b4c21",
+      "ko": "스콧이 한 조각을 먹는다. 폴리도 먹어 보는데, 아직 이게 마약이 아니라는 확신이 없기 때문이다."
+    },
+    {
+      "line": 1322,
+      "event": "wrongpizza",
+      "english_sha256": "3c8161d2fdea3351e9992d6599a08d88ab645dd81f122db28f1ef9ca6bbfa383",
+      "ko": "내가 먹어 본 피자 중 최고야! 비결은 페럿이야? 페럿이 이렇게 맛있는 줄 몰랐어!"
+    },
+    {
+      "line": 1323,
+      "event": "wrongpizza",
+      "english_sha256": "98a950c57b52f0364c8c1f7c7763f065c8376ae1ef9f15dceedeac39a98b28b8",
+      "ko": "놀랍게도 불법 약물은 하나도 안 들었네. 그냥 피자라면서 왜 ‘피자’라고 부른 거야?"
+    },
+    {
+      "line": 1324,
+      "event": "wrongpizza",
+      "english_sha256": "523bebfd10926253710666abaadefa5b05ce9bd6345a0fed68ac769024e1223c",
+      "ko": "“피자가 아니니까. ‘피자’지. 너무 맛있어서 법적으로 피자라고 부를 수 없는 피자야.”"
+    },
+    {
+      "line": 1325,
+      "event": "wrongpizza",
+      "english_sha256": "b52c4270518a5d1256ec4887cf759a66f1c48b6636d17a0479df88a3224f85a8",
+      "ko": "“게다가 비싸지도 않아! 대가는 내가 네가 이걸 먹는 사진 몇 장을 찍는 거야. 나중에 협박 자료로 쓸 수도 있고, 아닐 수도 있지.”"
+    },
+    {
+      "line": 1326,
+      "event": "wrongpizza",
+      "english_sha256": "9d2ea743d1f967addbe59ce69f05827746fe3eb5a944b6130132d1bd1fb032be",
+      "ko": "아, 좋아! 왼쪽에서 찍어 줘. 사람들이 그쪽 얼굴이 더 잘 나온다고 하더라고!"
+    },
+    {
+      "line": 1327,
+      "event": "wrongpizza",
+      "english_sha256": "856e8abd8e48956f8cddefd29fb200d9524ad9abe38ac6add391cb46f531db47",
+      "ko": "이 사진들을 다크 웹에 올릴 거면 나도 태그하는 거 잊지 마!"
+    },
+    {
+      "line": 1328,
+      "event": "wrongpizza",
+      "english_sha256": "5f1e487505b06768b8925b424ee7023c7f4ed3e9cbe258f8175d052a1c80e13e",
+      "ko": "이 모든 게 엄청 수상하다는 건 분명하다. -N2 영혼을 잃는 것만 봐도 알 수 있다. 하지만 ‘피자’를 배불리 먹었으니 +N2 체력을 얻는다."
+    },
+    {
+      "line": 1336,
+      "event": "outlawteam",
+      "english_sha256": "92f0acd5d2ab4c858cf4950b0dd6608a74150c4fe8d9d182f2683e9a46d4cabc",
+      "ko": "술집에 가기"
+    },
+    {
+      "line": 1341,
+      "event": "outlawteam",
+      "english_sha256": "67f5453f4ebc4b9ed415175f4088db4e2f2cb2b7412313dd0b8cb3b66cedd2f0",
+      "ko": "술집에 간다. 거친 카우보이들, 판돈이 큰 포커 게임, 그리고 씻지 않은 말 궁둥이가 가득하다."
+    },
+    {
+      "line": 1342,
+      "event": "outlawteam",
+      "english_sha256": "1e3bc65837b71a9292ed50a4405575155f4d567d346a50ccf681560e2927a335",
+      "ko": "너희는 포커 테이블에 앉는다. 패를 받기도 전에 술집의 양쪽 문이 극적으로 쾅 열려젖혀진다!"
+    },
+    {
+      "line": 1343,
+      "event": "outlawteam",
+      "english_sha256": "52a079cb23e387c6b3bb73f56e0294d37460965e2ffe8216b6a4cf0ae428b458",
+      "ko": "숨을 헐떡이는 카우보이가 문간에 서 있다. “내 이름은 오토 ‘데드아이’ 맥크레이야.” 그가 말한다."
+    },
+    {
+      "line": 1344,
+      "event": "outlawteam",
+      "english_sha256": "e3ec847c9dfc07e8573184402f6d2b0f298e38d84c2705d9d0a74e5c776269d6",
+      "ko": "“무법자 패거리가 우리 엄마 농장을 괴롭히고 있어. 리볼버를 잘 다루는 괴짜 무리를 모아 농장을 구하려고 왔지. 나랑 함께할 사람?”"
+    },
+    {
+      "line": 1349,
+      "event": "outlawteam",
+      "english_sha256": "aa056b95611069719f780b0aa6f1f60d28de57d2ef1c19b4dc9a0a545b9727dc",
+      "ko": "좋아, 데드아이. 근데 내 말 좀 들어. 난 폴리 ‘러프 라이더’ 가이스트야. 이 카우보이들은 내가 먼저 발견했으니까, 씨발 저리 꺼져."
+    },
+    {
+      "line": 1350,
+      "event": "outlawteam",
+      "english_sha256": "553cc2c035a7d613ad776acaeab011223f1679c11709890f4ce5aaec8f7d1d84",
+      "ko": "폴리, 데드아이를 도와주는 게 낫지 않을까? 어머니가 위험하잖아!"
+    },
+    {
+      "line": 1351,
+      "event": "outlawteam",
+      "english_sha256": "59969ddb3f72aa6bf4b6b552dcc6249da7fc80edc9c64a47fabeb89ff4d203ee",
+      "ko": "하지만 포커가 취소되면 위험한 건 나야! 지루해서 죽을 수도 있다고! 예전에도 그런 적 있어!"
+    },
+    {
+      "line": 1352,
+      "event": "outlawteam",
+      "english_sha256": "d71fa8bc488b8da92735a876ebd30da08fda8372c70fd227ccf26cff2f5f096b",
+      "ko": "둘 다 만족시킬 방법이 있을 거야. 카우보이 몇 명은 데드아이와 함께 가고, 나머지는 여기 남아서 포커를 치면 되잖아."
     }
   ]
 }

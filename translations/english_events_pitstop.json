@@ -5070,6 +5070,1686 @@
       "event": "pitstop_passenger_loveanother_zoe_2",
       "english_sha256": "9f2f3b89a461bacba10d53a3b8d356d6be2d3876b6faf867646ca03324ca1f15",
       "ko": "으, 미안. 오늘 밤은 안 돼. \"드래곤 히트\" 최신 화가 방금 올라왔거든!"
+    },
+    {
+      "line": 1710,
+      "event": "pitstop_passenger_loveanother_zoe_2",
+      "english_sha256": "4e8ca2e527706d5facf5746b1d4d017f2723646533c4e97e0102c474141c73a7",
+      "ko": "바네세리아와 모가나 폰 브레스트라이히는 세상의 선함과 섹시함을 모조리 파괴하기 전에, ‘모두를 지배할 진동 콕링’ 속 사악한 성병 악마들을 퇴마할 수 있을까?!"
+    },
+    {
+      "line": 1711,
+      "event": "pitstop_passenger_loveanother_zoe_2",
+      "english_sha256": "6dbe439a3a07b409be8e7fb6db9d2444d45bbad0c304325e74cddebd5b733dc3",
+      "ko": "열기가 진짜 장난 아니야. 지금 당장 읽어야겠어! 잘 가!"
+    },
+    {
+      "line": 1716,
+      "event": "pitstop_passenger_loveanother_stu_1",
+      "english_sha256": "6f1ae1c64a0e7947ab7bdb67f40e8da898b0d183e1dad1a56d86a376be04291f",
+      "ko": "안녕, %CURRENTPLAYERNAME%. 같이 놀래?"
+    },
+    {
+      "line": 1717,
+      "event": "pitstop_passenger_loveanother_stu_1",
+      "english_sha256": "de0151d6f9317355dcb1eb80882c826ee5fffe263fc57731bc8048615fe285ac",
+      "ko": "미안, 오늘 밤은 안 돼. 오늘은 인명구조원 당번이거든."
+    },
+    {
+      "line": 1718,
+      "event": "pitstop_passenger_loveanother_stu_1",
+      "english_sha256": "b623acfe866603f1cdc4d4574adfd1eccd4a5f6da0c4892cae865da68e1de7cf",
+      "ko": "뭐라고? 어떻게? 우리 사막 한복판에 있잖아!"
+    },
+    {
+      "line": 1719,
+      "event": "pitstop_passenger_loveanother_stu_1",
+      "english_sha256": "d2c92de36e1f478bdf808810e7ed199e7ceda54bf839b618c259a36828ae0574",
+      "ko": "사람들이 네가 그렇게 생각하길 바라는 거지. 인명구조원 일은 결국 심리전이라고, 친구."
+    },
+    {
+      "line": 1720,
+      "event": "pitstop_passenger_loveanother_stu_1",
+      "english_sha256": "0f5fa766cdb54b783a21de82e8b69929fe388f9a977db76c9ee037c36d5ef897",
+      "ko": "내가 등을 돌린 순간 애 하나가 웅덩이에 빠져 익사하기라도 하면, 난 고소당해 탈탈 털릴 거라고."
+    },
+    {
+      "line": 1721,
+      "event": "pitstop_passenger_loveanother_stu_1",
+      "english_sha256": "979825f20bea0fdafccec858668df883413a5a9ea6646c0bab28c40014f84028",
+      "ko": "흥, 그렇게 쉽게 당하진 않아. 오늘 밤은 철통같이 경계할 거야. 다음에 놀자."
+    },
+    {
+      "line": 1726,
+      "event": "pitstop_passenger_loveanother_stu_2",
+      "english_sha256": "34744e6f693571296f3ca56913a0f759a03840df9e34dd84af567db9ad0d59d6",
+      "ko": "아, 안녕... 얘기하고 싶어? 미안하지만 오늘 밤은 안 돼."
+    },
+    {
+      "line": 1727,
+      "event": "pitstop_passenger_loveanother_stu_2",
+      "english_sha256": "5e36f46a3df49be962a7c4b1b4dbefc1e6b641a543ecdf2e33f06ec94807616d",
+      "ko": "나 세탁소 야간 근무에 엄청 늦었어어어."
+    },
+    {
+      "line": 1728,
+      "event": "pitstop_passenger_loveanother_stu_2",
+      "english_sha256": "40e6dc43e99c02a66536a9b510e62c60d33c4fb7c26761ab9bb962caea77163f",
+      "ko": "잠깐, 너 아직도 세탁소에서 일해? 우리랑 여행 다니기 시작한 뒤로 네가 근무하는 걸 한 번도 못 봤는데."
+    },
+    {
+      "line": 1729,
+      "event": "pitstop_passenger_loveanother_stu_2",
+      "english_sha256": "afe89e12925585ee31a0765826e33c320560ef59bb141f4233d9e8552afe3b0e",
+      "ko": "바로 그거야! 엄청 늦었다고! 지난주에 점장님이 한 번만 더 늦으면 해고라고 했단 말이야!"
+    },
+    {
+      "line": 1730,
+      "event": "pitstop_passenger_loveanother_stu_2",
+      "english_sha256": "fb33c460919f1f0a562df1a74a2749d33bfc785cdeebe5b25575a5c9f234f30e",
+      "ko": "빨리 움직여야겠다... 가는 길에 멈춰서 젤리 벌레도 사 먹으려면 말이지... 어쨌든 나중에 얘기하자."
+    },
+    {
+      "line": 1732,
+      "event": "pitstop_passenger_loveanother_stu_2",
+      "english_sha256": "f862202f8fa660a47b62b8dd338d090b30b685bc827fe39d7b573df90281f0ee",
+      "ko": "다섯 분 뒤, 스튜는 사탕을 먹느라 정신이 팔려 자기가 뭘 하려 했는지 완전히 잊어버린다... 그래도 너와 밤새 얘기하진 않게 됐다. 아쉽네."
+    },
+    {
+      "line": 1737,
+      "event": "pitstop_passenger_loveanother_yellow_1",
+      "english_sha256": "8d4e7d368f2a423b21f1f06d873a2a0b9479c2512b56f790251aa7425e1a76b6",
+      "ko": "안녕, 오즈! 같이 놀래?"
+    },
+    {
+      "line": 1738,
+      "event": "pitstop_passenger_loveanother_yellow_1",
+      "english_sha256": "275d6f45adc5ee4075137f44a45f5cd88a24fefab7f8be63151ae03f3572a816",
+      "ko": "(아, 젠장, 어떡하지? 진짜 내키지 않는데...)"
+    },
+    {
+      "line": 1739,
+      "event": "pitstop_passenger_loveanother_yellow_1",
+      "english_sha256": "ae214a54a10ddd39c0849d5666acfa286c58aa0f4d27cf27c48dfa55ad9dcb45",
+      "ko": "(하지만 %CURRENTPLAYERNAME%를 거절해서 %HIMHER%에게 상처를 주면 어떡하지? 못되게 보이고 싶진 않은데...)"
+    },
+    {
+      "line": 1740,
+      "event": "pitstop_passenger_loveanother_yellow_1",
+      "english_sha256": "3fbaf018fb62502d135e8a4c0cc96ce25f5f88b3ac15668a5826a7b851bebb0e",
+      "ko": "(%CURRENTPLAYERNAME%에게 상처 주지 않고 거절할 방법이 있을 거야... 아, 좋은 생각이 났어!)"
+    },
+    {
+      "line": 1741,
+      "event": "pitstop_passenger_loveanother_yellow_1",
+      "english_sha256": "76859d45b0b454da24705777fff0ec5e44a82997fedc513d307b3c059af1fa81",
+      "ko": "나 오줌 마려워!"
+    },
+    {
+      "line": 1743,
+      "event": "pitstop_passenger_loveanother_yellow_1",
+      "english_sha256": "536b23e997aa29956e57b67bdcce1ecca862e654a14dbcfd918e8d132c49f080",
+      "ko": "오즈는 화장실로 전력 질주하더니 밤새 문을 잠그고 나오지 않는다. 거절하는 방법도 참 가지가지다."
+    },
+    {
+      "line": 1748,
+      "event": "pitstop_passenger_loveanother_yellow_2",
+      "english_sha256": "e3190773a7fa59b51490a84a17c0f4084ef1fd9c6a16e56931af5d5a7a9fff40",
+      "ko": "안녕, 오즈! 같이 놀래?"
+    },
+    {
+      "line": 1749,
+      "event": "pitstop_passenger_loveanother_yellow_2",
+      "english_sha256": "aa405966b10dfb9627e66d4d92f1e29144089777e6cddb72c9e522aeac9cabce",
+      "ko": "아, 미안하지만 안 돼. 오늘 밤은 바빠."
+    },
+    {
+      "line": 1750,
+      "event": "pitstop_passenger_loveanother_yellow_2",
+      "english_sha256": "27ecb105d622ccc29e92489fe97f328ce047b0002a1815cc56c00aa27a68b50f",
+      "ko": "아, 젠장. 뭐 하느라 바쁜데?"
+    },
+    {
+      "line": 1751,
+      "event": "pitstop_passenger_loveanother_yellow_2",
+      "english_sha256": "3efed1604698842e693b7db64d412267c0f1fe833fe25daf4f2c98f5cf92013b",
+      "ko": "어... (제기랄)... 난... 어..."
+    },
+    {
+      "line": 1752,
+      "event": "pitstop_passenger_loveanother_yellow_2",
+      "english_sha256": "06eb70465414852846c2ddac22eeced92e0da824551a5f86abcb6a7595de7b6c",
+      "ko": "자동차 트렁크 점검 중이야!"
+    },
+    {
+      "line": 1754,
+      "event": "pitstop_passenger_loveanother_yellow_2",
+      "english_sha256": "4fbea0d80ba06dff6a1df06358ffae1067f6dbcb91ef44d26f4fe60f751993fe",
+      "ko": "오즈는 너를 피하려고 필사적으로 트렁크 안에 몸을 구겨 넣는다. 아야."
+    },
+    {
+      "line": 1759,
+      "event": "pitstop_passenger_loveanother_red_1",
+      "english_sha256": "5908dfa1ec2c6b1474c2781f0c7e8630b7df6ea578d146d8c2c4b5146c3acdf0",
+      "ko": "안녕, 아미라! 같이 놀래?"
+    },
+    {
+      "line": 1760,
+      "event": "pitstop_passenger_loveanother_red_1",
+      "english_sha256": "dc601afa3f9e9f2f89c14cd7c3ecdd849f18cd172fe2f98e485af2f339e2a6ee",
+      "ko": "음... 됐어. 벽에 머리 박으러 가야 하거든!"
+    },
+    {
+      "line": 1761,
+      "event": "pitstop_passenger_loveanother_red_1",
+      "english_sha256": "38a4ed9cee1bb9a60de8ed97ac3538c2ed4fd422c9bc7d155b4264fd355c28d2",
+      "ko": "같이 벽에 머리 박을래?"
+    },
+    {
+      "line": 1762,
+      "event": "pitstop_passenger_loveanother_red_1",
+      "english_sha256": "49971645607072c792f17d11e30e38b73bc3b14b097e818fa351b38b3bc1dce3",
+      "ko": "……아니?"
+    },
+    {
+      "line": 1763,
+      "event": "pitstop_passenger_loveanother_red_1",
+      "english_sha256": "9da562a9298d1fa751ff9ac82c98fbef339fd04a52a63a9ee89dcadb94b41c2e",
+      "ko": "봐, 우린 공통 관심사가 별로 없잖아. 오늘 밤은 각자 할 일 하자, 응?"
+    },
+    {
+      "line": 1768,
+      "event": "pitstop_passenger_loveanother_red_2",
+      "english_sha256": "5908dfa1ec2c6b1474c2781f0c7e8630b7df6ea578d146d8c2c4b5146c3acdf0",
+      "ko": "안녕, 아미라! 같이 놀래?"
+    },
+    {
+      "line": 1769,
+      "event": "pitstop_passenger_loveanother_red_2",
+      "english_sha256": "51a9f5ab649c1626e5bd52116067290fe663f356f29a9f86985476073f6b0cb9",
+      "ko": "아... 음... 어떻게 말해야 할까..."
+    },
+    {
+      "line": 1770,
+      "event": "pitstop_passenger_loveanother_red_2",
+      "english_sha256": "a06fcf42f6466d9178edfccb0cb3bc4bb0d40c78258d071f83567fb8f6952083",
+      "ko": "“아니.”"
+    },
+    {
+      "line": 1771,
+      "event": "pitstop_passenger_loveanother_red_2",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 1772,
+      "event": "pitstop_passenger_loveanother_red_2",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 1773,
+      "event": "pitstop_passenger_loveanother_red_2",
+      "english_sha256": "a6e780b9f81c211a2a1cc029c1391b7b8be76c15fdd0c7a6d852850addf33f9e",
+      "ko": "젠장, 완벽하게 거절한 것 같은데. 나 거절의 달인 맞지?!"
+    },
+    {
+      "line": 1774,
+      "event": "pitstop_passenger_loveanother_red_2",
+      "english_sha256": "757eeba7548fcf8605dfdc0327560a5d371244efbf52c50cc2742ae3da173a6e",
+      "ko": "그러게... 이제 넌 거절당하기의 달인이 됐네. 어쩐지 그쪽은 보람이 별로 없지."
+    },
+    {
+      "line": 1779,
+      "event": "pitstop_passenger_loveanother_blue_1",
+      "english_sha256": "fd5646860dcc74d47ed8a678f8aa5abd9569b910fc142a49549b3e6969840b18",
+      "ko": "아, 안녕 %CURRENTPLAYERNAME%."
+    },
+    {
+      "line": 1780,
+      "event": "pitstop_passenger_loveanother_blue_1",
+      "english_sha256": "c0b0e8aabff06e6ede83b96b990b043403609049176f1bffa222f2703286fc45",
+      "ko": "안녕, 비키! 오늘 밤 나랑 같이 놀래?"
+    },
+    {
+      "line": 1781,
+      "event": "pitstop_passenger_loveanother_blue_1",
+      "english_sha256": "201b932ef009067b34b37502df6a608b14b37e978089e35b0cd1e47d9ccffb89",
+      "ko": "음... 미안하지만 사양해야겠어."
+    },
+    {
+      "line": 1782,
+      "event": "pitstop_passenger_loveanother_blue_1",
+      "english_sha256": "b3465db7fbeac1a9ec50883eb6e29e6bb9dbec44baae4c61721cf97c0e9568c7",
+      "ko": "넌 괜찮은 사람이고 뭐... 근데 우리 사이엔 그 “불꽃”이라는 게 없잖아, 알지?"
+    },
+    {
+      "line": 1783,
+      "event": "pitstop_passenger_loveanother_blue_1",
+      "english_sha256": "465d76200fb0ffb30d3b2f190ef0c4200c585055650d885d0deb9a7d03f5d006",
+      "ko": "걱정 마. 언젠가는 완벽한 짝을 찾을 거야! 오늘은 아니고, 언젠가는!"
+    },
+    {
+      "line": 1788,
+      "event": "pitstop_passenger_loveanother_blue_2",
+      "english_sha256": "a9d8d301ac7f96b7a71b029fea2e1e499c36a250594a4582f30e79877077d3fd",
+      "ko": "안녕, 비키! 얘기 좀 할래?"
+    },
+    {
+      "line": 1789,
+      "event": "pitstop_passenger_loveanother_blue_2",
+      "english_sha256": "6c7bf06b1defaf6d93a4798271d20e4ee4a66f8815a9f68cbd026b39bbf4f275",
+      "ko": "오늘 밤은 안 돼. 꼭 끝내야 하는 엄청난 책 시리즈를 찾았거든!"
+    },
+    {
+      "line": 1790,
+      "event": "pitstop_passenger_loveanother_blue_2",
+      "english_sha256": "f985d1eb275e8b109f0f22114349086014bc2f16e35c0662d1b9dff962936d33",
+      "ko": "비키가 읽는 두꺼운 책의 제목을 확인한다. 『리튬 배터리의 총체적 역사: 제3권, 총 8권』"
+    },
+    {
+      "line": 1791,
+      "event": "pitstop_passenger_loveanother_blue_2",
+      "english_sha256": "bc0c986a64eef9fb6e145acb4518ed012950779011c01dbc51f5214590f1f583",
+      "ko": "미안하지만 양극과 음극을 다루는 이 장이 네가 무슨 말을 하든 그것보다 훨씬 흥미로워. 기분 나빠하진 마."
+    },
+    {
+      "line": 1792,
+      "event": "pitstop_passenger_loveanother_blue_2",
+      "english_sha256": "623e2710c551837fb0820898bc5792d6f24f6c2a57cd5af7f0b6a5e796c692d5",
+      "ko": "이 시리즈를 다 읽으면 얘기하자... 아니면 여행이 끝난 뒤에. 둘 중 먼저 오는 때로, 알겠지?"
+    },
+    {
+      "line": 1798,
+      "event": "pitstop_passenger_loveanother_green_1",
+      "english_sha256": "ff664c33625d547929d0dc06830e86529bf2a2f72d438cf1151f055419d9eef2",
+      "ko": "안녕, 브라이언!"
+    },
+    {
+      "line": 1799,
+      "event": "pitstop_passenger_loveanother_green_1",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 1800,
+      "event": "pitstop_passenger_loveanother_green_1",
+      "english_sha256": "f3cf014fdda79be5410640c02bbe9db6dbb40f78d1bec2613d1bd2ca56af4b28",
+      "ko": "같이 놀래?"
+    },
+    {
+      "line": 1801,
+      "event": "pitstop_passenger_loveanother_green_1",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 1802,
+      "event": "pitstop_passenger_loveanother_green_1",
+      "english_sha256": "2f6dcd38e4b5a537e6152f8c7b3d8acec74748600cc01ae1f18125311e017e72",
+      "ko": "어... 그건 거절이라는 뜻이야?"
+    },
+    {
+      "line": 1803,
+      "event": "pitstop_passenger_loveanother_green_1",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 1804,
+      "event": "pitstop_passenger_loveanother_green_1",
+      "english_sha256": "5306a463e09a7430f3b5590456c93a51648b563a565ae558d8a19fab0797807a",
+      "ko": "……*드르르르*……"
+    },
+    {
+      "line": 1805,
+      "event": "pitstop_passenger_loveanother_green_1",
+      "english_sha256": "1beb1ab97fd735a8beb2370e610f8d7a965886e22b1125a8f2606c8b2bda2a25",
+      "ko": "글쎄, 적어도 승낙은 아니네. 브라이언은 네가 깨우려는 시도에도 아랑곳없이 잠만 잔다. 결국 너는 친구 하나 없이 외롭게 남은 밤을 보낸다."
+    },
+    {
+      "line": 1810,
+      "event": "pitstop_passenger_loveanother_green_2",
+      "english_sha256": "fd70f75194206d53db07813791ce132d2027686419b947c098f9d95d2cb2ca87",
+      "ko": "안녕, 브라이언! 오늘 밤 바빠?"
+    },
+    {
+      "line": 1811,
+      "event": "pitstop_passenger_loveanother_green_2",
+      "english_sha256": "3d08b37cdf5c2183bc5d33dda0ba25815d4430bcfee0340f1f5bc1eb3adff06f",
+      "ko": "아니."
+    },
+    {
+      "line": 1812,
+      "event": "pitstop_passenger_loveanother_green_2",
+      "english_sha256": "6c5b0ba134bb47b671e5e561f422990f694269f36ff26d759fe0aafedf4613d5",
+      "ko": "좋아! 같이 놀래?"
+    },
+    {
+      "line": 1813,
+      "event": "pitstop_passenger_loveanother_green_2",
+      "english_sha256": "3d08b37cdf5c2183bc5d33dda0ba25815d4430bcfee0340f1f5bc1eb3adff06f",
+      "ko": "아니."
+    },
+    {
+      "line": 1814,
+      "event": "pitstop_passenger_loveanother_green_2",
+      "english_sha256": "f861ef748e5790fd0ba42246d5c0fdf8c7e88525df2663520546f2e3041b7b9f",
+      "ko": "아... 왜 그런지 물어봐도 돼?"
+    },
+    {
+      "line": 1815,
+      "event": "pitstop_passenger_loveanother_green_2",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 1816,
+      "event": "pitstop_passenger_loveanother_green_2",
+      "english_sha256": "3d08b37cdf5c2183bc5d33dda0ba25815d4430bcfee0340f1f5bc1eb3adff06f",
+      "ko": "아니."
+    },
+    {
+      "line": 1818,
+      "event": "pitstop_passenger_loveanother_green_2",
+      "english_sha256": "2fb2f754748e835f2dc4a350774fad491aef5632e13bd84d39307d08e0542c60",
+      "ko": "그는 떠난다... 아프네."
+    },
+    {
+      "line": 1823,
+      "event": "pitstop_passenger_loveanother_adrien_1",
+      "english_sha256": "cbf04ac43fa059a348e9e37927e6f14a0b2c0230e4ba799c2af64c6dc7a13954",
+      "ko": "아, %CURRENTPLAYERNAME%... 미안하지만 오늘 밤은 같이 놀 수 없소."
+    },
+    {
+      "line": 1824,
+      "event": "pitstop_passenger_loveanother_adrien_1",
+      "english_sha256": "44353c852a94f888d167975c2754dd97a814c804dc9c3a5af105f304f0c0d4cf",
+      "ko": "기사로서 해야 할 의무가 있소."
+    },
+    {
+      "line": 1825,
+      "event": "pitstop_passenger_loveanother_adrien_1",
+      "english_sha256": "9f7156fa2c119f4c7d08ec011c20d21cb26db46a966a9c368033a6f9162d8910",
+      "ko": "오, 무슨 기사도 의무인데?"
+    },
+    {
+      "line": 1826,
+      "event": "pitstop_passenger_loveanother_adrien_1",
+      "english_sha256": "d551762fb10c7b2c6b098e2dfedafed22b312af7b492edbecd939083eb6d7c85",
+      "ko": "그건 기밀이오. 다른 인어 기사들... 혹은 아주 가까운 친구에게만 알려 줄 수 있소."
+    },
+    {
+      "line": 1827,
+      "event": "pitstop_passenger_loveanother_adrien_1",
+      "english_sha256": "295f0cf0449aa73bef27b1967ebd452d58c8eefe684a0f9822eb47750c7a45b6",
+      "ko": "하지만... 우리 꽤 친한 친구 사이잖아?"
+    },
+    {
+      "line": 1828,
+      "event": "pitstop_passenger_loveanother_adrien_1",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 1829,
+      "event": "pitstop_passenger_loveanother_adrien_1",
+      "english_sha256": "52ea67359dfa70ce35169fd2493590d8371919161a7fb2e28e322863448b9a87",
+      "ko": "잘 가시오."
+    },
+    {
+      "line": 1834,
+      "event": "pitstop_passenger_loveanother_adrien_2",
+      "english_sha256": "eb0a7151ffd9b8e0790ad8932c0a20549a07ba45a5b826673f1d329ec71c1d94",
+      "ko": "아드리앵이 검술을 연습하는 모습을 발견한다. 정신을 온통 집중하고 있다. 지금이야말로 그의 관심을 끌기 딱 좋은 때다!"
+    },
+    {
+      "line": 1835,
+      "event": "pitstop_passenger_loveanother_adrien_2",
+      "english_sha256": "b57c370a0fcc704562e14bc1765dfc6e573fde46ebfda7c229e9f429b5f5697a",
+      "ko": "이봐!"
+    },
+    {
+      "line": 1836,
+      "event": "pitstop_passenger_loveanother_adrien_2",
+      "english_sha256": "1bd5da266d7e6df3da8ae7dff06242daf92a826938fbeac952b62c9943446503",
+      "ko": "으아악! 기습이다!"
+    },
+    {
+      "line": 1837,
+      "event": "pitstop_passenger_loveanother_adrien_2",
+      "english_sha256": "a2fe68eaabbe1a063d013f51309e87818b68db8a66bfb8b77336c54cef0962cc",
+      "ko": "아니, 잠깐—!"
+    },
+    {
+      "line": 1838,
+      "event": "pitstop_passenger_loveanother_adrien_2",
+      "english_sha256": "b12bcefecec9b6bb5db092cd7d99272d417dff772e499a3c152369d9a763ff03",
+      "ko": "알고 보니 맞서 싸울지 도망칠지 선택해야 하는 상황에서 아드리앵은 확실히 싸우는 쪽이다. 게다가 검술이 얼마나 빠르고 치명적인지!"
+    },
+    {
+      "line": 1840,
+      "event": "pitstop_passenger_loveanother_adrien_2",
+      "english_sha256": "ed5d963e89f01f759c060d219111c64ea9df8f3f95680c58bf5ebd0392ebf12b",
+      "ko": "하지만 전장 의무병은 아니어서, 검에 찔린 상처를 꿰매려면 병원에 가야 한다. 덕분에 오늘 밤 사교 활동은 물 건너갔다. 으악."
+    },
+    {
+      "line": 1845,
+      "event": "pitstop_passenger_loveanother_hope_1",
+      "english_sha256": "bf2eb5510731b48689680f10ce845819cefcbf6000eb8107faa0fa3bb26cc710",
+      "ko": "안녕, 호프! 같이 놀래?"
+    },
+    {
+      "line": 1846,
+      "event": "pitstop_passenger_loveanother_hope_1",
+      "english_sha256": "1a1043ef77029bb9fed76330bf9c0fdc63e65268432e2149db8225c2461bf964",
+      "ko": "음, 글쎄... 미래에 물어볼게."
+    },
+    {
+      "line": 1847,
+      "event": "pitstop_passenger_loveanother_hope_1",
+      "english_sha256": "f79eb6747f68392a89d0559bc91c43ae98af35304ca3e87739c9c9e138492b94",
+      "ko": "아... 으악... 세상에... 이런, 엄청 아프겠는데..."
+    },
+    {
+      "line": 1848,
+      "event": "pitstop_passenger_loveanother_hope_1",
+      "english_sha256": "f5eb07634548e494a85362b1427af7c9842fd3ea6bf83968a774898caeec3039",
+      "ko": "그래, 너랑 저녁을 보내면 우리 둘 다 망신당하고 병원에 실려 갈 것 같아. 사양할게. 미안."
+    },
+    {
+      "line": 1849,
+      "event": "pitstop_passenger_loveanother_hope_1",
+      "english_sha256": "0f63aa2a6d2e2a53df7023f3df6594161ab1443db5ea53e4e23f10c6b294612f",
+      "ko": "잠깐, 왜? 오늘 밤 같이 놀면 무슨 일이 벌어지는데?!"
+    },
+    {
+      "line": 1850,
+      "event": "pitstop_passenger_loveanother_hope_1",
+      "english_sha256": "d017981c907dccd2b564141f000c4754eb6c3e3bf20c329d4a0c073cec3dfc91",
+      "ko": "그런 일이 뭔지 영영 모르게 된 걸 다행으로 여겨. 잘 가."
+    },
+    {
+      "line": 1855,
+      "event": "pitstop_passenger_loveanother_hope_2",
+      "english_sha256": "f76477e22a8c4a2413208177682fc9f9034f10ddade0dd89507d9468c18df99a",
+      "ko": "안녕, 호프! 오늘 밤 같이 놀래?"
+    },
+    {
+      "line": 1856,
+      "event": "pitstop_passenger_loveanother_hope_2",
+      "english_sha256": "9ccf72f9329ffa9cd220fda6ace77b04c4487da5396081fcbf09657119af4ddd",
+      "ko": "음, 그럴지도... 카드 한 장 뽑아 볼래?"
+    },
+    {
+      "line": 1857,
+      "event": "pitstop_passenger_loveanother_hope_2",
+      "english_sha256": "31c2250cd30e2a61232f924cc7f1971bd28b481f5c126787c29f54e2c1d34b4e",
+      "ko": "그녀가 타로 카드를 부채꼴로 펼쳐 보인다. 좀 이상하지만, 뭐 어때. 너는 한 장을 뽑는다."
+    },
+    {
+      "line": 1858,
+      "event": "pitstop_passenger_loveanother_hope_2",
+      "english_sha256": "201c8477d97f745981c56b77be9faae897a6171a39dfa01b0ce66ded3c3a7617",
+      "ko": "네가 뽑은 카드는... 은둔자. 이런... 그게 무슨 뜻인지 알겠지..."
+    },
+    {
+      "line": 1859,
+      "event": "pitstop_passenger_loveanother_hope_2",
+      "english_sha256": "dd8af43caccaa325b52b111a4231af5b7b7a25d61096414c66dfeff194aa3130",
+      "ko": "은둔자? 그게 무슨 뜻인데?"
+    },
+    {
+      "line": 1860,
+      "event": "pitstop_passenger_loveanother_hope_2",
+      "english_sha256": "c266c589e1b660383b41fa8e553d6bda5820f7da9b5c6cea0fc47ca246dbc295",
+      "ko": "오늘 밤 혼자 보내게 된다는 뜻이야. 내가 그러는 게 아니라 카드가 그렇게 말하잖아."
+    },
+    {
+      "line": 1861,
+      "event": "pitstop_passenger_loveanother_hope_2",
+      "english_sha256": "d34d6c96699842747ef3031a69bbfb7c92cdabf8e91170b1864d692582347498",
+      "ko": "잘 가."
+    },
+    {
+      "line": 1866,
+      "event": "pitstop_passenger_loveanother_finn_1",
+      "english_sha256": "097e755b1aae11964db171c692358a03ac893213f39beabfe230222dde72468d",
+      "ko": "아, 안녕 %CURRENTPLAYERNAME%... 같이 놀고 싶어?"
+    },
+    {
+      "line": 1867,
+      "event": "pitstop_passenger_loveanother_finn_1",
+      "english_sha256": "904c069f23fd5361186b1049bfa947bbe50fd970304aaf3e52140149c4e525a1",
+      "ko": "미안, 오늘 밤은 안 돼. 작성해야 할 스프레드시트가 좀 있어서 네가 있으면 아마 집중이 안 될 거야."
+    },
+    {
+      "line": 1868,
+      "event": "pitstop_passenger_loveanother_finn_1",
+      "english_sha256": "d6ba6b764522a918ecbd7fa672de48a0e6669622aab2c586fa931a52c4c1990f",
+      "ko": "내 눈부신 외모 때문에?"
+    },
+    {
+      "line": 1869,
+      "event": "pitstop_passenger_loveanother_finn_1",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "……"
+    },
+    {
+      "line": 1870,
+      "event": "pitstop_passenger_loveanother_finn_1",
+      "english_sha256": "51b92178dca1970fd88d1e6336857bba6c1e9a4868a146d49f2a1344e9a800e3",
+      "ko": "……아니."
+    },
+    {
+      "line": 1871,
+      "event": "pitstop_passenger_loveanother_finn_1",
+      "english_sha256": "d046c454674a239d561627e31387e88872ce858c0a479153076fdb333a7d3599",
+      "ko": "핀은 노트북 쪽으로 몸을 돌린다. 너는 또다시 스프레드시트에게 패배한 상처를 안고 잠자리에 든다."
+    },
+    {
+      "line": 1876,
+      "event": "pitstop_passenger_loveanother_finn_2",
+      "english_sha256": "097e755b1aae11964db171c692358a03ac893213f39beabfe230222dde72468d",
+      "ko": "아, 안녕 %CURRENTPLAYERNAME%... 같이 놀고 싶어?"
+    },
+    {
+      "line": 1877,
+      "event": "pitstop_passenger_loveanother_finn_2",
+      "english_sha256": "04645ba36e800ef7af5e38705eaaf93e7dc642454d70c04bbb555e1b4659a5b2",
+      "ko": "지금 꽤 바쁜데... 미리 회의 일정을 잡았어?"
+    },
+    {
+      "line": 1878,
+      "event": "pitstop_passenger_loveanother_finn_2",
+      "english_sha256": "f44ee43a38602383704bf76b4149e0f17976239e5f9680e1945c0a189310bd7f",
+      "ko": "응, 잡았지! “핀과 %CURRENTPLAYERNAME%의 알찬 단둘이 시간”이라는 제목으로 말이야."
+    },
+    {
+      "line": 1879,
+      "event": "pitstop_passenger_loveanother_finn_2",
+      "english_sha256": "a7500f236f2f3b5cbea0eaaf2f9e416c64cf568306c3decb8e7531c6a21914e9",
+      "ko": "흠... 그래, 확인했어... 그런데 여기 봐. 오늘 날짜를 입력했는데... 내년 날짜로 잡았네, 보이지?"
+    },
+    {
+      "line": 1880,
+      "event": "pitstop_passenger_loveanother_finn_2",
+      "english_sha256": "06f5d65eaa20415d02ee45c5f00a873d089e89720a2fa40a932df105cb02d4da",
+      "ko": "이런! 그냥 실수였어. 당연히 오늘 밤을 말한 거지! 그러니까..."
+    },
+    {
+      "line": 1881,
+      "event": "pitstop_passenger_loveanother_finn_2",
+      "english_sha256": "523116538b43d5677ca376b458023c9763ff99fa8b010547cfb072ad5f929f42",
+      "ko": "그럼... 내년까지 기다리는 수밖에 없겠네? 나쁘진 않아. 미리 대화 주제들을 준비해 두면 되니까."
+    },
+    {
+      "line": 1882,
+      "event": "pitstop_passenger_loveanother_finn_2",
+      "english_sha256": "d0640adf24b8a1ec8c99238336d671a59cbf0e7d3dea14ba3ed135c097deff99",
+      "ko": "그때 보자!"
+    },
+    {
+      "line": 1884,
+      "event": "pitstop_passenger_loveanother_finn_2",
+      "english_sha256": "129fea8b3438d7c917c1f21a4abe459129cc04f1528a0d2e53c1d411a2cfb8e8",
+      "ko": "빌어먹을 일정 관리 프로그램... 매번 네 섹스 찬스를 가로막네."
+    },
+    {
+      "line": 1889,
+      "event": "pitstop_passenger_loveanother_dahliaappliance_1",
+      "english_sha256": "fee79263271650eb20bca3859dc76aebc9bba7442e12ba96746d76e104cf9e96",
+      "ko": "안녕, 달리아! 얘기 좀 할래?"
+    },
+    {
+      "line": 1890,
+      "event": "pitstop_passenger_loveanother_dahliaappliance_1",
+      "english_sha256": "4ea9a9893fa9e94714808c1e3541df7512ed2aee4123ca9ee17f9e73e608e287",
+      "ko": "사양할게. 요즘 우리 이미 얘기를 많이 했잖아. 너무 많이 했을 정도야!"
+    },
+    {
+      "line": 1891,
+      "event": "pitstop_passenger_loveanother_dahliaappliance_1",
+      "english_sha256": "b9954f7427bc04cef5057494dc4c68c9d0e8a733190d745471c0b4e6e266230d",
+      "ko": "난 세탁기지, 수다 기계가 아니라고! 내 우선순위에 집중해야 해!"
+    },
+    {
+      "line": 1892,
+      "event": "pitstop_passenger_loveanother_dahliaappliance_1",
+      "english_sha256": "a15a1d2d7e97982c5a00471b71616f24ed634c18f13f4696490bf988ff62cf50",
+      "ko": "그럼 네 우선순위가 뭔데...?"
+    },
+    {
+      "line": 1893,
+      "event": "pitstop_passenger_loveanother_dahliaappliance_1",
+      "english_sha256": "05723c289d4fbc752f123479aec7b406976fa19893af1db18b9b41961159fc5f",
+      "ko": "오늘 밤엔 스콧의 양말을 빨아야 해. 이제 그 일로 돌아가야겠어. 나중에 보자."
+    },
+    {
+      "line": 1894,
+      "event": "pitstop_passenger_loveanother_dahliaappliance_1",
+      "english_sha256": "66a99074d8596f6c8c0946386373556707055a86a84a62d984209e964fa0343f",
+      "ko": "달리아는 다시 헹굼 코스에 온 신경을 집중한다. 하아..."
+    },
+    {
+      "line": 1899,
+      "event": "pitstop_passenger_loveanother_dahliaappliance_2",
+      "english_sha256": "e218f58833c6a670a10fef18fed325e5706c7c95a835f7410405109ff39d056d",
+      "ko": "안녕, 달리아! 얘기 좀 할래?"
+    },
+    {
+      "line": 1900,
+      "event": "pitstop_passenger_loveanother_dahliaappliance_2",
+      "english_sha256": "8eca884b7795cabb08d1023d8d3e9d6d2b5ebc81a505b8e0a2ea3036152127ab",
+      "ko": "별로. 기분 나쁘게 듣진 마, %CURRENTPLAYERNAME%. 네가 좀 지루하거든."
+    },
+    {
+      "line": 1901,
+      "event": "pitstop_passenger_loveanother_dahliaappliance_2",
+      "english_sha256": "10c1a8858fdcd177b64a21b9ededc17cd4ea45829e3564d4f61c8afffe3db5d3",
+      "ko": "우리 대화는 내가 살면서 나눈 대화 중 가장 건조한 축에 들어."
+    },
+    {
+      "line": 1902,
+      "event": "pitstop_passenger_loveanother_dahliaappliance_2",
+      "english_sha256": "82e91fa53d637920427c6c27d3ceb145a35f3018d099049f81f17ee4542c5dfb",
+      "ko": "난 건조기가 아니라 세탁기잖아. 그러니 대화도 좀 더 “촉촉”해야 한다고, 무슨 말인지 알겠지? 악감정은 없어!"
+    },
+    {
+      "line": 1903,
+      "event": "pitstop_passenger_loveanother_dahliaappliance_2",
+      "english_sha256": "c9c2880a4c67abf8e5b439110fd93369de04980966bd2bbd01adf955778c2aa4",
+      "ko": "네가 달리아를 젖게 만들지 못한다니 마음이 쓰리다... 아니, 그 비유가 무슨 뜻이었든 간에. 어쨌든 거절당한 기분이다."
+    },
+    {
+      "line": 1909,
+      "event": "pitstop_passenger_loveanother_lamb_1",
+      "english_sha256": "fd5646860dcc74d47ed8a678f8aa5abd9569b910fc142a49549b3e6969840b18",
+      "ko": "아, 안녕 %CURRENTPLAYERNAME%."
+    },
+    {
+      "line": 1910,
+      "event": "pitstop_passenger_loveanother_lamb_1",
+      "english_sha256": "73a31ea0502d9fc3e12fdc2ae136c3114b0f55284931063254820c739bb48db1",
+      "ko": "얘기할래? 음... 난 됐어."
+    },
+    {
+      "line": 1911,
+      "event": "pitstop_passenger_loveanother_lamb_1",
+      "english_sha256": "5f3f68af19c511f9c36285ca909491d4da47f53bf3316c585235571f1c19a88f",
+      "ko": "내 말 한마디 한마디에 매달리는 충성스러운 추종자들이 이미 충분히 많거든. 더는 필요 없어."
+    },
+    {
+      "line": 1912,
+      "event": "pitstop_passenger_loveanother_lamb_1",
+      "english_sha256": "b798014038673ac94f30b06929a89493b9b23e6588c01f3d2accf081c19c1fab",
+      "ko": "그럼... 잘 가!"
+    },
+    {
+      "line": 1914,
+      "event": "pitstop_passenger_loveanother_lamb_1",
+      "english_sha256": "440bbf60c89c27f9cf2f3d63dca990974b8e54b7243ed446f840f71fecc8113c",
+      "ko": "어린양은 성서를 펼쳐 읽기 시작하고, 남은 밤 내내 너를 무시한다. 아야."
+    },
+    {
+      "line": 1920,
+      "event": "pitstop_passenger_loveanother_lamb_2",
+      "english_sha256": "a024abb6ea473ef89d86b69ecaa08af62135848fec0ef54ea3827943b5a09749",
+      "ko": "아, 안녕 %CURRENTPLAYERNAME%... 얘기하고 싶은 거야?"
+    },
+    {
+      "line": 1921,
+      "event": "pitstop_passenger_loveanother_lamb_2",
+      "english_sha256": "a5058bad6e3ed637033339509ec94a86bc5c3494a7f978ce6709b6a5f116a3f1",
+      "ko": "음... 있잖아, 우리 잘 안 맞는 것 같아. 우린 너무 달라."
+    },
+    {
+      "line": 1922,
+      "event": "pitstop_passenger_loveanother_lamb_2",
+      "english_sha256": "d1bbd465099475ba6281e5e726f33a2f82c8f64dcfb390219da7217d9ec1c230",
+      "ko": "난 타로, 황야를 오래 걷는 산책, 필멸자가 감히 휘두르면 안 될 힘을 다루는 데 관심이 있거든..."
+    },
+    {
+      "line": 1923,
+      "event": "pitstop_passenger_loveanother_lamb_2",
+      "english_sha256": "3b9336869ad18d6ffd3e1ba3302f658b07609c260f7edac6020a3ba6a9afb5de",
+      "ko": "그런데 넌... 음... 네가 뭘 좋아하는지 잘 모르겠어. 네가 말할 때 제대로 듣고 있지 않았거든."
+    },
+    {
+      "line": 1924,
+      "event": "pitstop_passenger_loveanother_lamb_2",
+      "english_sha256": "70483a4b47a4fef5e6276d868bae908bf77a4deb3b398e3831b3edad7a1ae04c",
+      "ko": "그래도 언젠가는 특별한 사람을 찾겠지. 그러면 그 사람의 교단에 들어가면 되겠네!"
+    },
+    {
+      "line": 1925,
+      "event": "pitstop_passenger_loveanother_lamb_2",
+      "english_sha256": "8ecec4b76f5a2a196f9a591c6664f91b3cd5349d157cf1773d1b1f3a9978d114",
+      "ko": "아무튼... 행운을 빌어!"
+    },
+    {
+      "line": 1927,
+      "event": "pitstop_passenger_loveanother_lamb_2",
+      "english_sha256": "440bbf60c89c27f9cf2f3d63dca990974b8e54b7243ed446f840f71fecc8113c",
+      "ko": "어린양은 성서를 펼쳐 읽기 시작하고, 남은 밤 내내 너를 무시한다. 아야."
+    },
+    {
+      "line": 1933,
+      "event": "pitstop_passenger_lovefail_scott_1",
+      "english_sha256": "58ed373a49084016ba392986aceb0cba582ea6e1aa94ec878cf3e0332fe737df",
+      "ko": "스콧이 몸을 풀며 스트레칭하는 모습을 발견한다."
+    },
+    {
+      "line": 1934,
+      "event": "pitstop_passenger_lovefail_scott_1",
+      "english_sha256": "1f7819906809e105c6ae3db2d4b57dc31e30eea33439d28cdb33d488ad978c61",
+      "ko": "안녕, %CURRENTPLAYERNAME%! 무슨 일이야? 막 달리러 나가려던 참이었어."
+    },
+    {
+      "line": 1935,
+      "event": "pitstop_passenger_lovefail_scott_1",
+      "english_sha256": "a8d731cba7ead0ab94829288430196c7a48319f6bbaa1a76118c1c902143cfe7",
+      "ko": "아, 같이 놀고 싶었어. 네 달리기에 나도 끼면 어떨까?"
+    },
+    {
+      "line": 1936,
+      "event": "pitstop_passenger_lovefail_scott_1",
+      "english_sha256": "914a2b8014e6becaa27b889e8cc2b17ebcc19c14b9f9dbe6044a89e4a6f9989f",
+      "ko": "한번 해 봐. 간다!"
+    },
+    {
+      "line": 1938,
+      "event": "pitstop_passenger_lovefail_scott_1",
+      "english_sha256": "7b96cae5e3700e961214c871191474a932b86e688f936eff225a19e51dd5c0a4",
+      "ko": "스콧은 전력 질주로 멀어진다. 너는 따라잡지 못하고 몇 분 뒤 결국 자기 토사물 웅덩이에 쓰러진다."
+    },
+    {
+      "line": 1939,
+      "event": "pitstop_passenger_lovefail_scott_1",
+      "english_sha256": "579032b1aaddb4fd29aac13596cb73909366e26881a8ebd127a5d46bd54e0a25",
+      "ko": "스콧에게 잘 보이려던 건 아니길 바란다. 그랬다면 처참하게 실패했으니까. 슬픈 트롬본 소리."
+    },
+    {
+      "line": 1944,
+      "event": "pitstop_passenger_lovefail_scott_2",
+      "english_sha256": "7754ec91825bf23ac712e93c8cf6818a9b0ed577e6660cb33a960ed411b1f3ae",
+      "ko": "무슨 일이야, %CURRENTPLAYERNAME%? ...같이 놀래?"
+    },
+    {
+      "line": 1945,
+      "event": "pitstop_passenger_lovefail_scott_2",
+      "english_sha256": "17891f3d1daa7eb799da1aaa66b38d99bb6d49ddaf0a65e56fb422b96ea21fef",
+      "ko": "미안, 친구. 오늘 밤은 별들에게 나랑 단둘이 시간을 보내겠다고 이미 약속했거든."
+    },
+    {
+      "line": 1946,
+      "event": "pitstop_passenger_lovefail_scott_2",
+      "english_sha256": "4ca143d5baa449394acfd0c8dc6a38416824a9c633585cc182044b00960d0535",
+      "ko": "여행하느라 너무 바빠서 내가 가장 좋아하는 천체 친구들과 어울릴 시간이 없었어!"
+    },
+    {
+      "line": 1947,
+      "event": "pitstop_passenger_lovefail_scott_2",
+      "english_sha256": "0fdd372ef388e911fa04af024f32827242c031664dada9178e6a57316b566334",
+      "ko": "나랑 별들은 밀린 얘기가 산더미야. 이해하지?"
+    },
+    {
+      "line": 1948,
+      "event": "pitstop_passenger_lovefail_scott_2",
+      "english_sha256": "d1f9b27e9e8c18ce7916d66e96a6cbe6c437aa1b821663227a30ab41a5fcc00b",
+      "ko": "어... 아니. 솔직히 네가 별들과 맺은 의사사회적 관계를 전혀 이해 못 하겠어."
+    },
+    {
+      "line": 1949,
+      "event": "pitstop_passenger_lovefail_scott_2",
+      "english_sha256": "3fa1656075dc7d80d6cb4499641c8ec5a19e912082ab777edd36c39a15456057",
+      "ko": "네가 늑대인간과 그가 가장 좋아하는 별들 사이의 마법 같은 우정을 이해 못 하는 건 내 잘못이 아니지. 아무튼 나중에 보자."
+    },
+    {
+      "line": 1954,
+      "event": "pitstop_passenger_lovefail_polly_1",
+      "english_sha256": "9893d7a6e138525d2529f7d17013f177f1084720aae6b78d9c5a795c9d3ac29a",
+      "ko": "아, 안녕 %CURRENTPLAYERNAME%... 얘기하러 온 거지?"
+    },
+    {
+      "line": 1955,
+      "event": "pitstop_passenger_lovefail_polly_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 1956,
+      "event": "pitstop_passenger_lovefail_polly_1",
+      "english_sha256": "84c3780cae28624256f0103df97bac3f99e03e77d937eb70f81cf3a5bba3664e",
+      "ko": "이번 여행은 즐거웠지만, 나만의 폴리 타임이 자꾸 줄어들고 있거든, 알지?"
+    },
+    {
+      "line": 1957,
+      "event": "pitstop_passenger_lovefail_polly_1",
+      "english_sha256": "95d8e7531522b5b33f237a5bf979c209231c0fdad7c712484e605339cac4c969",
+      "ko": "내가 파티할 시간이라는 뜻으로 외치는 재밌고 사랑스러운 유행어 “폴리 타임”을 말하는 게 아니야. 폴리 혼자, 다른 사람 없이 보내는 시간을 말하는 거지."
+    },
+    {
+      "line": 1958,
+      "event": "pitstop_passenger_lovefail_polly_1",
+      "english_sha256": "5735a535eb393dbeba5d3d368aa61185ec82b55297b74870b06fbfbad90083d3",
+      "ko": "괜찮다면 책이나 좀 읽으면서 “발정 데이팅 앱(TM)” 사람들을 속으로 조용히 평가할게. 내일 보자."
+    },
+    {
+      "line": 1963,
+      "event": "pitstop_passenger_lovefail_polly_2",
+      "english_sha256": "98a6f947c01d47edb69c70c8960627cdf71e1a1c053b828dc3171db7fa1b00e4",
+      "ko": "폴리가 통화 중인 모습을 발견한다."
+    },
+    {
+      "line": 1964,
+      "event": "pitstop_passenger_lovefail_polly_2",
+      "english_sha256": "be764d88bbd76c8980cb8606bacc787c367780c8a810a5726c6fbbc91c2fa2ae",
+      "ko": "엄마, 진짜 미쳤었어! 편의점 사람들 전부 슬러시가 아이들 뼈를 갈아 만든 거라고 믿게 장난쳤다니까! 그렇게 웃은 적은 처음이야!"
+    },
+    {
+      "line": 1965,
+      "event": "pitstop_passenger_lovefail_polly_2",
+      "english_sha256": "62fcfb23da250d27de04e68beab1c776cfe93df62b759cb706a8bcdc4ea3499c",
+      "ko": "응, 여행은 정말 재밌어... 그래도 온통 장난치고 노는 일만 있었던 건 아니야."
+    },
+    {
+      "line": 1966,
+      "event": "pitstop_passenger_lovefail_polly_2",
+      "english_sha256": "20c67bf6e4909bbf847e7076f8df28832cce187a3d407cec61676a12e89d9d7f",
+      "ko": "예를 들면 며칠 전 %CURRENTPLAYERNAME%랑 대화했는데, 성적으로도 그 밖의 면에서도 완전히 흥이 깨져 버렸어."
+    },
+    {
+      "line": 1967,
+      "event": "pitstop_passenger_lovefail_polly_2",
+      "english_sha256": "7e7a04064b14b89e3acb969e8641b0e6a87ffc158388fff39ed2e0f52bd13e9d",
+      "ko": "%HESHE%%VERB_'S_'RE% 좋은 친구고 %HIMHER%를 아끼긴 하지만, 젠장... %HESHE% 분위기 좀 안 망치면 안 되나?"
+    },
+    {
+      "line": 1968,
+      "event": "pitstop_passenger_lovefail_polly_2",
+      "english_sha256": "a8107f60aeb97e2e61ee7c7c00031fc09b28c02b7a8c7c22a39c2fea15edf243",
+      "ko": "아... 씨발... 안녕, %CURRENTPLAYERNAME%... 어, 어디까지 들었어?"
+    },
+    {
+      "line": 1970,
+      "event": "pitstop_passenger_lovefail_polly_2",
+      "english_sha256": "c356ae385ee52329c5323fccf3e927106d21ed10bad5f29fedbd72dc78747fd3",
+      "ko": "남의 대화를 엿듣지 말아야 한다는 교훈을 얻기엔 충분했다. 너는 남은 밤 내내 폴리의 분위기를 망치지 않으려면 어떻게 해야 할지 곱씹는다."
+    },
+    {
+      "line": 1975,
+      "event": "pitstop_passenger_lovefail_aaravi_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 1980,
+      "event": "pitstop_passenger_lovefail_calculester_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 1985,
+      "event": "pitstop_passenger_lovefail_damien_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 1990,
+      "event": "pitstop_passenger_lovefail_joy_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 1995,
+      "event": "pitstop_passenger_lovefail_liam_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 2000,
+      "event": "pitstop_passenger_lovefail_milo_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 2005,
+      "event": "pitstop_passenger_lovefail_miranda_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 2010,
+      "event": "pitstop_passenger_lovefail_mothman_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 2015,
+      "event": "pitstop_passenger_lovefail_valerie_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 2020,
+      "event": "pitstop_passenger_lovefail_vera_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 2025,
+      "event": "pitstop_passenger_lovefail_zoe_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 2030,
+      "event": "pitstop_passenger_lovefail_stu_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 2035,
+      "event": "pitstop_passenger_lovefail_yellow_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 2040,
+      "event": "pitstop_passenger_lovefail_red_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 2045,
+      "event": "pitstop_passenger_lovefail_blue_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 2050,
+      "event": "pitstop_passenger_lovefail_green_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 2055,
+      "event": "pitstop_passenger_lovefail_adrien_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 2060,
+      "event": "pitstop_passenger_lovefail_hope_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 2065,
+      "event": "pitstop_passenger_lovefail_finn_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 2070,
+      "event": "pitstop_passenger_lovefail_dahliaappliance_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 2075,
+      "event": "pitstop_passenger_lovefail_lamb_1",
+      "english_sha256": "9d1ff22524500c4def1718f318c9e29a01b1a4c395091b515a16402a760a2d6e",
+      "ko": "기분 나쁘게 듣진 마. 사람들과 어울리는 데 좀 지쳤어."
+    },
+    {
+      "line": 2080,
+      "event": "pitstop_hitchhiker_changed_aaravi",
+      "english_sha256": "d25ec6dcd81ae6d480cd7dd680b86fbb52dde1d3cd373f130b57edf6b6a63cb4",
+      "ko": "아라비가 파티에서 떠났다!"
+    },
+    {
+      "line": 2085,
+      "event": "pitstop_hitchhiker_changed_calculester",
+      "english_sha256": "b3f682119cf8aefd88ebf0195d533cd3c1a1ea72d5c00fbd3decc4f0cde5376e",
+      "ko": "캘큘레스터가 파티에서 떠났다!"
+    },
+    {
+      "line": 2090,
+      "event": "pitstop_hitchhiker_changed_damien",
+      "english_sha256": "5905b4c4197d27445272828d2a9b13363f5227ee33911ee95539bf0a3785c65f",
+      "ko": "데미안이 파티에서 떠났다!"
+    },
+    {
+      "line": 2095,
+      "event": "pitstop_hitchhiker_changed_joy",
+      "english_sha256": "582b8814c14eff664c828e7ca91744a951f21bc7abf05c39ebdefa177e2d1adb",
+      "ko": "조이가 파티에서 떠났다!"
+    },
+    {
+      "line": 2100,
+      "event": "pitstop_hitchhiker_changed_liam",
+      "english_sha256": "d61d7a3f463ba51282d91ea2d0276ecb81cb6a6ef64fe549ac414eb557373846",
+      "ko": "리암이 파티에서 떠났다!"
+    },
+    {
+      "line": 2105,
+      "event": "pitstop_hitchhiker_changed_milo",
+      "english_sha256": "f6253276b72f84dab724b0a53f1550cea8528bbf9337bdecf5250ee42cd64eca",
+      "ko": "마일로가 파티에서 떠났다!"
+    },
+    {
+      "line": 2110,
+      "event": "pitstop_hitchhiker_changed_miranda",
+      "english_sha256": "301d64a48adefa5c7c783583f82ff244e8ae06c0a2ca541d85f12054642db0c7",
+      "ko": "미란다가 파티에서 떠났다!"
+    },
+    {
+      "line": 2115,
+      "event": "pitstop_hitchhiker_changed_mothman",
+      "english_sha256": "c72271c34cfc0271456a6fa0ba0d1f878f37ae074281c66803f1904fae603fcb",
+      "ko": "모스 맨이 파티에서 떠났다!"
+    },
+    {
+      "line": 2120,
+      "event": "pitstop_hitchhiker_changed_stu",
+      "english_sha256": "9703d1cfd9a4a11e23b7a81cba21696bd0399b04c53f40a806b453ac5e94685d",
+      "ko": "스튜가 파티에서 떠났다!"
+    },
+    {
+      "line": 2125,
+      "event": "pitstop_hitchhiker_changed_valerie",
+      "english_sha256": "a672f39cdf9c4cec355b7f71075ca29f48a2dfa205d4098f1a268480fa9d4170",
+      "ko": "발레리가 파티에서 떠났다!"
+    },
+    {
+      "line": 2130,
+      "event": "pitstop_hitchhiker_changed_vera",
+      "english_sha256": "a9f02e92efdaf5c4eb3bd56780180bd01a231fb6240a437ce3d65ff9d6241c9e",
+      "ko": "베라가 파티에서 떠났다!"
+    },
+    {
+      "line": 2135,
+      "event": "pitstop_hitchhiker_changed_zoe",
+      "english_sha256": "7d522acb4cba2111f8ff6fda17589430563d349d81f8ac2ce46cbf07881699a8",
+      "ko": "조이가 파티에서 떠났다!"
+    },
+    {
+      "line": 2140,
+      "event": "pitstop_hitchhiker_changed_yellow",
+      "english_sha256": "48c0bbef3601c9e82a6435c0cf64d7946eccd3d30d50de93c1c26fdd9cc6fbb2",
+      "ko": "오즈가 파티에서 떠났다!"
+    },
+    {
+      "line": 2145,
+      "event": "pitstop_hitchhiker_changed_red",
+      "english_sha256": "c224bd25f8f07a6582bec02630e6d0760b16fe3115a469a50f28f05569ad64f2",
+      "ko": "아미라가 파티에서 떠났다!"
+    },
+    {
+      "line": 2150,
+      "event": "pitstop_hitchhiker_changed_blue",
+      "english_sha256": "91a5dd79842d832142bf6621a8978bdca90e0400dfffceb0fdfceb144f455e78",
+      "ko": "비키가 파티에서 떠났다!"
+    },
+    {
+      "line": 2155,
+      "event": "pitstop_hitchhiker_changed_green",
+      "english_sha256": "bd443711c71a03487655e527454680d5b905635523e68bf7a2b9611519ef0f36",
+      "ko": "브라이언이 파티에서 떠났다!"
+    },
+    {
+      "line": 2160,
+      "event": "pitstop_hitchhiker_changed_adrien",
+      "english_sha256": "47125d6aa4b7357e1ff95303c6bccf89f7da7b3ae460009eda821e12648d1972",
+      "ko": "아드리앵이 파티에서 떠났다!"
+    },
+    {
+      "line": 2165,
+      "event": "pitstop_hitchhiker_changed_hope",
+      "english_sha256": "e0ddd5e1a8a7a262eacef061353ce0a2610dc830fed32ef1f483b9a915866425",
+      "ko": "호프가 파티에서 떠났다!"
+    },
+    {
+      "line": 2170,
+      "event": "pitstop_hitchhiker_changed_finn",
+      "english_sha256": "600f189178e2434c4935b89b77f8a777f8965672e3d4f532abc37e0236e3e25d",
+      "ko": "핀이 파티에서 떠났다!"
+    },
+    {
+      "line": 2175,
+      "event": "pitstop_hitchhiker_changed_dahliaappliance",
+      "english_sha256": "37d772c973eddaeb538c7b3d10c4424b39b44c97f4ed01cb2837e1dd0d75f767",
+      "ko": "달리아가 파티에서 떠났다!"
+    },
+    {
+      "line": 2180,
+      "event": "pitstop_hitchhiker_changed_lamb",
+      "english_sha256": "9677ef88cdc87a8967bed6aebf4ae832f62df72506d5faa3cacc43fc7e4c0a03",
+      "ko": "어린양이 파티에서 떠났다!"
+    },
+    {
+      "line": 2189,
+      "event": "cpollycooking",
+      "english_sha256": "3133a359d64a54eb1ec8c7fb1da7b0477252b9329849f9244da48115cf69ac26",
+      "ko": "요리에 대한 관심"
+    },
+    {
+      "line": 2191,
+      "event": "cpollycooking",
+      "english_sha256": "45ca7943e336c8c583d50b587fa0f264f47474115e8111fa6f3ec9d7e32c50ef",
+      "ko": "응, 요리하는 법을 좀 알아보고 있어!"
+    },
+    {
+      "line": 2192,
+      "event": "cpollycooking",
+      "english_sha256": "becd957e453bb06c40220b614c05f408e7bcf13cbc0f1c084b30757f4870b97c",
+      "ko": "맛있겠는데!"
+    },
+    {
+      "line": 2193,
+      "event": "cpollycooking",
+      "english_sha256": "9c8d8a04c46775e6888161cf83adc0d92e28542f80f4e698da1261079e2d26e4",
+      "ko": "내가 좋아하는 두 가지를 합친 거야. 끝내주는 화학이랑 작지만 특별한 기쁨들 말이지."
+    },
+    {
+      "line": 2194,
+      "event": "cpollycooking",
+      "english_sha256": "6f7b7f5445fc4298c20e3bbedad0eebce9fa98973ebbf555379b67d85087e210",
+      "ko": "생각해 봐. 몇 시간씩 공들여 만든 게 순식간에, 몇 입 만에 사라져 버리잖아. 얼마나 바보 같은 일이야?"
+    },
+    {
+      "line": 2195,
+      "event": "cpollycooking",
+      "english_sha256": "a8132a874a887058006b49310af228616725c62697cd1eaac5fbfa4b8fe972b3",
+      "ko": "그렇게 엄청나게 비효율적이니까 오히려 그 자체로 아름다워지는 거야."
+    },
+    {
+      "line": 2196,
+      "event": "cpollycooking",
+      "english_sha256": "11dee7496913ae014538eed146b4fff66d85afdf147bef3fe51b70a9d71d7f07",
+      "ko": "좋은 생각이네."
+    },
+    {
+      "line": 2197,
+      "event": "cpollycooking",
+      "english_sha256": "4dc55edcd95a6b11850876c219401b302fdf9edfba2f14d510556263a48322c4",
+      "ko": "이젠 먹을 필요조차 거의 없으니 내 취미는 어리석음과 아름다움의 새로운 경지에 올랐지."
+    },
+    {
+      "line": 2198,
+      "event": "cpollycooking",
+      "english_sha256": "1388c33906eb1f8cffdfe997ee633b152e29b1964f0a9bd876f4b14612345854",
+      "ko": "그래서 요리 수업을 듣기 시작했어! 베라도 같이 듣고 있어."
+    },
+    {
+      "line": 2199,
+      "event": "cpollycooking",
+      "english_sha256": "597d72f1fd177d11994178e71347e08624ed41e7e2c70a654aae09524cc19458",
+      "ko": "그 멋진 년을 사랑하지만, 아름다운 비효율이 뭔지는 좀 배울 필요가 있겠더라."
+    },
+    {
+      "line": 2200,
+      "event": "cpollycooking",
+      "english_sha256": "d2c8d4c7331d57cdb0f104f4f9d6f7deaa8a645600b834dcfc10ad7705b0a956",
+      "ko": "그렇지!"
+    },
+    {
+      "line": 2202,
+      "event": "cpollycooking",
+      "english_sha256": "da5cf8605413421f5073814da0d5cbf0419f9c0472b2192edc49e5a826925fe3",
+      "ko": "수업 때문에 대부분 스트레스를 받긴 해도, 베라한테 좋은 일인 것 같아."
+    },
+    {
+      "line": 2203,
+      "event": "cpollycooking",
+      "english_sha256": "b7188be18db4e8c302774f0784dbe3ef31da16875414e06e6cb3f44a217d3536",
+      "ko": "우린 앉아서 배우고 실험해. 화학과 요리의 좋은 점은 뭔가를 완전히 바꿔 놓는다는 거야."
+    },
+    {
+      "line": 2204,
+      "event": "cpollycooking",
+      "english_sha256": "65871d226f2f2de65c5beba3a446263b8cbd3d5a7cae5929d0c12cd3c136719b",
+      "ko": "말 그대로 말이야! 변형이 전부라고. 재료를 다른 것으로 바꾸는 거지. 달걀, 밀가루, 버터 같은 걸 케이크로 바꾸는 것처럼."
+    },
+    {
+      "line": 2205,
+      "event": "cpollycooking",
+      "english_sha256": "a5a26c7d2d2be32113d447900d41991acf10d71c0f1005098fea8cfb5f975fd4",
+      "ko": "아니면 살과 피, 뼈, 그리고 다른 것들이 변해서... 내가 된 것처럼!"
+    },
+    {
+      "line": 2206,
+      "event": "cpollycooking",
+      "english_sha256": "944af7717e86c849d3d9ce3e25567fc58a96916d0ca1349758b913273f81aa0a",
+      "ko": "그래서 사후 세계는 새로운 관점을 선사하는 것 같아. 그리고 요리는 최고야."
+    },
+    {
+      "line": 2207,
+      "event": "cpollycooking",
+      "english_sha256": "a82b821e2d5d247ced053bb1523950aaf2da37c7e2ebbb5fea4cb898de44b693",
+      "ko": "언젠가 네게 요리를 해 줄 수도 있겠네. 네가 감히 도전한다면 말이야!"
+    },
+    {
+      "line": 2208,
+      "event": "cpollycooking",
+      "english_sha256": "75a69e2acf620916785d293a13ab595f0195a175a258d106f2eca295ca19e19a",
+      "ko": "그러면 정말 좋겠어."
+    },
+    {
+      "line": 2217,
+      "event": "cpollyghosts",
+      "english_sha256": "f6a488df586f81f03e4a34f6d644780a1402dd36746b842894c9e52ae44462cf",
+      "ko": "유령으로 산다는 것"
+    },
+    {
+      "line": 2219,
+      "event": "cpollyghosts",
+      "english_sha256": "cfd33eea22c8e4615e4c1b3f55d02869d090fb84b8e7958218c6c9997b032f8c",
+      "ko": "유령으로 사는 건 끝내줘!"
+    },
+    {
+      "line": 2220,
+      "event": "cpollyghosts",
+      "english_sha256": "adc4d8116f4495f88b7ae64ed18ef6cd100cd6203de60cae74e25bbbc7a6bf4a",
+      "ko": "사후 세계에선 제약도 훨씬 적어질 뿐 아니라, 여러 생각도 하게 되거든."
+    },
+    {
+      "line": 2221,
+      "event": "cpollyghosts",
+      "english_sha256": "4f33e2ca777a833ff85edefd3cdead6b422bde6ed4ed378693b9e822be88ce2d",
+      "ko": "그러니까... 삶? 사후 세계? 대체 어떻게 돌아가는 거야?!"
+    },
+    {
+      "line": 2222,
+      "event": "cpollyghosts",
+      "english_sha256": "e1273ca7d6e80a3ef4e7a264339298c8e3c2162851b8d66d8fdcdf168bca7cf0",
+      "ko": "어떤 사람은 태어날 때부터 유령이고, 나처럼 죽어서 유령이 된 사람도 있어..."
+    },
+    {
+      "line": 2223,
+      "event": "cpollyghosts",
+      "english_sha256": "1e0264db6e61da0ed5c0245559a694548cd6a1a9e84866a6d6f1f31be503811e",
+      "ko": "우리가 육체를 가진 생명체와 같은 규칙을 따르진 않겠지만... 그래도 규칙은 존재해."
+    },
+    {
+      "line": 2224,
+      "event": "cpollyghosts",
+      "english_sha256": "4f697570d6af5492ea7bec2a27479c4faa00920207d6747f6fb35b8c5d3996b3",
+      "ko": "오오, 유령만의 이상한 규칙!"
+    },
+    {
+      "line": 2225,
+      "event": "cpollyghosts",
+      "english_sha256": "b979c07daaa011a16879171b73c4b9be78ce2cffe793eb527c20d9b56d62f8f8",
+      "ko": "맞아! 우리가 완전히 필멸자인 건 아니지만, 그렇다고 불멸자인 것도 아니더라."
+    },
+    {
+      "line": 2226,
+      "event": "cpollyghosts",
+      "english_sha256": "463fc9116f77ec4f257208115f70a0c970a736c767fa492d33c572a4524ec74b",
+      "ko": "어떻게 그런지는 아직도 수수께끼야."
+    },
+    {
+      "line": 2227,
+      "event": "cpollyghosts",
+      "english_sha256": "de7ace5a83a05b3c81e79c88d04e3158e939150e9da12e9a72c0e5521ef7fce5",
+      "ko": "나도 그래!"
+    },
+    {
+      "line": 2228,
+      "event": "cpollyghosts",
+      "english_sha256": "9bd5d1067742aa5d4b2fe9932e5ad3357346c08e834eb0b3a4e35995ae912374",
+      "ko": "어떤 유령은 나이를 먹고, 어떤 유령은 안 먹고, 또 어떤 유령은 저마다 다른 속도로 나이를 먹어... 이상하지."
+    },
+    {
+      "line": 2229,
+      "event": "cpollyghosts",
+      "english_sha256": "04c15376ff0128720baefeab798f2f3369d8af7d3f8725b87ac93528859f5296",
+      "ko": "그리고 어떤 유령은 확실히 존재를 멈추기도 해."
+    },
+    {
+      "line": 2230,
+      "event": "cpollyghosts",
+      "english_sha256": "d51570e877c3ac8fde65c69d106659ca1b1dd3a71d118553335b84c1a494069a",
+      "ko": "하지만 그게 전부는 아니야."
+    },
+    {
+      "line": 2231,
+      "event": "cpollyghosts",
+      "english_sha256": "03e1d33ec4a7f6e822ed17d6bc287c7ece9f34429cd86cb3a709de1adac07048",
+      "ko": "어떻게?"
+    },
+    {
+      "line": 2232,
+      "event": "cpollyghosts",
+      "english_sha256": "62fa44e01f11dfc829b821c5717928893a05c9a7de72ab11ab087a9ba896221f",
+      "ko": "우린 계속해서 아주 다양한 방식으로 변하고 다른 상태로 넘어가. 몇 번이고 거듭해서."
+    },
+    {
+      "line": 2233,
+      "event": "cpollyghosts",
+      "english_sha256": "dcf23cb5fd29d8adfdbead6d9acefe2e6032c82e6b47a984ce0935b7951620f1",
+      "ko": "그러니 누가 알겠어? 내일이면 내가 더는 여기 없을지도 몰라."
+    },
+    {
+      "line": 2234,
+      "event": "cpollyghosts",
+      "english_sha256": "71183ac9fcf1c9a18eaae34591bd2881704b2f81e0eaaaee5e9446c74a03bbb1",
+      "ko": "하지만 어쩌면 다른 존재가 될 수도 있지... 새로운 무언가로."
+    },
+    {
+      "line": 2235,
+      "event": "cpollyghosts",
+      "english_sha256": "b7f8d3eb7b0e7bac96676e7efda357683f1c9c879aa96c601ac11b8143dcd686",
+      "ko": "나는 별가루가 될 수도 있고... 다시 살덩이가 될 수도 있고... 따뜻하지만 아득한 추억이 될 수도 있고... 노래의 한 구절이 될 수도 있어..."
+    },
+    {
+      "line": 2236,
+      "event": "cpollyghosts",
+      "english_sha256": "830c5a5a97a7d36b93b8aa7d92feb280ae65abe9c5668a43cf93d7cdb0fd2bfd",
+      "ko": "그녀는 네 손을 잡고 별들을 바라보며 말없이 앉아 있다. 약간 경외해서일 수도, 약간 두려워서일 수도 있다."
+    },
+    {
+      "line": 2245,
+      "event": "cpollyapt",
+      "english_sha256": "429c706e72918f17864c9ff8dd0f45b6f38fce8a3e3002a6a67a540bd2298b47",
+      "ko": "아파트 구하기"
+    },
+    {
+      "line": 2247,
+      "event": "cpollyapt",
+      "english_sha256": "f27ba42f793b1f53cefdb848936997f14dad004ba3209b4fb80c061e1b2efba9",
+      "ko": "응, 스콧이랑 같이 살 아파트를 알아보고 있어."
+    },
+    {
+      "line": 2248,
+      "event": "cpollyapt",
+      "english_sha256": "64cd707733ab7e43d689d61b1ba1b8ffef0d9dcdacf67b64683a15bde9e75da1",
+      "ko": "데미안도 합류할지 모르지. 하지만 지금은 나랑 착한 댕댕이뿐이야!"
+    },
+    {
+      "line": 2249,
+      "event": "cpollyapt",
+      "english_sha256": "0d1e2babf2c8f303df3be0fbb79e5c6be95265a1c31c22586ae4b043b0c804d3",
+      "ko": "근데 와... 아파트 구하는 일도 참 파란만장하더라... 이번 여행보다 더 기묘할 정도야."
+    },
+    {
+      "line": 2250,
+      "event": "cpollyapt",
+      "english_sha256": "38480d7666aa9af2d9095e0f7afe9364179a2204df28dc780a7fe825826390e6",
+      "ko": "정말? 우리 여행이 기준을 엄청 높여 놨는데, 그보다 더 기묘하다니 진짜 장난 아니겠네."
+    },
+    {
+      "line": 2251,
+      "event": "cpollyapt",
+      "english_sha256": "859926d56f5cb841280ad888d8c66d7249e0f801b16577ef29fc4b3a2157f388",
+      "ko": "당연하지!"
+    },
+    {
+      "line": 2252,
+      "event": "cpollyapt",
+      "english_sha256": "52c07c1e81fdff031f26cee42e88180c98084b5f0b05782b5b168361dd2f3cc9",
+      "ko": "가격! 조건! 사람들까지!"
+    },
+    {
+      "line": 2253,
+      "event": "cpollyapt",
+      "english_sha256": "cbfad4ac95da5f03de1e1e71c7df3f40cc4d7b5ce8d85a3f6127949d81e387c6",
+      "ko": "자, 이 얘기 좀 들어 봐:"
+    },
+    {
+      "line": 2254,
+      "event": "cpollyapt",
+      "english_sha256": "21db96581fc832eede6dcaa4c31e596482dd2752a63ee2502dd26ef5301af537",
+      "ko": "어떤 집주인은 자기 레게 밴드에 가입해야만 집을 빌려주겠다고 하더라니까."
+    },
+    {
+      "line": 2255,
+      "event": "cpollyapt",
+      "english_sha256": "1b5f5a7614f66b5f2896f03f5519bec02389e49aac83325e3f200cab3f9ffc61",
+      "ko": "또 다른 집주인은 세 들어 사는 동안 케첩을 먹는 걸 엄격하게 금지했어."
+    },
+    {
+      "line": 2256,
+      "event": "cpollyapt",
+      "english_sha256": "9ae45c4d15b34f4ffeb3fd93d0cbd0ca1b96639e12723ac1f7986b7eecca326d",
+      "ko": "케첩을? 대체... 왜?"
+    },
+    {
+      "line": 2257,
+      "event": "cpollyapt",
+      "english_sha256": "08cd595f0a23fbfb6cfb1f24157702d5b64dc9750e57da859f1deca63768ef04",
+      "ko": "원칙의 문제라나. 씨발, 아직도 그게 무슨 뜻인지 모르겠어."
+    },
+    {
+      "line": 2258,
+      "event": "cpollyapt",
+      "english_sha256": "56ac074924de594a9f60b8d1a9a6e58618701fe708d78442086d420d1e9d2699",
+      "ko": "화장실도 없는 집도 있었는데, 거기선 ‘똥통’을 별도 판매하겠다고 했어."
+    },
+    {
+      "line": 2259,
+      "event": "cpollyapt",
+      "english_sha256": "9d89a6ae05d5554de9f7e21ce5b49f7214a4b84316a6159fe06eea1f5c8cf328",
+      "ko": "똥... 통이라고?"
+    },
+    {
+      "line": 2260,
+      "event": "cpollyapt",
+      "english_sha256": "6b973c2d9cd628fcc11ad89ee11ca2f91ba407049f0a86adc510bdaab00162a9",
+      "ko": "응... 그래도 임대 중이던 지하실보단 나았어. 진짜 말해 줄게. 그 지하실은 성적인 용도였거나 범죄에 쓰였거나, 둘 다였을 거야."
+    },
+    {
+      "line": 2261,
+      "event": "cpollyapt",
+      "english_sha256": "730725ba9a8edc7815ede5ac52cc36957914ba6d40c3c0504ddc70e8498cd8ce",
+      "ko": "세상에, 얘... 진짜 기겁할 일이 줄줄이 이어지네."
+    },
+    {
+      "line": 2262,
+      "event": "cpollyapt",
+      "english_sha256": "6c46eb6489eb75d6e18c5c14ff619f146f5930baa8badd08494542f5a8ab3715",
+      "ko": "와... 이 얘길 꼭 하고 싶었어. 역시 속을 털어놓으니 좋네."
+    },
+    {
+      "line": 2263,
+      "event": "cpollyapt",
+      "english_sha256": "deb47c04943f7d910e6a640a79e596b001ded85a037399c6a7ad0f52f0c13c2b",
+      "ko": "요약하자면, 우리가 세 들어 살 괜찮은 아파트를 찾는 데 시간이 좀 걸리고 있어."
+    },
+    {
+      "line": 2264,
+      "event": "cpollyapt",
+      "english_sha256": "45c42ad88698098d70012f628bb3ed54de6af3769403e79a8b91635cfd00c9c9",
+      "ko": "그래도 덕분에 여정이 더 재밌잖아. 언젠가는 딱 맞는 곳을 찾을 거라고 믿어."
+    },
+    {
+      "line": 2265,
+      "event": "cpollyapt",
+      "english_sha256": "34edab68278b83945384c8087f52e622c5da888154257b49e0236bb2e7e4b244",
+      "ko": "맞아! 넌 해낼 수 있어."
+    },
+    {
+      "line": 2274,
+      "event": "cpollychess",
+      "english_sha256": "e3cd54dd6984e6806feae67e51b6be55907508199cfb642eb97142268a9d4a40",
+      "ko": "그녀의 엄청난 체스 실력"
+    },
+    {
+      "line": 2276,
+      "event": "cpollychess",
+      "english_sha256": "71d230541273548622f19eb1744e35e10742f94f3b1efd35473ce1244c5523df",
+      "ko": "체스 얘기라면 뭐부터 말해 줄까?"
+    },
+    {
+      "line": 2277,
+      "event": "cpollychess",
+      "english_sha256": "ea6639c7eb11ff53f3a83ca63d0b1e75d76e2888409c591d4907f001f10ff53b",
+      "ko": "초반에 캐슬링하고... 중앙을 장악하고... 유리한 폰 구조를 만들어..."
+    },
+    {
+      "line": 2278,
+      "event": "cpollychess",
+      "english_sha256": "3c8f9bcc7b21f565095a8dedb5e51760095d89a270ad2f59dd8da5fb3362f908",
+      "ko": "필기하고 있어!"
+    },
+    {
+      "line": 2279,
+      "event": "cpollychess",
+      "english_sha256": "006e9e9a0ce63cb98b6889bcb2f948b2582c605ec18d2b7a516e8dff92923a1f",
+      "ko": "가장 좋은 건 이론을 읽고, 직접 두는 거야. 두고, 또 두고, 계속 두는 거지."
+    },
+    {
+      "line": 2280,
+      "event": "cpollychess",
+      "english_sha256": "2f13473baa8caa7a77738123a1798c21040f7e1923fe2bbf6f5d26b0ca906c78",
+      "ko": "패턴과 개념이 이성에서 직관으로 넘어갈 때까지 ‘체스 근육’을 단련해야 해."
+    },
+    {
+      "line": 2281,
+      "event": "cpollychess",
+      "english_sha256": "4da5d52193b80c1cd304eea84b1ebf05c4994f6da40f3869e866c1ae97dc66ee",
+      "ko": "내 비결은 사실 이거야. 아주 오래전부터 엄마랑 체스를 뒀는데, 알고 보니 엄마가 그랜드마스터거든."
+    },
+    {
+      "line": 2282,
+      "event": "cpollychess",
+      "english_sha256": "e574983f66442d05379255d5a7911add4b55c7a09e2a157bbb1bfbc08d6efb02",
+      "ko": "엄마랑 나는 정말 달라! 엄마는 차분하고 침착한 사람이야. 정말 사랑해."
+    },
+    {
+      "line": 2283,
+      "event": "cpollychess",
+      "english_sha256": "9aa53c988ae39b7e7a0e3666ef4ec414fb012fe7a69e0d9a87c418d7d534f49c",
+      "ko": "우리 성격은 완전히 다른 언어로 쓰여 있는 것 같지만, 체스가 공통분모가 됐어... 둘이 함께할 수 있는 공간 말이야."
+    },
+    {
+      "line": 2284,
+      "event": "cpollychess",
+      "english_sha256": "c23deba2bdd26fae46700114e3bdb60f5ec208f8c8b7be1470e6fc8f90358e2b",
+      "ko": "우린 체스에서 서로를 찾아. 체스를 통해 서로를 이해하게 되는 것 같아. 나... 나 그렇게 생각해."
+    },
+    {
+      "line": 2285,
+      "event": "cpollychess",
+      "english_sha256": "9f750144585f7f8de6b6f76318c4ddbe291d2539310dbcc0c46abedb564a9b68",
+      "ko": "그래... 그랜드마스터 엄마 밑에서 자란 게 확실히 도움이 되긴 하지."
+    },
+    {
+      "line": 2286,
+      "event": "cpollychess",
+      "english_sha256": "ebb6177f8a31f2247a41a41aa4b49c7e2a63b1aa4b2a145fbaf5e13400b8aa48",
+      "ko": "정말 그렇겠네!"
+    },
+    {
+      "line": 2288,
+      "event": "cpollychess",
+      "english_sha256": "4c89c2e83247bcf2280cce1329e58e1b0450019d516dd5da889d68f3295389dc",
+      "ko": "요즘은 도전적이고 승부가 치열한 대국만 찾아. 안 그러면 금방 지루해져."
+    },
+    {
+      "line": 2289,
+      "event": "cpollychess",
+      "english_sha256": "aa50ff71a602f5f23d57bf13016331d93c9f8a61a71b3ada8948f97d5c2978cc",
+      "ko": "그래도 지루함을 쫓는 요령을 하나 개발했어. 체스 말마다 사연과 성격을 부여한 다음, 그 설정에 맞춰 두는 거야."
+    },
+    {
+      "line": 2290,
+      "event": "cpollychess",
+      "english_sha256": "0e5a3f46de11e10248622b804e761631276edf5d13df190a02dfe162d9d958eb",
+      "ko": "내 B1 나이트는 F1 비숍을 몰래 사랑하고 있어. 나이트를 연인 가까이 옮기고 비숍을 구하기 위해 나이트를 희생할 준비도 해야 하지."
+    },
+    {
+      "line": 2291,
+      "event": "cpollychess",
+      "english_sha256": "0c885a8098f7d2394b34a31d31bbcf3bd353b044c7b6625fee7b396bd07de625",
+      "ko": "이런 소소한 이야기들에 집중하면, 원래라면 너무 쉬워서 지루할 대국도 지루하지 않게 즐길 수 있어."
+    },
+    {
+      "line": 2292,
+      "event": "cpollychess",
+      "english_sha256": "6a5fa673491a69b1fdb4e2217c767b653744888d00a652e608d29276cb876032",
+      "ko": "리암한텐 말하지 마. 그랑 둘 때는 항상 이렇게 해야 하거든. 내가 엄청 집중하니까 리암은 자기가 꽤 선전하고 있다고 생각하는 것 같아. 귀엽지."
+    },
+    {
+      "line": 2293,
+      "event": "cpollychess",
+      "english_sha256": "1f8a6bfc134dd0ec8c6cba51c9760980e98c684c18fd2e96a8fe1c56c7538bb4",
+      "ko": "리암도 참!"
+    },
+    {
+      "line": 2294,
+      "event": "cpollychess",
+      "english_sha256": "b16e5632e5c8b348c0f3ef421a8444f5000e450d43e2a259c4f3bc27b8234972",
+      "ko": "맞아, 리암도 참."
+    },
+    {
+      "line": 2295,
+      "event": "cpollychess",
+      "english_sha256": "87d829ab385574bfe9aab65913ed7e48a76fa298d9f2f626fcdf99bd6586d432",
+      "ko": "아무튼... 그래, 난 체스가 정말 좋아."
+    },
+    {
+      "line": 2304,
+      "event": "cpollytoiletwine",
+      "english_sha256": "d8f67235cee3267d8b2e6267a5324b8d730f3c8dd22b855283dd46ccf3c0411f",
+      "ko": "그녀의 변기 와인"
+    },
+    {
+      "line": 2306,
+      "event": "cpollytoiletwine",
+      "english_sha256": "7639da5e256425d19d4b87920e998d6c960d29ab73bd7c672dbefe84c98e49a3",
+      "ko": "아, 그래, 내 소중한 변기 와인."
+    },
+    {
+      "line": 2307,
+      "event": "cpollytoiletwine",
+      "english_sha256": "1fad3a79cb18499b3a64e09203b4b1b4d01fb051410bbd434078f0be61493f6b",
+      "ko": "인터넷에서 변기 와인 담그는 법을 처음 봤던 영상이 기억나."
+    },
+    {
+      "line": 2308,
+      "event": "cpollytoiletwine",
+      "english_sha256": "406aeb3bd91ec186e5d1358d588a255cae89f1c3db0094ed2feb7a872897f5f1",
+      "ko": "그때 난 완전 이랬지. “술을 직접 만들 수 있다고?!”"
+    },
+    {
+      "line": 2309,
+      "event": "cpollytoiletwine",
+      "english_sha256": "1971be67d91987c39b6018c8f025a197dd148505a26142127ffde6148b8bac62",
+      "ko": "난 바로 도전했지!"
+    },
+    {
+      "line": 2310,
+      "event": "cpollytoiletwine",
+      "english_sha256": "0bd10cb58d15037b712e0cfa0a8860ac4cc6672268330862ee98b2a0542f7ad6",
+      "ko": "내 레시피를 정말 오랫동안 다듬어 왔어!"
+    },
+    {
+      "line": 2311,
+      "event": "cpollytoiletwine",
+      "english_sha256": "400de52bd5ae7ed643d12b4935bf4cb524dcbb9103e1bf55ed0a41231047bace",
+      "ko": "내가 좋아하는 게 다 들어 있거든. 화학을 이해하는 것... (대충)... 요리... 술에 취하기..."
+    },
+    {
+      "line": 2312,
+      "event": "cpollytoiletwine",
+      "english_sha256": "35b012dcc0130b605ef25c9e10f6cf74d3dc7607819ee03406ac306dd54d6675",
+      "ko": "술 빚기는 네게 잘 어울리는 취미 같네."
+    },
+    {
+      "line": 2313,
+      "event": "cpollytoiletwine",
+      "english_sha256": "c2ac06f3b7a0cdf843fc302a8beace748993afb9f52436e440c67c8d5ebda5f5",
+      "ko": "레시피를 정말 많이 수정했어. 내 손님들 말로는 결과물이 엄청나게 발전했대."
+    },
+    {
+      "line": 2314,
+      "event": "cpollytoiletwine",
+      "english_sha256": "58d40bc3ae85069ea9422f8702bbf3cbe445d4a115fefc3e4d5f4175f61b1df8",
+      "ko": "‘식용 불가’에서 ‘흉측함’을 거쳐 ‘끔찍함’까지."
     }
   ]
 }
