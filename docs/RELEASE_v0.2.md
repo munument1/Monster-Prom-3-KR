@@ -49,11 +49,8 @@ OnApplicationQuit 이후 정상 종료가 기록됐고 새 충돌 덤프는 없�
 Release x86 빌드 경고/오류 0개, 자동 검사 43개, 이벤트 11개 구조 독립 검사와
 번역 불변 델타 검사를 통과했습니다. 사용자 세이브는 배포 파일에 포함하지 않습니다.
 
-## 다른 다운로드 / 문제가 있을 때
+## 문제가 있을 때
 
-- `manual-overwrite.zip`: 이벤트 TXT 11개만 담은 보조 파일입니다. UI·폰트·런타임 수정은 없습니다.
-  일반 Windows 사용자는 위의 **Windows-DragDrop.zip 하나만** 받으세요.
-- `source-testkit.zip`: 개발/재현용 소스와 번역 데이터입니다. 일반 설치에는 필요 없습니다.
 - 설치가 안 되거나 다른 게임 버전이라면 동봉한 `VERIFY-WINDOWS.ps1`로 빌드를 검사할 수 있습니다.
   일반 설치에 필수인 단계는 아닙니다.
 - 이전 테스트에서 BepInEx 설정을 직접 바꿨다면 `BepInEx/config/BepInEx.cfg`의
