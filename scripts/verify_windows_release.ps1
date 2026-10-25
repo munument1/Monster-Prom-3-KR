@@ -1,6 +1,12 @@
 # Read-only check before manually copying the Windows release into the game.
 param([Parameter(Mandatory=$true)][string]$GamePath)
 $ErrorActionPreference = 'Stop'
+function Get-ReleaseSHA256([string]$Path) {
+    $stream = [System.IO.File]::OpenRead($Path)
+    $sha = [System.Security.Cryptography.SHA256]::Create()
+    try { return [BitConverter]::ToString($sha.ComputeHash($stream)).Replace('-', '') }
+    finally { $sha.Dispose(); $stream.Dispose() }
+}
 $game = (Resolve-Path -LiteralPath $GamePath).Path
 $expected = @{
     'MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll' = '5C3AD7D6E2B557173D9FA4C3281136ED6992DBE25031979DFEE85D001267761C'
@@ -9,7 +15,7 @@ $expected = @{
 }
 foreach ($item in $expected.GetEnumerator()) {
     $path = Join-Path $game $item.Key
-    if (!(Test-Path -LiteralPath $path) -or (Get-FileHash -LiteralPath $path -Algorithm SHA256).Hash -ne $item.Value) {
+    if (!(Test-Path -LiteralPath $path) -or (Get-ReleaseSHA256 $path) -ne $item.Value) {
         throw "Unsupported or modified game file: $($item.Key). Do not install this Windows release."
     }
 }
@@ -18,7 +24,7 @@ if (Test-Path -LiteralPath $manifestPath) {
     $manifest = Get-Content -LiteralPath $manifestPath -Raw | ConvertFrom-Json
     foreach ($item in $manifest.files.PSObject.Properties) {
         $path = Join-Path $PSScriptRoot $item.Name
-        if (!(Test-Path -LiteralPath $path) -or (Get-FileHash -LiteralPath $path -Algorithm SHA256).Hash -ne $item.Value) {
+        if (!(Test-Path -LiteralPath $path) -or (Get-ReleaseSHA256 $path) -ne $item.Value) {
             throw "Release file missing or changed: $($item.Name)"
         }
     }
