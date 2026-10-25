@@ -51,7 +51,7 @@
     {"line":89,"event":"tutorial_resources1","english_sha256":"c87b098fb749c0d05ae0258dfdeafa6d8ebff73c005686f2371611593c9daf67","ko":"*박수*"},
     {"line":91,"event":"tutorial_resources1","english_sha256":"ff157479c73ada1cdcad0b48a07765f0d19e1d81f742d468fcfb8d8b2fd571af","ko":"와, 말도 안 되게 딱 맞는 설명이었어! 스콧, 메모했어?"},
     {"line":92,"event":"tutorial_resources1","english_sha256":"3d08b37cdf5c2183bc5d33dda0ba25815d4430bcfee0340f1f5bc1eb3adff06f","ko":"아니!"},
-    {"line":93,"event":"tutorial_resources1","english_sha256":"97a8c52c31c7d0b9cdfcdc18d0afe7253a4bc4a3beaace3a9b82609a7cfe110b","ko":"그럼 적어도 %CURRENTPLAYERNAME%는 적었길 바라야지. 안 그랬으면 우린 진짜 좆된 거야... 좋은 의미로 말고."},
+    {"line":93,"event":"tutorial_resources1","english_sha256":"97a8c52c31c7d0b9cdfcdc18d0afe7253a4bc4a3beaace3a9b82609a7cfe110b","ko":"그럼 적어도 %CURRENTPLAYERNAME%은 적었길 바라야지. 안 그랬으면 우린 진짜 좆된 거야... 좋은 의미로 말고."},
     {"line":107,"event":"tutorial_resources2","english_sha256":"481a55b5d1cb1d3d46201097413c262972576f689aa9d7ee121c1023cb3e837f","ko":"저기 폴리! 지금이 무슨 시간인지 봐!"},
     {"line":108,"event":"tutorial_resources2","english_sha256":"2d941e378d6fa1f51c29a9995c527d525a4f1d3a110c459f3b7ae5b77efdb0a1","ko":"아, 씨발 좋지! %CURRENTPLAYERNAME%, 라디오 틀어!"},
     {"line":110,"event":"tutorial_resources2","english_sha256":"cafe1c39bc31b36a336e798f1a17930f1cbd0bfe2e6435cb2389e1d56ec66083","ko":"\"이야기 전개에 딱 맞는 자동차 여행 꿀팁을 알려 드리는 라디오 프로그램 '편리한 설명 시간!'에 다시 오신 걸 환영합니다!\""},

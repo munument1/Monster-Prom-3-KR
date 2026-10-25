@@ -14,7 +14,7 @@ import hashlib
 import json
 from pathlib import Path
 
-from build_playtest import verify_line
+from build_playtest import GAME_STAT_BOUNDARY, STAT_EFFECT_GLUED_TO_HANGUL, game_safe_stat_effects, verify_line
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "work/source"
@@ -68,9 +68,18 @@ def check_one(path: Path) -> tuple[int, int, int]:
         english, korean = fields_before[3], fields_after[3]
         if sha256(english) != row["english_sha256"]:
             raise ValueError(f"sentence sha changed: {name}:{i}")
-        if korean != row["ko"]:
-            raise ValueError(f"built translation differs from reviewed JSON: {name}:{i}")
-        verify_line(english, korean, f"{name}:{i}")
+        # Only a parser-safe U+200B immediately after signed stat effect enum
+        # codes may differ from the reviewed Korean. It is invisible in-game,
+        # and without it the original game fails to recognize stat effects
+        # whose Korean postposition touches the English enum name.
+        expected_rendered = game_safe_stat_effects(row["ko"])
+        if korean != expected_rendered:
+            raise ValueError(f"built translation differs from parser-safe reviewed JSON: {name}:{i}")
+        if korean.replace(GAME_STAT_BOUNDARY, "") != row["ko"]:
+            raise ValueError(f"unexpected invisible characters in build: {name}:{i}")
+        if STAT_EFFECT_GLUED_TO_HANGUL.search(korean):
+            raise ValueError(f"stat token missing Unicode boundary in build: {name}:{i}")
+        verify_line(english, row["ko"], f"{name}:{i}")
         event = next(
             (x.split("\t", 2)[1].rstrip("\r\n") for x in reversed(original_lines[:i]) if x.startswith(">>>\t")),
             None,

@@ -89,4 +89,15 @@
 기계적으로 강요하지 않습니다. 메타텍스트 `STA_HYPE`·`STA_MAGIC`은
 이번 추가 UI 번역에서 각각 `흥`·`마력`으로 일치시켰습니다.
 
+**스탯 효과 표현은 절대 원문을 치환하지 않습니다.** 설치본 `Assembly-CSharp.dll`의
+`BeautifulGlitch.RegexUtils.GetRegexStatAny()` 및
+`Game.MainGameEventManager.ProcessStatPatterns()` IL 검수 결과,
+`+N2 STAMINA`, `-N2 SOUL`, `+N2 HYPE`처럼 부호·수치·대문자 영문 자원명이
+연결된 표현은 실제 `StatType` 열거형을 파싱해 능력치 증감을 적용하는 게임 문법입니다.
+이를 `+N2 체력`처럼 변경하면 정규식·열거형 해석이 실패하여 능력치 적용이
+고장 날 수 있습니다. 이 패턴은 그대로 보존하고 주변 서술만 한국어로 번역합니다.
+반면 자원 **UI 라벨**은 위 용어집대로 한글화합니다.
+신규 번역에 대해 `verify_translation_delta.py`가 효과 토큰의 부호·N·수치·종류
+일치 여부를 확인합니다. 기계적인 영문 스탯 단어 전역 치환은 금지합니다.
+
 본 가이드는 초기안이며 기존 한국어판의 용어집과 일관성을 재검증해야 합니다.

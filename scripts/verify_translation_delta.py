@@ -17,6 +17,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import re
 import subprocess
 from collections import Counter
 from pathlib import Path
@@ -25,10 +26,115 @@ from build_playtest import verify_line
 
 ROOT = Path(__file__).resolve().parents[1]
 
+# Confirmed via installed Assembly-CSharp.dll: MainGameEventManager.ProcessStatPatterns
+# parses +/-N2 STAMINA and similar signed uppercase stat labels into a StatType
+# enum and applies stat changes. The names in these expressions are executable
+# game syntax, not untranslated natural-language text.
+STAT_EFFECT = re.compile(
+    r"(?<![A-Za-z])([+-])(N?[0-9]+)\s*"
+    r"(STAMINA|HYPE|MAGIC|MIND|SOUL|MONEY)(?![A-Za-z])"
+)
+
+
+def verify_stat_effects(english: str, korean: str, ident: str) -> None:
+    """Only compare actual six-stat effect expressions, not general prose."""
+    expected = Counter(STAT_EFFECT.findall(english))
+    actual = Counter(STAT_EFFECT.findall(korean))
+    if expected != actual:
+        raise ValueError(
+            f"stat-effect enum expression mismatch: {ident}: "
+            f"{dict(expected)} != {dict(actual)}"
+        )
+
 # Explicit, source-reviewed corrections to previously committed Korean text.
 # Each exception is narrow: the old Korean value, new Korean value, and row
 # identity must all match. This does not permit arbitrary edits to old rows.
 APPROVED_EVENT_CORRECTIONS = {
+    ("english_events_maingame", 850): {
+        "old": "맞아. 여기 %CURRENTPLAYERNAME%는 %HESHE%%VERB_'S_'VE% %HISHER% 다리 사이에 큼지막한 황동제 8번 공 두 개가 달렸다고 생각하나 봐!",
+        "new": "맞아. 저 도전자는 자기 다리 사이에 큼지막한 황동 8번 공 두 개가 달렸다고 생각하나 봐!",
+        "reason": "Screenshot-confirmed English conjugation tokens render as '그녀's 그녀의' and the player name as '???'; replace this exact sentence with a natural referent.",
+    },
+    ("english_events_endings", 892): {
+        "old": "새로운 %CURRENTPLAYERNAME%를 환영하라! 새 시대가 열린다!",
+        "new": "새로운 %CURRENTPLAYERNAME%을 환영하라! 새 시대가 열린다!",
+        "reason": "Confirmed protagonist-name 받침 particle agreement; exact source-reviewed change.",
+    },
+    ("english_events_endings", 1057): {
+        "old": "밴드는 네가 누군지도 모르지만, 음악 페스티벌 행동 강령을 존중해 관객이 %CURRENTPLAYERNAMECAPS%를 원한다면 %CURRENTPLAYERNAMECAPS%를 무대에 올려 주기로 한다.",
+        "new": "밴드는 네가 누군지도 모르지만, 음악 페스티벌 행동 강령을 존중해 관객이 %CURRENTPLAYERNAMECAPS%을 원한다면 %CURRENTPLAYERNAMECAPS%을 무대에 올려 주기로 한다.",
+        "reason": "Confirmed protagonist-name 받침 particle agreement; exact source-reviewed change.",
+    },
+    ("english_events_endings", 1686): {
+        "old": "뭐, 그건 미래의 %CURRENTPLAYERNAME%가 알아서 해결할 문제다!",
+        "new": "뭐, 그건 미래의 %CURRENTPLAYERNAME%이 알아서 해결할 문제다!",
+        "reason": "Confirmed protagonist-name 받침 particle agreement; exact source-reviewed change.",
+    },
+    ("english_events_endings", 1984): {
+        "old": "%CURRENTPLAYERNAME%는 '물 위의 매력덩이'라는 별명으로 궁정 모두의 사랑을 받는다!",
+        "new": "%CURRENTPLAYERNAME%은 '물 위의 매력덩이'라는 별명으로 궁정 모두의 사랑을 받는다!",
+        "reason": "Confirmed protagonist-name 받침 particle agreement; exact source-reviewed change.",
+    },
+    ("english_events_endings", 2005): {
+        "old": "%CURRENTPLAYERNAME%를 로데오에서 데려올 순 있어도, %CURRENTPLAYERNAME%에게서 로데오를 떼어 놓을 순 없지.",
+        "new": "%CURRENTPLAYERNAME%을 로데오에서 데려올 순 있어도, %CURRENTPLAYERNAME%에게서 로데오를 떼어 놓을 순 없지.",
+        "reason": "Confirmed protagonist-name 받침 particle agreement; exact source-reviewed change.",
+    },
+    ("english_events_endings", 2087): {
+        "old": "%CURRENTPLAYERNAME%는 '물 위의 매력덩이'라는 별명으로 궁정 모두의 사랑을 받는다!",
+        "new": "%CURRENTPLAYERNAME%은 '물 위의 매력덩이'라는 별명으로 궁정 모두의 사랑을 받는다!",
+        "reason": "Confirmed protagonist-name 받침 particle agreement; exact source-reviewed change.",
+    },
+    ("english_events_endings", 2377): {
+        "old": "그러다 생각했지. %CURRENTPLAYERNAME%는 엉뚱하고 귀엽고, 날 즐겁게 해 주는 사람이야(%HESHE% %VERB_AMUSES_AMUSE%). 그러니 %HESHE%라면 도와줄지도 모르겠다고.",
+        "new": "그러다 생각했지. %CURRENTPLAYERNAME%은 엉뚱하고 귀엽고, 날 즐겁게 해 주는 사람이야(%HESHE% %VERB_AMUSES_AMUSE%). 그러니 %HESHE%라면 도와줄지도 모르겠다고.",
+        "reason": "Confirmed protagonist-name 받침 particle agreement; exact source-reviewed change.",
+    },
+    ("english_events_tutorial", 93): {
+        "old": "그럼 적어도 %CURRENTPLAYERNAME%는 적었길 바라야지. 안 그랬으면 우린 진짜 좆된 거야... 좋은 의미로 말고.",
+        "new": "그럼 적어도 %CURRENTPLAYERNAME%은 적었길 바라야지. 안 그랬으면 우린 진짜 좆된 거야... 좋은 의미로 말고.",
+        "reason": "Confirmed protagonist-name 받침 particle agreement; exact source-reviewed change.",
+    },
+    ("english_events_endings", 1204): {
+        "old": "인어 왕국에 머무는 동안 궁정 사람들은 모두 %CURRENTPLAYERNAME%를 ‘물 위의 매력덩어리’라며 아끼게 된다!",
+        "new": "인어 왕국에 머무는 동안 궁정 사람들은 모두 %CURRENTPLAYERNAME%을 ‘물 위의 매력덩어리’라며 아끼게 된다!",
+        "reason": "Protagonist names red/yellow/green/blue all end in a consonant; object particle must be 을, not 를.",
+    },
+    ("english_events_endings", 1223): {
+        "old": "인어 왕국에 머무는 동안 궁정 사람들은 모두 %CURRENTPLAYERNAME%를 ‘물 위의 매력덩어리’라며 아끼게 된다!",
+        "new": "인어 왕국에 머무는 동안 궁정 사람들은 모두 %CURRENTPLAYERNAME%을 ‘물 위의 매력덩어리’라며 아끼게 된다!",
+        "reason": "Protagonist names red/yellow/green/blue all end in a consonant; object particle must be 을, not 를.",
+    },
+    ("english_events_endings", 1241): {
+        "old": "인어 왕국에 머무는 동안 궁정 사람들은 모두 %CURRENTPLAYERNAME%를 ‘물 위의 매력덩어리’라며 아끼게 된다!",
+        "new": "인어 왕국에 머무는 동안 궁정 사람들은 모두 %CURRENTPLAYERNAME%을 ‘물 위의 매력덩어리’라며 아끼게 된다!",
+        "reason": "Protagonist names red/yellow/green/blue all end in a consonant; object particle must be 을, not 를.",
+    },
+    ("english_events_endings", 1259): {
+        "old": "인어 왕국에 머무는 동안 궁정 사람들은 모두 %CURRENTPLAYERNAME%를 ‘물 위의 매력덩어리’라며 아끼게 된다!",
+        "new": "인어 왕국에 머무는 동안 궁정 사람들은 모두 %CURRENTPLAYERNAME%을 ‘물 위의 매력덩어리’라며 아끼게 된다!",
+        "reason": "Protagonist names red/yellow/green/blue all end in a consonant; object particle must be 을, not 를.",
+    },
+    ("english_events_endings", 1279): {
+        "old": "인어 왕국에 머무는 동안 궁정 사람들은 모두 %CURRENTPLAYERNAME%를 ‘물 위의 매력덩어리’라며 아끼게 된다!",
+        "new": "인어 왕국에 머무는 동안 궁정 사람들은 모두 %CURRENTPLAYERNAME%을 ‘물 위의 매력덩어리’라며 아끼게 된다!",
+        "reason": "Protagonist names red/yellow/green/blue all end in a consonant; object particle must be 을, not 를.",
+    },
+    ("english_events_endings", 1298): {
+        "old": "인어 왕국에 머무는 동안 궁정 사람들은 모두 %CURRENTPLAYERNAME%를 ‘물 위의 매력덩어리’라며 아끼게 된다!",
+        "new": "인어 왕국에 머무는 동안 궁정 사람들은 모두 %CURRENTPLAYERNAME%을 ‘물 위의 매력덩어리’라며 아끼게 된다!",
+        "reason": "Protagonist names red/yellow/green/blue all end in a consonant; object particle must be 을, not 를.",
+    },
+    ("english_events_endings", 1317): {
+        "old": "인어 왕국에 머무는 동안 궁정 사람들은 모두 %CURRENTPLAYERNAME%를 ‘물 위의 매력덩어리’라며 아끼게 된다!",
+        "new": "인어 왕국에 머무는 동안 궁정 사람들은 모두 %CURRENTPLAYERNAME%을 ‘물 위의 매력덩어리’라며 아끼게 된다!",
+        "reason": "Protagonist names red/yellow/green/blue all end in a consonant; object particle must be 을, not 를.",
+    },
+    ("english_events_endings", 1336): {
+        "old": "인어 왕국에 머무는 동안 궁정 사람들은 모두 %CURRENTPLAYERNAME%를 ‘물 위의 매력덩어리’라며 아끼게 된다!",
+        "new": "인어 왕국에 머무는 동안 궁정 사람들은 모두 %CURRENTPLAYERNAME%을 ‘물 위의 매력덩어리’라며 아끼게 된다!",
+        "reason": "Protagonist names red/yellow/green/blue all end in a consonant; object particle must be 을, not 를.",
+    },
     ("english_events_bubbles", 2051): {
         "old": "나한테 묻지 마! 여기 돈 펑펑 쓰는 사람은 %CURRENTPLAYERNAME%잖아!",
         "new": "나한테 묻지 마! 여기 돈 펑펑 쓰는 사람은 %CURRENTPLAYERNAME%이잖아!",
@@ -50,6 +156,81 @@ APPROVED_EVENT_CORRECTIONS = {
         "reason": "The speaker addresses the player who is joining the cult; first-person subject reverses the meaning.",
     },
 }
+
+# Exact previously reviewed rows whose only authorized edit is correcting a
+# protagonist-variable particle. The old and expected new values are derived
+# from the immutable baseline row; only these source lines are eligible, and
+# any other wording/metadata change still fails the delta guard.
+APPROVED_PROTAGONIST_PARTICLE_CORRECTIONS = {
+    "english_events_maingame": (
+        236, 733, 738, 780, 873, 888, 898, 1099, 1108, 1354, 1422,
+        1449, 1534, 1655, 1687, 1768, 1774, 1961, 1966, 1973, 2021, 2044,
+        2049, 2117, 2125, 2542, 2767, 2831, 2839, 2912, 2932, 3247, 3512,
+        3724, 4079, 4329, 4330, 4331,
+    ),
+    "english_events_pitstop": (1966,),
+}
+
+# The earliest maingame prefix accidentally translated 13 executable signed
+# stat enums (e.g. +N2 STAMINA -> +N2 followed by its Korean display name).
+# All later batches preserved enums, but those 13 older rows bypassed the
+# new-batch-only guard. A live Steam run proved these enum strings affect event
+# parsing. Authorize repairs ONLY at these exact physical source rows, with
+# the unchanged source effects supplying the only permitted new enum names.
+APPROVED_LEGACY_STAT_ENUM_REPAIRS = frozenset((
+    369, 1110, 1149, 1159, 1172, 1173, 1225,
+    1226, 1242, 1262, 1263, 1310, 1328,
+))
+LEGACY_STAT_NAME_MAP = {
+    "흥": "HYPE",
+    "마력": "MAGIC",
+    "정신": "MIND",
+    "돈": "MONEY",
+    "영혼": "SOUL",
+    "체력": "STAMINA",
+}
+LEGACY_STAT_KOREAN = re.compile(r"(?<![A-Za-z])([+-]N[0-9]+)[ ]+(흥|마력|정신|돈|영혼|체력)")
+LEGACY_STAT_ENGLISH = re.compile(
+    r"(?<![A-Za-z])([+-]N[0-9]+)[ ]+(STAMINA|HYPE|MAGIC|MIND|SOUL|MONEY)(?![A-Za-z])"
+)
+
+
+def correct_legacy_stat_enum_names(english: str, korean: str) -> str:
+    """Replace ONLY proven Korean stat enums by the source's exact code names."""
+    source_effects = list(LEGACY_STAT_ENGLISH.finditer(english))
+    old_effects = list(LEGACY_STAT_KOREAN.finditer(korean))
+    if not source_effects or len(source_effects) != len(old_effects):
+        raise ValueError("legacy source/translated stat-code counts disagree")
+    parts: list[str] = []
+    previous = 0
+    for source, old in zip(source_effects, old_effects):
+        if (
+            source.group(1) != old.group(1)
+            or LEGACY_STAT_NAME_MAP.get(old.group(2)) != source.group(2)
+        ):
+            raise ValueError("legacy stat enums do not match original source")
+        parts.extend((korean[previous:old.start()], source.group(0)))
+        previous = old.end()
+    parts.append(korean[previous:])
+    return "".join(parts)
+
+PROTAGONIST_VARIABLES = ("%CURRENTPLAYERNAMECAPS%", "%CURRENTPLAYERNAME%")
+WRONG_PROTAGONIST_PARTICLES = {
+    "가": "이",
+    "는": "은",
+    "를": "을",
+    "랑": "이랑",
+    "와": "과",
+}
+
+
+def correct_protagonist_particles(korean: str) -> str:
+    """Return the exact particle-only correction authorized for listed rows."""
+    corrected = korean
+    for name in PROTAGONIST_VARIABLES:
+        for wrong, right in WRONG_PROTAGONIST_PARTICLES.items():
+            corrected = corrected.replace(name + wrong, name + right)
+    return corrected
 
 
 def baseline_json(ref: str, rel_path: str) -> dict:
@@ -75,9 +256,27 @@ def is_approved_event_correction(asset: str, old_row: dict, new_row: dict) -> bo
         return False
     ident = (asset, old_row.get("line"))
     approval = APPROVED_EVENT_CORRECTIONS.get(ident)
-    if approval is None:
-        raise ValueError(f"previously translated event text changed: {asset}:{old_row.get('line')}")
     metadata = ("line", "event", "english_sha256")
+    if asset == "english_events_maingame" and ident[1] in APPROVED_LEGACY_STAT_ENUM_REPAIRS:
+        if any(old_row.get(key) != new_row.get(key) for key in metadata):
+            raise ValueError(f"approved stat repair changed row identity: {asset}:{ident[1]}")
+        source_lines = (ROOT / "work/source/english_events_maingame.txt").read_text("utf-8").splitlines()
+        english = source_lines[ident[1]].split("\t")[3]
+        if hashlib.sha256(english.encode("utf-8")).hexdigest() != old_row["english_sha256"]:
+            raise ValueError(f"approved stat repair lost source identity: {asset}:{ident[1]}")
+        corrected = correct_legacy_stat_enum_names(english, old_row["ko"])
+        if corrected == old_row["ko"] or new_row["ko"] != corrected:
+            raise ValueError(f"approved legacy stat repair value mismatch: {asset}:{ident[1]}")
+        return True
+    if approval is None:
+        if old_row.get("line") not in APPROVED_PROTAGONIST_PARTICLE_CORRECTIONS.get(asset, ()):
+            raise ValueError(f"previously translated event text changed: {asset}:{old_row.get('line')}")
+        if any(old_row.get(key) != new_row.get(key) for key in metadata):
+            raise ValueError(f"approved correction changed row identity: {asset}:{old_row.get('line')}")
+        expected = correct_protagonist_particles(old_row.get("ko", ""))
+        if expected == old_row.get("ko") or new_row.get("ko") != expected:
+            raise ValueError(f"approved protagonist particle correction value mismatch: {asset}:{old_row.get('line')}")
+        return True
     if any(old_row.get(key) != new_row.get(key) for key in metadata):
         raise ValueError(f"approved correction changed row identity: {asset}:{old_row.get('line')}")
     if old_row.get("ko") != approval["old"] or new_row.get("ko") != approval["new"]:
@@ -121,6 +320,7 @@ def validate_event(path: Path, current: dict, baseline: dict, catalog: list[dict
         if hashlib.sha256(english.encode("utf-8")).hexdigest() != row["english_sha256"]:
             raise ValueError(f"original sentence checksum mismatch: {path.name}:{row['line']}")
         verify_line(english, row["ko"], f"{path.stem}:{row['line']}")
+        verify_stat_effects(english, row["ko"], f"{path.stem}:{row['line']}")
     return len(new) - len(old), len(corrected_rows)
 
 

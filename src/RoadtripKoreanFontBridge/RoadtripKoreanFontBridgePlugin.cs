@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Reflection;
+using System.Reflection.Emit;
 using System.Runtime.InteropServices;
 using BepInEx;
 using BepInEx.Configuration;
@@ -18,18 +19,38 @@ namespace RoadtripKoreanFontBridge
     {
         public const string PluginGuid = "munument1.roadtrip.koreanfontbridge";
         public const string PluginName = "Monster Roadtrip Korean Font/UI Bridge";
-        public const string PluginVersion = "0.1.0";
+        public const string PluginVersion = "0.1.5";
 
-        private const string DefaultRoadtripBundlePath = @"D:\Codex_Trans\Monster-Prom-3-KR\build\fontbundles\roadtrip_korean_fonts.bundle";
-        private const string DefaultLocalFontDirectory = @"D:\Codex_Trans\Monster-Prom-3-KR\work\fonts";
+        private static readonly string PluginDirectory = ResolvePluginDirectory();
+        private static readonly string DefaultRoadtripBundlePath = Path.Combine(PluginDirectory, "roadtrip_korean_fonts.bundle");
+        private static readonly string DefaultLocalFontDirectory = Path.Combine(PluginDirectory, "fonts");
         private const string LocalHeaderFontFamily = "Jua";
         private const string LocalBodyFontFamily = "Gamja Flower";
         private const string LocalHeaderFontFileName = "Jua.ttf";
         private const string LocalBodyFontFileName = "GamjaFlower.ttf";
         private const uint PrivateFontResource = 0x10;
-        private const string DefaultCampBundlePath = @"C:\Games\Steam\steamapps\common\Monster Prom 2 - Monster Camp\MonsterCamp_Data\StreamingAssets\aa\StandaloneWindows\profilesfontsets_assets_all_79f49ff1b358585c59c1388d6a773d92.bundle";
-        private const string DefaultPreviewPath = @"D:\Codex_Trans\Monster-Prom-3-KR\build\preview\english_metatexts.txt";
+        private const string DefaultCampBundlePath = "";
+        private static readonly string DefaultPreviewPath = Path.Combine(PluginDirectory, "english_metatexts.txt");
         private const string FallbackFontName = "Malgun Gothic";
+
+        private static string ResolvePluginDirectory()
+        {
+            try
+            {
+                string assemblyPath = Assembly.GetExecutingAssembly().Location;
+                string directory = string.IsNullOrWhiteSpace(assemblyPath) ? null : Path.GetDirectoryName(assemblyPath);
+                if (!string.IsNullOrWhiteSpace(directory))
+                {
+                    return directory;
+                }
+            }
+            catch
+            {
+                // Fall back to the game directory if the assembly location is unavailable.
+            }
+
+            return AppDomain.CurrentDomain.BaseDirectory;
+        }
 
         private static readonly string[] HeaderNameHints =
         {
@@ -49,6 +70,7 @@ namespace RoadtripKoreanFontBridge
         private ConfigEntry<int> _headerSizeThreshold;
 
         private Harmony _harmony;
+        private bool _applicationQuitting;
         private readonly List<AssetBundle> _fontBundles = new List<AssetBundle>();
         private readonly List<string> _registeredPrivateFontPaths = new List<string>();
         private readonly List<Font> _dynamicFonts = new List<Font>();
@@ -74,13 +96,13 @@ namespace RoadtripKoreanFontBridge
             _enableMetatextOverride = Config.Bind("Metatexts", "EnablePreviewOverride", true,
                 "Replace english_metatexts with the local build/preview file when it exists.");
             _roadtripBundlePath = Config.Bind("Fonts", "RoadtripFontBundlePath", DefaultRoadtripBundlePath,
-                "Path to the optional Unity 2021-compatible Jua/GamjaFlower bundle built for Monster Roadtrip.");
+                "Optional Unity 2021-compatible Jua/GamjaFlower bundle path; default is beside this plugin.");
             _localFontDirectory = Config.Bind("Fonts", "LocalFontDirectory", DefaultLocalFontDirectory,
-                "Directory containing local Jua.ttf and GamjaFlower.ttf. Fonts are registered privately for this process only.");
+                "Directory containing optional Jua.ttf and GamjaFlower.ttf; default is a fonts subfolder beside this plugin. Fonts are registered privately for this process only.");
             _bundlePath = Config.Bind("Fonts", "MonsterCampFontBundlePath", DefaultCampBundlePath,
-                "Fallback source path to Monster Camp's original Unity 2019 profilesfontsets bundle. Cross-version loading is unverified.");
+                "Optional path to a locally owned Monster Camp Unity 2019 font bundle. Empty by default; cross-version loading is unverified.");
             _previewPath = Config.Bind("Metatexts", "PreviewFilePath", DefaultPreviewPath,
-                "Path to this project's ignored build/preview/english_metatexts.txt file.");
+                "Path to english_metatexts.txt; default is the distributable file beside this plugin DLL.");
             _headerFontName = Config.Bind("Fonts", "HeaderFontAssetName", "Jua",
                 "Exact Font asset name expected from the Monster Camp bundle.");
             _bodyFontName = Config.Bind("Fonts", "BodyFontAssetName", "GamjaFlower",
@@ -96,18 +118,39 @@ namespace RoadtripKoreanFontBridge
 
             _harmony = new Harmony(PluginGuid);
             PatchConfiguredMethods();
+            PatchSaveNameEncoding();
+            PatchRoadmapMovement();
 
             if (_enableFontBridge.Value)
             {
                 ApplyFontsToExistingComponents();
             }
 
-            Logger.LogInfo("Initialized. Runtime game output and Unity 2019 bundle compatibility have not been tested.");
+            Logger.LogInfo("Initialized Korean UI/font bridge " + PluginVersion + ".");
+            Logger.LogInfo("MonoMod method generator: " + (Environment.GetEnvironmentVariable("MONOMOD_DMD_TYPE") ?? "auto"));
+        }
+
+        private void OnApplicationQuit()
+        {
+            // Unity may already be tearing down its native font and UI systems.
+            // The operating system will reclaim our process-private resources.
+            _applicationQuitting = true;
+            SceneManager.sceneLoaded -= OnSceneLoaded;
+            Logger.LogInfo("Quit requested; Korean UI/font callbacks are disabled for runtime teardown.");
         }
 
         private void OnDestroy()
         {
             SceneManager.sceneLoaded -= OnSceneLoaded;
+            if (_applicationQuitting)
+            {
+                // Do not invoke Unity Object.Destroy, Windows font APIs, or Harmony
+                // method rewriting during process teardown. These are only needed
+                // when the component is removed while the game remains running.
+                _instance = null;
+                return;
+            }
+
             if (_harmony != null)
             {
                 _harmony.UnpatchSelf();
@@ -127,6 +170,12 @@ namespace RoadtripKoreanFontBridge
             if (_enableMetatextOverride.Value)
             {
                 PatchMethod("BeautifulGlitch.CoreAssetManager", "GetTextAsset", new[] { typeof(string) }, "GetTextAssetPostfix");
+                PatchStatNames();
+            }
+
+            if (_enableMetatextOverride.Value || _enableFontBridge.Value)
+            {
+                PatchMethod("UILabel", "OnEnable", Type.EmptyTypes, "ComponentOnEnablePostfix");
             }
 
             if (!_enableFontBridge.Value)
@@ -134,10 +183,121 @@ namespace RoadtripKoreanFontBridge
                 return;
             }
 
-            PatchMethod("UILabel", "OnEnable", Type.EmptyTypes, "ComponentOnEnablePostfix");
             PatchMethod("UnityEngine.UI.Text", "OnEnable", Type.EmptyTypes, "ComponentOnEnablePostfix");
             PatchMethod("BeautifulGlitch.LocalizedNGUIFont", "Refresh", Type.EmptyTypes, "LocalizedFontRefreshPostfix");
             PatchMethod("BeautifulGlitch.LocalizedTextFont", "Refresh", Type.EmptyTypes, "LocalizedFontRefreshPostfix");
+        }
+
+        private void PatchStatNames()
+        {
+            Type widget = AccessTools.TypeByName("Game.StatWidget");
+            if (widget == null)
+            {
+                Logger.LogWarning("Game.StatWidget was not found; stat name patch skipped.");
+                return;
+            }
+            MethodInfo transpiler = AccessTools.Method(typeof(PatchCallbacks), "StatInitializeTranspiler");
+            foreach (MethodInfo method in AccessTools.GetDeclaredMethods(widget).Where(m => m.Name == "Initialize"))
+            {
+                try
+                {
+                    _harmony.Patch(method, transpiler: new HarmonyMethod(transpiler));
+                    Logger.LogInfo("Patched stat names: " + method + ".");
+                }
+                catch (Exception ex)
+                {
+                    Logger.LogError("Could not patch stat names: " + ex);
+                }
+            }
+        }
+
+        private void PatchRoadmapMovement()
+        {
+            Type marker = AccessTools.TypeByName("Game.RoadmapPlayerMarker");
+            MethodInfo target = marker == null ? null : AccessTools.Method(marker, "MoveAlongPath");
+            FieldInfo index = marker == null ? null : AccessTools.Field(marker, "mCurrentPointIndex");
+            if (target == null || index == null || index.FieldType != typeof(int) ||
+                target.GetParameters().Length != 3 || target.ReturnType != typeof(bool))
+            {
+                Logger.LogWarning("Roadmap movement layout differs; path index correction skipped.");
+                return;
+            }
+            try
+            {
+                _harmony.Patch(target, prefix: new HarmonyMethod(
+                    AccessTools.Method(typeof(RoadmapMovementFix), "BeginPath")));
+                Logger.LogInfo("Patched road marker movement: reset section index for each new valid path.");
+            }
+            catch (Exception ex)
+            {
+                Logger.LogError("Could not apply road marker path index correction: " + ex);
+            }
+        }
+
+        private void PatchSaveNameEncoding()
+        {
+            Type serializer = AccessTools.TypeByName("BeautifulGlitch.CoreCheckpointXmlSerializer");
+            MethodInfo target = serializer == null ? null : AccessTools.Method(serializer, "SerializeCorePlayerData");
+            if (target == null)
+            {
+                Logger.LogError("Checkpoint serializer was not found; Unicode name protection is unavailable.");
+                return;
+            }
+            try
+            {
+                _harmony.Patch(target, transpiler: new HarmonyMethod(
+                    AccessTools.Method(typeof(PatchCallbacks), "SaveNameTranspiler")));
+                Logger.LogInfo("Patched checkpoint player names to preserve Unicode in ASCII XML.");
+            }
+            catch (Exception ex)
+            {
+                Logger.LogError("Could not protect saved Unicode player names: " + ex);
+            }
+        }
+
+        private static string TranslateStatName(string name)
+        {
+            RoadtripKoreanFontBridgePlugin plugin = Instance;
+            if (plugin == null || plugin._applicationQuitting || !plugin._enableMetatextOverride.Value)
+                return name;
+            // Use the game's already-loaded translations rather than changing
+            // StatType identifiers, which are also used by event parsing/saves.
+            try
+            {
+                Type managerType = AccessTools.TypeByName("BeautifulGlitch.CoreGeneralManager");
+                if (managerType == null || string.IsNullOrEmpty(name)) return name;
+                object manager = AccessTools.Property(managerType, "CoreInstance")?.GetValue(null, null);
+                object textManager = manager == null ? null : AccessTools.Field(managerType, "coreTextManager")?.GetValue(manager);
+                if (textManager == null) return name;
+                MethodInfo getText = AccessTools.Method(textManager.GetType(), "GetText", new[] { typeof(string), typeof(bool) });
+                string key = "STA_" + name.ToUpperInvariant();
+                string translated = getText?.Invoke(textManager, new object[] { key, true }) as string;
+                return string.IsNullOrEmpty(translated) || translated == key ? name : translated;
+            }
+            catch (Exception ex)
+            {
+                if (plugin._loggedApplyErrors.Add("StatName"))
+                    plugin.Logger.LogWarning("Could not localize stat names; preserving original names: " + ex.Message);
+                return name;
+            }
+        }
+
+        private void TranslateLoadingLabel(object target)
+        {
+            if (_applicationQuitting || !_enableMetatextOverride.Value) return;
+            Component component = target as Component;
+            if (component == null || component.gameObject == null || target.GetType().Name != "UILabel") return;
+            string scene = component.gameObject.scene.name;
+            string objectName = component.gameObject.name;
+            if (!((scene == "SplashScreen" && objectName == "LoadingLabel") ||
+                  (scene == "Loading" && objectName == "LoadingText"))) return;
+            PropertyInfo text = AccessTools.Property(target.GetType(), "text");
+            string current = text?.GetValue(target, null) as string;
+            if (current == "LOADING" || current == "LOADING...")
+            {
+                text.SetValue(target, "불러오는 중...", null);
+                Logger.LogInfo("Localized loading label: " + scene + "/" + objectName);
+            }
         }
 
         private void PatchMethod(string typeName, string methodName, Type[] parameterTypes, string callbackName)
@@ -321,8 +481,10 @@ namespace RoadtripKoreanFontBridge
 
             if (installedFontListAvailable && !ContainsFontFamily(installedFontNames, familyName))
             {
-                Logger.LogWarning("Unity's OS font list does not contain privately registered family '" + familyName + "'. Falling back to the next font source.");
-                return null;
+                // FR_PRIVATE does not necessarily appear in Unity's globally
+                // enumerated OS font list. Try creating the dynamic font
+                // anyway; HasKoreanGlyphCoverage decides whether to use it.
+                Logger.LogInfo("Unity's OS font list does not enumerate private family '" + familyName + "'; probing dynamic font glyphs directly.");
             }
 
             Font candidate;
@@ -634,6 +796,19 @@ namespace RoadtripKoreanFontBridge
             HashSet<char> result = new HashSet<char>();
             AddKoreanCharactersFromFile(_previewPath.Value, result);
 
+            // A distributable install keeps event overrides in the game's text
+            // directory, not under this repository's ignored build folder.
+            string installedEventDirectory = Path.Combine(
+                AppDomain.CurrentDomain.BaseDirectory,
+                "MonsterRoadtrip_Data", "StreamingAssets", "game_assets", "texts");
+            if (Directory.Exists(installedEventDirectory))
+            {
+                foreach (string file in Directory.GetFiles(installedEventDirectory, "english_events_*.txt"))
+                {
+                    AddKoreanCharactersFromFile(file, result);
+                }
+            }
+
             try
             {
                 string previewDirectory = Path.GetDirectoryName(Path.GetFullPath(_previewPath.Value));
@@ -704,6 +879,7 @@ namespace RoadtripKoreanFontBridge
 
         private void ApplyFontsToExistingComponents()
         {
+            if (_applicationQuitting) return;
             int visited = 0;
             Type labelType = AccessTools.TypeByName("UILabel");
             if (labelType != null)
@@ -714,6 +890,7 @@ namespace RoadtripKoreanFontBridge
                     if (component != null && component.gameObject != null && component.gameObject.scene.IsValid())
                     {
                         ApplyFontToTarget(component, false);
+                        TranslateLoadingLabel(component);
                         visited++;
                     }
                 }
@@ -733,11 +910,13 @@ namespace RoadtripKoreanFontBridge
 
         private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
         {
+            if (_applicationQuitting) return;
             ApplyFontsToExistingComponents();
         }
 
         private void ApplyLocalizedFont(object localizedComponent)
         {
+            if (_applicationQuitting) return;
             if (localizedComponent == null)
             {
                 return;
@@ -759,6 +938,7 @@ namespace RoadtripKoreanFontBridge
 
         private void ApplyFontToTarget(object target, bool force)
         {
+            if (_applicationQuitting) return;
             Component component = target as Component;
             if (component == null || component.gameObject == null)
             {
@@ -871,6 +1051,7 @@ namespace RoadtripKoreanFontBridge
 
         private TextAsset LoadPreviewOverride()
         {
+            if (_applicationQuitting) return null;
             if (_previewTextAsset != null)
             {
                 return _previewTextAsset;
@@ -910,10 +1091,49 @@ namespace RoadtripKoreanFontBridge
 
         private static class PatchCallbacks
         {
+            private static IEnumerable<CodeInstruction> SaveNameTranspiler(IEnumerable<CodeInstruction> instructions)
+            {
+                MethodInfo original = AccessTools.Method(typeof(System.Xml.XmlWriter), "WriteElementString", new[] { typeof(string), typeof(string) });
+                MethodInfo replacement = AccessTools.Method(typeof(SaveNameEncoding), "WriteElementString");
+                int replaced = 0;
+                foreach (CodeInstruction instruction in instructions)
+                {
+                    if (instruction.Calls(original))
+                    {
+                        instruction.opcode = OpCodes.Call;
+                        instruction.operand = replacement;
+                        replaced++;
+                    }
+                    yield return instruction;
+                }
+                if (replaced == 0)
+                    throw new InvalidOperationException("No checkpoint XML string writes found; refusing an ineffective name patch.");
+            }
+
+            private static IEnumerable<CodeInstruction> StatInitializeTranspiler(IEnumerable<CodeInstruction> instructions)
+            {
+                MethodInfo translate = AccessTools.Method(typeof(RoadtripKoreanFontBridgePlugin), "TranslateStatName");
+                foreach (CodeInstruction instruction in instructions)
+                {
+                    MethodInfo method = instruction.operand as MethodInfo;
+                    if (instruction.opcode == OpCodes.Callvirt && method != null &&
+                        method.DeclaringType.Name == "UILabel" && method.Name == "set_text")
+                    {
+                        // Translate before the widget clones its animated auxiliary
+                        // labels so both the base label and its copies use Korean.
+                        CodeInstruction call = new CodeInstruction(OpCodes.Call, translate);
+                        call.labels.AddRange(instruction.labels);
+                        instruction.labels.Clear();
+                        yield return call;
+                    }
+                    yield return instruction;
+                }
+            }
+
             private static void GetTextAssetPostfix(string __0, ref TextAsset __result)
             {
                 RoadtripKoreanFontBridgePlugin plugin = Instance;
-                if (plugin == null || !plugin._enableMetatextOverride.Value ||
+                if (plugin == null || plugin._applicationQuitting || !plugin._enableMetatextOverride.Value ||
                     !string.Equals(__0, "english_metatexts", StringComparison.Ordinal))
                 {
                     return;
@@ -929,6 +1149,8 @@ namespace RoadtripKoreanFontBridge
             private static void ComponentOnEnablePostfix(object __instance)
             {
                 RoadtripKoreanFontBridgePlugin plugin = Instance;
+                if (plugin == null || plugin._applicationQuitting) return;
+                plugin.TranslateLoadingLabel(__instance);
                 if (plugin != null && plugin._enableFontBridge.Value)
                 {
                     plugin.ApplyFontToTarget(__instance, false);

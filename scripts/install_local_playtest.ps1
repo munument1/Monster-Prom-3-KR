@@ -42,11 +42,18 @@ foreach ($name in @('winhttp.dll','doorstop_config.ini','.doorstop_version')) {
     $entries.Add([pscustomobject]@{source = (Join-Path $bepinex $name); relative = $name})
 }
 $bepinexRoot = Join-Path $bepinex 'BepInEx'
+& powershell -ExecutionPolicy Bypass -File (Join-Path $PSScriptRoot 'build_mono_corlib_fix.ps1') -GamePath $game
+if ($LASTEXITCODE -ne 0) { throw 'The game-specific MonoMod compatibility build failed; no installation performed.' }
+$fixedUtils = Join-Path $repo 'build\runtime_compat\MonoMod.Utils.dll'
 foreach ($src in Get-ChildItem -LiteralPath $bepinexRoot -Recurse -File) {
     $relative = 'BepInEx\' + $src.FullName.Substring($bepinexRoot.Length).TrimStart('\')
-    $entries.Add([pscustomobject]@{source = $src.FullName; relative = $relative})
+    $sourceForInstall = if ($src.Name -eq 'MonoMod.Utils.dll') { $fixedUtils } else { $src.FullName }
+    $entries.Add([pscustomobject]@{source = $sourceForInstall; relative = $relative})
 }
-$entries.Add([pscustomobject]@{source = $bridge; relative = 'BepInEx\plugins\RoadtripKoreanFontBridge\RoadtripKoreanFontBridge.dll'})
+$pluginRelative = 'BepInEx\plugins\RoadtripKoreanFontBridge'
+$entries.Add([pscustomobject]@{source = $bridge; relative = ($pluginRelative + '\RoadtripKoreanFontBridge.dll')})
+$entries.Add([pscustomobject]@{source = $metatext; relative = ($pluginRelative + '\english_metatexts.txt')})
+$entries.Add([pscustomobject]@{source = $roadtripFontBundle; relative = ($pluginRelative + '\roadtrip_korean_fonts.bundle')})
 foreach ($src in Get-ChildItem -LiteralPath $events -Filter 'english_events_*.txt' -File) {
     $entries.Add([pscustomobject]@{source = $src.FullName; relative = ('MonsterRoadtrip_Data\StreamingAssets\game_assets\texts\' + $src.Name)})
 }
