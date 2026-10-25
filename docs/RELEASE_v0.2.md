@@ -1,5 +1,20 @@
 # Monster Roadtrip 한국어 패치 v0.2
 
+## 설치 — Windows
+
+1. 게임을 종료하고 **`Monster-Roadtrip-KR-v0.2-Windows-DragDrop.zip`**을 받아 압축을 풉니다.
+2. Steam에서 게임 우클릭 → **관리 → 로컬 파일 탐색**을 누릅니다.
+   압축을 푼 폴더 **안의 내용물 전부**를 열린 게임 폴더에 복사합니다.
+   같은 파일이 있으면 덮어씁니다. `MonsterRoadtrip.exe` 옆에 `winhttp.dll`이 있으면 맞는 위치입니다.
+3. 게임을 실행합니다. 게임 언어는 **English**로 둡니다.
+
+**주아·감자꽃 폰트 포함. 별도의 글꼴 설치나 명령어 실행은 필요 없습니다.**
+기존 세이브는 그대로 사용합니다. 다른 모드가 설치돼 있다면 겹치는 파일은 먼저 백업하세요.
+
+검증 대상: Steam build 25955894, Windows x86. Linux/Steam Deck은 검증하지 않았습니다.
+
+---
+
 이벤트 대사·선택지·행동 27,384개와 UI 2,871개, 총 30,255개 번역 후보를 포함합니다.
 전체 분기와 엔딩을 실제로 모두 플레이한 것은 아니며 번역·표시 검수는 계속 필요합니다.
 
@@ -15,42 +30,6 @@
   이 보완으로 도로 마커 오류 전체가 해결된 것은 아닙니다.
 
 배포 버전은 v0.2이며 내부 브리지 버전은 0.1.5입니다.
-
-## 다운로드와 설치
-
-**Windows 일반 사용자는 `Monster-Roadtrip-KR-v0.2-Windows-DragDrop.zip`을 선택하세요.**
-검증 대상은 Steam build 25955894, Unity 2021.3.15f1, Windows x86입니다.
-
-1. 게임을 종료하고 ZIP을 별도 폴더에 풉니다.
-2. 게임 설치 폴더를 대상으로 아래 읽기 전용 검사를 먼저 실행합니다.
-
-   ```powershell
-   powershell -ExecutionPolicy Bypass -File .\VERIFY-WINDOWS.ps1 -GamePath "C:\Games\Steam\steamapps\common\Monster Prom 3 - Monster Roadtrip"
-   ```
-
-   PASS가 아니면 설치하지 마세요. Steam의 로컬 파일 탐색으로 자신의 경로를 찾을 수 있습니다.
-3. 기존에 같은 이름의 파일이 있으면 먼저 백업합니다. 기존 BepInEx 모드가 있다면
-   코어 라이브러리 교체가 다른 모드에 영향을 줄 수 있으므로 충돌 여부를 확인하세요.
-4. `BepInEx`, `MonsterRoadtrip_Data`, `winhttp.dll`, `doorstop_config.ini`,
-   `.doorstop_version`을 게임 설치 폴더에 복사합니다. 갱신 설치 시에는 패키지에 들어 있는
-   **MonoMod.Utils.dll과 브리지 DLL도 함께 갱신**해야 종료 충돌 수정이 적용됩니다.
-5. 기존 `BepInEx/config/BepInEx.cfg`가 있으면 `[Preloader]`의
-   `HarmonyBackend = auto`인지 확인합니다. 실패했던 `cecil` 설정은 사용하지 않습니다.
-6. 게임 언어를 **English**로 선택해 실행합니다. 한국어 텍스트가 영어 슬롯을 대체합니다.
-
-Windows ZIP에는 한국어 UI·이벤트·브리지·보정된 x86 로더를 포함합니다.
-**주아·감자꽃 파일/게임에서 재구성한 폰트 번들은 배포하지 않습니다.**
-기존 로컬 주아·감자꽃 번들이 있다면 그대로 보존해 사용하며, 없는 PC에서는 Windows의
-맑은 고딕을 대체 글꼴로 시도합니다. 맑은 고딕 대체 경로는 이전 로컬 실행에서
-성공했지만 이번 0.1.5 플레이 검증은 주아·감자꽃 환경에서 진행했습니다.
-
-`Monster-Roadtrip-KR-v0.2-manual-overwrite.zip`은 **이벤트 TXT 11개만** 담은
-수동 설치 보조 파일입니다. UI·폰트·이름 저장·종료 충돌 수정은 포함하지 않습니다.
-Linux/Steam Deck 구동은 검증하지 않았고 Windows 로더를 Linux에 설치하면 안 됩니다.
-`Monster-Roadtrip-KR-100pct-source-testkit.zip`은 번역 JSON·소스·재현 스크립트 키트입니다.
-
-제거 시 패키지의 파일 목록을 기준으로 추가한 파일만 지우고, 원래 있던 파일은 백업에서
-복원하세요. `UserData` 및 게임 원본 DLL/번들은 삭제·덮어쓰기 대상이 아닙니다.
 
 ## 알려진 이슈
 
@@ -69,6 +48,31 @@ Linux/Steam Deck 구동은 검증하지 않았고 Windows 로더를 Linux에 설
 OnApplicationQuit 이후 정상 종료가 기록됐고 새 충돌 덤프는 없었습니다.
 Release x86 빌드 경고/오류 0개, 자동 검사 43개, 이벤트 11개 구조 독립 검사와
 번역 불변 델타 검사를 통과했습니다. 사용자 세이브는 배포 파일에 포함하지 않습니다.
+
+## 다른 다운로드 / 문제가 있을 때
+
+- `manual-overwrite.zip`: 이벤트 TXT 11개만 담은 보조 파일입니다. UI·폰트·런타임 수정은 없습니다.
+  일반 Windows 사용자는 위의 **Windows-DragDrop.zip 하나만** 받으세요.
+- `source-testkit.zip`: 개발/재현용 소스와 번역 데이터입니다. 일반 설치에는 필요 없습니다.
+- 설치가 안 되거나 다른 게임 버전이라면 동봉한 `VERIFY-WINDOWS.ps1`로 빌드를 검사할 수 있습니다.
+  일반 설치에 필수인 단계는 아닙니다.
+- 이전 테스트에서 BepInEx 설정을 직접 바꿨다면 `BepInEx/config/BepInEx.cfg`의
+  `[Preloader]` 항목을 `HarmonyBackend = auto`로 되돌리세요.
+- 제거는 ZIP 파일 목록을 기준으로 추가한 파일만 지우고 기존 파일은 백업에서 복원합니다.
+  세이브 폴더나 게임 원본 DLL/번들은 지우지 마세요.
+
+## 폰트 동봉 안내
+
+첫 v0.2 ZIP에서 빠졌던 **주아(Jua)·감자꽃(Gamja Flower)**을 공개 OFL 원본으로 추가했습니다.
+게임 프로필·스크립트·그림·다른 글꼴이 섞인 기존 게임 번들은 동봉하지 않습니다.
+이제 Windows ZIP에 두 폰트만을 위한 최소 컨테이너와 저작권/OFL 원문이 들어 있습니다.
+[공개 원본 및 파일 해시](https://github.com/munument1/Monster-Prom-3-KR/blob/main/docs/PUBLIC_FONT_SOURCES.json).
+
+이 패키지 갱신에서 브리지 0.1.5 및 종료 충돌 보정 DLL은 바꾸지 않았습니다.
+이번 갱신의 자동 검사 **44개**를 통과했습니다. 새 공개 폰트 컨테이너는
+구조·참조·현재 번역 한글 1,468종의 글리프를 자동 검사했습니다.
+기존 사용자 플레이 검증은 기존 로컬 번들 환경에서 수행했으며,
+**새 컨테이너를 이용한 실제 게임 화면은 추가 확인이 필요합니다.**
 
 ## 제3자 구성 요소
 

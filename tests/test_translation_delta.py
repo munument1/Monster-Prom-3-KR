@@ -18,6 +18,8 @@ from verify_translation_delta import (  # noqa: E402
 )
 
 
+# Correction regressions compare with the original immutable pre-v0.2 snapshot,
+# not the moving HEAD after the corrected translations have been committed.
 class DeltaIntegrity(unittest.TestCase):
     def test_literal_percentages_next_to_placeholders_are_not_fake_tokens(self):
         english = "WHAT ABOUT %CURRENTPLAYERNAMECAPS%? WE CAN 100% OBJECTIFY %HISHERCAPS% ASS, AND WE'RE COOL IF %HESHECAPS% %VERBCAPS_DIES_DIE%!"
@@ -115,7 +117,7 @@ class DeltaIntegrity(unittest.TestCase):
 
     def test_exact_13_legacy_stat_enum_repairs_preserve_immutable_source(self):
         root = Path(__file__).resolve().parents[1]
-        old = baseline_json("HEAD", "translations/english_events_maingame.json")
+        old = baseline_json("54fe61d9b24209298d4efe551b91e0a613ede5b2", "translations/english_events_maingame.json")
         now = read_json(root / "translations/english_events_maingame.json")
         before = {r["line"]: r for r in old["entries"]}
         after = {r["line"]: r for r in now["entries"]}
@@ -147,7 +149,7 @@ class DeltaIntegrity(unittest.TestCase):
         }
         root = Path(__file__).resolve().parents[1]
         for asset, lines in checked_lines.items():
-            original = baseline_json("HEAD", f"translations/{asset}.json")
+            original = baseline_json("54fe61d9b24209298d4efe551b91e0a613ede5b2", f"translations/{asset}.json")
             updated = read_json(root / "translations" / f"{asset}.json")
             by_line_old = {row["line"]: row for row in original["entries"]}
             by_line_new = {row["line"]: row for row in updated["entries"]}
@@ -164,7 +166,7 @@ class DeltaIntegrity(unittest.TestCase):
     def test_exact_approved_protagonist_particle_corrections_match_baseline_rows(self):
         root = Path(__file__).resolve().parents[1]
         for asset, lines in APPROVED_PROTAGONIST_PARTICLE_CORRECTIONS.items():
-            original = baseline_json("HEAD", f"translations/{asset}.json")
+            original = baseline_json("54fe61d9b24209298d4efe551b91e0a613ede5b2", f"translations/{asset}.json")
             updated = read_json(root / "translations" / f"{asset}.json")
             by_line_old = {row["line"]: row for row in original["entries"]}
             by_line_new = {row["line"]: row for row in updated["entries"]}

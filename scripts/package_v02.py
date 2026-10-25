@@ -65,12 +65,18 @@ def main() -> None:
     plugin = "BepInEx/plugins/RoadtripKoreanFontBridge/"
     items[plugin + "RoadtripKoreanFontBridge.dll"] = (ROOT / "src/RoadtripKoreanFontBridge/bin/Release/RoadtripKoreanFontBridge.dll").read_bytes()
     items[plugin + "english_metatexts.txt"] = (ROOT / "build/preview/english_metatexts.txt").read_bytes()
+    from build_public_font_bundle import OUT as FONT_BUNDLE, PUBLIC, validate
+    validate(FONT_BUNDLE)
+    items[plugin + "roadtrip_korean_fonts.bundle"] = FONT_BUNDLE.read_bytes()
+    for name in ("Jua", "GamjaFlower"):
+        items["licenses/" + name + "-OFL.txt"] = (PUBLIC / (name + "-OFL.txt")).read_bytes()
+    items["licenses/PUBLIC_FONT_SOURCES.json"] = (ROOT / "docs/PUBLIC_FONT_SOURCES.json").read_bytes()
     items["README-WINDOWS.md"] = (ROOT / "docs/RELEASE_v0.2.md").read_bytes()
     items["VERIFY-WINDOWS.ps1"] = (ROOT / "scripts/verify_windows_release.ps1").read_bytes()
     items["sources/build_mono_corlib_fix.ps1"] = (ROOT / "scripts/build_mono_corlib_fix.ps1").read_bytes()
     for p in (ROOT / "docs/licenses").glob("*-LICENSE.txt"):
         items["licenses/" + p.name] = p.read_bytes()
-    # Font bundles and game-owned DLLs are deliberately excluded.
+    # Only the audited public-font container is included; no original game bundle.
     archive("Monster-Roadtrip-KR-v0.2-Windows-DragDrop.zip", items, "windows-x86-build25955894")
 
 

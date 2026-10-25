@@ -20,7 +20,7 @@ BRIDGE = ROOT / "src/RoadtripKoreanFontBridge/bin/Release/RoadtripKoreanFontBrid
 def files_to_package() -> list[tuple[Path, str]]:
     files: list[Path] = [ROOT / "README.md"]
     for directory, suffixes in (
-        ("docs", {".md"}),
+        ("docs", {".md", ".json"}),
         ("translations", {".json"}),
         ("scripts", {".py", ".ps1"}),
         ("tests", {".py", ".cs", ".rs"}),
